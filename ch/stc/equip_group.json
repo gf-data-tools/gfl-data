@@ -1,13 +1,5 @@
-[
-    {
-        "id": 1,
-        "name": "equip_group-10000001",
-        "des": "equip_group-20000001",
-        "code": "EgroupVec",
-        "equip_unit": "199,200,201",
-        "group_skill": "2:992050,3:992051"
-    },
-    {
+{
+    "id": {
         "id": 2,
         "name": "equip_group-10000002",
         "des": "equip_group-20000002",
@@ -15,4 +7,4 @@
         "equip_unit": "202,203,204",
         "group_skill": "2:992052,3:992053"
     }
-]
+}
