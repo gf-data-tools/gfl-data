@@ -1,5 +1,285 @@
 {
-    "id": {
+    "1": {
+        "id": 1,
+        "name": "gun_charavoice-10000001",
+        "code": "_GAIN_JP",
+        "is_hidden": 0,
+        "is_skin": 0,
+        "is_fetter": 0
+    },
+    "2": {
+        "id": 2,
+        "name": "gun_charavoice-10000002",
+        "code": "_HELLO_JP",
+        "is_hidden": 0,
+        "is_skin": 0,
+        "is_fetter": 0
+    },
+    "3": {
+        "id": 3,
+        "name": "gun_charavoice-10000003",
+        "code": "_FORMATION_JP",
+        "is_hidden": 0,
+        "is_skin": 0,
+        "is_fetter": 0
+    },
+    "4": {
+        "id": 4,
+        "name": "gun_charavoice-10000004",
+        "code": "_FEED_JP",
+        "is_hidden": 0,
+        "is_skin": 0,
+        "is_fetter": 0
+    },
+    "5": {
+        "id": 5,
+        "name": "gun_charavoice-10000005",
+        "code": "_DIALOGUE1_JP",
+        "is_hidden": 0,
+        "is_skin": 0,
+        "is_fetter": 0
+    },
+    "6": {
+        "id": 6,
+        "name": "gun_charavoice-10000006",
+        "code": "_DIALOGUE2_JP",
+        "is_hidden": 0,
+        "is_skin": 0,
+        "is_fetter": 0
+    },
+    "7": {
+        "id": 7,
+        "name": "gun_charavoice-10000007",
+        "code": "_DIALOGUE3_JP",
+        "is_hidden": 0,
+        "is_skin": 0,
+        "is_fetter": 0
+    },
+    "9": {
+        "id": 9,
+        "name": "gun_charavoice-10000009",
+        "code": "_GOATTACK_JP",
+        "is_hidden": 0,
+        "is_skin": 0,
+        "is_fetter": 0
+    },
+    "10": {
+        "id": 10,
+        "name": "gun_charavoice-10000010",
+        "code": "_MEET_JP",
+        "is_hidden": 0,
+        "is_skin": 0,
+        "is_fetter": 0
+    },
+    "13": {
+        "id": 13,
+        "name": "gun_charavoice-10000013",
+        "code": "_BREAK_JP",
+        "is_hidden": 0,
+        "is_skin": 0,
+        "is_fetter": 0
+    },
+    "14": {
+        "id": 14,
+        "name": "gun_charavoice-10000014",
+        "code": "_WIN_JP",
+        "is_hidden": 0,
+        "is_skin": 0,
+        "is_fetter": 0
+    },
+    "15": {
+        "id": 15,
+        "name": "gun_charavoice-10000015",
+        "code": "_RETREAT_JP",
+        "is_hidden": 0,
+        "is_skin": 0,
+        "is_fetter": 0
+    },
+    "16": {
+        "id": 16,
+        "name": "gun_charavoice-10000016",
+        "code": "_NEWYEAR_JP",
+        "is_hidden": 0,
+        "is_skin": 1,
+        "is_fetter": 0
+    },
+    "17": {
+        "id": 17,
+        "name": "gun_charavoice-10000017",
+        "code": "_VALENTINE_JP",
+        "is_hidden": 0,
+        "is_skin": 1,
+        "is_fetter": 0
+    },
+    "18": {
+        "id": 18,
+        "name": "gun_charavoice-10000018",
+        "code": "_TANABATA_JP",
+        "is_hidden": 0,
+        "is_skin": 1,
+        "is_fetter": 0
+    },
+    "19": {
+        "id": 19,
+        "name": "gun_charavoice-10000019",
+        "code": "_ALLHALLOWS_JP",
+        "is_hidden": 0,
+        "is_skin": 1,
+        "is_fetter": 0
+    },
+    "20": {
+        "id": 20,
+        "name": "gun_charavoice-10000020",
+        "code": "_CHRISTMAS_JP",
+        "is_hidden": 0,
+        "is_skin": 1,
+        "is_fetter": 0
+    },
+    "21": {
+        "id": 21,
+        "name": "gun_charavoice-10000021",
+        "code": "_SKILL1_JP",
+        "is_hidden": 0,
+        "is_skin": 0,
+        "is_fetter": 0
+    },
+    "22": {
+        "id": 22,
+        "name": "gun_charavoice-10000022",
+        "code": "_SKILL2_JP",
+        "is_hidden": 0,
+        "is_skin": 0,
+        "is_fetter": 0
+    },
+    "23": {
+        "id": 23,
+        "name": "gun_charavoice-10000023",
+        "code": "_SKILL3_JP",
+        "is_hidden": 0,
+        "is_skin": 0,
+        "is_fetter": 0
+    },
+    "24": {
+        "id": 24,
+        "name": "gun_charavoice-10000024",
+        "code": "_OPERATIONBEGIN_JP",
+        "is_hidden": 0,
+        "is_skin": 0,
+        "is_fetter": 0
+    },
+    "25": {
+        "id": 25,
+        "name": "gun_charavoice-10000025",
+        "code": "_OPERATIONOVER_JP",
+        "is_hidden": 0,
+        "is_skin": 0,
+        "is_fetter": 0
+    },
+    "26": {
+        "id": 26,
+        "name": "gun_charavoice-10000026",
+        "code": "_FIX_JP",
+        "is_hidden": 0,
+        "is_skin": 0,
+        "is_fetter": 0
+    },
+    "27": {
+        "id": 27,
+        "name": "gun_charavoice-10000027",
+        "code": "_COMBINE_JP",
+        "is_hidden": 0,
+        "is_skin": 0,
+        "is_fetter": 0
+    },
+    "28": {
+        "id": 28,
+        "name": "gun_charavoice-10000028",
+        "code": "_BLACKACTION_JP",
+        "is_hidden": 0,
+        "is_skin": 0,
+        "is_fetter": 0
+    },
+    "29": {
+        "id": 29,
+        "name": "gun_charavoice-10000029",
+        "code": "_SOULCONTRACT_JP",
+        "is_hidden": 0,
+        "is_skin": 0,
+        "is_fetter": 0
+    },
+    "30": {
+        "id": 30,
+        "name": "gun_charavoice-10000030",
+        "code": "_TITLECALL_JP",
+        "is_hidden": 0,
+        "is_skin": 0,
+        "is_fetter": 0
+    },
+    "31": {
+        "id": 31,
+        "name": "gun_charavoice-10000031",
+        "code": "_DIALOGUEWEDDING_JP",
+        "is_hidden": 0,
+        "is_skin": 0,
+        "is_fetter": 0
+    },
+    "41": {
+        "id": 41,
+        "name": "gun_charavoice-10000041",
+        "code": "_LOADING_JP",
+        "is_hidden": 0,
+        "is_skin": 0,
+        "is_fetter": 0
+    },
+    "42": {
+        "id": 42,
+        "name": "gun_charavoice-10000042",
+        "code": "_FETTER1_JP",
+        "is_hidden": 0,
+        "is_skin": 0,
+        "is_fetter": 1
+    },
+    "43": {
+        "id": 43,
+        "name": "gun_charavoice-10000043",
+        "code": "_FETTER1_JP",
+        "is_hidden": 0,
+        "is_skin": 0,
+        "is_fetter": 2
+    },
+    "44": {
+        "id": 44,
+        "name": "gun_charavoice-10000044",
+        "code": "_FETTER1_JP",
+        "is_hidden": 0,
+        "is_skin": 0,
+        "is_fetter": 3
+    },
+    "45": {
+        "id": 45,
+        "name": "gun_charavoice-10000045",
+        "code": "_FETTER1_JP",
+        "is_hidden": 0,
+        "is_skin": 0,
+        "is_fetter": 4
+    },
+    "46": {
+        "id": 46,
+        "name": "gun_charavoice-10000046",
+        "code": "_FETTER1_JP",
+        "is_hidden": 0,
+        "is_skin": 0,
+        "is_fetter": 5
+    },
+    "47": {
+        "id": 47,
+        "name": "gun_charavoice-10000047",
+        "code": "_FETTER1_JP",
+        "is_hidden": 0,
+        "is_skin": 0,
+        "is_fetter": 6
+    },
+    "48": {
         "id": 48,
         "name": "gun_charavoice-10000048",
         "code": "_PHRASE_JP",

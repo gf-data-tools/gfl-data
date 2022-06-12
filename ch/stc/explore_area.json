@@ -1,5 +1,20 @@
 {
-    "id": {
+    "1": {
+        "id": 1,
+        "name": "explore_area-10000001",
+        "background": "bridge,iron,city,park"
+    },
+    "2": {
+        "id": 2,
+        "name": "explore_area-10000002",
+        "background": "snowland,snowforest,snowvillage"
+    },
+    "3": {
+        "id": 3,
+        "name": "explore_area-10000003",
+        "background": "forest2,forest,grasslands"
+    },
+    "4": {
         "id": 4,
         "name": "explore_area-10000004",
         "background": "valley,pollute,wasteland"

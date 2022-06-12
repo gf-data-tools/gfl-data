@@ -1,5 +1,870 @@
 {
-    "id": {
+    "1": {
+        "id": 1,
+        "name": "enemy_illustration_skill-10000001",
+        "description": "enemy_illustration_skill-20000001"
+    },
+    "2": {
+        "id": 2,
+        "name": "enemy_illustration_skill-10000002",
+        "description": "enemy_illustration_skill-20000002"
+    },
+    "3": {
+        "id": 3,
+        "name": "enemy_illustration_skill-10000003",
+        "description": "enemy_illustration_skill-20000003"
+    },
+    "4": {
+        "id": 4,
+        "name": "enemy_illustration_skill-10000004",
+        "description": "enemy_illustration_skill-20000004"
+    },
+    "5": {
+        "id": 5,
+        "name": "enemy_illustration_skill-10000005",
+        "description": "enemy_illustration_skill-20000005"
+    },
+    "6": {
+        "id": 6,
+        "name": "enemy_illustration_skill-10000006",
+        "description": "enemy_illustration_skill-20000006"
+    },
+    "7": {
+        "id": 7,
+        "name": "enemy_illustration_skill-10000007",
+        "description": "enemy_illustration_skill-20000007"
+    },
+    "8": {
+        "id": 8,
+        "name": "enemy_illustration_skill-10000008",
+        "description": "enemy_illustration_skill-20000008"
+    },
+    "9": {
+        "id": 9,
+        "name": "enemy_illustration_skill-10000009",
+        "description": "enemy_illustration_skill-20000009"
+    },
+    "10": {
+        "id": 10,
+        "name": "enemy_illustration_skill-10000010",
+        "description": "enemy_illustration_skill-20000010"
+    },
+    "11": {
+        "id": 11,
+        "name": "enemy_illustration_skill-10000011",
+        "description": "enemy_illustration_skill-20000011"
+    },
+    "12": {
+        "id": 12,
+        "name": "enemy_illustration_skill-10000012",
+        "description": "enemy_illustration_skill-20000012"
+    },
+    "13": {
+        "id": 13,
+        "name": "enemy_illustration_skill-10000013",
+        "description": "enemy_illustration_skill-20000013"
+    },
+    "14": {
+        "id": 14,
+        "name": "enemy_illustration_skill-10000014",
+        "description": "enemy_illustration_skill-20000014"
+    },
+    "15": {
+        "id": 15,
+        "name": "enemy_illustration_skill-10000015",
+        "description": "enemy_illustration_skill-20000015"
+    },
+    "16": {
+        "id": 16,
+        "name": "enemy_illustration_skill-10000016",
+        "description": "enemy_illustration_skill-20000016"
+    },
+    "17": {
+        "id": 17,
+        "name": "enemy_illustration_skill-10000017",
+        "description": "enemy_illustration_skill-20000017"
+    },
+    "18": {
+        "id": 18,
+        "name": "enemy_illustration_skill-10000018",
+        "description": "enemy_illustration_skill-20000018"
+    },
+    "19": {
+        "id": 19,
+        "name": "enemy_illustration_skill-10000019",
+        "description": "enemy_illustration_skill-20000019"
+    },
+    "20": {
+        "id": 20,
+        "name": "enemy_illustration_skill-10000020",
+        "description": "enemy_illustration_skill-20000020"
+    },
+    "21": {
+        "id": 21,
+        "name": "enemy_illustration_skill-10000021",
+        "description": "enemy_illustration_skill-20000021"
+    },
+    "22": {
+        "id": 22,
+        "name": "enemy_illustration_skill-10000022",
+        "description": "enemy_illustration_skill-20000022"
+    },
+    "23": {
+        "id": 23,
+        "name": "enemy_illustration_skill-10000023",
+        "description": "enemy_illustration_skill-20000023"
+    },
+    "24": {
+        "id": 24,
+        "name": "enemy_illustration_skill-10000024",
+        "description": "enemy_illustration_skill-20000024"
+    },
+    "25": {
+        "id": 25,
+        "name": "enemy_illustration_skill-10000025",
+        "description": "enemy_illustration_skill-20000025"
+    },
+    "26": {
+        "id": 26,
+        "name": "enemy_illustration_skill-10000026",
+        "description": "enemy_illustration_skill-20000026"
+    },
+    "27": {
+        "id": 27,
+        "name": "enemy_illustration_skill-10000027",
+        "description": "enemy_illustration_skill-20000027"
+    },
+    "28": {
+        "id": 28,
+        "name": "enemy_illustration_skill-10000028",
+        "description": "enemy_illustration_skill-20000028"
+    },
+    "29": {
+        "id": 29,
+        "name": "enemy_illustration_skill-10000029",
+        "description": "enemy_illustration_skill-20000029"
+    },
+    "30": {
+        "id": 30,
+        "name": "enemy_illustration_skill-10000030",
+        "description": "enemy_illustration_skill-20000030"
+    },
+    "31": {
+        "id": 31,
+        "name": "enemy_illustration_skill-10000031",
+        "description": "enemy_illustration_skill-20000031"
+    },
+    "32": {
+        "id": 32,
+        "name": "enemy_illustration_skill-10000032",
+        "description": "enemy_illustration_skill-20000032"
+    },
+    "33": {
+        "id": 33,
+        "name": "enemy_illustration_skill-10000033",
+        "description": "enemy_illustration_skill-20000033"
+    },
+    "34": {
+        "id": 34,
+        "name": "enemy_illustration_skill-10000034",
+        "description": "enemy_illustration_skill-20000034"
+    },
+    "35": {
+        "id": 35,
+        "name": "enemy_illustration_skill-10000035",
+        "description": "enemy_illustration_skill-20000035"
+    },
+    "36": {
+        "id": 36,
+        "name": "enemy_illustration_skill-10000036",
+        "description": "enemy_illustration_skill-20000036"
+    },
+    "37": {
+        "id": 37,
+        "name": "enemy_illustration_skill-10000037",
+        "description": "enemy_illustration_skill-20000037"
+    },
+    "38": {
+        "id": 38,
+        "name": "enemy_illustration_skill-10000038",
+        "description": "enemy_illustration_skill-20000038"
+    },
+    "39": {
+        "id": 39,
+        "name": "enemy_illustration_skill-10000039",
+        "description": "enemy_illustration_skill-20000039"
+    },
+    "40": {
+        "id": 40,
+        "name": "enemy_illustration_skill-10000040",
+        "description": "enemy_illustration_skill-20000040"
+    },
+    "41": {
+        "id": 41,
+        "name": "enemy_illustration_skill-10000041",
+        "description": "enemy_illustration_skill-20000041"
+    },
+    "42": {
+        "id": 42,
+        "name": "enemy_illustration_skill-10000042",
+        "description": "enemy_illustration_skill-20000042"
+    },
+    "43": {
+        "id": 43,
+        "name": "enemy_illustration_skill-10000043",
+        "description": "enemy_illustration_skill-20000043"
+    },
+    "44": {
+        "id": 44,
+        "name": "enemy_illustration_skill-10000044",
+        "description": "enemy_illustration_skill-20000044"
+    },
+    "45": {
+        "id": 45,
+        "name": "enemy_illustration_skill-10000045",
+        "description": "enemy_illustration_skill-20000045"
+    },
+    "46": {
+        "id": 46,
+        "name": "enemy_illustration_skill-10000046",
+        "description": "enemy_illustration_skill-20000046"
+    },
+    "47": {
+        "id": 47,
+        "name": "enemy_illustration_skill-10000047",
+        "description": "enemy_illustration_skill-20000047"
+    },
+    "48": {
+        "id": 48,
+        "name": "enemy_illustration_skill-10000048",
+        "description": "enemy_illustration_skill-20000048"
+    },
+    "49": {
+        "id": 49,
+        "name": "enemy_illustration_skill-10000049",
+        "description": "enemy_illustration_skill-20000049"
+    },
+    "50": {
+        "id": 50,
+        "name": "enemy_illustration_skill-10000050",
+        "description": "enemy_illustration_skill-20000050"
+    },
+    "51": {
+        "id": 51,
+        "name": "enemy_illustration_skill-10000051",
+        "description": "enemy_illustration_skill-20000051"
+    },
+    "52": {
+        "id": 52,
+        "name": "enemy_illustration_skill-10000052",
+        "description": "enemy_illustration_skill-20000052"
+    },
+    "53": {
+        "id": 53,
+        "name": "enemy_illustration_skill-10000053",
+        "description": "enemy_illustration_skill-20000053"
+    },
+    "54": {
+        "id": 54,
+        "name": "enemy_illustration_skill-10000054",
+        "description": "enemy_illustration_skill-20000054"
+    },
+    "55": {
+        "id": 55,
+        "name": "enemy_illustration_skill-10000055",
+        "description": "enemy_illustration_skill-20000055"
+    },
+    "56": {
+        "id": 56,
+        "name": "enemy_illustration_skill-10000056",
+        "description": "enemy_illustration_skill-20000056"
+    },
+    "57": {
+        "id": 57,
+        "name": "enemy_illustration_skill-10000057",
+        "description": "enemy_illustration_skill-20000057"
+    },
+    "58": {
+        "id": 58,
+        "name": "enemy_illustration_skill-10000058",
+        "description": "enemy_illustration_skill-20000058"
+    },
+    "59": {
+        "id": 59,
+        "name": "enemy_illustration_skill-10000059",
+        "description": "enemy_illustration_skill-20000059"
+    },
+    "60": {
+        "id": 60,
+        "name": "enemy_illustration_skill-10000060",
+        "description": "enemy_illustration_skill-20000060"
+    },
+    "61": {
+        "id": 61,
+        "name": "enemy_illustration_skill-10000061",
+        "description": "enemy_illustration_skill-20000061"
+    },
+    "62": {
+        "id": 62,
+        "name": "enemy_illustration_skill-10000062",
+        "description": "enemy_illustration_skill-20000062"
+    },
+    "63": {
+        "id": 63,
+        "name": "enemy_illustration_skill-10000063",
+        "description": "enemy_illustration_skill-20000063"
+    },
+    "64": {
+        "id": 64,
+        "name": "enemy_illustration_skill-10000064",
+        "description": "enemy_illustration_skill-20000064"
+    },
+    "65": {
+        "id": 65,
+        "name": "enemy_illustration_skill-10000065",
+        "description": "enemy_illustration_skill-20000065"
+    },
+    "66": {
+        "id": 66,
+        "name": "enemy_illustration_skill-10000066",
+        "description": "enemy_illustration_skill-20000066"
+    },
+    "67": {
+        "id": 67,
+        "name": "enemy_illustration_skill-10000067",
+        "description": "enemy_illustration_skill-20000067"
+    },
+    "68": {
+        "id": 68,
+        "name": "enemy_illustration_skill-10000068",
+        "description": "enemy_illustration_skill-20000068"
+    },
+    "69": {
+        "id": 69,
+        "name": "enemy_illustration_skill-10000069",
+        "description": "enemy_illustration_skill-20000069"
+    },
+    "70": {
+        "id": 70,
+        "name": "enemy_illustration_skill-10000070",
+        "description": "enemy_illustration_skill-20000070"
+    },
+    "71": {
+        "id": 71,
+        "name": "enemy_illustration_skill-10000071",
+        "description": "enemy_illustration_skill-20000071"
+    },
+    "72": {
+        "id": 72,
+        "name": "enemy_illustration_skill-10000072",
+        "description": "enemy_illustration_skill-20000072"
+    },
+    "73": {
+        "id": 73,
+        "name": "enemy_illustration_skill-10000073",
+        "description": "enemy_illustration_skill-20000073"
+    },
+    "74": {
+        "id": 74,
+        "name": "enemy_illustration_skill-10000074",
+        "description": "enemy_illustration_skill-20000074"
+    },
+    "75": {
+        "id": 75,
+        "name": "enemy_illustration_skill-10000075",
+        "description": "enemy_illustration_skill-20000075"
+    },
+    "76": {
+        "id": 76,
+        "name": "enemy_illustration_skill-10000076",
+        "description": "enemy_illustration_skill-20000076"
+    },
+    "77": {
+        "id": 77,
+        "name": "enemy_illustration_skill-10000077",
+        "description": "enemy_illustration_skill-20000077"
+    },
+    "78": {
+        "id": 78,
+        "name": "enemy_illustration_skill-10000078",
+        "description": "enemy_illustration_skill-20000078"
+    },
+    "79": {
+        "id": 79,
+        "name": "enemy_illustration_skill-10000079",
+        "description": "enemy_illustration_skill-20000079"
+    },
+    "80": {
+        "id": 80,
+        "name": "enemy_illustration_skill-10000080",
+        "description": "enemy_illustration_skill-20000080"
+    },
+    "81": {
+        "id": 81,
+        "name": "enemy_illustration_skill-10000081",
+        "description": "enemy_illustration_skill-20000081"
+    },
+    "82": {
+        "id": 82,
+        "name": "enemy_illustration_skill-10000082",
+        "description": "enemy_illustration_skill-20000082"
+    },
+    "83": {
+        "id": 83,
+        "name": "enemy_illustration_skill-10000083",
+        "description": "enemy_illustration_skill-20000083"
+    },
+    "84": {
+        "id": 84,
+        "name": "enemy_illustration_skill-10000084",
+        "description": "enemy_illustration_skill-20000084"
+    },
+    "85": {
+        "id": 85,
+        "name": "enemy_illustration_skill-10000085",
+        "description": "enemy_illustration_skill-20000085"
+    },
+    "86": {
+        "id": 86,
+        "name": "enemy_illustration_skill-10000086",
+        "description": "enemy_illustration_skill-20000086"
+    },
+    "87": {
+        "id": 87,
+        "name": "enemy_illustration_skill-10000087",
+        "description": "enemy_illustration_skill-20000087"
+    },
+    "88": {
+        "id": 88,
+        "name": "enemy_illustration_skill-10000088",
+        "description": "enemy_illustration_skill-20000088"
+    },
+    "89": {
+        "id": 89,
+        "name": "enemy_illustration_skill-10000089",
+        "description": "enemy_illustration_skill-20000089"
+    },
+    "90": {
+        "id": 90,
+        "name": "enemy_illustration_skill-10000090",
+        "description": "enemy_illustration_skill-20000090"
+    },
+    "91": {
+        "id": 91,
+        "name": "enemy_illustration_skill-10000091",
+        "description": "enemy_illustration_skill-20000091"
+    },
+    "92": {
+        "id": 92,
+        "name": "enemy_illustration_skill-10000092",
+        "description": "enemy_illustration_skill-20000092"
+    },
+    "93": {
+        "id": 93,
+        "name": "enemy_illustration_skill-10000093",
+        "description": "enemy_illustration_skill-20000093"
+    },
+    "94": {
+        "id": 94,
+        "name": "enemy_illustration_skill-10000094",
+        "description": "enemy_illustration_skill-20000094"
+    },
+    "95": {
+        "id": 95,
+        "name": "enemy_illustration_skill-10000095",
+        "description": "enemy_illustration_skill-20000095"
+    },
+    "96": {
+        "id": 96,
+        "name": "enemy_illustration_skill-10000096",
+        "description": "enemy_illustration_skill-20000096"
+    },
+    "97": {
+        "id": 97,
+        "name": "enemy_illustration_skill-10000097",
+        "description": "enemy_illustration_skill-20000097"
+    },
+    "98": {
+        "id": 98,
+        "name": "enemy_illustration_skill-10000098",
+        "description": "enemy_illustration_skill-20000098"
+    },
+    "99": {
+        "id": 99,
+        "name": "enemy_illustration_skill-10000099",
+        "description": "enemy_illustration_skill-20000099"
+    },
+    "100": {
+        "id": 100,
+        "name": "enemy_illustration_skill-10000100",
+        "description": "enemy_illustration_skill-20000100"
+    },
+    "101": {
+        "id": 101,
+        "name": "enemy_illustration_skill-10000101",
+        "description": "enemy_illustration_skill-20000101"
+    },
+    "102": {
+        "id": 102,
+        "name": "enemy_illustration_skill-10000102",
+        "description": "enemy_illustration_skill-20000102"
+    },
+    "103": {
+        "id": 103,
+        "name": "enemy_illustration_skill-10000103",
+        "description": "enemy_illustration_skill-20000103"
+    },
+    "104": {
+        "id": 104,
+        "name": "enemy_illustration_skill-10000104",
+        "description": "enemy_illustration_skill-20000104"
+    },
+    "105": {
+        "id": 105,
+        "name": "enemy_illustration_skill-10000105",
+        "description": "enemy_illustration_skill-20000105"
+    },
+    "106": {
+        "id": 106,
+        "name": "enemy_illustration_skill-10000106",
+        "description": "enemy_illustration_skill-20000106"
+    },
+    "107": {
+        "id": 107,
+        "name": "enemy_illustration_skill-10000107",
+        "description": "enemy_illustration_skill-20000107"
+    },
+    "108": {
+        "id": 108,
+        "name": "enemy_illustration_skill-10000108",
+        "description": "enemy_illustration_skill-20000108"
+    },
+    "109": {
+        "id": 109,
+        "name": "enemy_illustration_skill-10000109",
+        "description": "enemy_illustration_skill-20000109"
+    },
+    "110": {
+        "id": 110,
+        "name": "enemy_illustration_skill-10000110",
+        "description": "enemy_illustration_skill-20000110"
+    },
+    "111": {
+        "id": 111,
+        "name": "enemy_illustration_skill-10000111",
+        "description": "enemy_illustration_skill-20000111"
+    },
+    "112": {
+        "id": 112,
+        "name": "enemy_illustration_skill-10000112",
+        "description": "enemy_illustration_skill-20000112"
+    },
+    "113": {
+        "id": 113,
+        "name": "enemy_illustration_skill-10000113",
+        "description": "enemy_illustration_skill-20000113"
+    },
+    "114": {
+        "id": 114,
+        "name": "enemy_illustration_skill-10000114",
+        "description": "enemy_illustration_skill-20000114"
+    },
+    "115": {
+        "id": 115,
+        "name": "enemy_illustration_skill-10000115",
+        "description": "enemy_illustration_skill-20000115"
+    },
+    "116": {
+        "id": 116,
+        "name": "enemy_illustration_skill-10000116",
+        "description": "enemy_illustration_skill-20000116"
+    },
+    "117": {
+        "id": 117,
+        "name": "enemy_illustration_skill-10000117",
+        "description": "enemy_illustration_skill-20000117"
+    },
+    "118": {
+        "id": 118,
+        "name": "enemy_illustration_skill-10000118",
+        "description": "enemy_illustration_skill-20000118"
+    },
+    "119": {
+        "id": 119,
+        "name": "enemy_illustration_skill-10000119",
+        "description": "enemy_illustration_skill-20000119"
+    },
+    "120": {
+        "id": 120,
+        "name": "enemy_illustration_skill-10000120",
+        "description": "enemy_illustration_skill-20000120"
+    },
+    "121": {
+        "id": 121,
+        "name": "enemy_illustration_skill-10000121",
+        "description": "enemy_illustration_skill-20000121"
+    },
+    "122": {
+        "id": 122,
+        "name": "enemy_illustration_skill-10000122",
+        "description": "enemy_illustration_skill-20000122"
+    },
+    "123": {
+        "id": 123,
+        "name": "enemy_illustration_skill-10000123",
+        "description": "enemy_illustration_skill-20000123"
+    },
+    "124": {
+        "id": 124,
+        "name": "enemy_illustration_skill-10000124",
+        "description": "enemy_illustration_skill-20000124"
+    },
+    "125": {
+        "id": 125,
+        "name": "enemy_illustration_skill-10000125",
+        "description": "enemy_illustration_skill-20000125"
+    },
+    "126": {
+        "id": 126,
+        "name": "enemy_illustration_skill-10000126",
+        "description": "enemy_illustration_skill-20000126"
+    },
+    "127": {
+        "id": 127,
+        "name": "enemy_illustration_skill-10000127",
+        "description": "enemy_illustration_skill-20000127"
+    },
+    "128": {
+        "id": 128,
+        "name": "enemy_illustration_skill-10000128",
+        "description": "enemy_illustration_skill-20000128"
+    },
+    "129": {
+        "id": 129,
+        "name": "enemy_illustration_skill-10000129",
+        "description": "enemy_illustration_skill-20000129"
+    },
+    "130": {
+        "id": 130,
+        "name": "enemy_illustration_skill-10000130",
+        "description": "enemy_illustration_skill-20000130"
+    },
+    "131": {
+        "id": 131,
+        "name": "enemy_illustration_skill-10000131",
+        "description": "enemy_illustration_skill-20000131"
+    },
+    "132": {
+        "id": 132,
+        "name": "enemy_illustration_skill-10000132",
+        "description": "enemy_illustration_skill-20000132"
+    },
+    "133": {
+        "id": 133,
+        "name": "enemy_illustration_skill-10000133",
+        "description": "enemy_illustration_skill-20000133"
+    },
+    "134": {
+        "id": 134,
+        "name": "enemy_illustration_skill-10000134",
+        "description": "enemy_illustration_skill-20000134"
+    },
+    "135": {
+        "id": 135,
+        "name": "enemy_illustration_skill-10000135",
+        "description": "enemy_illustration_skill-20000135"
+    },
+    "136": {
+        "id": 136,
+        "name": "enemy_illustration_skill-10000136",
+        "description": "enemy_illustration_skill-20000136"
+    },
+    "137": {
+        "id": 137,
+        "name": "enemy_illustration_skill-10000137",
+        "description": "enemy_illustration_skill-20000137"
+    },
+    "138": {
+        "id": 138,
+        "name": "enemy_illustration_skill-10000138",
+        "description": "enemy_illustration_skill-20000138"
+    },
+    "139": {
+        "id": 139,
+        "name": "enemy_illustration_skill-10000139",
+        "description": "enemy_illustration_skill-20000139"
+    },
+    "140": {
+        "id": 140,
+        "name": "enemy_illustration_skill-10000140",
+        "description": "enemy_illustration_skill-20000140"
+    },
+    "141": {
+        "id": 141,
+        "name": "enemy_illustration_skill-10000141",
+        "description": "enemy_illustration_skill-20000141"
+    },
+    "142": {
+        "id": 142,
+        "name": "enemy_illustration_skill-10000142",
+        "description": "enemy_illustration_skill-20000142"
+    },
+    "143": {
+        "id": 143,
+        "name": "enemy_illustration_skill-10000143",
+        "description": "enemy_illustration_skill-20000143"
+    },
+    "144": {
+        "id": 144,
+        "name": "enemy_illustration_skill-10000144",
+        "description": "enemy_illustration_skill-20000144"
+    },
+    "145": {
+        "id": 145,
+        "name": "enemy_illustration_skill-10000145",
+        "description": "enemy_illustration_skill-20000145"
+    },
+    "146": {
+        "id": 146,
+        "name": "enemy_illustration_skill-10000146",
+        "description": "enemy_illustration_skill-20000146"
+    },
+    "147": {
+        "id": 147,
+        "name": "enemy_illustration_skill-10000147",
+        "description": "enemy_illustration_skill-20000147"
+    },
+    "148": {
+        "id": 148,
+        "name": "enemy_illustration_skill-10000148",
+        "description": "enemy_illustration_skill-20000148"
+    },
+    "149": {
+        "id": 149,
+        "name": "enemy_illustration_skill-10000149",
+        "description": "enemy_illustration_skill-20000149"
+    },
+    "150": {
+        "id": 150,
+        "name": "enemy_illustration_skill-10000150",
+        "description": "enemy_illustration_skill-20000150"
+    },
+    "151": {
+        "id": 151,
+        "name": "enemy_illustration_skill-10000151",
+        "description": "enemy_illustration_skill-20000151"
+    },
+    "152": {
+        "id": 152,
+        "name": "enemy_illustration_skill-10000152",
+        "description": "enemy_illustration_skill-20000152"
+    },
+    "153": {
+        "id": 153,
+        "name": "enemy_illustration_skill-10000153",
+        "description": "enemy_illustration_skill-20000153"
+    },
+    "154": {
+        "id": 154,
+        "name": "enemy_illustration_skill-10000154",
+        "description": "enemy_illustration_skill-20000154"
+    },
+    "155": {
+        "id": 155,
+        "name": "enemy_illustration_skill-10000155",
+        "description": "enemy_illustration_skill-20000155"
+    },
+    "156": {
+        "id": 156,
+        "name": "enemy_illustration_skill-10000156",
+        "description": "enemy_illustration_skill-20000156"
+    },
+    "157": {
+        "id": 157,
+        "name": "enemy_illustration_skill-10000157",
+        "description": "enemy_illustration_skill-20000157"
+    },
+    "158": {
+        "id": 158,
+        "name": "enemy_illustration_skill-10000158",
+        "description": "enemy_illustration_skill-20000158"
+    },
+    "159": {
+        "id": 159,
+        "name": "enemy_illustration_skill-10000159",
+        "description": "enemy_illustration_skill-20000159"
+    },
+    "160": {
+        "id": 160,
+        "name": "enemy_illustration_skill-10000160",
+        "description": "enemy_illustration_skill-20000160"
+    },
+    "161": {
+        "id": 161,
+        "name": "enemy_illustration_skill-10000161",
+        "description": "enemy_illustration_skill-20000161"
+    },
+    "162": {
+        "id": 162,
+        "name": "enemy_illustration_skill-10000162",
+        "description": "enemy_illustration_skill-20000162"
+    },
+    "163": {
+        "id": 163,
+        "name": "enemy_illustration_skill-10000163",
+        "description": "enemy_illustration_skill-20000163"
+    },
+    "164": {
+        "id": 164,
+        "name": "enemy_illustration_skill-10000164",
+        "description": "enemy_illustration_skill-20000164"
+    },
+    "165": {
+        "id": 165,
+        "name": "enemy_illustration_skill-10000165",
+        "description": "enemy_illustration_skill-20000165"
+    },
+    "999": {
+        "id": 999,
+        "name": "enemy_illustration_skill-10000999",
+        "description": "enemy_illustration_skill-20000999"
+    },
+    "10005": {
+        "id": 10005,
+        "name": "enemy_illustration_skill-10010005",
+        "description": "enemy_illustration_skill-20010005"
+    },
+    "10018": {
+        "id": 10018,
+        "name": "enemy_illustration_skill-10010018",
+        "description": "enemy_illustration_skill-20010018"
+    },
+    "10019": {
+        "id": 10019,
+        "name": "enemy_illustration_skill-10010019",
+        "description": "enemy_illustration_skill-20010019"
+    },
+    "10021": {
+        "id": 10021,
+        "name": "enemy_illustration_skill-10010021",
+        "description": "enemy_illustration_skill-20010021"
+    },
+    "10022": {
+        "id": 10022,
+        "name": "enemy_illustration_skill-10010022",
+        "description": "enemy_illustration_skill-20010022"
+    },
+    "10087": {
+        "id": 10087,
+        "name": "enemy_illustration_skill-10010087",
+        "description": "enemy_illustration_skill-20010087"
+    },
+    "10091": {
+        "id": 10091,
+        "name": "enemy_illustration_skill-10010091",
+        "description": "enemy_illustration_skill-20010091"
+    },
+    "10191": {
         "id": 10191,
         "name": "enemy_illustration_skill-10010191",
         "description": "enemy_illustration_skill-20010191"
