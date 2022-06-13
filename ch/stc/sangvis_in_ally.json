@@ -1,5 +1,5 @@
-{
-    "1": {
+[
+    {
         "id": 1,
         "sangvis_id": 1001,
         "sangvis_level": 90,
@@ -15,7 +15,7 @@
         "chip2": 1001,
         "favor": 90000
     },
-    "2": {
+    {
         "id": 2,
         "sangvis_id": 2003,
         "sangvis_level": 90,
@@ -31,7 +31,7 @@
         "chip2": 0,
         "favor": 90000
     },
-    "3": {
+    {
         "id": 3,
         "sangvis_id": 3001,
         "sangvis_level": 90,
@@ -47,7 +47,7 @@
         "chip2": 0,
         "favor": 150000
     },
-    "4": {
+    {
         "id": 4,
         "sangvis_id": 3005,
         "sangvis_level": 90,
@@ -63,7 +63,7 @@
         "chip2": 0,
         "favor": 90000
     },
-    "5": {
+    {
         "id": 5,
         "sangvis_id": 3005,
         "sangvis_level": 90,
@@ -79,7 +79,7 @@
         "chip2": 0,
         "favor": 120000
     },
-    "6": {
+    {
         "id": 6,
         "sangvis_id": 3004,
         "sangvis_level": 93,
@@ -95,7 +95,7 @@
         "chip2": 0,
         "favor": 90000
     },
-    "7": {
+    {
         "id": 7,
         "sangvis_id": 1001,
         "sangvis_level": 90,
@@ -111,7 +111,7 @@
         "chip2": 1001,
         "favor": 90000
     },
-    "8": {
+    {
         "id": 8,
         "sangvis_id": 2003,
         "sangvis_level": 90,
@@ -127,7 +127,7 @@
         "chip2": 0,
         "favor": 90000
     },
-    "9": {
+    {
         "id": 9,
         "sangvis_id": 3001,
         "sangvis_level": 90,
@@ -143,7 +143,7 @@
         "chip2": 0,
         "favor": 150000
     },
-    "10": {
+    {
         "id": 10,
         "sangvis_id": 3005,
         "sangvis_level": 90,
@@ -159,7 +159,7 @@
         "chip2": 0,
         "favor": 90000
     },
-    "11": {
+    {
         "id": 11,
         "sangvis_id": 3005,
         "sangvis_level": 90,
@@ -175,7 +175,7 @@
         "chip2": 0,
         "favor": 120000
     },
-    "12": {
+    {
         "id": 12,
         "sangvis_id": 3004,
         "sangvis_level": 93,
@@ -191,7 +191,7 @@
         "chip2": 0,
         "favor": 90000
     },
-    "13": {
+    {
         "id": 13,
         "sangvis_id": 1001,
         "sangvis_level": 90,
@@ -207,7 +207,7 @@
         "chip2": 1001,
         "favor": 90000
     },
-    "14": {
+    {
         "id": 14,
         "sangvis_id": 2003,
         "sangvis_level": 90,
@@ -223,7 +223,7 @@
         "chip2": 0,
         "favor": 90000
     },
-    "15": {
+    {
         "id": 15,
         "sangvis_id": 3001,
         "sangvis_level": 90,
@@ -239,7 +239,7 @@
         "chip2": 0,
         "favor": 150000
     },
-    "16": {
+    {
         "id": 16,
         "sangvis_id": 3005,
         "sangvis_level": 90,
@@ -255,7 +255,7 @@
         "chip2": 0,
         "favor": 90000
     },
-    "17": {
+    {
         "id": 17,
         "sangvis_id": 3005,
         "sangvis_level": 90,
@@ -271,7 +271,7 @@
         "chip2": 0,
         "favor": 120000
     },
-    "18": {
+    {
         "id": 18,
         "sangvis_id": 3004,
         "sangvis_level": 93,
@@ -287,7 +287,7 @@
         "chip2": 0,
         "favor": 90000
     },
-    "322102": {
+    {
         "id": 322102,
         "sangvis_id": 1006,
         "sangvis_level": 100,
@@ -303,7 +303,7 @@
         "chip2": 0,
         "favor": 90000
     },
-    "460501": {
+    {
         "id": 460501,
         "sangvis_id": 9001,
         "sangvis_level": 90,
@@ -319,7 +319,7 @@
         "chip2": 0,
         "favor": 90000
     },
-    "461001": {
+    {
         "id": 461001,
         "sangvis_id": 9001,
         "sangvis_level": 100,
@@ -335,7 +335,7 @@
         "chip2": 0,
         "favor": 90000
     },
-    "482103": {
+    {
         "id": 482103,
         "sangvis_id": 1012,
         "sangvis_level": 100,
@@ -351,7 +351,7 @@
         "chip2": 0,
         "favor": 90000
     },
-    "482104": {
+    {
         "id": 482104,
         "sangvis_id": 1001,
         "sangvis_level": 100,
@@ -367,7 +367,7 @@
         "chip2": 0,
         "favor": 90000
     },
-    "482105": {
+    {
         "id": 482105,
         "sangvis_id": 1002,
         "sangvis_level": 100,
@@ -383,7 +383,7 @@
         "chip2": 0,
         "favor": 90000
     },
-    "482106": {
+    {
         "id": 482106,
         "sangvis_id": 1003,
         "sangvis_level": 100,
@@ -399,7 +399,7 @@
         "chip2": 0,
         "favor": 90000
     },
-    "482107": {
+    {
         "id": 482107,
         "sangvis_id": 2006,
         "sangvis_level": 100,
@@ -415,7 +415,7 @@
         "chip2": 0,
         "favor": 90000
     },
-    "482108": {
+    {
         "id": 482108,
         "sangvis_id": 2006,
         "sangvis_level": 100,
@@ -431,7 +431,7 @@
         "chip2": 0,
         "favor": 90000
     },
-    "482109": {
+    {
         "id": 482109,
         "sangvis_id": 2013,
         "sangvis_level": 100,
@@ -447,7 +447,7 @@
         "chip2": 0,
         "favor": 90000
     },
-    "482110": {
+    {
         "id": 482110,
         "sangvis_id": 2013,
         "sangvis_level": 100,
@@ -463,7 +463,7 @@
         "chip2": 0,
         "favor": 90000
     },
-    "482111": {
+    {
         "id": 482111,
         "sangvis_id": 2012,
         "sangvis_level": 100,
@@ -479,7 +479,7 @@
         "chip2": 0,
         "favor": 90000
     },
-    "482112": {
+    {
         "id": 482112,
         "sangvis_id": 2012,
         "sangvis_level": 100,
@@ -495,7 +495,7 @@
         "chip2": 0,
         "favor": 90000
     },
-    "482113": {
+    {
         "id": 482113,
         "sangvis_id": 2012,
         "sangvis_level": 100,
@@ -511,7 +511,7 @@
         "chip2": 0,
         "favor": 90000
     },
-    "482114": {
+    {
         "id": 482114,
         "sangvis_id": 2014,
         "sangvis_level": 100,
@@ -527,7 +527,7 @@
         "chip2": 0,
         "favor": 90000
     },
-    "500415": {
+    {
         "id": 500415,
         "sangvis_id": 1018,
         "sangvis_level": 100,
@@ -543,7 +543,7 @@
         "chip2": 0,
         "favor": 1000000
     },
-    "4110301": {
+    {
         "id": 4110301,
         "sangvis_id": 1006,
         "sangvis_level": 40,
@@ -559,7 +559,7 @@
         "chip2": 0,
         "favor": 90000
     },
-    "4110302": {
+    {
         "id": 4110302,
         "sangvis_id": 3004,
         "sangvis_level": 40,
@@ -575,7 +575,7 @@
         "chip2": 0,
         "favor": 90000
     },
-    "4110303": {
+    {
         "id": 4110303,
         "sangvis_id": 3004,
         "sangvis_level": 40,
@@ -591,7 +591,7 @@
         "chip2": 0,
         "favor": 90000
     },
-    "4110304": {
+    {
         "id": 4110304,
         "sangvis_id": 2003,
         "sangvis_level": 40,
@@ -607,7 +607,7 @@
         "chip2": 0,
         "favor": 90000
     },
-    "4110305": {
+    {
         "id": 4110305,
         "sangvis_id": 2003,
         "sangvis_level": 40,
@@ -623,7 +623,7 @@
         "chip2": 0,
         "favor": 90000
     },
-    "4110801": {
+    {
         "id": 4110801,
         "sangvis_id": 1006,
         "sangvis_level": 50,
@@ -639,7 +639,7 @@
         "chip2": 0,
         "favor": 90000
     },
-    "4110802": {
+    {
         "id": 4110802,
         "sangvis_id": 3004,
         "sangvis_level": 50,
@@ -655,7 +655,7 @@
         "chip2": 0,
         "favor": 90000
     },
-    "4110803": {
+    {
         "id": 4110803,
         "sangvis_id": 3004,
         "sangvis_level": 50,
@@ -671,7 +671,7 @@
         "chip2": 0,
         "favor": 90000
     },
-    "4110804": {
+    {
         "id": 4110804,
         "sangvis_id": 2003,
         "sangvis_level": 50,
@@ -687,7 +687,7 @@
         "chip2": 0,
         "favor": 90000
     },
-    "4110805": {
+    {
         "id": 4110805,
         "sangvis_id": 2003,
         "sangvis_level": 50,
@@ -703,7 +703,7 @@
         "chip2": 0,
         "favor": 90000
     },
-    "4140601": {
+    {
         "id": 4140601,
         "sangvis_id": 3003,
         "sangvis_level": 80,
@@ -719,7 +719,7 @@
         "chip2": 0,
         "favor": 90000
     },
-    "4140602": {
+    {
         "id": 4140602,
         "sangvis_id": 3003,
         "sangvis_level": 80,
@@ -735,7 +735,7 @@
         "chip2": 0,
         "favor": 90000
     },
-    "4140603": {
+    {
         "id": 4140603,
         "sangvis_id": 3003,
         "sangvis_level": 80,
@@ -751,7 +751,7 @@
         "chip2": 0,
         "favor": 90000
     },
-    "4140604": {
+    {
         "id": 4140604,
         "sangvis_id": 2002,
         "sangvis_level": 80,
@@ -767,7 +767,7 @@
         "chip2": 0,
         "favor": 90000
     },
-    "4140605": {
+    {
         "id": 4140605,
         "sangvis_id": 2002,
         "sangvis_level": 80,
@@ -783,7 +783,7 @@
         "chip2": 0,
         "favor": 90000
     },
-    "4140606": {
+    {
         "id": 4140606,
         "sangvis_id": 3004,
         "sangvis_level": 80,
@@ -799,7 +799,7 @@
         "chip2": 0,
         "favor": 90000
     },
-    "4140607": {
+    {
         "id": 4140607,
         "sangvis_id": 3004,
         "sangvis_level": 80,
@@ -815,7 +815,7 @@
         "chip2": 0,
         "favor": 90000
     },
-    "4140608": {
+    {
         "id": 4140608,
         "sangvis_id": 3004,
         "sangvis_level": 80,
@@ -831,7 +831,7 @@
         "chip2": 0,
         "favor": 90000
     },
-    "4140611": {
+    {
         "id": 4140611,
         "sangvis_id": 3003,
         "sangvis_level": 80,
@@ -847,7 +847,7 @@
         "chip2": 0,
         "favor": 90000
     },
-    "4140612": {
+    {
         "id": 4140612,
         "sangvis_id": 3003,
         "sangvis_level": 80,
@@ -863,7 +863,7 @@
         "chip2": 0,
         "favor": 90000
     },
-    "4140613": {
+    {
         "id": 4140613,
         "sangvis_id": 3003,
         "sangvis_level": 80,
@@ -879,7 +879,7 @@
         "chip2": 0,
         "favor": 90000
     },
-    "4140614": {
+    {
         "id": 4140614,
         "sangvis_id": 2002,
         "sangvis_level": 80,
@@ -895,7 +895,7 @@
         "chip2": 0,
         "favor": 90000
     },
-    "4140615": {
+    {
         "id": 4140615,
         "sangvis_id": 2002,
         "sangvis_level": 80,
@@ -911,7 +911,7 @@
         "chip2": 0,
         "favor": 90000
     },
-    "4140616": {
+    {
         "id": 4140616,
         "sangvis_id": 3004,
         "sangvis_level": 80,
@@ -927,7 +927,7 @@
         "chip2": 0,
         "favor": 90000
     },
-    "4140617": {
+    {
         "id": 4140617,
         "sangvis_id": 3004,
         "sangvis_level": 80,
@@ -943,7 +943,7 @@
         "chip2": 0,
         "favor": 90000
     },
-    "4140618": {
+    {
         "id": 4140618,
         "sangvis_id": 3004,
         "sangvis_level": 80,
@@ -959,7 +959,7 @@
         "chip2": 0,
         "favor": 90000
     },
-    "4140621": {
+    {
         "id": 4140621,
         "sangvis_id": 3003,
         "sangvis_level": 80,
@@ -975,7 +975,7 @@
         "chip2": 0,
         "favor": 90000
     },
-    "4140622": {
+    {
         "id": 4140622,
         "sangvis_id": 3003,
         "sangvis_level": 80,
@@ -991,7 +991,7 @@
         "chip2": 0,
         "favor": 90000
     },
-    "4140623": {
+    {
         "id": 4140623,
         "sangvis_id": 3003,
         "sangvis_level": 80,
@@ -1007,7 +1007,7 @@
         "chip2": 0,
         "favor": 90000
     },
-    "4140624": {
+    {
         "id": 4140624,
         "sangvis_id": 2002,
         "sangvis_level": 80,
@@ -1023,7 +1023,7 @@
         "chip2": 0,
         "favor": 90000
     },
-    "4140625": {
+    {
         "id": 4140625,
         "sangvis_id": 2002,
         "sangvis_level": 80,
@@ -1039,7 +1039,7 @@
         "chip2": 0,
         "favor": 90000
     },
-    "4140626": {
+    {
         "id": 4140626,
         "sangvis_id": 3004,
         "sangvis_level": 80,
@@ -1055,7 +1055,7 @@
         "chip2": 0,
         "favor": 90000
     },
-    "4140627": {
+    {
         "id": 4140627,
         "sangvis_id": 3004,
         "sangvis_level": 80,
@@ -1071,7 +1071,7 @@
         "chip2": 0,
         "favor": 90000
     },
-    "4140628": {
+    {
         "id": 4140628,
         "sangvis_id": 3004,
         "sangvis_level": 80,
@@ -1087,7 +1087,7 @@
         "chip2": 0,
         "favor": 90000
     },
-    "4140631": {
+    {
         "id": 4140631,
         "sangvis_id": 3003,
         "sangvis_level": 80,
@@ -1103,7 +1103,7 @@
         "chip2": 0,
         "favor": 90000
     },
-    "4140632": {
+    {
         "id": 4140632,
         "sangvis_id": 3003,
         "sangvis_level": 80,
@@ -1119,7 +1119,7 @@
         "chip2": 0,
         "favor": 90000
     },
-    "4140633": {
+    {
         "id": 4140633,
         "sangvis_id": 3003,
         "sangvis_level": 80,
@@ -1135,7 +1135,7 @@
         "chip2": 0,
         "favor": 90000
     },
-    "4140634": {
+    {
         "id": 4140634,
         "sangvis_id": 2002,
         "sangvis_level": 80,
@@ -1151,7 +1151,7 @@
         "chip2": 0,
         "favor": 90000
     },
-    "4140635": {
+    {
         "id": 4140635,
         "sangvis_id": 2002,
         "sangvis_level": 80,
@@ -1167,7 +1167,7 @@
         "chip2": 0,
         "favor": 90000
     },
-    "4140636": {
+    {
         "id": 4140636,
         "sangvis_id": 3004,
         "sangvis_level": 80,
@@ -1183,7 +1183,7 @@
         "chip2": 0,
         "favor": 90000
     },
-    "4140637": {
+    {
         "id": 4140637,
         "sangvis_id": 3004,
         "sangvis_level": 80,
@@ -1199,7 +1199,7 @@
         "chip2": 0,
         "favor": 90000
     },
-    "4140638": {
+    {
         "id": 4140638,
         "sangvis_id": 3004,
         "sangvis_level": 80,
@@ -1215,7 +1215,7 @@
         "chip2": 0,
         "favor": 90000
     },
-    "4140641": {
+    {
         "id": 4140641,
         "sangvis_id": 3003,
         "sangvis_level": 80,
@@ -1231,7 +1231,7 @@
         "chip2": 0,
         "favor": 90000
     },
-    "4140642": {
+    {
         "id": 4140642,
         "sangvis_id": 3003,
         "sangvis_level": 80,
@@ -1247,7 +1247,7 @@
         "chip2": 0,
         "favor": 90000
     },
-    "4140643": {
+    {
         "id": 4140643,
         "sangvis_id": 3003,
         "sangvis_level": 80,
@@ -1263,7 +1263,7 @@
         "chip2": 0,
         "favor": 90000
     },
-    "4140644": {
+    {
         "id": 4140644,
         "sangvis_id": 2002,
         "sangvis_level": 80,
@@ -1279,7 +1279,7 @@
         "chip2": 0,
         "favor": 90000
     },
-    "4140645": {
+    {
         "id": 4140645,
         "sangvis_id": 2002,
         "sangvis_level": 80,
@@ -1295,7 +1295,7 @@
         "chip2": 0,
         "favor": 90000
     },
-    "4140646": {
+    {
         "id": 4140646,
         "sangvis_id": 3004,
         "sangvis_level": 80,
@@ -1311,7 +1311,7 @@
         "chip2": 0,
         "favor": 90000
     },
-    "4140647": {
+    {
         "id": 4140647,
         "sangvis_id": 3004,
         "sangvis_level": 80,
@@ -1327,7 +1327,7 @@
         "chip2": 0,
         "favor": 90000
     },
-    "4140648": {
+    {
         "id": 4140648,
         "sangvis_id": 3004,
         "sangvis_level": 80,
@@ -1343,7 +1343,7 @@
         "chip2": 0,
         "favor": 90000
     },
-    "4140801": {
+    {
         "id": 4140801,
         "sangvis_id": 9001,
         "sangvis_level": 100,
@@ -1359,7 +1359,7 @@
         "chip2": 0,
         "favor": 90000
     },
-    "6000001": {
+    {
         "id": 6000001,
         "sangvis_id": 2002,
         "sangvis_level": 30,
@@ -1375,7 +1375,7 @@
         "chip2": 0,
         "favor": 90000
     },
-    "6000002": {
+    {
         "id": 6000002,
         "sangvis_id": 1008,
         "sangvis_level": 30,
@@ -1391,7 +1391,7 @@
         "chip2": 0,
         "favor": 90000
     },
-    "6000003": {
+    {
         "id": 6000003,
         "sangvis_id": 2012,
         "sangvis_level": 30,
@@ -1407,7 +1407,7 @@
         "chip2": 0,
         "favor": 90000
     },
-    "6000004": {
+    {
         "id": 6000004,
         "sangvis_id": 2012,
         "sangvis_level": 30,
@@ -1423,7 +1423,7 @@
         "chip2": 0,
         "favor": 90000
     },
-    "6000005": {
+    {
         "id": 6000005,
         "sangvis_id": 2003,
         "sangvis_level": 30,
@@ -1439,7 +1439,7 @@
         "chip2": 0,
         "favor": 90000
     },
-    "6510101": {
+    {
         "id": 6510101,
         "sangvis_id": 1006,
         "sangvis_level": 100,
@@ -1455,7 +1455,7 @@
         "chip2": 0,
         "favor": 90000
     },
-    "6510102": {
+    {
         "id": 6510102,
         "sangvis_id": 2009,
         "sangvis_level": 100,
@@ -1471,7 +1471,7 @@
         "chip2": 0,
         "favor": 90000
     },
-    "6510103": {
+    {
         "id": 6510103,
         "sangvis_id": 2004,
         "sangvis_level": 100,
@@ -1487,7 +1487,7 @@
         "chip2": 0,
         "favor": 90000
     },
-    "6510104": {
+    {
         "id": 6510104,
         "sangvis_id": 2004,
         "sangvis_level": 100,
@@ -1503,7 +1503,7 @@
         "chip2": 0,
         "favor": 90000
     },
-    "6510201": {
+    {
         "id": 6510201,
         "sangvis_id": 1010,
         "sangvis_level": 100,
@@ -1519,7 +1519,7 @@
         "chip2": 0,
         "favor": 90000
     },
-    "6510202": {
+    {
         "id": 6510202,
         "sangvis_id": 2009,
         "sangvis_level": 100,
@@ -1535,7 +1535,7 @@
         "chip2": 0,
         "favor": 90000
     },
-    "6510203": {
+    {
         "id": 6510203,
         "sangvis_id": 2004,
         "sangvis_level": 100,
@@ -1551,7 +1551,7 @@
         "chip2": 0,
         "favor": 90000
     },
-    "6510204": {
+    {
         "id": 6510204,
         "sangvis_id": 2004,
         "sangvis_level": 100,
@@ -1567,7 +1567,7 @@
         "chip2": 0,
         "favor": 90000
     },
-    "6510301": {
+    {
         "id": 6510301,
         "sangvis_id": 2006,
         "sangvis_level": 100,
@@ -1583,7 +1583,7 @@
         "chip2": 0,
         "favor": 90000
     },
-    "6510303": {
+    {
         "id": 6510303,
         "sangvis_id": 2006,
         "sangvis_level": 100,
@@ -1599,7 +1599,7 @@
         "chip2": 0,
         "favor": 90000
     },
-    "6510304": {
+    {
         "id": 6510304,
         "sangvis_id": 2004,
         "sangvis_level": 100,
@@ -1615,7 +1615,7 @@
         "chip2": 0,
         "favor": 90000
     },
-    "6510305": {
+    {
         "id": 6510305,
         "sangvis_id": 2004,
         "sangvis_level": 100,
@@ -1631,7 +1631,7 @@
         "chip2": 0,
         "favor": 90000
     },
-    "6510306": {
+    {
         "id": 6510306,
         "sangvis_id": 2004,
         "sangvis_level": 100,
@@ -1647,4 +1647,4 @@
         "chip2": 0,
         "favor": 90000
     }
-}
+]

@@ -1,5 +1,5 @@
-{
-    "1": {
+[
+    {
         "id": 1,
         "name": "fetter-10000001",
         "actor": "g:9;g:167;g:92;g:7;g:272",
@@ -15,7 +15,7 @@
         "milestone5": 500,
         "milestone5_reward": "p:23005"
     },
-    "2": {
+    {
         "id": 2,
         "name": "fetter-10000002",
         "actor": "g:36;g:50;g:48;g:46;g:39",
@@ -31,7 +31,7 @@
         "milestone5": 500,
         "milestone5_reward": "p:23010"
     },
-    "3": {
+    {
         "id": 3,
         "name": "fetter-10000003",
         "actor": "g:96;g:180;g:297;g:306;g:155",
@@ -47,7 +47,7 @@
         "milestone5": 500,
         "milestone5_reward": "p:23015"
     },
-    "4": {
+    {
         "id": 4,
         "name": "fetter-10000004",
         "actor": "g:64;g:36;g:104;g:216",
@@ -63,4 +63,4 @@
         "milestone5": 500,
         "milestone5_reward": "p:23020"
     }
-}
+]

@@ -1,5 +1,5 @@
-{
-    "1": {
+[
+    {
         "id": 1,
         "code": "Weaver",
         "name": "chess_enemy-10000001",
@@ -16,7 +16,7 @@
         "attack_angle": 120,
         "lifebar_offset": "172,90"
     },
-    "2": {
+    {
         "id": 2,
         "code": "Hydra",
         "name": "chess_enemy-10000002",
@@ -33,4 +33,4 @@
         "attack_angle": 120,
         "lifebar_offset": "245,160"
     }
-}
+]

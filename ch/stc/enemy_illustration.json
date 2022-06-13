@@ -1,5 +1,5 @@
-{
-    "1": {
+[
+    {
         "id": 1,
         "name": "enemy_illustration-10000001",
         "type": 2,
@@ -22,7 +22,7 @@
         "extra": "enemy_illustration-40000001",
         "spine_scale": "90,90,1"
     },
-    "2": {
+    {
         "id": 2,
         "name": "enemy_illustration-10000002",
         "type": 2,
@@ -45,7 +45,7 @@
         "extra": "enemy_illustration-40000002",
         "spine_scale": "100,100,1"
     },
-    "3": {
+    {
         "id": 3,
         "name": "enemy_illustration-10000003",
         "type": 2,
@@ -68,7 +68,7 @@
         "extra": "enemy_illustration-40000003",
         "spine_scale": "100,100,1"
     },
-    "4": {
+    {
         "id": 4,
         "name": "enemy_illustration-10000004",
         "type": 3,
@@ -91,7 +91,7 @@
         "extra": "enemy_illustration-40000004",
         "spine_scale": "100,100,1"
     },
-    "5": {
+    {
         "id": 5,
         "name": "enemy_illustration-10000005",
         "type": 1,
@@ -114,7 +114,7 @@
         "extra": "enemy_illustration-40000005",
         "spine_scale": "70,70,1"
     },
-    "6": {
+    {
         "id": 6,
         "name": "enemy_illustration-10000006",
         "type": 2,
@@ -137,7 +137,7 @@
         "extra": "enemy_illustration-40000006",
         "spine_scale": "100,100,1"
     },
-    "7": {
+    {
         "id": 7,
         "name": "enemy_illustration-10000007",
         "type": 3,
@@ -160,7 +160,7 @@
         "extra": "enemy_illustration-40000007",
         "spine_scale": "100,100,1"
     },
-    "8": {
+    {
         "id": 8,
         "name": "enemy_illustration-10000008",
         "type": 1,
@@ -183,7 +183,7 @@
         "extra": "enemy_illustration-40000008",
         "spine_scale": "80,80,1"
     },
-    "9": {
+    {
         "id": 9,
         "name": "enemy_illustration-10000009",
         "type": 3,
@@ -206,7 +206,7 @@
         "extra": "enemy_illustration-40000009",
         "spine_scale": "100,100,1"
     },
-    "10": {
+    {
         "id": 10,
         "name": "enemy_illustration-10000010",
         "type": 3,
@@ -229,7 +229,7 @@
         "extra": "enemy_illustration-40000010",
         "spine_scale": "90,90,1"
     },
-    "11": {
+    {
         "id": 11,
         "name": "enemy_illustration-10000011",
         "type": 1,
@@ -252,7 +252,7 @@
         "extra": "enemy_illustration-40000011",
         "spine_scale": "75,75,1"
     },
-    "12": {
+    {
         "id": 12,
         "name": "enemy_illustration-10000012",
         "type": 3,
@@ -275,7 +275,7 @@
         "extra": "enemy_illustration-40000012",
         "spine_scale": "75,75,1"
     },
-    "13": {
+    {
         "id": 13,
         "name": "enemy_illustration-10000013",
         "type": 2,
@@ -298,7 +298,7 @@
         "extra": "enemy_illustration-40000013",
         "spine_scale": "100,100,1"
     },
-    "14": {
+    {
         "id": 14,
         "name": "enemy_illustration-10000014",
         "type": 4,
@@ -321,7 +321,7 @@
         "extra": "enemy_illustration-40000014",
         "spine_scale": "100,100,1"
     },
-    "15": {
+    {
         "id": 15,
         "name": "enemy_illustration-10000015",
         "type": 5,
@@ -344,7 +344,7 @@
         "extra": "enemy_illustration-40000015",
         "spine_scale": "100,100,1"
     },
-    "16": {
+    {
         "id": 16,
         "name": "enemy_illustration-10000016",
         "type": 4,
@@ -367,7 +367,7 @@
         "extra": "enemy_illustration-40000016",
         "spine_scale": "80,80,1"
     },
-    "17": {
+    {
         "id": 17,
         "name": "enemy_illustration-10000017",
         "type": 1,
@@ -390,7 +390,7 @@
         "extra": "enemy_illustration-40000017",
         "spine_scale": "85,85,1"
     },
-    "18": {
+    {
         "id": 18,
         "name": "enemy_illustration-10000018",
         "type": 1,
@@ -413,7 +413,7 @@
         "extra": "enemy_illustration-40000018",
         "spine_scale": "85,85,1"
     },
-    "19": {
+    {
         "id": 19,
         "name": "enemy_illustration-10000019",
         "type": 1,
@@ -436,7 +436,7 @@
         "extra": "enemy_illustration-40000019",
         "spine_scale": "75,75,1"
     },
-    "20": {
+    {
         "id": 20,
         "name": "enemy_illustration-10000020",
         "type": 1,
@@ -459,7 +459,7 @@
         "extra": "enemy_illustration-40000020",
         "spine_scale": "80,80,1"
     },
-    "21": {
+    {
         "id": 21,
         "name": "enemy_illustration-10000021",
         "type": 1,
@@ -482,7 +482,7 @@
         "extra": "enemy_illustration-40000021",
         "spine_scale": "80,80,1"
     },
-    "22": {
+    {
         "id": 22,
         "name": "enemy_illustration-10000022",
         "type": 1,
@@ -505,7 +505,7 @@
         "extra": "enemy_illustration-40000022",
         "spine_scale": "80,80,1"
     },
-    "23": {
+    {
         "id": 23,
         "name": "enemy_illustration-10000023",
         "type": 1,
@@ -528,7 +528,7 @@
         "extra": "enemy_illustration-40000023",
         "spine_scale": "85,85,1"
     },
-    "24": {
+    {
         "id": 24,
         "name": "enemy_illustration-10000024",
         "type": 1,
@@ -551,7 +551,7 @@
         "extra": "enemy_illustration-40000024",
         "spine_scale": "75,75,1"
     },
-    "25": {
+    {
         "id": 25,
         "name": "enemy_illustration-10000025",
         "type": 2,
@@ -574,7 +574,7 @@
         "extra": "enemy_illustration-40000025",
         "spine_scale": "55,55,1"
     },
-    "26": {
+    {
         "id": 26,
         "name": "enemy_illustration-10000026",
         "type": 1,
@@ -597,7 +597,7 @@
         "extra": "enemy_illustration-40000026",
         "spine_scale": "85,85,1"
     },
-    "27": {
+    {
         "id": 27,
         "name": "enemy_illustration-10000027",
         "type": 1,
@@ -620,7 +620,7 @@
         "extra": "enemy_illustration-40000027",
         "spine_scale": "85,85,1"
     },
-    "28": {
+    {
         "id": 28,
         "name": "enemy_illustration-10000028",
         "type": 3,
@@ -643,7 +643,7 @@
         "extra": "enemy_illustration-40000028",
         "spine_scale": "85,85,1"
     },
-    "29": {
+    {
         "id": 29,
         "name": "enemy_illustration-10000029",
         "type": 3,
@@ -666,7 +666,7 @@
         "extra": "enemy_illustration-40000029",
         "spine_scale": "100,100,1"
     },
-    "30": {
+    {
         "id": 30,
         "name": "enemy_illustration-10000030",
         "type": 4,
@@ -689,7 +689,7 @@
         "extra": "enemy_illustration-40000030",
         "spine_scale": "150,150,1"
     },
-    "31": {
+    {
         "id": 31,
         "name": "enemy_illustration-10000031",
         "type": 2,
@@ -712,7 +712,7 @@
         "extra": "enemy_illustration-40000031",
         "spine_scale": "100,100,1"
     },
-    "32": {
+    {
         "id": 32,
         "name": "enemy_illustration-10000032",
         "type": 2,
@@ -735,7 +735,7 @@
         "extra": "enemy_illustration-40000032",
         "spine_scale": "100,100,1"
     },
-    "33": {
+    {
         "id": 33,
         "name": "enemy_illustration-10000033",
         "type": 1,
@@ -758,7 +758,7 @@
         "extra": "enemy_illustration-40000033",
         "spine_scale": "70,70,1"
     },
-    "34": {
+    {
         "id": 34,
         "name": "enemy_illustration-10000034",
         "type": 1,
@@ -781,7 +781,7 @@
         "extra": "enemy_illustration-40000034",
         "spine_scale": "80,80,1"
     },
-    "35": {
+    {
         "id": 35,
         "name": "enemy_illustration-10000035",
         "type": 1,
@@ -804,7 +804,7 @@
         "extra": "enemy_illustration-40000035",
         "spine_scale": "70,70,1"
     },
-    "36": {
+    {
         "id": 36,
         "name": "enemy_illustration-10000036",
         "type": 3,
@@ -827,7 +827,7 @@
         "extra": "enemy_illustration-40000036",
         "spine_scale": "80,80,1"
     },
-    "37": {
+    {
         "id": 37,
         "name": "enemy_illustration-10000037",
         "type": 3,
@@ -850,7 +850,7 @@
         "extra": "enemy_illustration-40000037",
         "spine_scale": "85,85,1"
     },
-    "38": {
+    {
         "id": 38,
         "name": "enemy_illustration-10000038",
         "type": 5,
@@ -873,7 +873,7 @@
         "extra": "enemy_illustration-40000038",
         "spine_scale": "85,85,1"
     },
-    "39": {
+    {
         "id": 39,
         "name": "enemy_illustration-10000039",
         "type": 4,
@@ -896,7 +896,7 @@
         "extra": "enemy_illustration-40000039",
         "spine_scale": "80,80,1"
     },
-    "40": {
+    {
         "id": 40,
         "name": "enemy_illustration-10000040",
         "type": 5,
@@ -919,7 +919,7 @@
         "extra": "enemy_illustration-40000040",
         "spine_scale": "100,100,1"
     },
-    "41": {
+    {
         "id": 41,
         "name": "enemy_illustration-10000041",
         "type": 4,
@@ -942,7 +942,7 @@
         "extra": "enemy_illustration-40000041",
         "spine_scale": "100,100,1"
     },
-    "42": {
+    {
         "id": 42,
         "name": "enemy_illustration-10000042",
         "type": 4,
@@ -965,7 +965,7 @@
         "extra": "enemy_illustration-40000042",
         "spine_scale": "100,100,1"
     },
-    "43": {
+    {
         "id": 43,
         "name": "enemy_illustration-10000043",
         "type": 4,
@@ -988,7 +988,7 @@
         "extra": "enemy_illustration-40000043",
         "spine_scale": "70,70,1"
     },
-    "44": {
+    {
         "id": 44,
         "name": "enemy_illustration-10000044",
         "type": 1,
@@ -1011,7 +1011,7 @@
         "extra": "enemy_illustration-40000044",
         "spine_scale": "100,100,1"
     },
-    "45": {
+    {
         "id": 45,
         "name": "enemy_illustration-10000045",
         "type": 1,
@@ -1034,7 +1034,7 @@
         "extra": "enemy_illustration-40000045",
         "spine_scale": "80,80,1"
     },
-    "46": {
+    {
         "id": 46,
         "name": "enemy_illustration-10000046",
         "type": 3,
@@ -1057,7 +1057,7 @@
         "extra": "enemy_illustration-40000046",
         "spine_scale": "100,100,1"
     },
-    "47": {
+    {
         "id": 47,
         "name": "enemy_illustration-10000047",
         "type": 3,
@@ -1080,7 +1080,7 @@
         "extra": "enemy_illustration-40000047",
         "spine_scale": "90,90,1"
     },
-    "48": {
+    {
         "id": 48,
         "name": "enemy_illustration-10000048",
         "type": 3,
@@ -1103,7 +1103,7 @@
         "extra": "enemy_illustration-40000048",
         "spine_scale": "60,60,1"
     },
-    "49": {
+    {
         "id": 49,
         "name": "enemy_illustration-10000049",
         "type": 4,
@@ -1126,7 +1126,7 @@
         "extra": "enemy_illustration-40000049",
         "spine_scale": "50,50,1"
     },
-    "50": {
+    {
         "id": 50,
         "name": "enemy_illustration-10000050",
         "type": 1,
@@ -1149,7 +1149,7 @@
         "extra": "enemy_illustration-40000050",
         "spine_scale": "70,70,1"
     },
-    "51": {
+    {
         "id": 51,
         "name": "enemy_illustration-10000051",
         "type": 1,
@@ -1172,7 +1172,7 @@
         "extra": "enemy_illustration-40000051",
         "spine_scale": "70,70,1"
     },
-    "52": {
+    {
         "id": 52,
         "name": "enemy_illustration-10000052",
         "type": 3,
@@ -1195,7 +1195,7 @@
         "extra": "enemy_illustration-40000052",
         "spine_scale": "90,90,1"
     },
-    "53": {
+    {
         "id": 53,
         "name": "enemy_illustration-10000053",
         "type": 3,
@@ -1218,7 +1218,7 @@
         "extra": "enemy_illustration-40000053",
         "spine_scale": "90,90,1"
     },
-    "54": {
+    {
         "id": 54,
         "name": "enemy_illustration-10000054",
         "type": 1,
@@ -1241,7 +1241,7 @@
         "extra": "enemy_illustration-40000054",
         "spine_scale": "70,70,1"
     },
-    "55": {
+    {
         "id": 55,
         "name": "enemy_illustration-10000055",
         "type": 2,
@@ -1264,7 +1264,7 @@
         "extra": "enemy_illustration-40000055",
         "spine_scale": "100,100,1"
     },
-    "56": {
+    {
         "id": 56,
         "name": "enemy_illustration-10000056",
         "type": 3,
@@ -1287,7 +1287,7 @@
         "extra": "enemy_illustration-40000056",
         "spine_scale": "100,100,1"
     },
-    "57": {
+    {
         "id": 57,
         "name": "enemy_illustration-10000057",
         "type": 3,
@@ -1310,7 +1310,7 @@
         "extra": "enemy_illustration-40000057",
         "spine_scale": "90,90,1"
     },
-    "58": {
+    {
         "id": 58,
         "name": "enemy_illustration-10000058",
         "type": 3,
@@ -1333,7 +1333,7 @@
         "extra": "enemy_illustration-40000058",
         "spine_scale": "75,75,1"
     },
-    "59": {
+    {
         "id": 59,
         "name": "enemy_illustration-10000059",
         "type": 3,
@@ -1356,7 +1356,7 @@
         "extra": "enemy_illustration-40000059",
         "spine_scale": "100,100,1"
     },
-    "60": {
+    {
         "id": 60,
         "name": "enemy_illustration-10000060",
         "type": 5,
@@ -1379,7 +1379,7 @@
         "extra": "enemy_illustration-40000060",
         "spine_scale": "100,100,1"
     },
-    "61": {
+    {
         "id": 61,
         "name": "enemy_illustration-10000061",
         "type": 1,
@@ -1402,7 +1402,7 @@
         "extra": "enemy_illustration-40000061",
         "spine_scale": "85,85,1"
     },
-    "62": {
+    {
         "id": 62,
         "name": "enemy_illustration-10000062",
         "type": 1,
@@ -1425,7 +1425,7 @@
         "extra": "enemy_illustration-40000062",
         "spine_scale": "85,85,1"
     },
-    "63": {
+    {
         "id": 63,
         "name": "enemy_illustration-10000063",
         "type": 3,
@@ -1448,7 +1448,7 @@
         "extra": "enemy_illustration-40000063",
         "spine_scale": "80,80,1"
     },
-    "64": {
+    {
         "id": 64,
         "name": "enemy_illustration-10000064",
         "type": 4,
@@ -1471,7 +1471,7 @@
         "extra": "enemy_illustration-40000064",
         "spine_scale": "80,80,1"
     },
-    "65": {
+    {
         "id": 65,
         "name": "enemy_illustration-10000065",
         "type": 3,
@@ -1494,7 +1494,7 @@
         "extra": "enemy_illustration-40000065",
         "spine_scale": "100,100,1"
     },
-    "66": {
+    {
         "id": 66,
         "name": "enemy_illustration-10000066",
         "type": 3,
@@ -1517,7 +1517,7 @@
         "extra": "enemy_illustration-40000066",
         "spine_scale": "75,75,1"
     },
-    "67": {
+    {
         "id": 67,
         "name": "enemy_illustration-10000067",
         "type": 2,
@@ -1540,7 +1540,7 @@
         "extra": "enemy_illustration-40000067",
         "spine_scale": "100,100,1"
     },
-    "68": {
+    {
         "id": 68,
         "name": "enemy_illustration-10000068",
         "type": 1,
@@ -1563,7 +1563,7 @@
         "extra": "enemy_illustration-40000068",
         "spine_scale": "80,80,1"
     },
-    "69": {
+    {
         "id": 69,
         "name": "enemy_illustration-10000069",
         "type": 2,
@@ -1586,7 +1586,7 @@
         "extra": "enemy_illustration-40000069",
         "spine_scale": "40,40,1"
     },
-    "70": {
+    {
         "id": 70,
         "name": "enemy_illustration-10000070",
         "type": 2,
@@ -1609,7 +1609,7 @@
         "extra": "enemy_illustration-40000070",
         "spine_scale": "100,100,1"
     },
-    "71": {
+    {
         "id": 71,
         "name": "enemy_illustration-10000071",
         "type": 3,
@@ -1632,7 +1632,7 @@
         "extra": "enemy_illustration-40000071",
         "spine_scale": "100,100,1"
     },
-    "72": {
+    {
         "id": 72,
         "name": "enemy_illustration-10000072",
         "type": 2,
@@ -1655,7 +1655,7 @@
         "extra": "enemy_illustration-40000072",
         "spine_scale": "80,80,1"
     },
-    "73": {
+    {
         "id": 73,
         "name": "enemy_illustration-10000073",
         "type": 5,
@@ -1678,7 +1678,7 @@
         "extra": "enemy_illustration-40000073",
         "spine_scale": "80,80,1"
     },
-    "74": {
+    {
         "id": 74,
         "name": "enemy_illustration-10000074",
         "type": 2,
@@ -1701,7 +1701,7 @@
         "extra": "enemy_illustration-40000074",
         "spine_scale": "-15,15,1"
     },
-    "75": {
+    {
         "id": 75,
         "name": "enemy_illustration-10000075",
         "type": 2,
@@ -1724,7 +1724,7 @@
         "extra": "enemy_illustration-40000075",
         "spine_scale": "-15,15,1"
     },
-    "76": {
+    {
         "id": 76,
         "name": "enemy_illustration-10000076",
         "type": 2,
@@ -1747,7 +1747,7 @@
         "extra": "enemy_illustration-40000076",
         "spine_scale": "-15,15,1"
     },
-    "77": {
+    {
         "id": 77,
         "name": "enemy_illustration-10000077",
         "type": 4,
@@ -1770,7 +1770,7 @@
         "extra": "enemy_illustration-40000077",
         "spine_scale": "50,50,1"
     },
-    "78": {
+    {
         "id": 78,
         "name": "enemy_illustration-10000078",
         "type": 4,
@@ -1793,7 +1793,7 @@
         "extra": "enemy_illustration-40000078",
         "spine_scale": "60,60,1"
     },
-    "79": {
+    {
         "id": 79,
         "name": "enemy_illustration-10000079",
         "type": 4,
@@ -1816,7 +1816,7 @@
         "extra": "enemy_illustration-40000079",
         "spine_scale": "40,40,1"
     },
-    "80": {
+    {
         "id": 80,
         "name": "enemy_illustration-10000080",
         "type": 1,
@@ -1839,7 +1839,7 @@
         "extra": "enemy_illustration-40000080",
         "spine_scale": "40,40,1"
     },
-    "81": {
+    {
         "id": 81,
         "name": "enemy_illustration-10000081",
         "type": 1,
@@ -1862,7 +1862,7 @@
         "extra": "enemy_illustration-40000081",
         "spine_scale": "60,60,1"
     },
-    "82": {
+    {
         "id": 82,
         "name": "enemy_illustration-10000082",
         "type": 4,
@@ -1885,7 +1885,7 @@
         "extra": "enemy_illustration-40000082",
         "spine_scale": "60,60,1"
     },
-    "83": {
+    {
         "id": 83,
         "name": "enemy_illustration-10000083",
         "type": 4,
@@ -1908,7 +1908,7 @@
         "extra": "enemy_illustration-40000083",
         "spine_scale": "100,100,1"
     },
-    "84": {
+    {
         "id": 84,
         "name": "enemy_illustration-10000084",
         "type": 2,
@@ -1931,7 +1931,7 @@
         "extra": "enemy_illustration-40000084",
         "spine_scale": "40,40,1"
     },
-    "85": {
+    {
         "id": 85,
         "name": "enemy_illustration-10000085",
         "type": 2,
@@ -1954,7 +1954,7 @@
         "extra": "enemy_illustration-40000085",
         "spine_scale": "100,100,1"
     },
-    "86": {
+    {
         "id": 86,
         "name": "enemy_illustration-10000086",
         "type": 3,
@@ -1977,7 +1977,7 @@
         "extra": "enemy_illustration-40000086",
         "spine_scale": "100,100,1"
     },
-    "87": {
+    {
         "id": 87,
         "name": "enemy_illustration-10000087",
         "type": 3,
@@ -2000,7 +2000,7 @@
         "extra": "enemy_illustration-40000087",
         "spine_scale": ""
     },
-    "88": {
+    {
         "id": 88,
         "name": "enemy_illustration-10000088",
         "type": 3,
@@ -2023,7 +2023,7 @@
         "extra": "enemy_illustration-40000088",
         "spine_scale": ""
     },
-    "89": {
+    {
         "id": 89,
         "name": "enemy_illustration-10000089",
         "type": 3,
@@ -2046,7 +2046,7 @@
         "extra": "enemy_illustration-40000089",
         "spine_scale": ""
     },
-    "90": {
+    {
         "id": 90,
         "name": "enemy_illustration-10000090",
         "type": 3,
@@ -2069,7 +2069,7 @@
         "extra": "enemy_illustration-40000090",
         "spine_scale": ""
     },
-    "91": {
+    {
         "id": 91,
         "name": "enemy_illustration-10000091",
         "type": 1,
@@ -2092,7 +2092,7 @@
         "extra": "enemy_illustration-40000091",
         "spine_scale": ""
     },
-    "92": {
+    {
         "id": 92,
         "name": "enemy_illustration-10000092",
         "type": 1,
@@ -2115,7 +2115,7 @@
         "extra": "enemy_illustration-40000092",
         "spine_scale": ""
     },
-    "93": {
+    {
         "id": 93,
         "name": "enemy_illustration-10000093",
         "type": 1,
@@ -2138,7 +2138,7 @@
         "extra": "enemy_illustration-40000093",
         "spine_scale": ""
     },
-    "94": {
+    {
         "id": 94,
         "name": "enemy_illustration-10000094",
         "type": 3,
@@ -2161,7 +2161,7 @@
         "extra": "enemy_illustration-40000094",
         "spine_scale": "100,100,1"
     },
-    "95": {
+    {
         "id": 95,
         "name": "enemy_illustration-10000095",
         "type": 3,
@@ -2184,7 +2184,7 @@
         "extra": "enemy_illustration-40000095",
         "spine_scale": "85,85,1"
     },
-    "96": {
+    {
         "id": 96,
         "name": "enemy_illustration-10000096",
         "type": 4,
@@ -2207,7 +2207,7 @@
         "extra": "enemy_illustration-40000096",
         "spine_scale": "100,100,1"
     },
-    "97": {
+    {
         "id": 97,
         "name": "enemy_illustration-10000097",
         "type": 3,
@@ -2230,7 +2230,7 @@
         "extra": "enemy_illustration-40000097",
         "spine_scale": "100,100,1"
     },
-    "98": {
+    {
         "id": 98,
         "name": "enemy_illustration-10000098",
         "type": 3,
@@ -2253,7 +2253,7 @@
         "extra": "enemy_illustration-40000098",
         "spine_scale": "100,100,1"
     },
-    "99": {
+    {
         "id": 99,
         "name": "enemy_illustration-10000099",
         "type": 2,
@@ -2276,7 +2276,7 @@
         "extra": "enemy_illustration-40000099",
         "spine_scale": "100,100,1"
     },
-    "101": {
+    {
         "id": 101,
         "name": "enemy_illustration-10000101",
         "type": 3,
@@ -2299,7 +2299,7 @@
         "extra": "enemy_illustration-40000101",
         "spine_scale": "90,90,1"
     },
-    "102": {
+    {
         "id": 102,
         "name": "enemy_illustration-10000102",
         "type": 3,
@@ -2322,7 +2322,7 @@
         "extra": "enemy_illustration-40000102",
         "spine_scale": "80,80,1"
     },
-    "103": {
+    {
         "id": 103,
         "name": "enemy_illustration-10000103",
         "type": 3,
@@ -2345,7 +2345,7 @@
         "extra": "enemy_illustration-40000103",
         "spine_scale": ""
     },
-    "104": {
+    {
         "id": 104,
         "name": "enemy_illustration-10000104",
         "type": 5,
@@ -2368,7 +2368,7 @@
         "extra": "enemy_illustration-40000104",
         "spine_scale": ""
     },
-    "105": {
+    {
         "id": 105,
         "name": "enemy_illustration-10000105",
         "type": 4,
@@ -2391,7 +2391,7 @@
         "extra": "enemy_illustration-40000105",
         "spine_scale": ""
     },
-    "106": {
+    {
         "id": 106,
         "name": "enemy_illustration-10000106",
         "type": 2,
@@ -2414,7 +2414,7 @@
         "extra": "enemy_illustration-40000106",
         "spine_scale": ""
     },
-    "107": {
+    {
         "id": 107,
         "name": "enemy_illustration-10000107",
         "type": 2,
@@ -2437,7 +2437,7 @@
         "extra": "enemy_illustration-40000107",
         "spine_scale": ""
     },
-    "108": {
+    {
         "id": 108,
         "name": "enemy_illustration-10000108",
         "type": 3,
@@ -2460,7 +2460,7 @@
         "extra": "enemy_illustration-40000108",
         "spine_scale": ""
     },
-    "109": {
+    {
         "id": 109,
         "name": "enemy_illustration-10000109",
         "type": 1,
@@ -2483,7 +2483,7 @@
         "extra": "enemy_illustration-40000109",
         "spine_scale": ""
     },
-    "110": {
+    {
         "id": 110,
         "name": "enemy_illustration-10000110",
         "type": 1,
@@ -2506,7 +2506,7 @@
         "extra": "enemy_illustration-40000110",
         "spine_scale": ""
     },
-    "111": {
+    {
         "id": 111,
         "name": "enemy_illustration-10000111",
         "type": 1,
@@ -2529,7 +2529,7 @@
         "extra": "enemy_illustration-40000111",
         "spine_scale": ""
     },
-    "112": {
+    {
         "id": 112,
         "name": "enemy_illustration-10000112",
         "type": 1,
@@ -2552,7 +2552,7 @@
         "extra": "enemy_illustration-40000112",
         "spine_scale": ""
     },
-    "113": {
+    {
         "id": 113,
         "name": "enemy_illustration-10000113",
         "type": 3,
@@ -2575,7 +2575,7 @@
         "extra": "enemy_illustration-40000113",
         "spine_scale": ""
     },
-    "114": {
+    {
         "id": 114,
         "name": "enemy_illustration-10000114",
         "type": 3,
@@ -2598,7 +2598,7 @@
         "extra": "enemy_illustration-40000114",
         "spine_scale": ""
     },
-    "115": {
+    {
         "id": 115,
         "name": "enemy_illustration-10000115",
         "type": 3,
@@ -2621,7 +2621,7 @@
         "extra": "enemy_illustration-40000115",
         "spine_scale": ""
     },
-    "116": {
+    {
         "id": 116,
         "name": "enemy_illustration-10000116",
         "type": 2,
@@ -2644,7 +2644,7 @@
         "extra": "enemy_illustration-40000116",
         "spine_scale": ""
     },
-    "117": {
+    {
         "id": 117,
         "name": "enemy_illustration-10000117",
         "type": 2,
@@ -2667,7 +2667,7 @@
         "extra": "enemy_illustration-40000117",
         "spine_scale": ""
     },
-    "118": {
+    {
         "id": 118,
         "name": "enemy_illustration-10000118",
         "type": 3,
@@ -2690,7 +2690,7 @@
         "extra": "enemy_illustration-40000118",
         "spine_scale": "80,80,1"
     },
-    "119": {
+    {
         "id": 119,
         "name": "enemy_illustration-10000119",
         "type": 4,
@@ -2713,7 +2713,7 @@
         "extra": "enemy_illustration-40000119",
         "spine_scale": "50,50,1"
     },
-    "120": {
+    {
         "id": 120,
         "name": "enemy_illustration-10000120",
         "type": 3,
@@ -2736,7 +2736,7 @@
         "extra": "enemy_illustration-40000120",
         "spine_scale": "100,100,1"
     },
-    "121": {
+    {
         "id": 121,
         "name": "enemy_illustration-10000121",
         "type": 3,
@@ -2759,7 +2759,7 @@
         "extra": "enemy_illustration-40000121",
         "spine_scale": "100,100,1"
     },
-    "122": {
+    {
         "id": 122,
         "name": "enemy_illustration-10000122",
         "type": 3,
@@ -2782,7 +2782,7 @@
         "extra": "enemy_illustration-40000122",
         "spine_scale": "85,85,1"
     },
-    "123": {
+    {
         "id": 123,
         "name": "enemy_illustration-10000123",
         "type": 2,
@@ -2805,7 +2805,7 @@
         "extra": "enemy_illustration-40000123",
         "spine_scale": "40,40,1"
     },
-    "124": {
+    {
         "id": 124,
         "name": "enemy_illustration-10000124",
         "type": 2,
@@ -2828,7 +2828,7 @@
         "extra": "enemy_illustration-40000124",
         "spine_scale": "100,100,1"
     },
-    "125": {
+    {
         "id": 125,
         "name": "enemy_illustration-10000125",
         "type": 3,
@@ -2851,7 +2851,7 @@
         "extra": "enemy_illustration-40000125",
         "spine_scale": "85,85,1"
     },
-    "126": {
+    {
         "id": 126,
         "name": "enemy_illustration-10000126",
         "type": 1,
@@ -2874,7 +2874,7 @@
         "extra": "enemy_illustration-40000126",
         "spine_scale": "85,85,1"
     },
-    "127": {
+    {
         "id": 127,
         "name": "enemy_illustration-10000127",
         "type": 3,
@@ -2897,7 +2897,7 @@
         "extra": "enemy_illustration-40000127",
         "spine_scale": "100,100,1"
     },
-    "128": {
+    {
         "id": 128,
         "name": "enemy_illustration-10000128",
         "type": 3,
@@ -2920,7 +2920,7 @@
         "extra": "enemy_illustration-40000128",
         "spine_scale": "100,100,1"
     },
-    "129": {
+    {
         "id": 129,
         "name": "enemy_illustration-10000129",
         "type": 3,
@@ -2943,7 +2943,7 @@
         "extra": "enemy_illustration-40000129",
         "spine_scale": "100,100,1"
     },
-    "130": {
+    {
         "id": 130,
         "name": "enemy_illustration-10000130",
         "type": 2,
@@ -2966,7 +2966,7 @@
         "extra": "enemy_illustration-40000130",
         "spine_scale": "50,50,1"
     },
-    "131": {
+    {
         "id": 131,
         "name": "enemy_illustration-10000131",
         "type": 3,
@@ -2989,7 +2989,7 @@
         "extra": "enemy_illustration-40000131",
         "spine_scale": "100,100,1"
     },
-    "132": {
+    {
         "id": 132,
         "name": "enemy_illustration-10000132",
         "type": 5,
@@ -3012,7 +3012,7 @@
         "extra": "enemy_illustration-40000132",
         "spine_scale": "100,100,1"
     },
-    "133": {
+    {
         "id": 133,
         "name": "enemy_illustration-10000133",
         "type": 5,
@@ -3035,7 +3035,7 @@
         "extra": "enemy_illustration-40000133",
         "spine_scale": "80,80,1"
     },
-    "134": {
+    {
         "id": 134,
         "name": "enemy_illustration-10000134",
         "type": 3,
@@ -3058,7 +3058,7 @@
         "extra": "enemy_illustration-40000134",
         "spine_scale": "100,100,1"
     },
-    "135": {
+    {
         "id": 135,
         "name": "enemy_illustration-10000135",
         "type": 5,
@@ -3081,7 +3081,7 @@
         "extra": "enemy_illustration-40000135",
         "spine_scale": "85,85,1"
     },
-    "136": {
+    {
         "id": 136,
         "name": "enemy_illustration-10000136",
         "type": 1,
@@ -3104,7 +3104,7 @@
         "extra": "enemy_illustration-40000136",
         "spine_scale": "100,100,1"
     },
-    "137": {
+    {
         "id": 137,
         "name": "enemy_illustration-10000137",
         "type": 1,
@@ -3127,7 +3127,7 @@
         "extra": "enemy_illustration-40000137",
         "spine_scale": "50,50,1"
     },
-    "138": {
+    {
         "id": 138,
         "name": "enemy_illustration-10000138",
         "type": 1,
@@ -3150,7 +3150,7 @@
         "extra": "enemy_illustration-40000138",
         "spine_scale": "70,70,1"
     },
-    "139": {
+    {
         "id": 139,
         "name": "enemy_illustration-10000139",
         "type": 1,
@@ -3173,7 +3173,7 @@
         "extra": "enemy_illustration-40000139",
         "spine_scale": "60,60,1"
     },
-    "140": {
+    {
         "id": 140,
         "name": "enemy_illustration-10000140",
         "type": 1,
@@ -3196,7 +3196,7 @@
         "extra": "enemy_illustration-40000140",
         "spine_scale": "75,75,1"
     },
-    "141": {
+    {
         "id": 141,
         "name": "enemy_illustration-10000141",
         "type": 3,
@@ -3219,7 +3219,7 @@
         "extra": "enemy_illustration-40000141",
         "spine_scale": ""
     },
-    "142": {
+    {
         "id": 142,
         "name": "enemy_illustration-10000142",
         "type": 3,
@@ -3242,7 +3242,7 @@
         "extra": "enemy_illustration-40000142",
         "spine_scale": ""
     },
-    "143": {
+    {
         "id": 143,
         "name": "enemy_illustration-10000143",
         "type": 3,
@@ -3265,7 +3265,7 @@
         "extra": "enemy_illustration-40000143",
         "spine_scale": ""
     },
-    "144": {
+    {
         "id": 144,
         "name": "enemy_illustration-10000144",
         "type": 3,
@@ -3288,7 +3288,7 @@
         "extra": "enemy_illustration-40000144",
         "spine_scale": ""
     },
-    "145": {
+    {
         "id": 145,
         "name": "enemy_illustration-10000145",
         "type": 3,
@@ -3311,7 +3311,7 @@
         "extra": "enemy_illustration-40000145",
         "spine_scale": ""
     },
-    "146": {
+    {
         "id": 146,
         "name": "enemy_illustration-10000146",
         "type": 1,
@@ -3334,7 +3334,7 @@
         "extra": "enemy_illustration-40000146",
         "spine_scale": ""
     },
-    "147": {
+    {
         "id": 147,
         "name": "enemy_illustration-10000147",
         "type": 1,
@@ -3357,7 +3357,7 @@
         "extra": "enemy_illustration-40000147",
         "spine_scale": "85,85,1"
     },
-    "148": {
+    {
         "id": 148,
         "name": "enemy_illustration-10000148",
         "type": 3,
@@ -3380,7 +3380,7 @@
         "extra": "enemy_illustration-40000148",
         "spine_scale": ""
     },
-    "149": {
+    {
         "id": 149,
         "name": "enemy_illustration-10000149",
         "type": 5,
@@ -3403,7 +3403,7 @@
         "extra": "enemy_illustration-40000149",
         "spine_scale": ""
     },
-    "150": {
+    {
         "id": 150,
         "name": "enemy_illustration-10000150",
         "type": 3,
@@ -3426,7 +3426,7 @@
         "extra": "enemy_illustration-40000150",
         "spine_scale": ""
     },
-    "151": {
+    {
         "id": 151,
         "name": "enemy_illustration-10000151",
         "type": 3,
@@ -3449,7 +3449,7 @@
         "extra": "enemy_illustration-40000151",
         "spine_scale": ""
     },
-    "152": {
+    {
         "id": 152,
         "name": "enemy_illustration-10000152",
         "type": 2,
@@ -3472,7 +3472,7 @@
         "extra": "enemy_illustration-40000152",
         "spine_scale": ""
     },
-    "153": {
+    {
         "id": 153,
         "name": "enemy_illustration-10000153",
         "type": 3,
@@ -3495,7 +3495,7 @@
         "extra": "enemy_illustration-40000153",
         "spine_scale": ""
     },
-    "154": {
+    {
         "id": 154,
         "name": "enemy_illustration-10000154",
         "type": 1,
@@ -3518,7 +3518,7 @@
         "extra": "enemy_illustration-40000154",
         "spine_scale": ""
     },
-    "155": {
+    {
         "id": 155,
         "name": "enemy_illustration-10000155",
         "type": 1,
@@ -3541,7 +3541,7 @@
         "extra": "enemy_illustration-40000155",
         "spine_scale": ""
     },
-    "156": {
+    {
         "id": 156,
         "name": "enemy_illustration-10000156",
         "type": 1,
@@ -3564,7 +3564,7 @@
         "extra": "enemy_illustration-40000156",
         "spine_scale": ""
     },
-    "157": {
+    {
         "id": 157,
         "name": "enemy_illustration-10000157",
         "type": 1,
@@ -3587,7 +3587,7 @@
         "extra": "enemy_illustration-40000157",
         "spine_scale": "85,85,1"
     },
-    "158": {
+    {
         "id": 158,
         "name": "enemy_illustration-10000158",
         "type": 2,
@@ -3610,7 +3610,7 @@
         "extra": "enemy_illustration-40000158",
         "spine_scale": "100,100,1"
     },
-    "159": {
+    {
         "id": 159,
         "name": "enemy_illustration-10000159",
         "type": 2,
@@ -3633,7 +3633,7 @@
         "extra": "enemy_illustration-40000159",
         "spine_scale": "100,100,1"
     },
-    "160": {
+    {
         "id": 160,
         "name": "enemy_illustration-10000160",
         "type": 2,
@@ -3656,7 +3656,7 @@
         "extra": "enemy_illustration-40000160",
         "spine_scale": "100,100,1"
     },
-    "161": {
+    {
         "id": 161,
         "name": "enemy_illustration-10000161",
         "type": 2,
@@ -3679,7 +3679,7 @@
         "extra": "enemy_illustration-40000161",
         "spine_scale": "100,100,1"
     },
-    "162": {
+    {
         "id": 162,
         "name": "enemy_illustration-10000162",
         "type": 1,
@@ -3702,7 +3702,7 @@
         "extra": "enemy_illustration-40000162",
         "spine_scale": "70,70,1"
     },
-    "100001": {
+    {
         "id": 100001,
         "name": "enemy_illustration-10100001",
         "type": 1,
@@ -3725,7 +3725,7 @@
         "extra": "enemy_illustration-40100001",
         "spine_scale": ""
     },
-    "100011": {
+    {
         "id": 100011,
         "name": "enemy_illustration-10100011",
         "type": 3,
@@ -3748,7 +3748,7 @@
         "extra": "enemy_illustration-40100011",
         "spine_scale": ""
     },
-    "100012": {
+    {
         "id": 100012,
         "name": "enemy_illustration-10100012",
         "type": 3,
@@ -3771,7 +3771,7 @@
         "extra": "enemy_illustration-40100012",
         "spine_scale": ""
     },
-    "100013": {
+    {
         "id": 100013,
         "name": "enemy_illustration-10100013",
         "type": 3,
@@ -3794,7 +3794,7 @@
         "extra": "enemy_illustration-40100013",
         "spine_scale": ""
     },
-    "100014": {
+    {
         "id": 100014,
         "name": "enemy_illustration-10100014",
         "type": 3,
@@ -3817,7 +3817,7 @@
         "extra": "enemy_illustration-40100014",
         "spine_scale": ""
     },
-    "100015": {
+    {
         "id": 100015,
         "name": "enemy_illustration-10100015",
         "type": 3,
@@ -3840,7 +3840,7 @@
         "extra": "enemy_illustration-40100015",
         "spine_scale": ""
     },
-    "100016": {
+    {
         "id": 100016,
         "name": "enemy_illustration-10100016",
         "type": 3,
@@ -3863,7 +3863,7 @@
         "extra": "enemy_illustration-40100016",
         "spine_scale": ""
     },
-    "100017": {
+    {
         "id": 100017,
         "name": "enemy_illustration-10100017",
         "type": 3,
@@ -3886,7 +3886,7 @@
         "extra": "enemy_illustration-40100017",
         "spine_scale": ""
     },
-    "100018": {
+    {
         "id": 100018,
         "name": "enemy_illustration-10100018",
         "type": 3,
@@ -3909,7 +3909,7 @@
         "extra": "enemy_illustration-40100018",
         "spine_scale": ""
     },
-    "100019": {
+    {
         "id": 100019,
         "name": "enemy_illustration-10100019",
         "type": 3,
@@ -3932,7 +3932,7 @@
         "extra": "enemy_illustration-40100019",
         "spine_scale": ""
     },
-    "100020": {
+    {
         "id": 100020,
         "name": "enemy_illustration-10100020",
         "type": 3,
@@ -3955,7 +3955,7 @@
         "extra": "enemy_illustration-40100020",
         "spine_scale": ""
     },
-    "100021": {
+    {
         "id": 100021,
         "name": "enemy_illustration-10100021",
         "type": 1,
@@ -3978,7 +3978,7 @@
         "extra": "enemy_illustration-40100021",
         "spine_scale": ""
     },
-    "100022": {
+    {
         "id": 100022,
         "name": "enemy_illustration-10100022",
         "type": 1,
@@ -4001,7 +4001,7 @@
         "extra": "enemy_illustration-40100022",
         "spine_scale": ""
     },
-    "100023": {
+    {
         "id": 100023,
         "name": "enemy_illustration-10100023",
         "type": 1,
@@ -4024,7 +4024,7 @@
         "extra": "enemy_illustration-40100023",
         "spine_scale": ""
     },
-    "100024": {
+    {
         "id": 100024,
         "name": "enemy_illustration-10100024",
         "type": 1,
@@ -4047,7 +4047,7 @@
         "extra": "enemy_illustration-40100024",
         "spine_scale": ""
     },
-    "100025": {
+    {
         "id": 100025,
         "name": "enemy_illustration-10100025",
         "type": 1,
@@ -4070,7 +4070,7 @@
         "extra": "enemy_illustration-40100025",
         "spine_scale": ""
     },
-    "100026": {
+    {
         "id": 100026,
         "name": "enemy_illustration-10100026",
         "type": 1,
@@ -4093,7 +4093,7 @@
         "extra": "enemy_illustration-40100026",
         "spine_scale": ""
     },
-    "100027": {
+    {
         "id": 100027,
         "name": "enemy_illustration-10100027",
         "type": 1,
@@ -4116,7 +4116,7 @@
         "extra": "enemy_illustration-40100027",
         "spine_scale": ""
     },
-    "100028": {
+    {
         "id": 100028,
         "name": "enemy_illustration-10100028",
         "type": 3,
@@ -4139,7 +4139,7 @@
         "extra": "enemy_illustration-40100028",
         "spine_scale": ""
     },
-    "100029": {
+    {
         "id": 100029,
         "name": "enemy_illustration-10100029",
         "type": 3,
@@ -4162,7 +4162,7 @@
         "extra": "enemy_illustration-40100029",
         "spine_scale": ""
     },
-    "100030": {
+    {
         "id": 100030,
         "name": "enemy_illustration-10100030",
         "type": 3,
@@ -4185,7 +4185,7 @@
         "extra": "enemy_illustration-40100030",
         "spine_scale": ""
     },
-    "100031": {
+    {
         "id": 100031,
         "name": "enemy_illustration-10100031",
         "type": 3,
@@ -4208,7 +4208,7 @@
         "extra": "enemy_illustration-40100031",
         "spine_scale": ""
     },
-    "100032": {
+    {
         "id": 100032,
         "name": "enemy_illustration-10100032",
         "type": 3,
@@ -4231,7 +4231,7 @@
         "extra": "enemy_illustration-40100032",
         "spine_scale": ""
     },
-    "100033": {
+    {
         "id": 100033,
         "name": "enemy_illustration-10100033",
         "type": 3,
@@ -4254,7 +4254,7 @@
         "extra": "enemy_illustration-40100033",
         "spine_scale": ""
     },
-    "100034": {
+    {
         "id": 100034,
         "name": "enemy_illustration-10100034",
         "type": 1,
@@ -4277,7 +4277,7 @@
         "extra": "enemy_illustration-40100034",
         "spine_scale": ""
     },
-    "100035": {
+    {
         "id": 100035,
         "name": "enemy_illustration-10100035",
         "type": 1,
@@ -4300,7 +4300,7 @@
         "extra": "enemy_illustration-40100035",
         "spine_scale": ""
     },
-    "100082": {
+    {
         "id": 100082,
         "name": "enemy_illustration-10100082",
         "type": 3,
@@ -4323,7 +4323,7 @@
         "extra": "enemy_illustration-40100082",
         "spine_scale": ""
     },
-    "100083": {
+    {
         "id": 100083,
         "name": "enemy_illustration-10100083",
         "type": 4,
@@ -4346,4 +4346,4 @@
         "extra": "enemy_illustration-40100083",
         "spine_scale": ""
     }
-}
+]

@@ -1,5 +1,5 @@
-{
-    "10101": {
+[
+    {
         "id": 10101,
         "code": "ChipIcons_01",
         "chip_up_exp": 1,
@@ -30,7 +30,7 @@
         "ai_skill": "",
         "cutin_animation_duration": 0.0
     },
-    "10102": {
+    {
         "id": 10102,
         "code": "ChipIcons_01",
         "chip_up_exp": 0,
@@ -61,7 +61,7 @@
         "ai_skill": "",
         "cutin_animation_duration": 0.0
     },
-    "10201": {
+    {
         "id": 10201,
         "code": "ChipIcons_14",
         "chip_up_exp": 1,
@@ -92,7 +92,7 @@
         "ai_skill": "",
         "cutin_animation_duration": 0.0
     },
-    "10202": {
+    {
         "id": 10202,
         "code": "ChipIcons_14",
         "chip_up_exp": 0,
@@ -123,7 +123,7 @@
         "ai_skill": "",
         "cutin_animation_duration": 0.0
     },
-    "10301": {
+    {
         "id": 10301,
         "code": "ChipIcons_15",
         "chip_up_exp": 1,
@@ -154,7 +154,7 @@
         "ai_skill": "",
         "cutin_animation_duration": 0.0
     },
-    "10302": {
+    {
         "id": 10302,
         "code": "ChipIcons_15",
         "chip_up_exp": 0,
@@ -185,7 +185,7 @@
         "ai_skill": "",
         "cutin_animation_duration": 0.0
     },
-    "10801": {
+    {
         "id": 10801,
         "code": "ChipIcons_35",
         "chip_up_exp": 1,
@@ -216,7 +216,7 @@
         "ai_skill": "",
         "cutin_animation_duration": 0.0
     },
-    "10802": {
+    {
         "id": 10802,
         "code": "ChipIcons_35",
         "chip_up_exp": 0,
@@ -247,7 +247,7 @@
         "ai_skill": "",
         "cutin_animation_duration": 0.0
     },
-    "12501": {
+    {
         "id": 12501,
         "code": "ChipIcons_50",
         "chip_up_exp": 1,
@@ -278,7 +278,7 @@
         "ai_skill": "",
         "cutin_animation_duration": 0.0
     },
-    "12502": {
+    {
         "id": 12502,
         "code": "ChipIcons_50",
         "chip_up_exp": 0,
@@ -309,7 +309,7 @@
         "ai_skill": "",
         "cutin_animation_duration": 0.0
     },
-    "12601": {
+    {
         "id": 12601,
         "code": "ChipIcons_28",
         "chip_up_exp": 1,
@@ -340,7 +340,7 @@
         "ai_skill": "",
         "cutin_animation_duration": 0.0
     },
-    "12602": {
+    {
         "id": 12602,
         "code": "ChipIcons_28",
         "chip_up_exp": 0,
@@ -371,7 +371,7 @@
         "ai_skill": "",
         "cutin_animation_duration": 0.0
     },
-    "13001": {
+    {
         "id": 13001,
         "code": "ChipIcons_37",
         "chip_up_exp": 1,
@@ -402,7 +402,7 @@
         "ai_skill": "",
         "cutin_animation_duration": 0.0
     },
-    "13002": {
+    {
         "id": 13002,
         "code": "ChipIcons_37",
         "chip_up_exp": 0,
@@ -433,7 +433,7 @@
         "ai_skill": "",
         "cutin_animation_duration": 0.0
     },
-    "13301": {
+    {
         "id": 13301,
         "code": "ChipIcons_18",
         "chip_up_exp": 1,
@@ -464,7 +464,7 @@
         "ai_skill": "",
         "cutin_animation_duration": 0.0
     },
-    "13302": {
+    {
         "id": 13302,
         "code": "ChipIcons_18",
         "chip_up_exp": 0,
@@ -495,7 +495,7 @@
         "ai_skill": "",
         "cutin_animation_duration": 0.0
     },
-    "14001": {
+    {
         "id": 14001,
         "code": "ChipIcons_20",
         "chip_up_exp": 1,
@@ -526,7 +526,7 @@
         "ai_skill": "",
         "cutin_animation_duration": 0.0
     },
-    "14002": {
+    {
         "id": 14002,
         "code": "ChipIcons_20",
         "chip_up_exp": 0,
@@ -557,7 +557,7 @@
         "ai_skill": "",
         "cutin_animation_duration": 0.0
     },
-    "14301": {
+    {
         "id": 14301,
         "code": "ChipIcons_21",
         "chip_up_exp": 1,
@@ -588,7 +588,7 @@
         "ai_skill": "",
         "cutin_animation_duration": 0.0
     },
-    "14302": {
+    {
         "id": 14302,
         "code": "ChipIcons_21",
         "chip_up_exp": 0,
@@ -619,7 +619,7 @@
         "ai_skill": "",
         "cutin_animation_duration": 0.0
     },
-    "14601": {
+    {
         "id": 14601,
         "code": "Item_Icon_1",
         "chip_up_exp": 1,
@@ -650,7 +650,7 @@
         "ai_skill": "",
         "cutin_animation_duration": 0.0
     },
-    "14701": {
+    {
         "id": 14701,
         "code": "ChipIcons_31",
         "chip_up_exp": 1,
@@ -681,7 +681,7 @@
         "ai_skill": "",
         "cutin_animation_duration": 0.0
     },
-    "14702": {
+    {
         "id": 14702,
         "code": "ChipIcons_31",
         "chip_up_exp": 0,
@@ -712,7 +712,7 @@
         "ai_skill": "",
         "cutin_animation_duration": 0.0
     },
-    "14801": {
+    {
         "id": 14801,
         "code": "ChipIcons_33",
         "chip_up_exp": 1,
@@ -743,7 +743,7 @@
         "ai_skill": "",
         "cutin_animation_duration": 0.0
     },
-    "14802": {
+    {
         "id": 14802,
         "code": "ChipIcons_33",
         "chip_up_exp": 0,
@@ -774,7 +774,7 @@
         "ai_skill": "",
         "cutin_animation_duration": 0.0
     },
-    "14901": {
+    {
         "id": 14901,
         "code": "Item_Icon_3",
         "chip_up_exp": 1,
@@ -805,7 +805,7 @@
         "ai_skill": "",
         "cutin_animation_duration": 0.0
     },
-    "15001": {
+    {
         "id": 15001,
         "code": "ChipIcons_34",
         "chip_up_exp": 1,
@@ -836,7 +836,7 @@
         "ai_skill": "",
         "cutin_animation_duration": 0.0
     },
-    "15002": {
+    {
         "id": 15002,
         "code": "ChipIcons_34",
         "chip_up_exp": 0,
@@ -867,7 +867,7 @@
         "ai_skill": "",
         "cutin_animation_duration": 0.0
     },
-    "15301": {
+    {
         "id": 15301,
         "code": "ChipIcons_49",
         "chip_up_exp": 1,
@@ -898,7 +898,7 @@
         "ai_skill": "",
         "cutin_animation_duration": 0.0
     },
-    "15302": {
+    {
         "id": 15302,
         "code": "ChipIcons_49",
         "chip_up_exp": 0,
@@ -929,7 +929,7 @@
         "ai_skill": "",
         "cutin_animation_duration": 0.0
     },
-    "15401": {
+    {
         "id": 15401,
         "code": "Item_Icon_2",
         "chip_up_exp": 1,
@@ -960,7 +960,7 @@
         "ai_skill": "",
         "cutin_animation_duration": 0.0
     },
-    "15601": {
+    {
         "id": 15601,
         "code": "ChipIcons_07",
         "chip_up_exp": 1,
@@ -991,7 +991,7 @@
         "ai_skill": "",
         "cutin_animation_duration": 0.0
     },
-    "15602": {
+    {
         "id": 15602,
         "code": "ChipIcons_07",
         "chip_up_exp": 0,
@@ -1022,7 +1022,7 @@
         "ai_skill": "",
         "cutin_animation_duration": 0.0
     },
-    "15801": {
+    {
         "id": 15801,
         "code": "ChipNewIcons_6",
         "chip_up_exp": 1,
@@ -1053,7 +1053,7 @@
         "ai_skill": "",
         "cutin_animation_duration": 0.0
     },
-    "15802": {
+    {
         "id": 15802,
         "code": "ChipNewIcons_6",
         "chip_up_exp": 0,
@@ -1084,7 +1084,7 @@
         "ai_skill": "",
         "cutin_animation_duration": 0.0
     },
-    "16101": {
+    {
         "id": 16101,
         "code": "ChipNewIcons_10",
         "chip_up_exp": 1,
@@ -1115,7 +1115,7 @@
         "ai_skill": "",
         "cutin_animation_duration": 0.0
     },
-    "16102": {
+    {
         "id": 16102,
         "code": "ChipNewIcons_10",
         "chip_up_exp": 0,
@@ -1146,7 +1146,7 @@
         "ai_skill": "",
         "cutin_animation_duration": 0.0
     },
-    "16501": {
+    {
         "id": 16501,
         "code": "ChipNewIcons_14",
         "chip_up_exp": 1,
@@ -1177,7 +1177,7 @@
         "ai_skill": "",
         "cutin_animation_duration": 0.0
     },
-    "16502": {
+    {
         "id": 16502,
         "code": "ChipNewIcons_14",
         "chip_up_exp": 0,
@@ -1208,7 +1208,7 @@
         "ai_skill": "",
         "cutin_animation_duration": 0.0
     },
-    "16601": {
+    {
         "id": 16601,
         "code": "ChipNewIcons_15",
         "chip_up_exp": 1,
@@ -1239,7 +1239,7 @@
         "ai_skill": "",
         "cutin_animation_duration": 0.0
     },
-    "16602": {
+    {
         "id": 16602,
         "code": "ChipNewIcons_15",
         "chip_up_exp": 0,
@@ -1270,7 +1270,7 @@
         "ai_skill": "",
         "cutin_animation_duration": 0.0
     },
-    "16701": {
+    {
         "id": 16701,
         "code": "ChipNewIcons_16",
         "chip_up_exp": 1,
@@ -1301,7 +1301,7 @@
         "ai_skill": "",
         "cutin_animation_duration": 0.0
     },
-    "16702": {
+    {
         "id": 16702,
         "code": "ChipNewIcons_16",
         "chip_up_exp": 0,
@@ -1332,7 +1332,7 @@
         "ai_skill": "",
         "cutin_animation_duration": 0.0
     },
-    "16901": {
+    {
         "id": 16901,
         "code": "ChipNewIcons_26",
         "chip_up_exp": 1,
@@ -1363,7 +1363,7 @@
         "ai_skill": "",
         "cutin_animation_duration": 0.0
     },
-    "16902": {
+    {
         "id": 16902,
         "code": "ChipNewIcons_26",
         "chip_up_exp": 0,
@@ -1394,7 +1394,7 @@
         "ai_skill": "",
         "cutin_animation_duration": 0.0
     },
-    "17001": {
+    {
         "id": 17001,
         "code": "ChipNewIcons_28",
         "chip_up_exp": 1,
@@ -1425,7 +1425,7 @@
         "ai_skill": "",
         "cutin_animation_duration": 0.0
     },
-    "17002": {
+    {
         "id": 17002,
         "code": "ChipNewIcons_28",
         "chip_up_exp": 0,
@@ -1456,7 +1456,7 @@
         "ai_skill": "",
         "cutin_animation_duration": 0.0
     },
-    "17101": {
+    {
         "id": 17101,
         "code": "ChipNewIcons_29",
         "chip_up_exp": 1,
@@ -1487,7 +1487,7 @@
         "ai_skill": "",
         "cutin_animation_duration": 0.0
     },
-    "17102": {
+    {
         "id": 17102,
         "code": "ChipNewIcons_29",
         "chip_up_exp": 0,
@@ -1518,7 +1518,7 @@
         "ai_skill": "",
         "cutin_animation_duration": 0.0
     },
-    "17201": {
+    {
         "id": 17201,
         "code": "ChipIcons_26",
         "chip_up_exp": 1,
@@ -1549,7 +1549,7 @@
         "ai_skill": "",
         "cutin_animation_duration": 0.0
     },
-    "17202": {
+    {
         "id": 17202,
         "code": "ChipIcons_26",
         "chip_up_exp": 0,
@@ -1580,7 +1580,7 @@
         "ai_skill": "",
         "cutin_animation_duration": 0.0
     },
-    "17301": {
+    {
         "id": 17301,
         "code": "ChipNewIcons_31",
         "chip_up_exp": 1,
@@ -1611,7 +1611,7 @@
         "ai_skill": "",
         "cutin_animation_duration": 0.0
     },
-    "17302": {
+    {
         "id": 17302,
         "code": "ChipNewIcons_31",
         "chip_up_exp": 0,
@@ -1642,7 +1642,7 @@
         "ai_skill": "",
         "cutin_animation_duration": 0.0
     },
-    "17501": {
+    {
         "id": 17501,
         "code": "ChipNewIcons_37",
         "chip_up_exp": 1,
@@ -1673,7 +1673,7 @@
         "ai_skill": "",
         "cutin_animation_duration": 0.0
     },
-    "17502": {
+    {
         "id": 17502,
         "code": "ChipNewIcons_37",
         "chip_up_exp": 0,
@@ -1704,7 +1704,7 @@
         "ai_skill": "",
         "cutin_animation_duration": 0.0
     },
-    "17601": {
+    {
         "id": 17601,
         "code": "ChipNewIcons_38",
         "chip_up_exp": 1,
@@ -1735,7 +1735,7 @@
         "ai_skill": "",
         "cutin_animation_duration": 0.0
     },
-    "17602": {
+    {
         "id": 17602,
         "code": "ChipNewIcons_38",
         "chip_up_exp": 0,
@@ -1766,7 +1766,7 @@
         "ai_skill": "",
         "cutin_animation_duration": 0.0
     },
-    "17701": {
+    {
         "id": 17701,
         "code": "ChipNewIcons_39",
         "chip_up_exp": 1,
@@ -1797,7 +1797,7 @@
         "ai_skill": "",
         "cutin_animation_duration": 0.0
     },
-    "17702": {
+    {
         "id": 17702,
         "code": "ChipNewIcons_39",
         "chip_up_exp": 0,
@@ -1828,7 +1828,7 @@
         "ai_skill": "",
         "cutin_animation_duration": 0.0
     },
-    "17801": {
+    {
         "id": 17801,
         "code": "ChipNewIcons_44",
         "chip_up_exp": 1,
@@ -1859,7 +1859,7 @@
         "ai_skill": "",
         "cutin_animation_duration": 0.0
     },
-    "17802": {
+    {
         "id": 17802,
         "code": "ChipNewIcons_44",
         "chip_up_exp": 0,
@@ -1890,7 +1890,7 @@
         "ai_skill": "",
         "cutin_animation_duration": 0.0
     },
-    "17901": {
+    {
         "id": 17901,
         "code": "ChipIcons_38",
         "chip_up_exp": 1,
@@ -1921,7 +1921,7 @@
         "ai_skill": "",
         "cutin_animation_duration": 0.0
     },
-    "17902": {
+    {
         "id": 17902,
         "code": "ChipIcons_38",
         "chip_up_exp": 0,
@@ -1952,7 +1952,7 @@
         "ai_skill": "",
         "cutin_animation_duration": 0.0
     },
-    "18201": {
+    {
         "id": 18201,
         "code": "ChipNewIcons_53",
         "chip_up_exp": 0,
@@ -1983,7 +1983,7 @@
         "ai_skill": "",
         "cutin_animation_duration": 0.0
     },
-    "18301": {
+    {
         "id": 18301,
         "code": "ChipNewIcons_54",
         "chip_up_exp": 0,
@@ -2014,7 +2014,7 @@
         "ai_skill": "",
         "cutin_animation_duration": 0.0
     },
-    "18401": {
+    {
         "id": 18401,
         "code": "ChipNewIcons_55",
         "chip_up_exp": 0,
@@ -2045,7 +2045,7 @@
         "ai_skill": "",
         "cutin_animation_duration": 0.0
     },
-    "18501": {
+    {
         "id": 18501,
         "code": "ChipNewIcons_56",
         "chip_up_exp": 0,
@@ -2076,7 +2076,7 @@
         "ai_skill": "",
         "cutin_animation_duration": 0.0
     },
-    "18601": {
+    {
         "id": 18601,
         "code": "ChipNewIcons_57",
         "chip_up_exp": 0,
@@ -2107,7 +2107,7 @@
         "ai_skill": "",
         "cutin_animation_duration": 0.0
     },
-    "18701": {
+    {
         "id": 18701,
         "code": "ChipNewIcons_61",
         "chip_up_exp": 1,
@@ -2138,7 +2138,7 @@
         "ai_skill": "",
         "cutin_animation_duration": 0.0
     },
-    "18702": {
+    {
         "id": 18702,
         "code": "ChipNewIcons_61",
         "chip_up_exp": 0,
@@ -2169,7 +2169,7 @@
         "ai_skill": "",
         "cutin_animation_duration": 0.0
     },
-    "18901": {
+    {
         "id": 18901,
         "code": "ChipNewIcons_64",
         "chip_up_exp": 1,
@@ -2200,7 +2200,7 @@
         "ai_skill": "",
         "cutin_animation_duration": 0.0
     },
-    "18902": {
+    {
         "id": 18902,
         "code": "ChipNewIcons_64",
         "chip_up_exp": 0,
@@ -2231,7 +2231,7 @@
         "ai_skill": "",
         "cutin_animation_duration": 0.0
     },
-    "19001": {
+    {
         "id": 19001,
         "code": "Item_Icon_4",
         "chip_up_exp": 0,
@@ -2262,7 +2262,7 @@
         "ai_skill": "",
         "cutin_animation_duration": 0.0
     },
-    "19101": {
+    {
         "id": 19101,
         "code": "Item_Icon_5",
         "chip_up_exp": 0,
@@ -2293,7 +2293,7 @@
         "ai_skill": "",
         "cutin_animation_duration": 0.0
     },
-    "19201": {
+    {
         "id": 19201,
         "code": "Item_Icon_6",
         "chip_up_exp": 0,
@@ -2324,7 +2324,7 @@
         "ai_skill": "",
         "cutin_animation_duration": 0.0
     },
-    "19301": {
+    {
         "id": 19301,
         "code": "Item_Icon_7",
         "chip_up_exp": 0,
@@ -2355,7 +2355,7 @@
         "ai_skill": "",
         "cutin_animation_duration": 0.0
     },
-    "19401": {
+    {
         "id": 19401,
         "code": "Item_Icon_8",
         "chip_up_exp": 0,
@@ -2386,7 +2386,7 @@
         "ai_skill": "",
         "cutin_animation_duration": 0.0
     },
-    "19901": {
+    {
         "id": 19901,
         "code": "ChipNewIcons_52",
         "chip_up_exp": 1,
@@ -2417,7 +2417,7 @@
         "ai_skill": "",
         "cutin_animation_duration": 0.0
     },
-    "19902": {
+    {
         "id": 19902,
         "code": "ChipNewIcons_52",
         "chip_up_exp": 0,
@@ -2448,7 +2448,7 @@
         "ai_skill": "",
         "cutin_animation_duration": 0.0
     },
-    "20101": {
+    {
         "id": 20101,
         "code": "GunSkill_1",
         "chip_up_exp": 0,
@@ -2479,7 +2479,7 @@
         "ai_skill": "2010101,2080101",
         "cutin_animation_duration": 0.0
     },
-    "20201": {
+    {
         "id": 20201,
         "code": "GunSkill_4",
         "chip_up_exp": 0,
@@ -2510,7 +2510,7 @@
         "ai_skill": "2020101",
         "cutin_animation_duration": 0.0
     },
-    "20301": {
+    {
         "id": 20301,
         "code": "GunSkill_3",
         "chip_up_exp": 0,
@@ -2541,7 +2541,7 @@
         "ai_skill": "2050101,2060101,2070101,2090101,2100101,2110101,2120101,2130101,2140101",
         "cutin_animation_duration": 0.0
     },
-    "20401": {
+    {
         "id": 20401,
         "code": "GunSkill_2",
         "chip_up_exp": 0,
@@ -2572,7 +2572,7 @@
         "ai_skill": "2040101",
         "cutin_animation_duration": 0.0
     },
-    "30101": {
+    {
         "id": 30101,
         "code": "TechSkill_1",
         "chip_up_exp": 0,
@@ -2603,7 +2603,7 @@
         "ai_skill": "",
         "cutin_animation_duration": 0.0
     },
-    "30201": {
+    {
         "id": 30201,
         "code": "TechSkill_2",
         "chip_up_exp": 0,
@@ -2634,7 +2634,7 @@
         "ai_skill": "3020101",
         "cutin_animation_duration": 0.0
     },
-    "30301": {
+    {
         "id": 30301,
         "code": "TechSkill_3",
         "chip_up_exp": 0,
@@ -2665,7 +2665,7 @@
         "ai_skill": "30322,30323,30324,30325,30326,30327,30328,30329,30330,30331,30332,30333,30334,30335,30336,30337,30338,30339",
         "cutin_animation_duration": 0.0
     },
-    "30401": {
+    {
         "id": 30401,
         "code": "TechSkill_4",
         "chip_up_exp": 0,
@@ -2696,7 +2696,7 @@
         "ai_skill": "3050101",
         "cutin_animation_duration": 0.0
     },
-    "30501": {
+    {
         "id": 30501,
         "code": "TechSkill_16lab",
         "chip_up_exp": 0,
@@ -2727,7 +2727,7 @@
         "ai_skill": "3090101,3100101,3110101,3120101",
         "cutin_animation_duration": 0.5
     },
-    "60201": {
+    {
         "id": 60201,
         "code": "ChipIconsNew1_03",
         "chip_up_exp": 1,
@@ -2758,7 +2758,7 @@
         "ai_skill": "",
         "cutin_animation_duration": 0.0
     },
-    "60202": {
+    {
         "id": 60202,
         "code": "ChipIconsNew1_03",
         "chip_up_exp": 0,
@@ -2789,7 +2789,7 @@
         "ai_skill": "",
         "cutin_animation_duration": 0.0
     },
-    "60301": {
+    {
         "id": 60301,
         "code": "Item_运兵站",
         "chip_up_exp": 0,
@@ -2820,7 +2820,7 @@
         "ai_skill": "",
         "cutin_animation_duration": 0.0
     },
-    "60501": {
+    {
         "id": 60501,
         "code": "Item_备用配件",
         "chip_up_exp": 0,
@@ -2851,7 +2851,7 @@
         "ai_skill": "",
         "cutin_animation_duration": 0.0
     },
-    "60601": {
+    {
         "id": 60601,
         "code": "Item_运输载具",
         "chip_up_exp": 0,
@@ -2882,7 +2882,7 @@
         "ai_skill": "",
         "cutin_animation_duration": 0.0
     },
-    "60701": {
+    {
         "id": 60701,
         "code": "ChipIcons_05",
         "chip_up_exp": 1,
@@ -2913,7 +2913,7 @@
         "ai_skill": "",
         "cutin_animation_duration": 0.0
     },
-    "60702": {
+    {
         "id": 60702,
         "code": "ChipIcons_05",
         "chip_up_exp": 0,
@@ -2944,7 +2944,7 @@
         "ai_skill": "",
         "cutin_animation_duration": 0.0
     },
-    "60801": {
+    {
         "id": 60801,
         "code": "ChipNewIcons_11",
         "chip_up_exp": 1,
@@ -2975,7 +2975,7 @@
         "ai_skill": "",
         "cutin_animation_duration": 0.0
     },
-    "60802": {
+    {
         "id": 60802,
         "code": "ChipNewIcons_11",
         "chip_up_exp": 0,
@@ -3006,7 +3006,7 @@
         "ai_skill": "",
         "cutin_animation_duration": 0.0
     },
-    "60901": {
+    {
         "id": 60901,
         "code": "ChipIconsNew1_01",
         "chip_up_exp": 1,
@@ -3037,7 +3037,7 @@
         "ai_skill": "",
         "cutin_animation_duration": 0.0
     },
-    "60902": {
+    {
         "id": 60902,
         "code": "ChipIconsNew1_01",
         "chip_up_exp": 0,
@@ -3068,7 +3068,7 @@
         "ai_skill": "",
         "cutin_animation_duration": 0.0
     },
-    "61001": {
+    {
         "id": 61001,
         "code": "ChipIconsNew1_10",
         "chip_up_exp": 1,
@@ -3099,7 +3099,7 @@
         "ai_skill": "",
         "cutin_animation_duration": 0.0
     },
-    "61002": {
+    {
         "id": 61002,
         "code": "ChipIconsNew1_10",
         "chip_up_exp": 0,
@@ -3130,7 +3130,7 @@
         "ai_skill": "",
         "cutin_animation_duration": 0.0
     },
-    "61101": {
+    {
         "id": 61101,
         "code": "ChipIconsNew1_11",
         "chip_up_exp": 1,
@@ -3161,7 +3161,7 @@
         "ai_skill": "",
         "cutin_animation_duration": 0.0
     },
-    "61102": {
+    {
         "id": 61102,
         "code": "ChipIconsNew1_11",
         "chip_up_exp": 0,
@@ -3192,7 +3192,7 @@
         "ai_skill": "",
         "cutin_animation_duration": 0.0
     },
-    "61201": {
+    {
         "id": 61201,
         "code": "ChipIconsNew1_12",
         "chip_up_exp": 1,
@@ -3223,7 +3223,7 @@
         "ai_skill": "",
         "cutin_animation_duration": 0.0
     },
-    "61202": {
+    {
         "id": 61202,
         "code": "ChipIconsNew1_12",
         "chip_up_exp": 0,
@@ -3254,7 +3254,7 @@
         "ai_skill": "",
         "cutin_animation_duration": 0.0
     },
-    "61301": {
+    {
         "id": 61301,
         "code": "Item_Icon_6",
         "chip_up_exp": 0,
@@ -3285,7 +3285,7 @@
         "ai_skill": "",
         "cutin_animation_duration": 0.0
     },
-    "61401": {
+    {
         "id": 61401,
         "code": "Item_Icon_6",
         "chip_up_exp": 0,
@@ -3316,7 +3316,7 @@
         "ai_skill": "",
         "cutin_animation_duration": 0.0
     },
-    "61501": {
+    {
         "id": 61501,
         "code": "ChipIconsNew1_13",
         "chip_up_exp": 1,
@@ -3347,7 +3347,7 @@
         "ai_skill": "",
         "cutin_animation_duration": 0.0
     },
-    "61502": {
+    {
         "id": 61502,
         "code": "ChipIconsNew1_13",
         "chip_up_exp": 0,
@@ -3378,7 +3378,7 @@
         "ai_skill": "",
         "cutin_animation_duration": 0.0
     },
-    "61601": {
+    {
         "id": 61601,
         "code": "ChipIconsNew1_14",
         "chip_up_exp": 1,
@@ -3409,7 +3409,7 @@
         "ai_skill": "",
         "cutin_animation_duration": 0.0
     },
-    "61602": {
+    {
         "id": 61602,
         "code": "ChipIconsNew1_14",
         "chip_up_exp": 0,
@@ -3440,7 +3440,7 @@
         "ai_skill": "",
         "cutin_animation_duration": 0.0
     },
-    "61701": {
+    {
         "id": 61701,
         "code": "ChipIconsNew1_15",
         "chip_up_exp": 1,
@@ -3471,7 +3471,7 @@
         "ai_skill": "",
         "cutin_animation_duration": 0.0
     },
-    "61702": {
+    {
         "id": 61702,
         "code": "ChipIconsNew1_15",
         "chip_up_exp": 0,
@@ -3502,7 +3502,7 @@
         "ai_skill": "",
         "cutin_animation_duration": 0.0
     },
-    "61801": {
+    {
         "id": 61801,
         "code": "ChipIconsNew1_16",
         "chip_up_exp": 1,
@@ -3533,7 +3533,7 @@
         "ai_skill": "",
         "cutin_animation_duration": 0.0
     },
-    "61802": {
+    {
         "id": 61802,
         "code": "ChipIconsNew1_16",
         "chip_up_exp": 0,
@@ -3564,7 +3564,7 @@
         "ai_skill": "",
         "cutin_animation_duration": 0.0
     },
-    "61901": {
+    {
         "id": 61901,
         "code": "ChipIconsNew1_17",
         "chip_up_exp": 1,
@@ -3595,7 +3595,7 @@
         "ai_skill": "",
         "cutin_animation_duration": 0.0
     },
-    "61902": {
+    {
         "id": 61902,
         "code": "ChipIconsNew1_17",
         "chip_up_exp": 0,
@@ -3626,7 +3626,7 @@
         "ai_skill": "",
         "cutin_animation_duration": 0.0
     },
-    "62001": {
+    {
         "id": 62001,
         "code": "ChipIconsNew1_18",
         "chip_up_exp": 1,
@@ -3657,7 +3657,7 @@
         "ai_skill": "",
         "cutin_animation_duration": 0.0
     },
-    "62002": {
+    {
         "id": 62002,
         "code": "ChipIconsNew1_18",
         "chip_up_exp": 0,
@@ -3688,7 +3688,7 @@
         "ai_skill": "",
         "cutin_animation_duration": 0.0
     },
-    "62101": {
+    {
         "id": 62101,
         "code": "ChipIconsNew1_19",
         "chip_up_exp": 1,
@@ -3719,7 +3719,7 @@
         "ai_skill": "",
         "cutin_animation_duration": 0.0
     },
-    "62102": {
+    {
         "id": 62102,
         "code": "ChipIconsNew1_19",
         "chip_up_exp": 0,
@@ -3750,7 +3750,7 @@
         "ai_skill": "",
         "cutin_animation_duration": 0.0
     },
-    "62301": {
+    {
         "id": 62301,
         "code": "ChipIconsNew1_05",
         "chip_up_exp": 1,
@@ -3781,7 +3781,7 @@
         "ai_skill": "",
         "cutin_animation_duration": 0.0
     },
-    "62302": {
+    {
         "id": 62302,
         "code": "ChipIconsNew1_05",
         "chip_up_exp": 0,
@@ -3812,7 +3812,7 @@
         "ai_skill": "",
         "cutin_animation_duration": 0.0
     },
-    "62401": {
+    {
         "id": 62401,
         "code": "ChipIconsNew1_06",
         "chip_up_exp": 1,
@@ -3843,7 +3843,7 @@
         "ai_skill": "",
         "cutin_animation_duration": 0.0
     },
-    "62402": {
+    {
         "id": 62402,
         "code": "ChipIconsNew1_06",
         "chip_up_exp": 0,
@@ -3874,7 +3874,7 @@
         "ai_skill": "",
         "cutin_animation_duration": 0.0
     },
-    "62501": {
+    {
         "id": 62501,
         "code": "ChipIconsNew1_09",
         "chip_up_exp": 1,
@@ -3905,7 +3905,7 @@
         "ai_skill": "",
         "cutin_animation_duration": 0.0
     },
-    "62502": {
+    {
         "id": 62502,
         "code": "ChipIconsNew1_09",
         "chip_up_exp": 0,
@@ -3936,7 +3936,7 @@
         "ai_skill": "",
         "cutin_animation_duration": 0.0
     },
-    "62601": {
+    {
         "id": 62601,
         "code": "ChipIconsNew1_07",
         "chip_up_exp": 1,
@@ -3967,7 +3967,7 @@
         "ai_skill": "",
         "cutin_animation_duration": 0.0
     },
-    "62602": {
+    {
         "id": 62602,
         "code": "ChipIconsNew1_07",
         "chip_up_exp": 0,
@@ -3998,4 +3998,4 @@
         "ai_skill": "",
         "cutin_animation_duration": 0.0
     }
-}
+]

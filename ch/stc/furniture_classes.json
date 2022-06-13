@@ -1,5 +1,5 @@
-{
-    "1": {
+[
+    {
         "id": 1,
         "name": "furniture_classes-10000001",
         "rank": 5,
@@ -13,7 +13,7 @@
         "placement": 1,
         "years": 2016
     },
-    "2": {
+    {
         "id": 2,
         "name": "furniture_classes-10000002",
         "rank": 2,
@@ -27,7 +27,7 @@
         "placement": 1,
         "years": 2016
     },
-    "3": {
+    {
         "id": 3,
         "name": "furniture_classes-10000003",
         "rank": 3,
@@ -41,7 +41,7 @@
         "placement": 1,
         "years": 2016
     },
-    "4": {
+    {
         "id": 4,
         "name": "furniture_classes-10000004",
         "rank": 4,
@@ -55,7 +55,7 @@
         "placement": 1,
         "years": 2016
     },
-    "5": {
+    {
         "id": 5,
         "name": "furniture_classes-10000005",
         "rank": 3,
@@ -69,7 +69,7 @@
         "placement": 1,
         "years": 2016
     },
-    "6": {
+    {
         "id": 6,
         "name": "furniture_classes-10000006",
         "rank": 4,
@@ -83,7 +83,7 @@
         "placement": 1,
         "years": 2016
     },
-    "7": {
+    {
         "id": 7,
         "name": "furniture_classes-10000007",
         "rank": 3,
@@ -97,7 +97,7 @@
         "placement": 1,
         "years": 2016
     },
-    "8": {
+    {
         "id": 8,
         "name": "furniture_classes-10000008",
         "rank": 3,
@@ -111,7 +111,7 @@
         "placement": 1,
         "years": 2016
     },
-    "9": {
+    {
         "id": 9,
         "name": "furniture_classes-10000009",
         "rank": 5,
@@ -125,7 +125,7 @@
         "placement": 1,
         "years": 2016
     },
-    "10": {
+    {
         "id": 10,
         "name": "furniture_classes-10000010",
         "rank": 3,
@@ -139,7 +139,7 @@
         "placement": 1,
         "years": 2016
     },
-    "11": {
+    {
         "id": 11,
         "name": "furniture_classes-10000011",
         "rank": 4,
@@ -153,7 +153,7 @@
         "placement": 1,
         "years": 2016
     },
-    "12": {
+    {
         "id": 12,
         "name": "furniture_classes-10000012",
         "rank": 4,
@@ -167,7 +167,7 @@
         "placement": 1,
         "years": 2016
     },
-    "13": {
+    {
         "id": 13,
         "name": "furniture_classes-10000013",
         "rank": 5,
@@ -181,7 +181,7 @@
         "placement": 1,
         "years": 2016
     },
-    "14": {
+    {
         "id": 14,
         "name": "furniture_classes-10000014",
         "rank": 5,
@@ -195,7 +195,7 @@
         "placement": 1,
         "years": 2016
     },
-    "15": {
+    {
         "id": 15,
         "name": "furniture_classes-10000015",
         "rank": 3,
@@ -209,7 +209,7 @@
         "placement": 1,
         "years": 2016
     },
-    "16": {
+    {
         "id": 16,
         "name": "furniture_classes-10000016",
         "rank": 4,
@@ -223,7 +223,7 @@
         "placement": 1,
         "years": 2016
     },
-    "17": {
+    {
         "id": 17,
         "name": "furniture_classes-10000017",
         "rank": 5,
@@ -237,7 +237,7 @@
         "placement": 1,
         "years": 2017
     },
-    "18": {
+    {
         "id": 18,
         "name": "furniture_classes-10000018",
         "rank": 4,
@@ -251,7 +251,7 @@
         "placement": 1,
         "years": 2017
     },
-    "19": {
+    {
         "id": 19,
         "name": "furniture_classes-10000019",
         "rank": 5,
@@ -265,7 +265,7 @@
         "placement": 0,
         "years": 2017
     },
-    "20": {
+    {
         "id": 20,
         "name": "furniture_classes-10000020",
         "rank": 5,
@@ -279,7 +279,7 @@
         "placement": 0,
         "years": 2018
     },
-    "21": {
+    {
         "id": 21,
         "name": "furniture_classes-10000021",
         "rank": 5,
@@ -293,7 +293,7 @@
         "placement": 1,
         "years": 2017
     },
-    "22": {
+    {
         "id": 22,
         "name": "furniture_classes-10000022",
         "rank": 4,
@@ -307,7 +307,7 @@
         "placement": 1,
         "years": 2017
     },
-    "23": {
+    {
         "id": 23,
         "name": "furniture_classes-10000023",
         "rank": 4,
@@ -321,7 +321,7 @@
         "placement": 1,
         "years": 2017
     },
-    "24": {
+    {
         "id": 24,
         "name": "furniture_classes-10000024",
         "rank": 5,
@@ -335,7 +335,7 @@
         "placement": 1,
         "years": 2017
     },
-    "25": {
+    {
         "id": 25,
         "name": "furniture_classes-10000025",
         "rank": 5,
@@ -349,7 +349,7 @@
         "placement": 1,
         "years": 2017
     },
-    "26": {
+    {
         "id": 26,
         "name": "furniture_classes-10000026",
         "rank": 4,
@@ -363,7 +363,7 @@
         "placement": 1,
         "years": 2017
     },
-    "27": {
+    {
         "id": 27,
         "name": "furniture_classes-10000027",
         "rank": 4,
@@ -377,7 +377,7 @@
         "placement": 1,
         "years": 2017
     },
-    "28": {
+    {
         "id": 28,
         "name": "furniture_classes-10000028",
         "rank": 5,
@@ -391,7 +391,7 @@
         "placement": 1,
         "years": 2017
     },
-    "29": {
+    {
         "id": 29,
         "name": "furniture_classes-10000029",
         "rank": 4,
@@ -405,7 +405,7 @@
         "placement": 1,
         "years": 2017
     },
-    "30": {
+    {
         "id": 30,
         "name": "furniture_classes-10000030",
         "rank": 5,
@@ -419,7 +419,7 @@
         "placement": 1,
         "years": 2017
     },
-    "31": {
+    {
         "id": 31,
         "name": "furniture_classes-10000031",
         "rank": 5,
@@ -433,7 +433,7 @@
         "placement": 0,
         "years": 0
     },
-    "32": {
+    {
         "id": 32,
         "name": "furniture_classes-10000032",
         "rank": 4,
@@ -447,7 +447,7 @@
         "placement": 1,
         "years": 2017
     },
-    "33": {
+    {
         "id": 33,
         "name": "furniture_classes-10000033",
         "rank": 5,
@@ -461,7 +461,7 @@
         "placement": 1,
         "years": 2017
     },
-    "34": {
+    {
         "id": 34,
         "name": "furniture_classes-10000034",
         "rank": 4,
@@ -475,7 +475,7 @@
         "placement": 1,
         "years": 2017
     },
-    "35": {
+    {
         "id": 35,
         "name": "furniture_classes-10000035",
         "rank": 5,
@@ -489,7 +489,7 @@
         "placement": 1,
         "years": 2017
     },
-    "36": {
+    {
         "id": 36,
         "name": "furniture_classes-10000036",
         "rank": 3,
@@ -503,7 +503,7 @@
         "placement": 1,
         "years": 2017
     },
-    "37": {
+    {
         "id": 37,
         "name": "furniture_classes-10000037",
         "rank": 5,
@@ -517,7 +517,7 @@
         "placement": 1,
         "years": 2017
     },
-    "38": {
+    {
         "id": 38,
         "name": "furniture_classes-10000038",
         "rank": 4,
@@ -531,7 +531,7 @@
         "placement": 1,
         "years": 2017
     },
-    "39": {
+    {
         "id": 39,
         "name": "furniture_classes-10000039",
         "rank": 5,
@@ -545,7 +545,7 @@
         "placement": 1,
         "years": 2017
     },
-    "40": {
+    {
         "id": 40,
         "name": "furniture_classes-10000040",
         "rank": 4,
@@ -559,7 +559,7 @@
         "placement": 1,
         "years": 2017
     },
-    "41": {
+    {
         "id": 41,
         "name": "furniture_classes-10000041",
         "rank": 4,
@@ -573,7 +573,7 @@
         "placement": 1,
         "years": 2017
     },
-    "42": {
+    {
         "id": 42,
         "name": "furniture_classes-10000042",
         "rank": 5,
@@ -587,7 +587,7 @@
         "placement": 1,
         "years": 2017
     },
-    "43": {
+    {
         "id": 43,
         "name": "furniture_classes-10000043",
         "rank": 4,
@@ -601,7 +601,7 @@
         "placement": 1,
         "years": 2017
     },
-    "44": {
+    {
         "id": 44,
         "name": "furniture_classes-10000044",
         "rank": 5,
@@ -615,7 +615,7 @@
         "placement": 1,
         "years": 2017
     },
-    "45": {
+    {
         "id": 45,
         "name": "furniture_classes-10000045",
         "rank": 4,
@@ -629,7 +629,7 @@
         "placement": 1,
         "years": 2018
     },
-    "46": {
+    {
         "id": 46,
         "name": "furniture_classes-10000046",
         "rank": 5,
@@ -643,7 +643,7 @@
         "placement": 1,
         "years": 2018
     },
-    "47": {
+    {
         "id": 47,
         "name": "furniture_classes-10000047",
         "rank": 4,
@@ -657,7 +657,7 @@
         "placement": 1,
         "years": 2018
     },
-    "48": {
+    {
         "id": 48,
         "name": "furniture_classes-10000048",
         "rank": 5,
@@ -671,7 +671,7 @@
         "placement": 1,
         "years": 2018
     },
-    "49": {
+    {
         "id": 49,
         "name": "furniture_classes-10000049",
         "rank": 4,
@@ -685,7 +685,7 @@
         "placement": 1,
         "years": 2018
     },
-    "50": {
+    {
         "id": 50,
         "name": "furniture_classes-10000050",
         "rank": 5,
@@ -699,7 +699,7 @@
         "placement": 1,
         "years": 2018
     },
-    "52": {
+    {
         "id": 52,
         "name": "furniture_classes-10000052",
         "rank": 5,
@@ -713,7 +713,7 @@
         "placement": 1,
         "years": 2018
     },
-    "53": {
+    {
         "id": 53,
         "name": "furniture_classes-10000053",
         "rank": 4,
@@ -727,7 +727,7 @@
         "placement": 1,
         "years": 2018
     },
-    "54": {
+    {
         "id": 54,
         "name": "furniture_classes-10000054",
         "rank": 5,
@@ -741,7 +741,7 @@
         "placement": 1,
         "years": 2018
     },
-    "55": {
+    {
         "id": 55,
         "name": "furniture_classes-10000055",
         "rank": 5,
@@ -755,7 +755,7 @@
         "placement": 1,
         "years": 2018
     },
-    "56": {
+    {
         "id": 56,
         "name": "furniture_classes-10000056",
         "rank": 5,
@@ -769,7 +769,7 @@
         "placement": 1,
         "years": 2018
     },
-    "57": {
+    {
         "id": 57,
         "name": "furniture_classes-10000057",
         "rank": 4,
@@ -783,7 +783,7 @@
         "placement": 1,
         "years": 2018
     },
-    "58": {
+    {
         "id": 58,
         "name": "furniture_classes-10000058",
         "rank": 5,
@@ -797,7 +797,7 @@
         "placement": 1,
         "years": 2018
     },
-    "59": {
+    {
         "id": 59,
         "name": "furniture_classes-10000059",
         "rank": 5,
@@ -811,7 +811,7 @@
         "placement": 1,
         "years": 2018
     },
-    "60": {
+    {
         "id": 60,
         "name": "furniture_classes-10000060",
         "rank": 5,
@@ -825,7 +825,7 @@
         "placement": 1,
         "years": 2018
     },
-    "61": {
+    {
         "id": 61,
         "name": "furniture_classes-10000061",
         "rank": 4,
@@ -839,7 +839,7 @@
         "placement": 1,
         "years": 2018
     },
-    "62": {
+    {
         "id": 62,
         "name": "furniture_classes-10000062",
         "rank": 5,
@@ -853,7 +853,7 @@
         "placement": 1,
         "years": 2018
     },
-    "63": {
+    {
         "id": 63,
         "name": "furniture_classes-10000063",
         "rank": 5,
@@ -867,7 +867,7 @@
         "placement": 1,
         "years": 2018
     },
-    "64": {
+    {
         "id": 64,
         "name": "furniture_classes-10000064",
         "rank": 5,
@@ -881,7 +881,7 @@
         "placement": 1,
         "years": 2019
     },
-    "65": {
+    {
         "id": 65,
         "name": "furniture_classes-10000065",
         "rank": 5,
@@ -895,7 +895,7 @@
         "placement": 1,
         "years": 2019
     },
-    "66": {
+    {
         "id": 66,
         "name": "furniture_classes-10000066",
         "rank": 5,
@@ -909,7 +909,7 @@
         "placement": 1,
         "years": 2019
     },
-    "67": {
+    {
         "id": 67,
         "name": "furniture_classes-10000067",
         "rank": 5,
@@ -923,7 +923,7 @@
         "placement": 1,
         "years": 2019
     },
-    "68": {
+    {
         "id": 68,
         "name": "furniture_classes-10000068",
         "rank": 5,
@@ -937,7 +937,7 @@
         "placement": 1,
         "years": 2019
     },
-    "69": {
+    {
         "id": 69,
         "name": "furniture_classes-10000069",
         "rank": 4,
@@ -951,7 +951,7 @@
         "placement": 1,
         "years": 2019
     },
-    "70": {
+    {
         "id": 70,
         "name": "furniture_classes-10000070",
         "rank": 5,
@@ -965,7 +965,7 @@
         "placement": 1,
         "years": 2019
     },
-    "71": {
+    {
         "id": 71,
         "name": "furniture_classes-10000071",
         "rank": 5,
@@ -979,7 +979,7 @@
         "placement": 1,
         "years": 2019
     },
-    "72": {
+    {
         "id": 72,
         "name": "furniture_classes-10000072",
         "rank": 5,
@@ -993,7 +993,7 @@
         "placement": 0,
         "years": 0
     },
-    "73": {
+    {
         "id": 73,
         "name": "furniture_classes-10000073",
         "rank": 5,
@@ -1007,7 +1007,7 @@
         "placement": 1,
         "years": 2019
     },
-    "74": {
+    {
         "id": 74,
         "name": "furniture_classes-10000074",
         "rank": 5,
@@ -1021,7 +1021,7 @@
         "placement": 1,
         "years": 2019
     },
-    "75": {
+    {
         "id": 75,
         "name": "furniture_classes-10000075",
         "rank": 5,
@@ -1035,7 +1035,7 @@
         "placement": 1,
         "years": 2019
     },
-    "76": {
+    {
         "id": 76,
         "name": "furniture_classes-10000076",
         "rank": 5,
@@ -1049,7 +1049,7 @@
         "placement": 1,
         "years": 2019
     },
-    "77": {
+    {
         "id": 77,
         "name": "furniture_classes-10000077",
         "rank": 5,
@@ -1063,7 +1063,7 @@
         "placement": 1,
         "years": 2019
     },
-    "78": {
+    {
         "id": 78,
         "name": "furniture_classes-10000078",
         "rank": 5,
@@ -1077,7 +1077,7 @@
         "placement": 1,
         "years": 2019
     },
-    "79": {
+    {
         "id": 79,
         "name": "furniture_classes-10000079",
         "rank": 5,
@@ -1091,7 +1091,7 @@
         "placement": 1,
         "years": 2020
     },
-    "80": {
+    {
         "id": 80,
         "name": "furniture_classes-10000080",
         "rank": 5,
@@ -1105,7 +1105,7 @@
         "placement": 1,
         "years": 2020
     },
-    "81": {
+    {
         "id": 81,
         "name": "furniture_classes-10000081",
         "rank": 5,
@@ -1119,7 +1119,7 @@
         "placement": 0,
         "years": 2019
     },
-    "82": {
+    {
         "id": 82,
         "name": "furniture_classes-10000082",
         "rank": 5,
@@ -1133,7 +1133,7 @@
         "placement": 1,
         "years": 2020
     },
-    "83": {
+    {
         "id": 83,
         "name": "furniture_classes-10000083",
         "rank": 5,
@@ -1147,7 +1147,7 @@
         "placement": 1,
         "years": 2020
     },
-    "84": {
+    {
         "id": 84,
         "name": "furniture_classes-10000084",
         "rank": 5,
@@ -1161,7 +1161,7 @@
         "placement": 1,
         "years": 2020
     },
-    "85": {
+    {
         "id": 85,
         "name": "furniture_classes-10000085",
         "rank": 5,
@@ -1175,7 +1175,7 @@
         "placement": 1,
         "years": 2020
     },
-    "86": {
+    {
         "id": 86,
         "name": "furniture_classes-10000086",
         "rank": 5,
@@ -1189,7 +1189,7 @@
         "placement": 1,
         "years": 2020
     },
-    "87": {
+    {
         "id": 87,
         "name": "furniture_classes-10000087",
         "rank": 5,
@@ -1203,7 +1203,7 @@
         "placement": 0,
         "years": 0
     },
-    "88": {
+    {
         "id": 88,
         "name": "furniture_classes-10000088",
         "rank": 5,
@@ -1217,7 +1217,7 @@
         "placement": 1,
         "years": 2020
     },
-    "89": {
+    {
         "id": 89,
         "name": "furniture_classes-10000089",
         "rank": 4,
@@ -1231,7 +1231,7 @@
         "placement": 1,
         "years": 2020
     },
-    "90": {
+    {
         "id": 90,
         "name": "furniture_classes-10000090",
         "rank": 5,
@@ -1245,7 +1245,7 @@
         "placement": 1,
         "years": 2020
     },
-    "91": {
+    {
         "id": 91,
         "name": "furniture_classes-10000091",
         "rank": 5,
@@ -1259,7 +1259,7 @@
         "placement": 1,
         "years": 2020
     },
-    "92": {
+    {
         "id": 92,
         "name": "furniture_classes-10000092",
         "rank": 5,
@@ -1273,7 +1273,7 @@
         "placement": 1,
         "years": 2020
     },
-    "93": {
+    {
         "id": 93,
         "name": "furniture_classes-10000093",
         "rank": 5,
@@ -1287,7 +1287,7 @@
         "placement": 1,
         "years": 2020
     },
-    "94": {
+    {
         "id": 94,
         "name": "furniture_classes-10000094",
         "rank": 5,
@@ -1301,7 +1301,7 @@
         "placement": 1,
         "years": 2021
     },
-    "95": {
+    {
         "id": 95,
         "name": "furniture_classes-10000095",
         "rank": 5,
@@ -1315,7 +1315,7 @@
         "placement": 1,
         "years": 2021
     },
-    "96": {
+    {
         "id": 96,
         "name": "furniture_classes-10000096",
         "rank": 5,
@@ -1329,7 +1329,7 @@
         "placement": 1,
         "years": 2021
     },
-    "97": {
+    {
         "id": 97,
         "name": "furniture_classes-10000097",
         "rank": 5,
@@ -1343,7 +1343,7 @@
         "placement": 1,
         "years": 0
     },
-    "98": {
+    {
         "id": 98,
         "name": "furniture_classes-10000098",
         "rank": 5,
@@ -1357,7 +1357,7 @@
         "placement": 1,
         "years": 2021
     },
-    "99": {
+    {
         "id": 99,
         "name": "furniture_classes-10000099",
         "rank": 5,
@@ -1371,7 +1371,7 @@
         "placement": 1,
         "years": 2021
     },
-    "100": {
+    {
         "id": 100,
         "name": "furniture_classes-10000100",
         "rank": 5,
@@ -1385,7 +1385,7 @@
         "placement": 1,
         "years": 2021
     },
-    "101": {
+    {
         "id": 101,
         "name": "furniture_classes-10000101",
         "rank": 5,
@@ -1399,7 +1399,7 @@
         "placement": 1,
         "years": 2022
     },
-    "102": {
+    {
         "id": 102,
         "name": "furniture_classes-10000102",
         "rank": 5,
@@ -1413,7 +1413,7 @@
         "placement": 1,
         "years": 2022
     },
-    "299": {
+    {
         "id": 299,
         "name": "furniture_classes-10000299",
         "rank": 5,
@@ -1427,7 +1427,7 @@
         "placement": 0,
         "years": 0
     },
-    "300": {
+    {
         "id": 300,
         "name": "furniture_classes-10000300",
         "rank": 5,
@@ -1441,7 +1441,7 @@
         "placement": 0,
         "years": 0
     },
-    "301": {
+    {
         "id": 301,
         "name": "furniture_classes-10000301",
         "rank": 5,
@@ -1455,7 +1455,7 @@
         "placement": 0,
         "years": 0
     },
-    "400": {
+    {
         "id": 400,
         "name": "furniture_classes-10000400",
         "rank": 5,
@@ -1469,7 +1469,7 @@
         "placement": 0,
         "years": 2017
     },
-    "500": {
+    {
         "id": 500,
         "name": "furniture_classes-10000500",
         "rank": 5,
@@ -1483,7 +1483,7 @@
         "placement": 0,
         "years": 2016
     },
-    "600": {
+    {
         "id": 600,
         "name": "furniture_classes-10000600",
         "rank": 5,
@@ -1497,4 +1497,4 @@
         "placement": 0,
         "years": 0
     }
-}
+]

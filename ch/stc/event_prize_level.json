@@ -1,5 +1,5 @@
-{
-    "1": {
+[
+    {
         "id": 1,
         "name": "event_prize_level-10000001",
         "type": 2,
@@ -13,7 +13,7 @@
         "background": "7cf3cbf3cd9ba106_draw_210204001.jpg",
         "notice_txt": "event_prize_level-20000001"
     },
-    "2": {
+    {
         "id": 2,
         "name": "event_prize_level-10000002",
         "type": 2,
@@ -27,7 +27,7 @@
         "background": "a917ed7c9b569f66_draw_210601001.jpg",
         "notice_txt": "event_prize_level-20000002"
     },
-    "3": {
+    {
         "id": 3,
         "name": "event_prize_level-10000003",
         "type": 2,
@@ -41,7 +41,7 @@
         "background": "d68039aff4c26c06_draw_210824005.png",
         "notice_txt": "event_prize_level-20000003"
     },
-    "4": {
+    {
         "id": 4,
         "name": "event_prize_level-10000004",
         "type": 2,
@@ -55,7 +55,7 @@
         "background": "061a984a6699f373_draw_220117006.png",
         "notice_txt": "event_prize_level-20000004"
     },
-    "5": {
+    {
         "id": 5,
         "name": "event_prize_level-10000005",
         "type": 2,
@@ -69,4 +69,4 @@
         "background": "9b2ef60964c04430_draw_220604002.png",
         "notice_txt": "event_prize_level-20000005"
     }
-}
+]

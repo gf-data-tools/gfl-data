@@ -1,110 +1,110 @@
-{
-    "1": {
+[
+    {
         "id": 1,
         "name": "sangvis_logo1"
     },
-    "2": {
+    {
         "id": 2,
         "name": "sangvis_logo2"
     },
-    "3": {
+    {
         "id": 3,
         "name": "sangvis_logo3"
     },
-    "4": {
+    {
         "id": 4,
         "name": "sangvis_logo4"
     },
-    "5": {
+    {
         "id": 5,
         "name": "sangvis_logo5"
     },
-    "6": {
+    {
         "id": 6,
         "name": "sangvis_logo6"
     },
-    "7": {
+    {
         "id": 7,
         "name": "sangvis_logo7"
     },
-    "8": {
+    {
         "id": 8,
         "name": "sangvis_logo8"
     },
-    "9": {
+    {
         "id": 9,
         "name": "sangvis_logo9"
     },
-    "10": {
+    {
         "id": 10,
         "name": "sangvis_logo10"
     },
-    "11": {
+    {
         "id": 11,
         "name": "sangvis_logo11"
     },
-    "12": {
+    {
         "id": 12,
         "name": "sangvis_logo12"
     },
-    "13": {
+    {
         "id": 13,
         "name": "sangvis_logo13"
     },
-    "14": {
+    {
         "id": 14,
         "name": "sangvis_logo14"
     },
-    "15": {
+    {
         "id": 15,
         "name": "sangvis_logo15"
     },
-    "16": {
+    {
         "id": 16,
         "name": "sangvis_logo16"
     },
-    "17": {
+    {
         "id": 17,
         "name": "sangvis_logo17"
     },
-    "18": {
+    {
         "id": 18,
         "name": "sangvis_logo18"
     },
-    "19": {
+    {
         "id": 19,
         "name": "sangvis_logo19"
     },
-    "20": {
+    {
         "id": 20,
         "name": "sangvis_logo20"
     },
-    "21": {
+    {
         "id": 21,
         "name": "sangvis_logo21"
     },
-    "22": {
+    {
         "id": 22,
         "name": "sangvis_logo22"
     },
-    "23": {
+    {
         "id": 23,
         "name": "sangvis_logo23"
     },
-    "24": {
+    {
         "id": 24,
         "name": "sangvis_logo24"
     },
-    "25": {
+    {
         "id": 25,
         "name": "sangvis_logo25"
     },
-    "26": {
+    {
         "id": 26,
         "name": "sangvis_logo26"
     },
-    "27": {
+    {
         "id": 27,
         "name": "sangvis_logo27"
     }
-}
+]

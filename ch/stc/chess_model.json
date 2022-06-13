@@ -1,5 +1,5 @@
-{
-    "1": {
+[
+    {
         "id": 1,
         "name": "chess_model-10000001",
         "team_des": "chess_model-30000001",
@@ -8,7 +8,7 @@
         "team_playerlimit": "4",
         "prize": "10601,10602,10603,10604"
     },
-    "2": {
+    {
         "id": 2,
         "name": "chess_model-10000002",
         "team_des": "chess_model-30000002",
@@ -17,4 +17,4 @@
         "team_playerlimit": "2,2",
         "prize": "5,0"
     }
-}
+]

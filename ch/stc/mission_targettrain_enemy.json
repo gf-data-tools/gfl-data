@@ -1,5 +1,5 @@
-{
-    "101": {
+[
+    {
         "id": 101,
         "name": "mission_targettrain_enemy-10000101",
         "des": "mission_targettrain_enemy-20000101",
@@ -13,7 +13,7 @@
         "type_coef": "",
         "fight_environment_group": ""
     },
-    "102": {
+    {
         "id": 102,
         "name": "mission_targettrain_enemy-10000102",
         "des": "mission_targettrain_enemy-20000102",
@@ -27,7 +27,7 @@
         "type_coef": "",
         "fight_environment_group": ""
     },
-    "103": {
+    {
         "id": 103,
         "name": "mission_targettrain_enemy-10000103",
         "des": "mission_targettrain_enemy-20000103",
@@ -41,7 +41,7 @@
         "type_coef": "",
         "fight_environment_group": ""
     },
-    "104": {
+    {
         "id": 104,
         "name": "mission_targettrain_enemy-10000104",
         "des": "mission_targettrain_enemy-20000104",
@@ -55,7 +55,7 @@
         "type_coef": "",
         "fight_environment_group": ""
     },
-    "105": {
+    {
         "id": 105,
         "name": "mission_targettrain_enemy-10000105",
         "des": "mission_targettrain_enemy-20000105",
@@ -69,7 +69,7 @@
         "type_coef": "",
         "fight_environment_group": ""
     },
-    "301": {
+    {
         "id": 301,
         "name": "mission_targettrain_enemy-10000301",
         "des": "mission_targettrain_enemy-20000301",
@@ -83,7 +83,7 @@
         "type_coef": "",
         "fight_environment_group": ""
     },
-    "401": {
+    {
         "id": 401,
         "name": "mission_targettrain_enemy-10000401",
         "des": "mission_targettrain_enemy-20000401",
@@ -97,7 +97,7 @@
         "type_coef": "",
         "fight_environment_group": ""
     },
-    "501": {
+    {
         "id": 501,
         "name": "mission_targettrain_enemy-10000501",
         "des": "mission_targettrain_enemy-20000501",
@@ -111,7 +111,7 @@
         "type_coef": "",
         "fight_environment_group": ""
     },
-    "601": {
+    {
         "id": 601,
         "name": "mission_targettrain_enemy-10000601",
         "des": "mission_targettrain_enemy-20000601",
@@ -125,7 +125,7 @@
         "type_coef": "",
         "fight_environment_group": ""
     },
-    "701": {
+    {
         "id": 701,
         "name": "mission_targettrain_enemy-10000701",
         "des": "mission_targettrain_enemy-20000701",
@@ -139,7 +139,7 @@
         "type_coef": "",
         "fight_environment_group": ""
     },
-    "801": {
+    {
         "id": 801,
         "name": "mission_targettrain_enemy-10000801",
         "des": "mission_targettrain_enemy-20000801",
@@ -153,7 +153,7 @@
         "type_coef": "",
         "fight_environment_group": ""
     },
-    "901": {
+    {
         "id": 901,
         "name": "mission_targettrain_enemy-10000901",
         "des": "mission_targettrain_enemy-20000901",
@@ -167,7 +167,7 @@
         "type_coef": "",
         "fight_environment_group": ""
     },
-    "1001": {
+    {
         "id": 1001,
         "name": "mission_targettrain_enemy-10001001",
         "des": "mission_targettrain_enemy-20001001",
@@ -181,7 +181,7 @@
         "type_coef": "",
         "fight_environment_group": ""
     },
-    "1101": {
+    {
         "id": 1101,
         "name": "mission_targettrain_enemy-10001101",
         "des": "mission_targettrain_enemy-20001101",
@@ -195,7 +195,7 @@
         "type_coef": "",
         "fight_environment_group": ""
     },
-    "1201": {
+    {
         "id": 1201,
         "name": "mission_targettrain_enemy-10001201",
         "des": "mission_targettrain_enemy-20001201",
@@ -209,7 +209,7 @@
         "type_coef": "",
         "fight_environment_group": ""
     },
-    "1301": {
+    {
         "id": 1301,
         "name": "mission_targettrain_enemy-10001301",
         "des": "mission_targettrain_enemy-20001301",
@@ -223,7 +223,7 @@
         "type_coef": "",
         "fight_environment_group": ""
     },
-    "1501": {
+    {
         "id": 1501,
         "name": "mission_targettrain_enemy-10001501",
         "des": "mission_targettrain_enemy-20001501",
@@ -237,7 +237,7 @@
         "type_coef": "",
         "fight_environment_group": ""
     },
-    "1601": {
+    {
         "id": 1601,
         "name": "mission_targettrain_enemy-10001601",
         "des": "mission_targettrain_enemy-20001601",
@@ -251,7 +251,7 @@
         "type_coef": "",
         "fight_environment_group": ""
     },
-    "1701": {
+    {
         "id": 1701,
         "name": "mission_targettrain_enemy-10001701",
         "des": "mission_targettrain_enemy-20001701",
@@ -265,7 +265,7 @@
         "type_coef": "",
         "fight_environment_group": ""
     },
-    "1801": {
+    {
         "id": 1801,
         "name": "mission_targettrain_enemy-10001801",
         "des": "mission_targettrain_enemy-20001801",
@@ -279,7 +279,7 @@
         "type_coef": "",
         "fight_environment_group": ""
     },
-    "1901": {
+    {
         "id": 1901,
         "name": "mission_targettrain_enemy-10001901",
         "des": "mission_targettrain_enemy-20001901",
@@ -293,7 +293,7 @@
         "type_coef": "",
         "fight_environment_group": ""
     },
-    "2001": {
+    {
         "id": 2001,
         "name": "mission_targettrain_enemy-10002001",
         "des": "mission_targettrain_enemy-20002001",
@@ -307,7 +307,7 @@
         "type_coef": "",
         "fight_environment_group": ""
     },
-    "2101": {
+    {
         "id": 2101,
         "name": "mission_targettrain_enemy-10002101",
         "des": "mission_targettrain_enemy-20002101",
@@ -321,7 +321,7 @@
         "type_coef": "",
         "fight_environment_group": ""
     },
-    "2201": {
+    {
         "id": 2201,
         "name": "mission_targettrain_enemy-10002201",
         "des": "mission_targettrain_enemy-20002201",
@@ -335,7 +335,7 @@
         "type_coef": "",
         "fight_environment_group": ""
     },
-    "2301": {
+    {
         "id": 2301,
         "name": "mission_targettrain_enemy-10002301",
         "des": "mission_targettrain_enemy-20002301",
@@ -349,7 +349,7 @@
         "type_coef": "",
         "fight_environment_group": ""
     },
-    "2401": {
+    {
         "id": 2401,
         "name": "mission_targettrain_enemy-10002401",
         "des": "mission_targettrain_enemy-20002401",
@@ -363,7 +363,7 @@
         "type_coef": "",
         "fight_environment_group": ""
     },
-    "2402": {
+    {
         "id": 2402,
         "name": "mission_targettrain_enemy-10002402",
         "des": "mission_targettrain_enemy-20002402",
@@ -377,7 +377,7 @@
         "type_coef": "",
         "fight_environment_group": ""
     },
-    "2403": {
+    {
         "id": 2403,
         "name": "mission_targettrain_enemy-10002403",
         "des": "mission_targettrain_enemy-20002403",
@@ -391,7 +391,7 @@
         "type_coef": "",
         "fight_environment_group": ""
     },
-    "2404": {
+    {
         "id": 2404,
         "name": "mission_targettrain_enemy-10002404",
         "des": "mission_targettrain_enemy-20002404",
@@ -405,7 +405,7 @@
         "type_coef": "",
         "fight_environment_group": ""
     },
-    "2405": {
+    {
         "id": 2405,
         "name": "mission_targettrain_enemy-10002405",
         "des": "mission_targettrain_enemy-20002405",
@@ -419,7 +419,7 @@
         "type_coef": "",
         "fight_environment_group": ""
     },
-    "2406": {
+    {
         "id": 2406,
         "name": "mission_targettrain_enemy-10002406",
         "des": "mission_targettrain_enemy-20002406",
@@ -433,7 +433,7 @@
         "type_coef": "",
         "fight_environment_group": ""
     },
-    "2407": {
+    {
         "id": 2407,
         "name": "mission_targettrain_enemy-10002407",
         "des": "mission_targettrain_enemy-20002407",
@@ -447,7 +447,7 @@
         "type_coef": "",
         "fight_environment_group": ""
     },
-    "2408": {
+    {
         "id": 2408,
         "name": "mission_targettrain_enemy-10002408",
         "des": "mission_targettrain_enemy-20002408",
@@ -461,7 +461,7 @@
         "type_coef": "",
         "fight_environment_group": ""
     },
-    "2409": {
+    {
         "id": 2409,
         "name": "mission_targettrain_enemy-10002409",
         "des": "mission_targettrain_enemy-20002409",
@@ -475,7 +475,7 @@
         "type_coef": "",
         "fight_environment_group": ""
     },
-    "2410": {
+    {
         "id": 2410,
         "name": "mission_targettrain_enemy-10002410",
         "des": "mission_targettrain_enemy-20002410",
@@ -489,7 +489,7 @@
         "type_coef": "",
         "fight_environment_group": ""
     },
-    "2411": {
+    {
         "id": 2411,
         "name": "mission_targettrain_enemy-10002411",
         "des": "mission_targettrain_enemy-20002411",
@@ -503,7 +503,7 @@
         "type_coef": "",
         "fight_environment_group": ""
     },
-    "2412": {
+    {
         "id": 2412,
         "name": "mission_targettrain_enemy-10002412",
         "des": "mission_targettrain_enemy-20002412",
@@ -517,7 +517,7 @@
         "type_coef": "",
         "fight_environment_group": ""
     },
-    "2413": {
+    {
         "id": 2413,
         "name": "mission_targettrain_enemy-10002413",
         "des": "mission_targettrain_enemy-20002413",
@@ -531,7 +531,7 @@
         "type_coef": "",
         "fight_environment_group": ""
     },
-    "2414": {
+    {
         "id": 2414,
         "name": "mission_targettrain_enemy-10002414",
         "des": "mission_targettrain_enemy-20002414",
@@ -545,7 +545,7 @@
         "type_coef": "",
         "fight_environment_group": ""
     },
-    "2415": {
+    {
         "id": 2415,
         "name": "mission_targettrain_enemy-10002415",
         "des": "mission_targettrain_enemy-20002415",
@@ -559,7 +559,7 @@
         "type_coef": "",
         "fight_environment_group": ""
     },
-    "20101": {
+    {
         "id": 20101,
         "name": "mission_targettrain_enemy-10020101",
         "des": "mission_targettrain_enemy-20020101",
@@ -573,7 +573,7 @@
         "type_coef": "",
         "fight_environment_group": ""
     },
-    "20102": {
+    {
         "id": 20102,
         "name": "mission_targettrain_enemy-10020102",
         "des": "mission_targettrain_enemy-20020102",
@@ -587,7 +587,7 @@
         "type_coef": "",
         "fight_environment_group": ""
     },
-    "20103": {
+    {
         "id": 20103,
         "name": "mission_targettrain_enemy-10020103",
         "des": "mission_targettrain_enemy-20020103",
@@ -601,7 +601,7 @@
         "type_coef": "",
         "fight_environment_group": ""
     },
-    "20104": {
+    {
         "id": 20104,
         "name": "mission_targettrain_enemy-10020104",
         "des": "mission_targettrain_enemy-20020104",
@@ -615,7 +615,7 @@
         "type_coef": "",
         "fight_environment_group": ""
     },
-    "20105": {
+    {
         "id": 20105,
         "name": "mission_targettrain_enemy-10020105",
         "des": "mission_targettrain_enemy-20020105",
@@ -629,7 +629,7 @@
         "type_coef": "",
         "fight_environment_group": ""
     },
-    "20106": {
+    {
         "id": 20106,
         "name": "mission_targettrain_enemy-10020106",
         "des": "mission_targettrain_enemy-20020106",
@@ -643,7 +643,7 @@
         "type_coef": "",
         "fight_environment_group": ""
     },
-    "20107": {
+    {
         "id": 20107,
         "name": "mission_targettrain_enemy-10020107",
         "des": "mission_targettrain_enemy-20020107",
@@ -657,7 +657,7 @@
         "type_coef": "",
         "fight_environment_group": ""
     },
-    "20108": {
+    {
         "id": 20108,
         "name": "mission_targettrain_enemy-10020108",
         "des": "mission_targettrain_enemy-20020108",
@@ -671,7 +671,7 @@
         "type_coef": "",
         "fight_environment_group": ""
     },
-    "20109": {
+    {
         "id": 20109,
         "name": "mission_targettrain_enemy-10020109",
         "des": "mission_targettrain_enemy-20020109",
@@ -685,7 +685,7 @@
         "type_coef": "",
         "fight_environment_group": ""
     },
-    "20201": {
+    {
         "id": 20201,
         "name": "mission_targettrain_enemy-10020201",
         "des": "mission_targettrain_enemy-20020201",
@@ -699,7 +699,7 @@
         "type_coef": "",
         "fight_environment_group": ""
     },
-    "20202": {
+    {
         "id": 20202,
         "name": "mission_targettrain_enemy-10020202",
         "des": "mission_targettrain_enemy-20020202",
@@ -713,7 +713,7 @@
         "type_coef": "",
         "fight_environment_group": ""
     },
-    "20203": {
+    {
         "id": 20203,
         "name": "mission_targettrain_enemy-10020203",
         "des": "mission_targettrain_enemy-20020203",
@@ -727,7 +727,7 @@
         "type_coef": "",
         "fight_environment_group": ""
     },
-    "20204": {
+    {
         "id": 20204,
         "name": "mission_targettrain_enemy-10020204",
         "des": "mission_targettrain_enemy-20020204",
@@ -741,7 +741,7 @@
         "type_coef": "",
         "fight_environment_group": ""
     },
-    "20205": {
+    {
         "id": 20205,
         "name": "mission_targettrain_enemy-10020205",
         "des": "mission_targettrain_enemy-20020205",
@@ -755,7 +755,7 @@
         "type_coef": "",
         "fight_environment_group": ""
     },
-    "20206": {
+    {
         "id": 20206,
         "name": "mission_targettrain_enemy-10020206",
         "des": "mission_targettrain_enemy-20020206",
@@ -769,7 +769,7 @@
         "type_coef": "",
         "fight_environment_group": ""
     },
-    "20207": {
+    {
         "id": 20207,
         "name": "mission_targettrain_enemy-10020207",
         "des": "mission_targettrain_enemy-20020207",
@@ -783,7 +783,7 @@
         "type_coef": "",
         "fight_environment_group": ""
     },
-    "20208": {
+    {
         "id": 20208,
         "name": "mission_targettrain_enemy-10020208",
         "des": "mission_targettrain_enemy-20020208",
@@ -797,7 +797,7 @@
         "type_coef": "",
         "fight_environment_group": ""
     },
-    "20209": {
+    {
         "id": 20209,
         "name": "mission_targettrain_enemy-10020209",
         "des": "mission_targettrain_enemy-20020209",
@@ -811,7 +811,7 @@
         "type_coef": "",
         "fight_environment_group": ""
     },
-    "20301": {
+    {
         "id": 20301,
         "name": "mission_targettrain_enemy-10020301",
         "des": "mission_targettrain_enemy-20020301",
@@ -825,7 +825,7 @@
         "type_coef": "",
         "fight_environment_group": ""
     },
-    "20302": {
+    {
         "id": 20302,
         "name": "mission_targettrain_enemy-10020302",
         "des": "mission_targettrain_enemy-20020302",
@@ -839,7 +839,7 @@
         "type_coef": "",
         "fight_environment_group": ""
     },
-    "20303": {
+    {
         "id": 20303,
         "name": "mission_targettrain_enemy-10020303",
         "des": "mission_targettrain_enemy-20020303",
@@ -853,7 +853,7 @@
         "type_coef": "",
         "fight_environment_group": ""
     },
-    "20304": {
+    {
         "id": 20304,
         "name": "mission_targettrain_enemy-10020304",
         "des": "mission_targettrain_enemy-20020304",
@@ -867,7 +867,7 @@
         "type_coef": "",
         "fight_environment_group": ""
     },
-    "20305": {
+    {
         "id": 20305,
         "name": "mission_targettrain_enemy-10020305",
         "des": "mission_targettrain_enemy-20020305",
@@ -881,7 +881,7 @@
         "type_coef": "",
         "fight_environment_group": ""
     },
-    "20306": {
+    {
         "id": 20306,
         "name": "mission_targettrain_enemy-10020306",
         "des": "mission_targettrain_enemy-20020306",
@@ -895,7 +895,7 @@
         "type_coef": "",
         "fight_environment_group": ""
     },
-    "20307": {
+    {
         "id": 20307,
         "name": "mission_targettrain_enemy-10020307",
         "des": "mission_targettrain_enemy-20020307",
@@ -909,7 +909,7 @@
         "type_coef": "",
         "fight_environment_group": ""
     },
-    "20308": {
+    {
         "id": 20308,
         "name": "mission_targettrain_enemy-10020308",
         "des": "mission_targettrain_enemy-20020308",
@@ -923,7 +923,7 @@
         "type_coef": "",
         "fight_environment_group": ""
     },
-    "20309": {
+    {
         "id": 20309,
         "name": "mission_targettrain_enemy-10020309",
         "des": "mission_targettrain_enemy-20020309",
@@ -937,7 +937,7 @@
         "type_coef": "",
         "fight_environment_group": ""
     },
-    "20401": {
+    {
         "id": 20401,
         "name": "mission_targettrain_enemy-10020401",
         "des": "mission_targettrain_enemy-20020401",
@@ -951,7 +951,7 @@
         "type_coef": "",
         "fight_environment_group": ""
     },
-    "20402": {
+    {
         "id": 20402,
         "name": "mission_targettrain_enemy-10020402",
         "des": "mission_targettrain_enemy-20020402",
@@ -965,7 +965,7 @@
         "type_coef": "",
         "fight_environment_group": ""
     },
-    "20403": {
+    {
         "id": 20403,
         "name": "mission_targettrain_enemy-10020403",
         "des": "mission_targettrain_enemy-20020403",
@@ -979,7 +979,7 @@
         "type_coef": "",
         "fight_environment_group": ""
     },
-    "20404": {
+    {
         "id": 20404,
         "name": "mission_targettrain_enemy-10020404",
         "des": "mission_targettrain_enemy-20020404",
@@ -993,7 +993,7 @@
         "type_coef": "",
         "fight_environment_group": ""
     },
-    "20405": {
+    {
         "id": 20405,
         "name": "mission_targettrain_enemy-10020405",
         "des": "mission_targettrain_enemy-20020405",
@@ -1007,7 +1007,7 @@
         "type_coef": "",
         "fight_environment_group": ""
     },
-    "20406": {
+    {
         "id": 20406,
         "name": "mission_targettrain_enemy-10020406",
         "des": "mission_targettrain_enemy-20020406",
@@ -1021,7 +1021,7 @@
         "type_coef": "",
         "fight_environment_group": ""
     },
-    "20407": {
+    {
         "id": 20407,
         "name": "mission_targettrain_enemy-10020407",
         "des": "mission_targettrain_enemy-20020407",
@@ -1035,7 +1035,7 @@
         "type_coef": "",
         "fight_environment_group": ""
     },
-    "20408": {
+    {
         "id": 20408,
         "name": "mission_targettrain_enemy-10020408",
         "des": "mission_targettrain_enemy-20020408",
@@ -1049,7 +1049,7 @@
         "type_coef": "",
         "fight_environment_group": ""
     },
-    "20409": {
+    {
         "id": 20409,
         "name": "mission_targettrain_enemy-10020409",
         "des": "mission_targettrain_enemy-20020409",
@@ -1063,7 +1063,7 @@
         "type_coef": "",
         "fight_environment_group": ""
     },
-    "20501": {
+    {
         "id": 20501,
         "name": "mission_targettrain_enemy-10020501",
         "des": "mission_targettrain_enemy-20020501",
@@ -1077,7 +1077,7 @@
         "type_coef": "",
         "fight_environment_group": ""
     },
-    "20502": {
+    {
         "id": 20502,
         "name": "mission_targettrain_enemy-10020502",
         "des": "mission_targettrain_enemy-20020502",
@@ -1091,7 +1091,7 @@
         "type_coef": "",
         "fight_environment_group": ""
     },
-    "20503": {
+    {
         "id": 20503,
         "name": "mission_targettrain_enemy-10020503",
         "des": "mission_targettrain_enemy-20020503",
@@ -1105,7 +1105,7 @@
         "type_coef": "",
         "fight_environment_group": ""
     },
-    "20504": {
+    {
         "id": 20504,
         "name": "mission_targettrain_enemy-10020504",
         "des": "mission_targettrain_enemy-20020504",
@@ -1119,7 +1119,7 @@
         "type_coef": "",
         "fight_environment_group": ""
     },
-    "20505": {
+    {
         "id": 20505,
         "name": "mission_targettrain_enemy-10020505",
         "des": "mission_targettrain_enemy-20020505",
@@ -1133,7 +1133,7 @@
         "type_coef": "",
         "fight_environment_group": ""
     },
-    "20506": {
+    {
         "id": 20506,
         "name": "mission_targettrain_enemy-10020506",
         "des": "mission_targettrain_enemy-20020506",
@@ -1147,7 +1147,7 @@
         "type_coef": "",
         "fight_environment_group": ""
     },
-    "20507": {
+    {
         "id": 20507,
         "name": "mission_targettrain_enemy-10020507",
         "des": "mission_targettrain_enemy-20020507",
@@ -1161,7 +1161,7 @@
         "type_coef": "",
         "fight_environment_group": ""
     },
-    "20508": {
+    {
         "id": 20508,
         "name": "mission_targettrain_enemy-10020508",
         "des": "mission_targettrain_enemy-20020508",
@@ -1175,7 +1175,7 @@
         "type_coef": "",
         "fight_environment_group": ""
     },
-    "20509": {
+    {
         "id": 20509,
         "name": "mission_targettrain_enemy-10020509",
         "des": "mission_targettrain_enemy-20020509",
@@ -1189,4 +1189,4 @@
         "type_coef": "",
         "fight_environment_group": ""
     }
-}
+]

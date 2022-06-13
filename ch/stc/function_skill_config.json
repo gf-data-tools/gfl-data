@@ -1,5 +1,5 @@
-{
-    "101": {
+[
+    {
         "id": 101,
         "name": "function_skill_config-10000101",
         "level": 1,
@@ -10,7 +10,7 @@
         "max_level": 5,
         "is_show": 1
     },
-    "102": {
+    {
         "id": 102,
         "name": "function_skill_config-10000102",
         "level": 1,
@@ -21,7 +21,7 @@
         "max_level": 5,
         "is_show": 0
     },
-    "103": {
+    {
         "id": 103,
         "name": "function_skill_config-10000103",
         "level": 1,
@@ -32,7 +32,7 @@
         "max_level": 5,
         "is_show": 1
     },
-    "104": {
+    {
         "id": 104,
         "name": "function_skill_config-10000104",
         "level": 1,
@@ -43,7 +43,7 @@
         "max_level": 5,
         "is_show": 1
     },
-    "105": {
+    {
         "id": 105,
         "name": "function_skill_config-10000105",
         "level": 1,
@@ -54,7 +54,7 @@
         "max_level": 3,
         "is_show": 1
     },
-    "106": {
+    {
         "id": 106,
         "name": "function_skill_config-10000106",
         "level": 1,
@@ -65,7 +65,7 @@
         "max_level": 5,
         "is_show": 1
     },
-    "107": {
+    {
         "id": 107,
         "name": "function_skill_config-10000107",
         "level": 1,
@@ -76,7 +76,7 @@
         "max_level": 5,
         "is_show": 1
     },
-    "108": {
+    {
         "id": 108,
         "name": "function_skill_config-10000108",
         "level": 1,
@@ -87,7 +87,7 @@
         "max_level": 3,
         "is_show": 1
     },
-    "109": {
+    {
         "id": 109,
         "name": "function_skill_config-10000109",
         "level": 1,
@@ -98,7 +98,7 @@
         "max_level": 5,
         "is_show": 1
     },
-    "110": {
+    {
         "id": 110,
         "name": "function_skill_config-10000110",
         "level": 1,
@@ -109,7 +109,7 @@
         "max_level": 3,
         "is_show": 0
     },
-    "111": {
+    {
         "id": 111,
         "name": "function_skill_config-10000111",
         "level": 1,
@@ -120,7 +120,7 @@
         "max_level": 5,
         "is_show": 0
     },
-    "112": {
+    {
         "id": 112,
         "name": "function_skill_config-10000112",
         "level": 1,
@@ -131,7 +131,7 @@
         "max_level": 5,
         "is_show": 1
     },
-    "113": {
+    {
         "id": 113,
         "name": "function_skill_config-10000113",
         "level": 1,
@@ -142,7 +142,7 @@
         "max_level": 5,
         "is_show": 1
     },
-    "114": {
+    {
         "id": 114,
         "name": "function_skill_config-10000114",
         "level": 1,
@@ -153,7 +153,7 @@
         "max_level": 5,
         "is_show": 0
     },
-    "115": {
+    {
         "id": 115,
         "name": "function_skill_config-10000115",
         "level": 1,
@@ -164,7 +164,7 @@
         "max_level": 5,
         "is_show": 1
     },
-    "116": {
+    {
         "id": 116,
         "name": "function_skill_config-10000116",
         "level": 1,
@@ -175,7 +175,7 @@
         "max_level": 5,
         "is_show": 0
     },
-    "117": {
+    {
         "id": 117,
         "name": "function_skill_config-10000117",
         "level": 1,
@@ -186,4 +186,4 @@
         "max_level": 5,
         "is_show": 0
     }
-}
+]

@@ -1,5 +1,5 @@
-{
-    "1": {
+[
+    {
         "id": 1,
         "group": 2,
         "content": "chat_fix_phrases-10000001",
@@ -7,7 +7,7 @@
         "type": 1,
         "type_name": "chat_fix_phrases-20000001"
     },
-    "2": {
+    {
         "id": 2,
         "group": 2,
         "content": "chat_fix_phrases-10000002",
@@ -15,7 +15,7 @@
         "type": 1,
         "type_name": "chat_fix_phrases-20000002"
     },
-    "3": {
+    {
         "id": 3,
         "group": 2,
         "content": "chat_fix_phrases-10000003",
@@ -23,7 +23,7 @@
         "type": 1,
         "type_name": "chat_fix_phrases-20000003"
     },
-    "4": {
+    {
         "id": 4,
         "group": 2,
         "content": "chat_fix_phrases-10000004",
@@ -31,7 +31,7 @@
         "type": 1,
         "type_name": "chat_fix_phrases-20000004"
     },
-    "5": {
+    {
         "id": 5,
         "group": 2,
         "content": "chat_fix_phrases-10000005",
@@ -39,7 +39,7 @@
         "type": 1,
         "type_name": "chat_fix_phrases-20000005"
     },
-    "6": {
+    {
         "id": 6,
         "group": 2,
         "content": "chat_fix_phrases-10000006",
@@ -47,7 +47,7 @@
         "type": 1,
         "type_name": "chat_fix_phrases-20000006"
     },
-    "7": {
+    {
         "id": 7,
         "group": 2,
         "content": "chat_fix_phrases-10000007",
@@ -55,7 +55,7 @@
         "type": 1,
         "type_name": "chat_fix_phrases-20000007"
     },
-    "8": {
+    {
         "id": 8,
         "group": 2,
         "content": "chat_fix_phrases-10000008",
@@ -63,7 +63,7 @@
         "type": 2,
         "type_name": "chat_fix_phrases-20000008"
     },
-    "9": {
+    {
         "id": 9,
         "group": 2,
         "content": "chat_fix_phrases-10000009",
@@ -71,7 +71,7 @@
         "type": 2,
         "type_name": "chat_fix_phrases-20000009"
     },
-    "10": {
+    {
         "id": 10,
         "group": 2,
         "content": "chat_fix_phrases-10000010",
@@ -79,7 +79,7 @@
         "type": 2,
         "type_name": "chat_fix_phrases-20000010"
     },
-    "11": {
+    {
         "id": 11,
         "group": 2,
         "content": "chat_fix_phrases-10000011",
@@ -87,7 +87,7 @@
         "type": 2,
         "type_name": "chat_fix_phrases-20000011"
     },
-    "12": {
+    {
         "id": 12,
         "group": 2,
         "content": "chat_fix_phrases-10000012",
@@ -95,7 +95,7 @@
         "type": 2,
         "type_name": "chat_fix_phrases-20000012"
     },
-    "13": {
+    {
         "id": 13,
         "group": 2,
         "content": "chat_fix_phrases-10000013",
@@ -103,7 +103,7 @@
         "type": 3,
         "type_name": "chat_fix_phrases-20000013"
     },
-    "14": {
+    {
         "id": 14,
         "group": 2,
         "content": "chat_fix_phrases-10000014",
@@ -111,7 +111,7 @@
         "type": 3,
         "type_name": "chat_fix_phrases-20000014"
     },
-    "15": {
+    {
         "id": 15,
         "group": 2,
         "content": "chat_fix_phrases-10000015",
@@ -119,7 +119,7 @@
         "type": 3,
         "type_name": "chat_fix_phrases-20000015"
     },
-    "16": {
+    {
         "id": 16,
         "group": 2,
         "content": "chat_fix_phrases-10000016",
@@ -127,7 +127,7 @@
         "type": 3,
         "type_name": "chat_fix_phrases-20000016"
     },
-    "17": {
+    {
         "id": 17,
         "group": 2,
         "content": "chat_fix_phrases-10000017",
@@ -135,7 +135,7 @@
         "type": 3,
         "type_name": "chat_fix_phrases-20000017"
     },
-    "18": {
+    {
         "id": 18,
         "group": 2,
         "content": "chat_fix_phrases-10000018",
@@ -143,7 +143,7 @@
         "type": 4,
         "type_name": "chat_fix_phrases-20000018"
     },
-    "19": {
+    {
         "id": 19,
         "group": 2,
         "content": "chat_fix_phrases-10000019",
@@ -151,7 +151,7 @@
         "type": 4,
         "type_name": "chat_fix_phrases-20000019"
     },
-    "20": {
+    {
         "id": 20,
         "group": 2,
         "content": "chat_fix_phrases-10000020",
@@ -159,7 +159,7 @@
         "type": 4,
         "type_name": "chat_fix_phrases-20000020"
     },
-    "21": {
+    {
         "id": 21,
         "group": 2,
         "content": "chat_fix_phrases-10000021",
@@ -167,7 +167,7 @@
         "type": 4,
         "type_name": "chat_fix_phrases-20000021"
     },
-    "22": {
+    {
         "id": 22,
         "group": 3,
         "content": "chat_fix_phrases-10000022",
@@ -175,7 +175,7 @@
         "type": 1,
         "type_name": "chat_fix_phrases-20000022"
     },
-    "23": {
+    {
         "id": 23,
         "group": 3,
         "content": "chat_fix_phrases-10000023",
@@ -183,7 +183,7 @@
         "type": 1,
         "type_name": "chat_fix_phrases-20000023"
     },
-    "24": {
+    {
         "id": 24,
         "group": 3,
         "content": "chat_fix_phrases-10000024",
@@ -191,7 +191,7 @@
         "type": 1,
         "type_name": "chat_fix_phrases-20000024"
     },
-    "25": {
+    {
         "id": 25,
         "group": 3,
         "content": "chat_fix_phrases-10000025",
@@ -199,7 +199,7 @@
         "type": 1,
         "type_name": "chat_fix_phrases-20000025"
     },
-    "26": {
+    {
         "id": 26,
         "group": 3,
         "content": "chat_fix_phrases-10000026",
@@ -207,7 +207,7 @@
         "type": 1,
         "type_name": "chat_fix_phrases-20000026"
     },
-    "27": {
+    {
         "id": 27,
         "group": 3,
         "content": "chat_fix_phrases-10000027",
@@ -215,7 +215,7 @@
         "type": 1,
         "type_name": "chat_fix_phrases-20000027"
     },
-    "28": {
+    {
         "id": 28,
         "group": 3,
         "content": "chat_fix_phrases-10000028",
@@ -223,7 +223,7 @@
         "type": 1,
         "type_name": "chat_fix_phrases-20000028"
     },
-    "29": {
+    {
         "id": 29,
         "group": 3,
         "content": "chat_fix_phrases-10000029",
@@ -231,7 +231,7 @@
         "type": 1,
         "type_name": "chat_fix_phrases-20000029"
     },
-    "30": {
+    {
         "id": 30,
         "group": 3,
         "content": "chat_fix_phrases-10000030",
@@ -239,7 +239,7 @@
         "type": 1,
         "type_name": "chat_fix_phrases-20000030"
     },
-    "31": {
+    {
         "id": 31,
         "group": 3,
         "content": "chat_fix_phrases-10000031",
@@ -247,7 +247,7 @@
         "type": 1,
         "type_name": "chat_fix_phrases-20000031"
     },
-    "32": {
+    {
         "id": 32,
         "group": 3,
         "content": "chat_fix_phrases-10000032",
@@ -255,7 +255,7 @@
         "type": 1,
         "type_name": "chat_fix_phrases-20000032"
     },
-    "33": {
+    {
         "id": 33,
         "group": 3,
         "content": "chat_fix_phrases-10000033",
@@ -263,7 +263,7 @@
         "type": 2,
         "type_name": "chat_fix_phrases-20000033"
     },
-    "34": {
+    {
         "id": 34,
         "group": 3,
         "content": "chat_fix_phrases-10000034",
@@ -271,7 +271,7 @@
         "type": 2,
         "type_name": "chat_fix_phrases-20000034"
     },
-    "35": {
+    {
         "id": 35,
         "group": 3,
         "content": "chat_fix_phrases-10000035",
@@ -279,7 +279,7 @@
         "type": 3,
         "type_name": "chat_fix_phrases-20000035"
     },
-    "36": {
+    {
         "id": 36,
         "group": 3,
         "content": "chat_fix_phrases-10000036",
@@ -287,7 +287,7 @@
         "type": 3,
         "type_name": "chat_fix_phrases-20000036"
     },
-    "37": {
+    {
         "id": 37,
         "group": 3,
         "content": "chat_fix_phrases-10000037",
@@ -295,7 +295,7 @@
         "type": 3,
         "type_name": "chat_fix_phrases-20000037"
     },
-    "38": {
+    {
         "id": 38,
         "group": 3,
         "content": "chat_fix_phrases-10000038",
@@ -303,7 +303,7 @@
         "type": 3,
         "type_name": "chat_fix_phrases-20000038"
     },
-    "39": {
+    {
         "id": 39,
         "group": 3,
         "content": "chat_fix_phrases-10000039",
@@ -311,7 +311,7 @@
         "type": 3,
         "type_name": "chat_fix_phrases-20000039"
     },
-    "40": {
+    {
         "id": 40,
         "group": 3,
         "content": "chat_fix_phrases-10000040",
@@ -319,7 +319,7 @@
         "type": 3,
         "type_name": "chat_fix_phrases-20000040"
     },
-    "41": {
+    {
         "id": 41,
         "group": 3,
         "content": "chat_fix_phrases-10000041",
@@ -327,7 +327,7 @@
         "type": 3,
         "type_name": "chat_fix_phrases-20000041"
     },
-    "42": {
+    {
         "id": 42,
         "group": 3,
         "content": "chat_fix_phrases-10000042",
@@ -335,7 +335,7 @@
         "type": 3,
         "type_name": "chat_fix_phrases-20000042"
     },
-    "43": {
+    {
         "id": 43,
         "group": 3,
         "content": "chat_fix_phrases-10000043",
@@ -343,7 +343,7 @@
         "type": 3,
         "type_name": "chat_fix_phrases-20000043"
     },
-    "44": {
+    {
         "id": 44,
         "group": 3,
         "content": "chat_fix_phrases-10000044",
@@ -351,7 +351,7 @@
         "type": 4,
         "type_name": "chat_fix_phrases-20000044"
     },
-    "45": {
+    {
         "id": 45,
         "group": 3,
         "content": "chat_fix_phrases-10000045",
@@ -359,7 +359,7 @@
         "type": 4,
         "type_name": "chat_fix_phrases-20000045"
     },
-    "46": {
+    {
         "id": 46,
         "group": 3,
         "content": "chat_fix_phrases-10000046",
@@ -367,7 +367,7 @@
         "type": 4,
         "type_name": "chat_fix_phrases-20000046"
     },
-    "47": {
+    {
         "id": 47,
         "group": 3,
         "content": "chat_fix_phrases-10000047",
@@ -375,7 +375,7 @@
         "type": 4,
         "type_name": "chat_fix_phrases-20000047"
     },
-    "48": {
+    {
         "id": 48,
         "group": 3,
         "content": "chat_fix_phrases-10000048",
@@ -383,7 +383,7 @@
         "type": 4,
         "type_name": "chat_fix_phrases-20000048"
     },
-    "49": {
+    {
         "id": 49,
         "group": 3,
         "content": "chat_fix_phrases-10000049",
@@ -391,7 +391,7 @@
         "type": 5,
         "type_name": "chat_fix_phrases-20000049"
     },
-    "50": {
+    {
         "id": 50,
         "group": 3,
         "content": "chat_fix_phrases-10000050",
@@ -399,7 +399,7 @@
         "type": 5,
         "type_name": "chat_fix_phrases-20000050"
     },
-    "51": {
+    {
         "id": 51,
         "group": 3,
         "content": "chat_fix_phrases-10000051",
@@ -407,7 +407,7 @@
         "type": 5,
         "type_name": "chat_fix_phrases-20000051"
     },
-    "52": {
+    {
         "id": 52,
         "group": 3,
         "content": "chat_fix_phrases-10000052",
@@ -415,7 +415,7 @@
         "type": 5,
         "type_name": "chat_fix_phrases-20000052"
     },
-    "53": {
+    {
         "id": 53,
         "group": 3,
         "content": "chat_fix_phrases-10000053",
@@ -423,7 +423,7 @@
         "type": 5,
         "type_name": "chat_fix_phrases-20000053"
     },
-    "54": {
+    {
         "id": 54,
         "group": 3,
         "content": "chat_fix_phrases-10000054",
@@ -431,7 +431,7 @@
         "type": 5,
         "type_name": "chat_fix_phrases-20000054"
     },
-    "55": {
+    {
         "id": 55,
         "group": 3,
         "content": "chat_fix_phrases-10000055",
@@ -439,7 +439,7 @@
         "type": 5,
         "type_name": "chat_fix_phrases-20000055"
     },
-    "56": {
+    {
         "id": 56,
         "group": 3,
         "content": "chat_fix_phrases-10000056",
@@ -447,7 +447,7 @@
         "type": 5,
         "type_name": "chat_fix_phrases-20000056"
     },
-    "57": {
+    {
         "id": 57,
         "group": 3,
         "content": "chat_fix_phrases-10000057",
@@ -455,7 +455,7 @@
         "type": 5,
         "type_name": "chat_fix_phrases-20000057"
     },
-    "58": {
+    {
         "id": 58,
         "group": 3,
         "content": "chat_fix_phrases-10000058",
@@ -463,7 +463,7 @@
         "type": 5,
         "type_name": "chat_fix_phrases-20000058"
     },
-    "59": {
+    {
         "id": 59,
         "group": 3,
         "content": "chat_fix_phrases-10000059",
@@ -471,7 +471,7 @@
         "type": 5,
         "type_name": "chat_fix_phrases-20000059"
     },
-    "60": {
+    {
         "id": 60,
         "group": 3,
         "content": "chat_fix_phrases-10000060",
@@ -479,7 +479,7 @@
         "type": 6,
         "type_name": "chat_fix_phrases-20000060"
     },
-    "61": {
+    {
         "id": 61,
         "group": 3,
         "content": "chat_fix_phrases-10000061",
@@ -487,7 +487,7 @@
         "type": 6,
         "type_name": "chat_fix_phrases-20000061"
     },
-    "62": {
+    {
         "id": 62,
         "group": 3,
         "content": "chat_fix_phrases-10000062",
@@ -495,7 +495,7 @@
         "type": 6,
         "type_name": "chat_fix_phrases-20000062"
     },
-    "63": {
+    {
         "id": 63,
         "group": 3,
         "content": "chat_fix_phrases-10000063",
@@ -503,7 +503,7 @@
         "type": 6,
         "type_name": "chat_fix_phrases-20000063"
     },
-    "64": {
+    {
         "id": 64,
         "group": 3,
         "content": "chat_fix_phrases-10000064",
@@ -511,7 +511,7 @@
         "type": 6,
         "type_name": "chat_fix_phrases-20000064"
     },
-    "65": {
+    {
         "id": 65,
         "group": 3,
         "content": "chat_fix_phrases-10000065",
@@ -519,7 +519,7 @@
         "type": 6,
         "type_name": "chat_fix_phrases-20000065"
     },
-    "66": {
+    {
         "id": 66,
         "group": 3,
         "content": "chat_fix_phrases-10000066",
@@ -527,7 +527,7 @@
         "type": 6,
         "type_name": "chat_fix_phrases-20000066"
     },
-    "67": {
+    {
         "id": 67,
         "group": 3,
         "content": "chat_fix_phrases-10000067",
@@ -535,7 +535,7 @@
         "type": 6,
         "type_name": "chat_fix_phrases-20000067"
     },
-    "68": {
+    {
         "id": 68,
         "group": 3,
         "content": "chat_fix_phrases-10000068",
@@ -543,4 +543,4 @@
         "type": 6,
         "type_name": "chat_fix_phrases-20000068"
     }
-}
+]

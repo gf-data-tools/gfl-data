@@ -1,5 +1,5 @@
-{
-    "1": {
+[
+    {
         "id": 1,
         "name": "fairy-10000001",
         "code": "fighting",
@@ -37,7 +37,7 @@
         "org_id": 10502,
         "obtain_ids": "38"
     },
-    "2": {
+    {
         "id": 2,
         "name": "fairy-10000002",
         "code": "crit",
@@ -75,7 +75,7 @@
         "org_id": 10502,
         "obtain_ids": "38"
     },
-    "3": {
+    {
         "id": 3,
         "name": "fairy-10000003",
         "code": "armor",
@@ -113,7 +113,7 @@
         "org_id": 10502,
         "obtain_ids": "38"
     },
-    "4": {
+    {
         "id": 4,
         "name": "fairy-10000004",
         "code": "shield",
@@ -151,7 +151,7 @@
         "org_id": 10502,
         "obtain_ids": "38"
     },
-    "5": {
+    {
         "id": 5,
         "name": "fairy-10000005",
         "code": "defense",
@@ -189,7 +189,7 @@
         "org_id": 10502,
         "obtain_ids": "38"
     },
-    "6": {
+    {
         "id": 6,
         "name": "fairy-10000006",
         "code": "target",
@@ -227,7 +227,7 @@
         "org_id": 10502,
         "obtain_ids": "38"
     },
-    "7": {
+    {
         "id": 7,
         "name": "fairy-10000007",
         "code": "sniper",
@@ -265,7 +265,7 @@
         "org_id": 10502,
         "obtain_ids": "38"
     },
-    "8": {
+    {
         "id": 8,
         "name": "fairy-10000008",
         "code": "bombard",
@@ -303,7 +303,7 @@
         "org_id": 10502,
         "obtain_ids": "38"
     },
-    "9": {
+    {
         "id": 9,
         "name": "fairy-10000009",
         "code": "air_attack",
@@ -341,7 +341,7 @@
         "org_id": 10502,
         "obtain_ids": "38"
     },
-    "10": {
+    {
         "id": 10,
         "name": "fairy-10000010",
         "code": "reinforce",
@@ -379,7 +379,7 @@
         "org_id": 10502,
         "obtain_ids": "38"
     },
-    "11": {
+    {
         "id": 11,
         "name": "fairy-10000011",
         "code": "airborne",
@@ -417,7 +417,7 @@
         "org_id": 10502,
         "obtain_ids": "38"
     },
-    "12": {
+    {
         "id": 12,
         "name": "fairy-10000012",
         "code": "Landmines",
@@ -455,7 +455,7 @@
         "org_id": 10502,
         "obtain_ids": "38"
     },
-    "13": {
+    {
         "id": 13,
         "name": "fairy-10000013",
         "code": "position",
@@ -493,7 +493,7 @@
         "org_id": 10502,
         "obtain_ids": "38"
     },
-    "14": {
+    {
         "id": 14,
         "name": "fairy-10000014",
         "code": "fortress",
@@ -531,7 +531,7 @@
         "org_id": 10502,
         "obtain_ids": "38"
     },
-    "15": {
+    {
         "id": 15,
         "name": "fairy-10000015",
         "code": "command",
@@ -569,7 +569,7 @@
         "org_id": 10502,
         "obtain_ids": "38"
     },
-    "16": {
+    {
         "id": 16,
         "name": "fairy-10000016",
         "code": "rescue",
@@ -607,7 +607,7 @@
         "org_id": 10502,
         "obtain_ids": "38"
     },
-    "17": {
+    {
         "id": 17,
         "name": "fairy-10000017",
         "code": "illumine",
@@ -645,7 +645,7 @@
         "org_id": 10502,
         "obtain_ids": "38"
     },
-    "18": {
+    {
         "id": 18,
         "name": "fairy-10000018",
         "code": "golden",
@@ -683,7 +683,7 @@
         "org_id": 10502,
         "obtain_ids": "511,0"
     },
-    "19": {
+    {
         "id": 19,
         "name": "fairy-10000019",
         "code": "cooking",
@@ -721,7 +721,7 @@
         "org_id": 10502,
         "obtain_ids": "512,0"
     },
-    "20": {
+    {
         "id": 20,
         "name": "fairy-10000020",
         "code": "petard",
@@ -759,7 +759,7 @@
         "org_id": 10502,
         "obtain_ids": "502,0"
     },
-    "21": {
+    {
         "id": 21,
         "name": "fairy-10000021",
         "code": "Nian",
@@ -797,7 +797,7 @@
         "org_id": 10502,
         "obtain_ids": "503,0"
     },
-    "22": {
+    {
         "id": 22,
         "name": "fairy-10000022",
         "code": "beach",
@@ -835,7 +835,7 @@
         "org_id": 10502,
         "obtain_ids": "504,0"
     },
-    "23": {
+    {
         "id": 23,
         "name": "fairy-10000023",
         "code": "combo",
@@ -873,7 +873,7 @@
         "org_id": 10502,
         "obtain_ids": "38"
     },
-    "24": {
+    {
         "id": 24,
         "name": "fairy-10000024",
         "code": "standshield",
@@ -911,7 +911,7 @@
         "org_id": 10502,
         "obtain_ids": "38"
     },
-    "25": {
+    {
         "id": 25,
         "name": "fairy-10000025",
         "code": "twins",
@@ -949,7 +949,7 @@
         "org_id": 10502,
         "obtain_ids": "38"
     },
-    "26": {
+    {
         "id": 26,
         "name": "fairy-10000026",
         "code": "origin",
@@ -987,7 +987,7 @@
         "org_id": 10502,
         "obtain_ids": "509,510"
     },
-    "27": {
+    {
         "id": 27,
         "name": "fairy-10000027",
         "code": "auspicious",
@@ -1025,7 +1025,7 @@
         "org_id": 10502,
         "obtain_ids": "505,0"
     },
-    "28": {
+    {
         "id": 28,
         "name": "fairy-10000028",
         "code": "sanddance",
@@ -1063,7 +1063,7 @@
         "org_id": 10502,
         "obtain_ids": "506,0"
     },
-    "29": {
+    {
         "id": 29,
         "name": "fairy-10000029",
         "code": "cheeringteam",
@@ -1101,7 +1101,7 @@
         "org_id": 10502,
         "obtain_ids": "507,0"
     },
-    "30": {
+    {
         "id": 30,
         "name": "fairy-10000030",
         "code": "curse",
@@ -1139,7 +1139,7 @@
         "org_id": 10502,
         "obtain_ids": "508,0"
     },
-    "31": {
+    {
         "id": 31,
         "name": "fairy-10000031",
         "code": "trap",
@@ -1177,7 +1177,7 @@
         "org_id": 10502,
         "obtain_ids": "513,0"
     },
-    "1001": {
+    {
         "id": 1001,
         "name": "fairy-10001001",
         "code": "Sakura",
@@ -1215,7 +1215,7 @@
         "org_id": 0,
         "obtain_ids": "303,317"
     },
-    "1002": {
+    {
         "id": 1002,
         "name": "fairy-10001002",
         "code": "Kaguya",
@@ -1253,7 +1253,7 @@
         "org_id": 0,
         "obtain_ids": "314,318"
     },
-    "1003": {
+    {
         "id": 1003,
         "name": "fairy-10001003",
         "code": "Chloe",
@@ -1291,7 +1291,7 @@
         "org_id": 0,
         "obtain_ids": "314,318"
     },
-    "1004": {
+    {
         "id": 1004,
         "name": "fairy-10001004",
         "code": "DJMAXSUEE",
@@ -1329,7 +1329,7 @@
         "org_id": 0,
         "obtain_ids": "315,319"
     },
-    "1005": {
+    {
         "id": 1005,
         "name": "fairy-10001005",
         "code": "DJMAXSEHRA",
@@ -1367,7 +1367,7 @@
         "org_id": 0,
         "obtain_ids": "315,319"
     },
-    "1006": {
+    {
         "id": 1006,
         "name": "fairy-10001006",
         "code": "DJMAXPREIYA",
@@ -1405,7 +1405,7 @@
         "org_id": 0,
         "obtain_ids": "315,319"
     },
-    "1007": {
+    {
         "id": 1007,
         "name": "fairy-10001007",
         "code": "Anna",
@@ -1443,7 +1443,7 @@
         "org_id": 0,
         "obtain_ids": "316,224"
     },
-    "1008": {
+    {
         "id": 1008,
         "name": "fairy-10001008",
         "code": "Koji",
@@ -1481,7 +1481,7 @@
         "org_id": 0,
         "obtain_ids": "242,244"
     },
-    "90001": {
+    {
         "id": 90001,
         "name": "fairy-10090001",
         "code": "90001",
@@ -1519,7 +1519,7 @@
         "org_id": 0,
         "obtain_ids": ""
     },
-    "90002": {
+    {
         "id": 90002,
         "name": "fairy-10090002",
         "code": "90002",
@@ -1557,7 +1557,7 @@
         "org_id": 0,
         "obtain_ids": ""
     },
-    "90003": {
+    {
         "id": 90003,
         "name": "fairy-10090003",
         "code": "illumine",
@@ -1595,7 +1595,7 @@
         "org_id": 0,
         "obtain_ids": ""
     },
-    "90004": {
+    {
         "id": 90004,
         "name": "fairy-10090004",
         "code": "air_attack",
@@ -1633,4 +1633,4 @@
         "org_id": 0,
         "obtain_ids": ""
     }
-}
+]

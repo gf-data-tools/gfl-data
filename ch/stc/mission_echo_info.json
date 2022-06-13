@@ -1,5 +1,5 @@
-{
-    "1": {
+[
+    {
         "id": 1,
         "mission_id": 10628,
         "title": "mission_echo_info-10000001",
@@ -8,7 +8,7 @@
         "interval": 3,
         "character": "echo_pic1"
     },
-    "2": {
+    {
         "id": 2,
         "mission_id": 10629,
         "title": "mission_echo_info-10000002",
@@ -17,7 +17,7 @@
         "interval": 3,
         "character": "echo_pic2"
     },
-    "3": {
+    {
         "id": 3,
         "mission_id": 10630,
         "title": "mission_echo_info-10000003",
@@ -26,7 +26,7 @@
         "interval": 3,
         "character": "echo_pic3"
     },
-    "4": {
+    {
         "id": 4,
         "mission_id": 10631,
         "title": "mission_echo_info-10000004",
@@ -35,4 +35,4 @@
         "interval": 3,
         "character": "echo_pic4"
     }
-}
+]

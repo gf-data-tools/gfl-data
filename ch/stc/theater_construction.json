@@ -1,5 +1,5 @@
-{
-    "41100": {
+[
+    {
         "id": 41100,
         "name": "theater_construction-10041100",
         "group_id": 411,
@@ -13,7 +13,7 @@
         "material_item": 47,
         "material_number": 10
     },
-    "41101": {
+    {
         "id": 41101,
         "name": "theater_construction-10041101",
         "group_id": 411,
@@ -27,7 +27,7 @@
         "material_item": 47,
         "material_number": 10
     },
-    "41102": {
+    {
         "id": 41102,
         "name": "theater_construction-10041102",
         "group_id": 411,
@@ -41,7 +41,7 @@
         "material_item": 47,
         "material_number": 10
     },
-    "41103": {
+    {
         "id": 41103,
         "name": "theater_construction-10041103",
         "group_id": 411,
@@ -55,7 +55,7 @@
         "material_item": 47,
         "material_number": 10
     },
-    "42100": {
+    {
         "id": 42100,
         "name": "theater_construction-10042100",
         "group_id": 421,
@@ -69,7 +69,7 @@
         "material_item": 47,
         "material_number": 10
     },
-    "42101": {
+    {
         "id": 42101,
         "name": "theater_construction-10042101",
         "group_id": 421,
@@ -83,7 +83,7 @@
         "material_item": 47,
         "material_number": 10
     },
-    "42102": {
+    {
         "id": 42102,
         "name": "theater_construction-10042102",
         "group_id": 421,
@@ -97,7 +97,7 @@
         "material_item": 47,
         "material_number": 10
     },
-    "42103": {
+    {
         "id": 42103,
         "name": "theater_construction-10042103",
         "group_id": 421,
@@ -111,7 +111,7 @@
         "material_item": 47,
         "material_number": 10
     },
-    "42500": {
+    {
         "id": 42500,
         "name": "theater_construction-10042500",
         "group_id": 425,
@@ -125,7 +125,7 @@
         "material_item": 47,
         "material_number": 10
     },
-    "42501": {
+    {
         "id": 42501,
         "name": "theater_construction-10042501",
         "group_id": 425,
@@ -139,7 +139,7 @@
         "material_item": 47,
         "material_number": 10
     },
-    "42502": {
+    {
         "id": 42502,
         "name": "theater_construction-10042502",
         "group_id": 425,
@@ -153,7 +153,7 @@
         "material_item": 47,
         "material_number": 10
     },
-    "42503": {
+    {
         "id": 42503,
         "name": "theater_construction-10042503",
         "group_id": 425,
@@ -167,7 +167,7 @@
         "material_item": 47,
         "material_number": 10
     },
-    "43100": {
+    {
         "id": 43100,
         "name": "theater_construction-10043100",
         "group_id": 431,
@@ -181,7 +181,7 @@
         "material_item": 47,
         "material_number": 10
     },
-    "43101": {
+    {
         "id": 43101,
         "name": "theater_construction-10043101",
         "group_id": 431,
@@ -195,7 +195,7 @@
         "material_item": 47,
         "material_number": 10
     },
-    "43102": {
+    {
         "id": 43102,
         "name": "theater_construction-10043102",
         "group_id": 431,
@@ -209,7 +209,7 @@
         "material_item": 47,
         "material_number": 10
     },
-    "43103": {
+    {
         "id": 43103,
         "name": "theater_construction-10043103",
         "group_id": 431,
@@ -223,7 +223,7 @@
         "material_item": 47,
         "material_number": 10
     },
-    "43400": {
+    {
         "id": 43400,
         "name": "theater_construction-10043400",
         "group_id": 434,
@@ -237,7 +237,7 @@
         "material_item": 47,
         "material_number": 10
     },
-    "43401": {
+    {
         "id": 43401,
         "name": "theater_construction-10043401",
         "group_id": 434,
@@ -251,7 +251,7 @@
         "material_item": 47,
         "material_number": 10
     },
-    "43402": {
+    {
         "id": 43402,
         "name": "theater_construction-10043402",
         "group_id": 434,
@@ -265,7 +265,7 @@
         "material_item": 47,
         "material_number": 10
     },
-    "43403": {
+    {
         "id": 43403,
         "name": "theater_construction-10043403",
         "group_id": 434,
@@ -279,7 +279,7 @@
         "material_item": 47,
         "material_number": 10
     },
-    "43600": {
+    {
         "id": 43600,
         "name": "theater_construction-10043600",
         "group_id": 436,
@@ -293,7 +293,7 @@
         "material_item": 47,
         "material_number": 10
     },
-    "43601": {
+    {
         "id": 43601,
         "name": "theater_construction-10043601",
         "group_id": 436,
@@ -307,7 +307,7 @@
         "material_item": 47,
         "material_number": 10
     },
-    "43602": {
+    {
         "id": 43602,
         "name": "theater_construction-10043602",
         "group_id": 436,
@@ -321,7 +321,7 @@
         "material_item": 47,
         "material_number": 10
     },
-    "43603": {
+    {
         "id": 43603,
         "name": "theater_construction-10043603",
         "group_id": 436,
@@ -335,7 +335,7 @@
         "material_item": 47,
         "material_number": 10
     },
-    "44100": {
+    {
         "id": 44100,
         "name": "theater_construction-10044100",
         "group_id": 441,
@@ -349,7 +349,7 @@
         "material_item": 47,
         "material_number": 10
     },
-    "44101": {
+    {
         "id": 44101,
         "name": "theater_construction-10044101",
         "group_id": 441,
@@ -363,7 +363,7 @@
         "material_item": 47,
         "material_number": 10
     },
-    "44102": {
+    {
         "id": 44102,
         "name": "theater_construction-10044102",
         "group_id": 441,
@@ -377,7 +377,7 @@
         "material_item": 47,
         "material_number": 10
     },
-    "44103": {
+    {
         "id": 44103,
         "name": "theater_construction-10044103",
         "group_id": 441,
@@ -391,7 +391,7 @@
         "material_item": 47,
         "material_number": 10
     },
-    "44200": {
+    {
         "id": 44200,
         "name": "theater_construction-10044200",
         "group_id": 442,
@@ -405,7 +405,7 @@
         "material_item": 47,
         "material_number": 10
     },
-    "44201": {
+    {
         "id": 44201,
         "name": "theater_construction-10044201",
         "group_id": 442,
@@ -419,7 +419,7 @@
         "material_item": 47,
         "material_number": 10
     },
-    "44202": {
+    {
         "id": 44202,
         "name": "theater_construction-10044202",
         "group_id": 442,
@@ -433,7 +433,7 @@
         "material_item": 47,
         "material_number": 10
     },
-    "44203": {
+    {
         "id": 44203,
         "name": "theater_construction-10044203",
         "group_id": 442,
@@ -447,7 +447,7 @@
         "material_item": 47,
         "material_number": 10
     },
-    "44300": {
+    {
         "id": 44300,
         "name": "theater_construction-10044300",
         "group_id": 443,
@@ -461,7 +461,7 @@
         "material_item": 47,
         "material_number": 10
     },
-    "44301": {
+    {
         "id": 44301,
         "name": "theater_construction-10044301",
         "group_id": 443,
@@ -475,7 +475,7 @@
         "material_item": 47,
         "material_number": 10
     },
-    "44302": {
+    {
         "id": 44302,
         "name": "theater_construction-10044302",
         "group_id": 443,
@@ -489,7 +489,7 @@
         "material_item": 47,
         "material_number": 10
     },
-    "44303": {
+    {
         "id": 44303,
         "name": "theater_construction-10044303",
         "group_id": 443,
@@ -503,7 +503,7 @@
         "material_item": 47,
         "material_number": 10
     },
-    "51100": {
+    {
         "id": 51100,
         "name": "theater_construction-10051100",
         "group_id": 511,
@@ -517,7 +517,7 @@
         "material_item": 47,
         "material_number": 10
     },
-    "51101": {
+    {
         "id": 51101,
         "name": "theater_construction-10051101",
         "group_id": 511,
@@ -531,7 +531,7 @@
         "material_item": 47,
         "material_number": 10
     },
-    "51102": {
+    {
         "id": 51102,
         "name": "theater_construction-10051102",
         "group_id": 511,
@@ -545,7 +545,7 @@
         "material_item": 47,
         "material_number": 10
     },
-    "51103": {
+    {
         "id": 51103,
         "name": "theater_construction-10051103",
         "group_id": 511,
@@ -559,7 +559,7 @@
         "material_item": 47,
         "material_number": 10
     },
-    "52100": {
+    {
         "id": 52100,
         "name": "theater_construction-10052100",
         "group_id": 521,
@@ -573,7 +573,7 @@
         "material_item": 47,
         "material_number": 10
     },
-    "52101": {
+    {
         "id": 52101,
         "name": "theater_construction-10052101",
         "group_id": 521,
@@ -587,7 +587,7 @@
         "material_item": 47,
         "material_number": 10
     },
-    "52102": {
+    {
         "id": 52102,
         "name": "theater_construction-10052102",
         "group_id": 521,
@@ -601,7 +601,7 @@
         "material_item": 47,
         "material_number": 10
     },
-    "52103": {
+    {
         "id": 52103,
         "name": "theater_construction-10052103",
         "group_id": 521,
@@ -615,7 +615,7 @@
         "material_item": 47,
         "material_number": 10
     },
-    "52500": {
+    {
         "id": 52500,
         "name": "theater_construction-10052500",
         "group_id": 525,
@@ -629,7 +629,7 @@
         "material_item": 47,
         "material_number": 10
     },
-    "52501": {
+    {
         "id": 52501,
         "name": "theater_construction-10052501",
         "group_id": 525,
@@ -643,7 +643,7 @@
         "material_item": 47,
         "material_number": 10
     },
-    "52502": {
+    {
         "id": 52502,
         "name": "theater_construction-10052502",
         "group_id": 525,
@@ -657,7 +657,7 @@
         "material_item": 47,
         "material_number": 10
     },
-    "52503": {
+    {
         "id": 52503,
         "name": "theater_construction-10052503",
         "group_id": 525,
@@ -671,7 +671,7 @@
         "material_item": 47,
         "material_number": 10
     },
-    "53100": {
+    {
         "id": 53100,
         "name": "theater_construction-10053100",
         "group_id": 531,
@@ -685,7 +685,7 @@
         "material_item": 47,
         "material_number": 10
     },
-    "53101": {
+    {
         "id": 53101,
         "name": "theater_construction-10053101",
         "group_id": 531,
@@ -699,7 +699,7 @@
         "material_item": 47,
         "material_number": 10
     },
-    "53102": {
+    {
         "id": 53102,
         "name": "theater_construction-10053102",
         "group_id": 531,
@@ -713,7 +713,7 @@
         "material_item": 47,
         "material_number": 10
     },
-    "53103": {
+    {
         "id": 53103,
         "name": "theater_construction-10053103",
         "group_id": 531,
@@ -727,7 +727,7 @@
         "material_item": 47,
         "material_number": 10
     },
-    "53400": {
+    {
         "id": 53400,
         "name": "theater_construction-10053400",
         "group_id": 534,
@@ -741,7 +741,7 @@
         "material_item": 47,
         "material_number": 10
     },
-    "53401": {
+    {
         "id": 53401,
         "name": "theater_construction-10053401",
         "group_id": 534,
@@ -755,7 +755,7 @@
         "material_item": 47,
         "material_number": 10
     },
-    "53402": {
+    {
         "id": 53402,
         "name": "theater_construction-10053402",
         "group_id": 534,
@@ -769,7 +769,7 @@
         "material_item": 47,
         "material_number": 10
     },
-    "53403": {
+    {
         "id": 53403,
         "name": "theater_construction-10053403",
         "group_id": 534,
@@ -783,7 +783,7 @@
         "material_item": 47,
         "material_number": 10
     },
-    "53600": {
+    {
         "id": 53600,
         "name": "theater_construction-10053600",
         "group_id": 536,
@@ -797,7 +797,7 @@
         "material_item": 47,
         "material_number": 10
     },
-    "53601": {
+    {
         "id": 53601,
         "name": "theater_construction-10053601",
         "group_id": 536,
@@ -811,7 +811,7 @@
         "material_item": 47,
         "material_number": 10
     },
-    "53602": {
+    {
         "id": 53602,
         "name": "theater_construction-10053602",
         "group_id": 536,
@@ -825,7 +825,7 @@
         "material_item": 47,
         "material_number": 10
     },
-    "53603": {
+    {
         "id": 53603,
         "name": "theater_construction-10053603",
         "group_id": 536,
@@ -839,7 +839,7 @@
         "material_item": 47,
         "material_number": 10
     },
-    "54100": {
+    {
         "id": 54100,
         "name": "theater_construction-10054100",
         "group_id": 541,
@@ -853,7 +853,7 @@
         "material_item": 47,
         "material_number": 10
     },
-    "54101": {
+    {
         "id": 54101,
         "name": "theater_construction-10054101",
         "group_id": 541,
@@ -867,7 +867,7 @@
         "material_item": 47,
         "material_number": 10
     },
-    "54102": {
+    {
         "id": 54102,
         "name": "theater_construction-10054102",
         "group_id": 541,
@@ -881,7 +881,7 @@
         "material_item": 47,
         "material_number": 10
     },
-    "54103": {
+    {
         "id": 54103,
         "name": "theater_construction-10054103",
         "group_id": 541,
@@ -895,7 +895,7 @@
         "material_item": 47,
         "material_number": 10
     },
-    "54200": {
+    {
         "id": 54200,
         "name": "theater_construction-10054200",
         "group_id": 542,
@@ -909,7 +909,7 @@
         "material_item": 47,
         "material_number": 10
     },
-    "54201": {
+    {
         "id": 54201,
         "name": "theater_construction-10054201",
         "group_id": 542,
@@ -923,7 +923,7 @@
         "material_item": 47,
         "material_number": 10
     },
-    "54202": {
+    {
         "id": 54202,
         "name": "theater_construction-10054202",
         "group_id": 542,
@@ -937,7 +937,7 @@
         "material_item": 47,
         "material_number": 10
     },
-    "54203": {
+    {
         "id": 54203,
         "name": "theater_construction-10054203",
         "group_id": 542,
@@ -951,7 +951,7 @@
         "material_item": 47,
         "material_number": 10
     },
-    "54300": {
+    {
         "id": 54300,
         "name": "theater_construction-10054300",
         "group_id": 543,
@@ -965,7 +965,7 @@
         "material_item": 47,
         "material_number": 10
     },
-    "54301": {
+    {
         "id": 54301,
         "name": "theater_construction-10054301",
         "group_id": 543,
@@ -979,7 +979,7 @@
         "material_item": 47,
         "material_number": 10
     },
-    "54302": {
+    {
         "id": 54302,
         "name": "theater_construction-10054302",
         "group_id": 543,
@@ -993,7 +993,7 @@
         "material_item": 47,
         "material_number": 10
     },
-    "54303": {
+    {
         "id": 54303,
         "name": "theater_construction-10054303",
         "group_id": 543,
@@ -1007,7 +1007,7 @@
         "material_item": 47,
         "material_number": 10
     },
-    "61100": {
+    {
         "id": 61100,
         "name": "theater_construction-10061100",
         "group_id": 611,
@@ -1021,7 +1021,7 @@
         "material_item": 47,
         "material_number": 10
     },
-    "61101": {
+    {
         "id": 61101,
         "name": "theater_construction-10061101",
         "group_id": 611,
@@ -1035,7 +1035,7 @@
         "material_item": 47,
         "material_number": 10
     },
-    "61102": {
+    {
         "id": 61102,
         "name": "theater_construction-10061102",
         "group_id": 611,
@@ -1049,7 +1049,7 @@
         "material_item": 47,
         "material_number": 10
     },
-    "61103": {
+    {
         "id": 61103,
         "name": "theater_construction-10061103",
         "group_id": 611,
@@ -1063,7 +1063,7 @@
         "material_item": 47,
         "material_number": 10
     },
-    "62100": {
+    {
         "id": 62100,
         "name": "theater_construction-10062100",
         "group_id": 621,
@@ -1077,7 +1077,7 @@
         "material_item": 47,
         "material_number": 10
     },
-    "62101": {
+    {
         "id": 62101,
         "name": "theater_construction-10062101",
         "group_id": 621,
@@ -1091,7 +1091,7 @@
         "material_item": 47,
         "material_number": 10
     },
-    "62102": {
+    {
         "id": 62102,
         "name": "theater_construction-10062102",
         "group_id": 621,
@@ -1105,7 +1105,7 @@
         "material_item": 47,
         "material_number": 10
     },
-    "62103": {
+    {
         "id": 62103,
         "name": "theater_construction-10062103",
         "group_id": 621,
@@ -1119,7 +1119,7 @@
         "material_item": 47,
         "material_number": 10
     },
-    "62500": {
+    {
         "id": 62500,
         "name": "theater_construction-10062500",
         "group_id": 625,
@@ -1133,7 +1133,7 @@
         "material_item": 47,
         "material_number": 10
     },
-    "62501": {
+    {
         "id": 62501,
         "name": "theater_construction-10062501",
         "group_id": 625,
@@ -1147,7 +1147,7 @@
         "material_item": 47,
         "material_number": 10
     },
-    "62502": {
+    {
         "id": 62502,
         "name": "theater_construction-10062502",
         "group_id": 625,
@@ -1161,7 +1161,7 @@
         "material_item": 47,
         "material_number": 10
     },
-    "62503": {
+    {
         "id": 62503,
         "name": "theater_construction-10062503",
         "group_id": 625,
@@ -1175,7 +1175,7 @@
         "material_item": 47,
         "material_number": 10
     },
-    "63100": {
+    {
         "id": 63100,
         "name": "theater_construction-10063100",
         "group_id": 631,
@@ -1189,7 +1189,7 @@
         "material_item": 47,
         "material_number": 10
     },
-    "63101": {
+    {
         "id": 63101,
         "name": "theater_construction-10063101",
         "group_id": 631,
@@ -1203,7 +1203,7 @@
         "material_item": 47,
         "material_number": 10
     },
-    "63102": {
+    {
         "id": 63102,
         "name": "theater_construction-10063102",
         "group_id": 631,
@@ -1217,7 +1217,7 @@
         "material_item": 47,
         "material_number": 10
     },
-    "63103": {
+    {
         "id": 63103,
         "name": "theater_construction-10063103",
         "group_id": 631,
@@ -1231,7 +1231,7 @@
         "material_item": 47,
         "material_number": 10
     },
-    "63400": {
+    {
         "id": 63400,
         "name": "theater_construction-10063400",
         "group_id": 634,
@@ -1245,7 +1245,7 @@
         "material_item": 47,
         "material_number": 10
     },
-    "63401": {
+    {
         "id": 63401,
         "name": "theater_construction-10063401",
         "group_id": 634,
@@ -1259,7 +1259,7 @@
         "material_item": 47,
         "material_number": 10
     },
-    "63402": {
+    {
         "id": 63402,
         "name": "theater_construction-10063402",
         "group_id": 634,
@@ -1273,7 +1273,7 @@
         "material_item": 47,
         "material_number": 10
     },
-    "63403": {
+    {
         "id": 63403,
         "name": "theater_construction-10063403",
         "group_id": 634,
@@ -1287,7 +1287,7 @@
         "material_item": 47,
         "material_number": 10
     },
-    "63600": {
+    {
         "id": 63600,
         "name": "theater_construction-10063600",
         "group_id": 636,
@@ -1301,7 +1301,7 @@
         "material_item": 47,
         "material_number": 10
     },
-    "63601": {
+    {
         "id": 63601,
         "name": "theater_construction-10063601",
         "group_id": 636,
@@ -1315,7 +1315,7 @@
         "material_item": 47,
         "material_number": 10
     },
-    "63602": {
+    {
         "id": 63602,
         "name": "theater_construction-10063602",
         "group_id": 636,
@@ -1329,7 +1329,7 @@
         "material_item": 47,
         "material_number": 10
     },
-    "63603": {
+    {
         "id": 63603,
         "name": "theater_construction-10063603",
         "group_id": 636,
@@ -1343,7 +1343,7 @@
         "material_item": 47,
         "material_number": 10
     },
-    "64100": {
+    {
         "id": 64100,
         "name": "theater_construction-10064100",
         "group_id": 641,
@@ -1357,7 +1357,7 @@
         "material_item": 47,
         "material_number": 10
     },
-    "64101": {
+    {
         "id": 64101,
         "name": "theater_construction-10064101",
         "group_id": 641,
@@ -1371,7 +1371,7 @@
         "material_item": 47,
         "material_number": 10
     },
-    "64102": {
+    {
         "id": 64102,
         "name": "theater_construction-10064102",
         "group_id": 641,
@@ -1385,7 +1385,7 @@
         "material_item": 47,
         "material_number": 10
     },
-    "64103": {
+    {
         "id": 64103,
         "name": "theater_construction-10064103",
         "group_id": 641,
@@ -1399,7 +1399,7 @@
         "material_item": 47,
         "material_number": 10
     },
-    "64200": {
+    {
         "id": 64200,
         "name": "theater_construction-10064200",
         "group_id": 642,
@@ -1413,7 +1413,7 @@
         "material_item": 47,
         "material_number": 10
     },
-    "64201": {
+    {
         "id": 64201,
         "name": "theater_construction-10064201",
         "group_id": 642,
@@ -1427,7 +1427,7 @@
         "material_item": 47,
         "material_number": 10
     },
-    "64202": {
+    {
         "id": 64202,
         "name": "theater_construction-10064202",
         "group_id": 642,
@@ -1441,7 +1441,7 @@
         "material_item": 47,
         "material_number": 10
     },
-    "64203": {
+    {
         "id": 64203,
         "name": "theater_construction-10064203",
         "group_id": 642,
@@ -1455,7 +1455,7 @@
         "material_item": 47,
         "material_number": 10
     },
-    "64300": {
+    {
         "id": 64300,
         "name": "theater_construction-10064300",
         "group_id": 643,
@@ -1469,7 +1469,7 @@
         "material_item": 47,
         "material_number": 10
     },
-    "64301": {
+    {
         "id": 64301,
         "name": "theater_construction-10064301",
         "group_id": 643,
@@ -1483,7 +1483,7 @@
         "material_item": 47,
         "material_number": 10
     },
-    "64302": {
+    {
         "id": 64302,
         "name": "theater_construction-10064302",
         "group_id": 643,
@@ -1497,7 +1497,7 @@
         "material_item": 47,
         "material_number": 10
     },
-    "64303": {
+    {
         "id": 64303,
         "name": "theater_construction-10064303",
         "group_id": 643,
@@ -1511,7 +1511,7 @@
         "material_item": 47,
         "material_number": 10
     },
-    "71100": {
+    {
         "id": 71100,
         "name": "theater_construction-10071100",
         "group_id": 711,
@@ -1525,7 +1525,7 @@
         "material_item": 47,
         "material_number": 10
     },
-    "71101": {
+    {
         "id": 71101,
         "name": "theater_construction-10071101",
         "group_id": 711,
@@ -1539,7 +1539,7 @@
         "material_item": 47,
         "material_number": 10
     },
-    "71102": {
+    {
         "id": 71102,
         "name": "theater_construction-10071102",
         "group_id": 711,
@@ -1553,7 +1553,7 @@
         "material_item": 47,
         "material_number": 10
     },
-    "71103": {
+    {
         "id": 71103,
         "name": "theater_construction-10071103",
         "group_id": 711,
@@ -1567,7 +1567,7 @@
         "material_item": 47,
         "material_number": 10
     },
-    "72100": {
+    {
         "id": 72100,
         "name": "theater_construction-10072100",
         "group_id": 721,
@@ -1581,7 +1581,7 @@
         "material_item": 47,
         "material_number": 10
     },
-    "72101": {
+    {
         "id": 72101,
         "name": "theater_construction-10072101",
         "group_id": 721,
@@ -1595,7 +1595,7 @@
         "material_item": 47,
         "material_number": 10
     },
-    "72102": {
+    {
         "id": 72102,
         "name": "theater_construction-10072102",
         "group_id": 721,
@@ -1609,7 +1609,7 @@
         "material_item": 47,
         "material_number": 10
     },
-    "72103": {
+    {
         "id": 72103,
         "name": "theater_construction-10072103",
         "group_id": 721,
@@ -1623,7 +1623,7 @@
         "material_item": 47,
         "material_number": 10
     },
-    "72500": {
+    {
         "id": 72500,
         "name": "theater_construction-10072500",
         "group_id": 725,
@@ -1637,7 +1637,7 @@
         "material_item": 47,
         "material_number": 10
     },
-    "72501": {
+    {
         "id": 72501,
         "name": "theater_construction-10072501",
         "group_id": 725,
@@ -1651,7 +1651,7 @@
         "material_item": 47,
         "material_number": 10
     },
-    "72502": {
+    {
         "id": 72502,
         "name": "theater_construction-10072502",
         "group_id": 725,
@@ -1665,7 +1665,7 @@
         "material_item": 47,
         "material_number": 10
     },
-    "72503": {
+    {
         "id": 72503,
         "name": "theater_construction-10072503",
         "group_id": 725,
@@ -1679,7 +1679,7 @@
         "material_item": 47,
         "material_number": 10
     },
-    "73100": {
+    {
         "id": 73100,
         "name": "theater_construction-10073100",
         "group_id": 731,
@@ -1693,7 +1693,7 @@
         "material_item": 47,
         "material_number": 10
     },
-    "73101": {
+    {
         "id": 73101,
         "name": "theater_construction-10073101",
         "group_id": 731,
@@ -1707,7 +1707,7 @@
         "material_item": 47,
         "material_number": 10
     },
-    "73102": {
+    {
         "id": 73102,
         "name": "theater_construction-10073102",
         "group_id": 731,
@@ -1721,7 +1721,7 @@
         "material_item": 47,
         "material_number": 10
     },
-    "73103": {
+    {
         "id": 73103,
         "name": "theater_construction-10073103",
         "group_id": 731,
@@ -1735,7 +1735,7 @@
         "material_item": 47,
         "material_number": 10
     },
-    "73400": {
+    {
         "id": 73400,
         "name": "theater_construction-10073400",
         "group_id": 734,
@@ -1749,7 +1749,7 @@
         "material_item": 47,
         "material_number": 10
     },
-    "73401": {
+    {
         "id": 73401,
         "name": "theater_construction-10073401",
         "group_id": 734,
@@ -1763,7 +1763,7 @@
         "material_item": 47,
         "material_number": 10
     },
-    "73402": {
+    {
         "id": 73402,
         "name": "theater_construction-10073402",
         "group_id": 734,
@@ -1777,7 +1777,7 @@
         "material_item": 47,
         "material_number": 10
     },
-    "73403": {
+    {
         "id": 73403,
         "name": "theater_construction-10073403",
         "group_id": 734,
@@ -1791,7 +1791,7 @@
         "material_item": 47,
         "material_number": 10
     },
-    "73600": {
+    {
         "id": 73600,
         "name": "theater_construction-10073600",
         "group_id": 736,
@@ -1805,7 +1805,7 @@
         "material_item": 47,
         "material_number": 10
     },
-    "73601": {
+    {
         "id": 73601,
         "name": "theater_construction-10073601",
         "group_id": 736,
@@ -1819,7 +1819,7 @@
         "material_item": 47,
         "material_number": 10
     },
-    "73602": {
+    {
         "id": 73602,
         "name": "theater_construction-10073602",
         "group_id": 736,
@@ -1833,7 +1833,7 @@
         "material_item": 47,
         "material_number": 10
     },
-    "73603": {
+    {
         "id": 73603,
         "name": "theater_construction-10073603",
         "group_id": 736,
@@ -1847,7 +1847,7 @@
         "material_item": 47,
         "material_number": 10
     },
-    "74100": {
+    {
         "id": 74100,
         "name": "theater_construction-10074100",
         "group_id": 741,
@@ -1861,7 +1861,7 @@
         "material_item": 47,
         "material_number": 10
     },
-    "74101": {
+    {
         "id": 74101,
         "name": "theater_construction-10074101",
         "group_id": 741,
@@ -1875,7 +1875,7 @@
         "material_item": 47,
         "material_number": 10
     },
-    "74102": {
+    {
         "id": 74102,
         "name": "theater_construction-10074102",
         "group_id": 741,
@@ -1889,7 +1889,7 @@
         "material_item": 47,
         "material_number": 10
     },
-    "74103": {
+    {
         "id": 74103,
         "name": "theater_construction-10074103",
         "group_id": 741,
@@ -1903,7 +1903,7 @@
         "material_item": 47,
         "material_number": 10
     },
-    "74200": {
+    {
         "id": 74200,
         "name": "theater_construction-10074200",
         "group_id": 742,
@@ -1917,7 +1917,7 @@
         "material_item": 47,
         "material_number": 10
     },
-    "74201": {
+    {
         "id": 74201,
         "name": "theater_construction-10074201",
         "group_id": 742,
@@ -1931,7 +1931,7 @@
         "material_item": 47,
         "material_number": 10
     },
-    "74202": {
+    {
         "id": 74202,
         "name": "theater_construction-10074202",
         "group_id": 742,
@@ -1945,7 +1945,7 @@
         "material_item": 47,
         "material_number": 10
     },
-    "74203": {
+    {
         "id": 74203,
         "name": "theater_construction-10074203",
         "group_id": 742,
@@ -1959,7 +1959,7 @@
         "material_item": 47,
         "material_number": 10
     },
-    "74300": {
+    {
         "id": 74300,
         "name": "theater_construction-10074300",
         "group_id": 743,
@@ -1973,7 +1973,7 @@
         "material_item": 47,
         "material_number": 10
     },
-    "74301": {
+    {
         "id": 74301,
         "name": "theater_construction-10074301",
         "group_id": 743,
@@ -1987,7 +1987,7 @@
         "material_item": 47,
         "material_number": 10
     },
-    "74302": {
+    {
         "id": 74302,
         "name": "theater_construction-10074302",
         "group_id": 743,
@@ -2001,7 +2001,7 @@
         "material_item": 47,
         "material_number": 10
     },
-    "74303": {
+    {
         "id": 74303,
         "name": "theater_construction-10074303",
         "group_id": 743,
@@ -2015,7 +2015,7 @@
         "material_item": 47,
         "material_number": 10
     },
-    "81100": {
+    {
         "id": 81100,
         "name": "theater_construction-10081100",
         "group_id": 811,
@@ -2029,7 +2029,7 @@
         "material_item": 47,
         "material_number": 10
     },
-    "81101": {
+    {
         "id": 81101,
         "name": "theater_construction-10081101",
         "group_id": 811,
@@ -2043,7 +2043,7 @@
         "material_item": 47,
         "material_number": 10
     },
-    "81102": {
+    {
         "id": 81102,
         "name": "theater_construction-10081102",
         "group_id": 811,
@@ -2057,7 +2057,7 @@
         "material_item": 47,
         "material_number": 10
     },
-    "81103": {
+    {
         "id": 81103,
         "name": "theater_construction-10081103",
         "group_id": 811,
@@ -2071,7 +2071,7 @@
         "material_item": 47,
         "material_number": 10
     },
-    "82100": {
+    {
         "id": 82100,
         "name": "theater_construction-10082100",
         "group_id": 821,
@@ -2085,7 +2085,7 @@
         "material_item": 47,
         "material_number": 10
     },
-    "82101": {
+    {
         "id": 82101,
         "name": "theater_construction-10082101",
         "group_id": 821,
@@ -2099,7 +2099,7 @@
         "material_item": 47,
         "material_number": 10
     },
-    "82102": {
+    {
         "id": 82102,
         "name": "theater_construction-10082102",
         "group_id": 821,
@@ -2113,7 +2113,7 @@
         "material_item": 47,
         "material_number": 10
     },
-    "82103": {
+    {
         "id": 82103,
         "name": "theater_construction-10082103",
         "group_id": 821,
@@ -2127,7 +2127,7 @@
         "material_item": 47,
         "material_number": 10
     },
-    "82500": {
+    {
         "id": 82500,
         "name": "theater_construction-10082500",
         "group_id": 825,
@@ -2141,7 +2141,7 @@
         "material_item": 47,
         "material_number": 10
     },
-    "82501": {
+    {
         "id": 82501,
         "name": "theater_construction-10082501",
         "group_id": 825,
@@ -2155,7 +2155,7 @@
         "material_item": 47,
         "material_number": 10
     },
-    "82502": {
+    {
         "id": 82502,
         "name": "theater_construction-10082502",
         "group_id": 825,
@@ -2169,7 +2169,7 @@
         "material_item": 47,
         "material_number": 10
     },
-    "82503": {
+    {
         "id": 82503,
         "name": "theater_construction-10082503",
         "group_id": 825,
@@ -2183,7 +2183,7 @@
         "material_item": 47,
         "material_number": 10
     },
-    "83100": {
+    {
         "id": 83100,
         "name": "theater_construction-10083100",
         "group_id": 831,
@@ -2197,7 +2197,7 @@
         "material_item": 47,
         "material_number": 10
     },
-    "83101": {
+    {
         "id": 83101,
         "name": "theater_construction-10083101",
         "group_id": 831,
@@ -2211,7 +2211,7 @@
         "material_item": 47,
         "material_number": 10
     },
-    "83102": {
+    {
         "id": 83102,
         "name": "theater_construction-10083102",
         "group_id": 831,
@@ -2225,7 +2225,7 @@
         "material_item": 47,
         "material_number": 10
     },
-    "83103": {
+    {
         "id": 83103,
         "name": "theater_construction-10083103",
         "group_id": 831,
@@ -2239,7 +2239,7 @@
         "material_item": 47,
         "material_number": 10
     },
-    "83400": {
+    {
         "id": 83400,
         "name": "theater_construction-10083400",
         "group_id": 834,
@@ -2253,7 +2253,7 @@
         "material_item": 47,
         "material_number": 10
     },
-    "83401": {
+    {
         "id": 83401,
         "name": "theater_construction-10083401",
         "group_id": 834,
@@ -2267,7 +2267,7 @@
         "material_item": 47,
         "material_number": 10
     },
-    "83402": {
+    {
         "id": 83402,
         "name": "theater_construction-10083402",
         "group_id": 834,
@@ -2281,7 +2281,7 @@
         "material_item": 47,
         "material_number": 10
     },
-    "83403": {
+    {
         "id": 83403,
         "name": "theater_construction-10083403",
         "group_id": 834,
@@ -2295,7 +2295,7 @@
         "material_item": 47,
         "material_number": 10
     },
-    "83600": {
+    {
         "id": 83600,
         "name": "theater_construction-10083600",
         "group_id": 836,
@@ -2309,7 +2309,7 @@
         "material_item": 47,
         "material_number": 10
     },
-    "83601": {
+    {
         "id": 83601,
         "name": "theater_construction-10083601",
         "group_id": 836,
@@ -2323,7 +2323,7 @@
         "material_item": 47,
         "material_number": 10
     },
-    "83602": {
+    {
         "id": 83602,
         "name": "theater_construction-10083602",
         "group_id": 836,
@@ -2337,7 +2337,7 @@
         "material_item": 47,
         "material_number": 10
     },
-    "83603": {
+    {
         "id": 83603,
         "name": "theater_construction-10083603",
         "group_id": 836,
@@ -2351,7 +2351,7 @@
         "material_item": 47,
         "material_number": 10
     },
-    "84100": {
+    {
         "id": 84100,
         "name": "theater_construction-10084100",
         "group_id": 841,
@@ -2365,7 +2365,7 @@
         "material_item": 47,
         "material_number": 10
     },
-    "84101": {
+    {
         "id": 84101,
         "name": "theater_construction-10084101",
         "group_id": 841,
@@ -2379,7 +2379,7 @@
         "material_item": 47,
         "material_number": 10
     },
-    "84102": {
+    {
         "id": 84102,
         "name": "theater_construction-10084102",
         "group_id": 841,
@@ -2393,7 +2393,7 @@
         "material_item": 47,
         "material_number": 10
     },
-    "84103": {
+    {
         "id": 84103,
         "name": "theater_construction-10084103",
         "group_id": 841,
@@ -2407,7 +2407,7 @@
         "material_item": 47,
         "material_number": 10
     },
-    "84200": {
+    {
         "id": 84200,
         "name": "theater_construction-10084200",
         "group_id": 842,
@@ -2421,7 +2421,7 @@
         "material_item": 47,
         "material_number": 10
     },
-    "84201": {
+    {
         "id": 84201,
         "name": "theater_construction-10084201",
         "group_id": 842,
@@ -2435,7 +2435,7 @@
         "material_item": 47,
         "material_number": 10
     },
-    "84202": {
+    {
         "id": 84202,
         "name": "theater_construction-10084202",
         "group_id": 842,
@@ -2449,7 +2449,7 @@
         "material_item": 47,
         "material_number": 10
     },
-    "84203": {
+    {
         "id": 84203,
         "name": "theater_construction-10084203",
         "group_id": 842,
@@ -2463,7 +2463,7 @@
         "material_item": 47,
         "material_number": 10
     },
-    "84300": {
+    {
         "id": 84300,
         "name": "theater_construction-10084300",
         "group_id": 843,
@@ -2477,7 +2477,7 @@
         "material_item": 47,
         "material_number": 10
     },
-    "84301": {
+    {
         "id": 84301,
         "name": "theater_construction-10084301",
         "group_id": 843,
@@ -2491,7 +2491,7 @@
         "material_item": 47,
         "material_number": 10
     },
-    "84302": {
+    {
         "id": 84302,
         "name": "theater_construction-10084302",
         "group_id": 843,
@@ -2505,7 +2505,7 @@
         "material_item": 47,
         "material_number": 10
     },
-    "84303": {
+    {
         "id": 84303,
         "name": "theater_construction-10084303",
         "group_id": 843,
@@ -2519,4 +2519,4 @@
         "material_item": 47,
         "material_number": 10
     }
-}
+]

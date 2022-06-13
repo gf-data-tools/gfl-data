@@ -1,54 +1,54 @@
-{
-    "1": {
+[
+    {
         "id": 1,
         "name": "fairy_talent_type-10000001"
     },
-    "2": {
+    {
         "id": 2,
         "name": "fairy_talent_type-10000002"
     },
-    "3": {
+    {
         "id": 3,
         "name": "fairy_talent_type-10000003"
     },
-    "4": {
+    {
         "id": 4,
         "name": "fairy_talent_type-10000004"
     },
-    "5": {
+    {
         "id": 5,
         "name": "fairy_talent_type-10000005"
     },
-    "6": {
+    {
         "id": 6,
         "name": "fairy_talent_type-10000006"
     },
-    "7": {
+    {
         "id": 7,
         "name": "fairy_talent_type-10000007"
     },
-    "8": {
+    {
         "id": 8,
         "name": "fairy_talent_type-10000008"
     },
-    "9": {
+    {
         "id": 9,
         "name": "fairy_talent_type-10000009"
     },
-    "10": {
+    {
         "id": 10,
         "name": "fairy_talent_type-10000010"
     },
-    "11": {
+    {
         "id": 11,
         "name": "fairy_talent_type-10000011"
     },
-    "12": {
+    {
         "id": 12,
         "name": "fairy_talent_type-10000012"
     },
-    "13": {
+    {
         "id": 13,
         "name": "fairy_talent_type-10000013"
     }
-}
+]

@@ -1,5 +1,5 @@
-{
-    "10001": {
+[
+    {
         "id": 10001,
         "code_a": "Boomer",
         "description_a": "manual_ui-10010001",
@@ -9,7 +9,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "10002": {
+    {
         "id": 10002,
         "code_a": "Boomer",
         "description_a": "manual_ui-10010002",
@@ -19,7 +19,7 @@
         "is_manual_target": 2,
         "use_fairy_ui": 0
     },
-    "10101": {
+    {
         "id": 10101,
         "code_a": "Build_PortableEMP",
         "description_a": "manual_ui-10010101",
@@ -29,7 +29,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "10102": {
+    {
         "id": 10102,
         "code_a": "Build_PortableEMP",
         "description_a": "manual_ui-10010102",
@@ -39,7 +39,7 @@
         "is_manual_target": 2,
         "use_fairy_ui": 0
     },
-    "363001": {
+    {
         "id": 363001,
         "code_a": "Boomer",
         "description_a": "manual_ui-10363001",
@@ -49,7 +49,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "363002": {
+    {
         "id": 363002,
         "code_a": "Build_PortableEMP",
         "description_a": "manual_ui-10363002",
@@ -59,7 +59,7 @@
         "is_manual_target": 2,
         "use_fairy_ui": 0
     },
-    "381401": {
+    {
         "id": 381401,
         "code_a": "GunBox",
         "description_a": "manual_ui-10381401",
@@ -69,7 +69,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "381434": {
+    {
         "id": 381434,
         "code_a": "GunBox",
         "description_a": "manual_ui-10381434",
@@ -79,7 +79,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "381435": {
+    {
         "id": 381435,
         "code_a": "GunBox",
         "description_a": "manual_ui-10381435",
@@ -89,7 +89,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "381436": {
+    {
         "id": 381436,
         "code_a": "GunBox",
         "description_a": "manual_ui-10381436",
@@ -99,7 +99,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "381437": {
+    {
         "id": 381437,
         "code_a": "GunBox",
         "description_a": "manual_ui-10381437",
@@ -109,7 +109,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "381438": {
+    {
         "id": 381438,
         "code_a": "GunBox",
         "description_a": "manual_ui-10381438",
@@ -119,7 +119,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "381501": {
+    {
         "id": 381501,
         "code_a": "Console",
         "description_a": "manual_ui-10381501",
@@ -129,7 +129,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "381502": {
+    {
         "id": 381502,
         "code_a": "Console",
         "description_a": "manual_ui-10381502",
@@ -139,7 +139,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "390101": {
+    {
         "id": 390101,
         "code_a": "Console",
         "description_a": "manual_ui-10390101",
@@ -149,7 +149,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "390102": {
+    {
         "id": 390102,
         "code_a": "Console",
         "description_a": "manual_ui-10390102",
@@ -159,7 +159,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "390103": {
+    {
         "id": 390103,
         "code_a": "Console",
         "description_a": "manual_ui-10390103",
@@ -169,7 +169,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "390104": {
+    {
         "id": 390104,
         "code_a": "Console",
         "description_a": "manual_ui-10390104",
@@ -179,7 +179,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "390133": {
+    {
         "id": 390133,
         "code_a": "AirportTower",
         "description_a": "manual_ui-10390133",
@@ -189,7 +189,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "390135": {
+    {
         "id": 390135,
         "code_a": "AirportTower",
         "description_a": "manual_ui-10390135",
@@ -199,7 +199,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "390137": {
+    {
         "id": 390137,
         "code_a": "AirportTower",
         "description_a": "manual_ui-10390137",
@@ -209,7 +209,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "390139": {
+    {
         "id": 390139,
         "code_a": "AirportTower",
         "description_a": "manual_ui-10390139",
@@ -219,7 +219,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "410311": {
+    {
         "id": 410311,
         "code_a": "Console",
         "description_a": "manual_ui-10410311",
@@ -229,7 +229,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "410313": {
+    {
         "id": 410313,
         "code_a": "Console",
         "description_a": "manual_ui-10410313",
@@ -239,7 +239,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "410321": {
+    {
         "id": 410321,
         "code_a": "Console",
         "description_a": "manual_ui-10410321",
@@ -249,7 +249,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "410322": {
+    {
         "id": 410322,
         "code_a": "Console",
         "description_a": "manual_ui-10410322",
@@ -259,7 +259,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "410323": {
+    {
         "id": 410323,
         "code_a": "Console",
         "description_a": "manual_ui-10410323",
@@ -269,7 +269,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "410341": {
+    {
         "id": 410341,
         "code_a": "Console",
         "description_a": "manual_ui-10410341",
@@ -279,7 +279,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "410342": {
+    {
         "id": 410342,
         "code_a": "Console",
         "description_a": "manual_ui-10410342",
@@ -289,7 +289,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "410343": {
+    {
         "id": 410343,
         "code_a": "Console",
         "description_a": "manual_ui-10410343",
@@ -299,7 +299,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "410344": {
+    {
         "id": 410344,
         "code_a": "Console",
         "description_a": "manual_ui-10410344",
@@ -309,7 +309,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "410351": {
+    {
         "id": 410351,
         "code_a": "Console",
         "description_a": "manual_ui-10410351",
@@ -319,7 +319,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "410353": {
+    {
         "id": 410353,
         "code_a": "PortalBlue",
         "description_a": "manual_ui-10410353",
@@ -329,7 +329,7 @@
         "is_manual_target": 1,
         "use_fairy_ui": 0
     },
-    "410363": {
+    {
         "id": 410363,
         "code_a": "Boomer",
         "description_a": "manual_ui-10410363",
@@ -339,7 +339,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "410364": {
+    {
         "id": 410364,
         "code_a": "Build_PortableEMP",
         "description_a": "manual_ui-10410364",
@@ -349,7 +349,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "410365": {
+    {
         "id": 410365,
         "code_a": "Boomer",
         "description_a": "manual_ui-10410365",
@@ -359,7 +359,7 @@
         "is_manual_target": 1,
         "use_fairy_ui": 0
     },
-    "410366": {
+    {
         "id": 410366,
         "code_a": "Build_PortableEMP",
         "description_a": "manual_ui-10410366",
@@ -369,7 +369,7 @@
         "is_manual_target": 1,
         "use_fairy_ui": 0
     },
-    "411800": {
+    {
         "id": 411800,
         "code_a": "Console",
         "description_a": "manual_ui-10411800",
@@ -379,7 +379,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "411808": {
+    {
         "id": 411808,
         "code_a": "Console",
         "description_a": "manual_ui-10411808",
@@ -389,7 +389,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "411816": {
+    {
         "id": 411816,
         "code_a": "Console",
         "description_a": "manual_ui-10411816",
@@ -399,7 +399,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "411824": {
+    {
         "id": 411824,
         "code_a": "Console",
         "description_a": "manual_ui-10411824",
@@ -409,7 +409,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "411832": {
+    {
         "id": 411832,
         "code_a": "Console",
         "description_a": "manual_ui-10411832",
@@ -419,7 +419,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "411833": {
+    {
         "id": 411833,
         "code_a": "Console",
         "description_a": "manual_ui-10411833",
@@ -429,7 +429,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "411836": {
+    {
         "id": 411836,
         "code_a": "Console",
         "description_a": "manual_ui-10411836",
@@ -439,7 +439,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "411837": {
+    {
         "id": 411837,
         "code_a": "Console",
         "description_a": "manual_ui-10411837",
@@ -449,7 +449,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "420101": {
+    {
         "id": 420101,
         "code_a": "Console",
         "description_a": "manual_ui-10420101",
@@ -459,7 +459,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "420102": {
+    {
         "id": 420102,
         "code_a": "Console",
         "description_a": "manual_ui-10420102",
@@ -469,7 +469,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "420103": {
+    {
         "id": 420103,
         "code_a": "Console",
         "description_a": "manual_ui-10420103",
@@ -479,7 +479,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "420104": {
+    {
         "id": 420104,
         "code_a": "Console",
         "description_a": "manual_ui-10420104",
@@ -489,7 +489,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "420105": {
+    {
         "id": 420105,
         "code_a": "Console",
         "description_a": "manual_ui-10420105",
@@ -499,7 +499,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "420106": {
+    {
         "id": 420106,
         "code_a": "PortalBlue",
         "description_a": "manual_ui-10420106",
@@ -509,7 +509,7 @@
         "is_manual_target": 1,
         "use_fairy_ui": 0
     },
-    "420107": {
+    {
         "id": 420107,
         "code_a": "Console",
         "description_a": "manual_ui-10420107",
@@ -519,7 +519,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "420108": {
+    {
         "id": 420108,
         "code_a": "Console",
         "description_a": "manual_ui-10420108",
@@ -529,7 +529,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "420109": {
+    {
         "id": 420109,
         "code_a": "Console",
         "description_a": "manual_ui-10420109",
@@ -539,7 +539,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "440001": {
+    {
         "id": 440001,
         "code_a": "dandelionskill01",
         "description_a": "manual_ui-10440001",
@@ -549,7 +549,7 @@
         "is_manual_target": 2,
         "use_fairy_ui": 1
     },
-    "440002": {
+    {
         "id": 440002,
         "code_a": "dandelionskill02",
         "description_a": "manual_ui-10440002",
@@ -559,7 +559,7 @@
         "is_manual_target": 2,
         "use_fairy_ui": 1
     },
-    "440003": {
+    {
         "id": 440003,
         "code_a": "dandelionskill03",
         "description_a": "manual_ui-10440003",
@@ -569,7 +569,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 1
     },
-    "440500": {
+    {
         "id": 440500,
         "code_a": "gkemblem",
         "description_a": "manual_ui-10440500",
@@ -579,7 +579,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "440801": {
+    {
         "id": 440801,
         "code_a": "Console",
         "description_a": "manual_ui-10440801",
@@ -589,7 +589,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "440911": {
+    {
         "id": 440911,
         "code_a": "Console",
         "description_a": "manual_ui-10440911",
@@ -599,7 +599,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "440914": {
+    {
         "id": 440914,
         "code_a": "Console",
         "description_a": "manual_ui-10440914",
@@ -609,7 +609,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "442001": {
+    {
         "id": 442001,
         "code_a": "Console",
         "description_a": "manual_ui-10442001",
@@ -619,7 +619,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "442011": {
+    {
         "id": 442011,
         "code_a": "Console",
         "description_a": "manual_ui-10442011",
@@ -629,7 +629,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "442012": {
+    {
         "id": 442012,
         "code_a": "Console",
         "description_a": "manual_ui-10442012",
@@ -639,7 +639,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "442013": {
+    {
         "id": 442013,
         "code_a": "Console",
         "description_a": "manual_ui-10442013",
@@ -649,7 +649,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "442014": {
+    {
         "id": 442014,
         "code_a": "Console",
         "description_a": "manual_ui-10442014",
@@ -659,7 +659,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "442015": {
+    {
         "id": 442015,
         "code_a": "Console",
         "description_a": "manual_ui-10442015",
@@ -669,7 +669,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "442016": {
+    {
         "id": 442016,
         "code_a": "Console",
         "description_a": "manual_ui-10442016",
@@ -679,7 +679,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "442301": {
+    {
         "id": 442301,
         "code_a": "Console",
         "description_a": "manual_ui-10442301",
@@ -689,7 +689,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "480101": {
+    {
         "id": 480101,
         "code_a": "PortalBlue",
         "description_a": "manual_ui-10480101",
@@ -699,7 +699,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "480102": {
+    {
         "id": 480102,
         "code_a": "Build_PortableEMP",
         "description_a": "manual_ui-10480102",
@@ -709,7 +709,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "480103": {
+    {
         "id": 480103,
         "code_a": "Console_P",
         "description_a": "manual_ui-10480103",
@@ -719,7 +719,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "480111": {
+    {
         "id": 480111,
         "code_a": "PortalBlue",
         "description_a": "manual_ui-10480111",
@@ -729,7 +729,7 @@
         "is_manual_target": 2,
         "use_fairy_ui": 0
     },
-    "480121": {
+    {
         "id": 480121,
         "code_a": "Build_PortableEMP",
         "description_a": "manual_ui-10480121",
@@ -739,7 +739,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "480122": {
+    {
         "id": 480122,
         "code_a": "Build_PortableEMP",
         "description_a": "manual_ui-10480122",
@@ -749,7 +749,7 @@
         "is_manual_target": 2,
         "use_fairy_ui": 0
     },
-    "480131": {
+    {
         "id": 480131,
         "code_a": "Console_P",
         "description_a": "manual_ui-10480131",
@@ -759,7 +759,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "480141": {
+    {
         "id": 480141,
         "code_a": "Console_P",
         "description_a": "manual_ui-10480141",
@@ -769,7 +769,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "480151": {
+    {
         "id": 480151,
         "code_a": "Console_P",
         "description_a": "manual_ui-10480151",
@@ -779,7 +779,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "481412": {
+    {
         "id": 481412,
         "code_a": "Console_P",
         "description_a": "manual_ui-10481412",
@@ -789,7 +789,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "481414": {
+    {
         "id": 481414,
         "code_a": "Detonator",
         "description_a": "manual_ui-10481414",
@@ -799,7 +799,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "481812": {
+    {
         "id": 481812,
         "code_a": "EMP",
         "description_a": "manual_ui-10481812",
@@ -809,7 +809,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "481813": {
+    {
         "id": 481813,
         "code_a": "Substation",
         "description_a": "manual_ui-10481813",
@@ -819,7 +819,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "481906": {
+    {
         "id": 481906,
         "code_a": "Boomer",
         "description_a": "manual_ui-10481906",
@@ -829,7 +829,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "481912": {
+    {
         "id": 481912,
         "code_a": "LiftBlue",
         "description_a": "manual_ui-10481912",
@@ -839,7 +839,7 @@
         "is_manual_target": 2,
         "use_fairy_ui": 0
     },
-    "481913": {
+    {
         "id": 481913,
         "code_a": "Console_P",
         "description_a": "manual_ui-10481913",
@@ -849,7 +849,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "481915": {
+    {
         "id": 481915,
         "code_a": "Door_Left_S",
         "description_a": "manual_ui-10481915",
@@ -859,7 +859,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "482001": {
+    {
         "id": 482001,
         "code_a": "Build_PortableEMP",
         "description_a": "manual_ui-10482001",
@@ -869,7 +869,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "482002": {
+    {
         "id": 482002,
         "code_a": "Door_Left_S",
         "description_a": "manual_ui-10482002",
@@ -879,7 +879,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "482201": {
+    {
         "id": 482201,
         "code_a": "Door_Left_S",
         "description_a": "manual_ui-10482201",
@@ -889,7 +889,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "482203": {
+    {
         "id": 482203,
         "code_a": "Console_P",
         "description_a": "manual_ui-10482203",
@@ -899,7 +899,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "482208": {
+    {
         "id": 482208,
         "code_a": "Boomer",
         "description_a": "manual_ui-10482208",
@@ -909,7 +909,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "482215": {
+    {
         "id": 482215,
         "code_a": "Console_P",
         "description_a": "manual_ui-10482215",
@@ -919,7 +919,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "482219": {
+    {
         "id": 482219,
         "code_a": "Boomer",
         "description_a": "manual_ui-10482219",
@@ -929,7 +929,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "482300": {
+    {
         "id": 482300,
         "code_a": "Console_P",
         "description_a": "manual_ui-10482300",
@@ -939,7 +939,7 @@
         "is_manual_target": 2,
         "use_fairy_ui": 0
     },
-    "482315": {
+    {
         "id": 482315,
         "code_a": "Detonator",
         "description_a": "manual_ui-10482315",
@@ -949,7 +949,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "482411": {
+    {
         "id": 482411,
         "code_a": "Console_P",
         "description_a": "manual_ui-10482411",
@@ -959,7 +959,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "482431": {
+    {
         "id": 482431,
         "code_a": "Console_P",
         "description_a": "manual_ui-10482431",
@@ -969,7 +969,7 @@
         "is_manual_target": 2,
         "use_fairy_ui": 0
     },
-    "482432": {
+    {
         "id": 482432,
         "code_a": "Console_P",
         "description_a": "manual_ui-10482432",
@@ -979,7 +979,7 @@
         "is_manual_target": 2,
         "use_fairy_ui": 0
     },
-    "482433": {
+    {
         "id": 482433,
         "code_a": "Console_P",
         "description_a": "manual_ui-10482433",
@@ -989,7 +989,7 @@
         "is_manual_target": 2,
         "use_fairy_ui": 0
     },
-    "482434": {
+    {
         "id": 482434,
         "code_a": "Console_P",
         "description_a": "manual_ui-10482434",
@@ -999,7 +999,7 @@
         "is_manual_target": 2,
         "use_fairy_ui": 0
     },
-    "482435": {
+    {
         "id": 482435,
         "code_a": "Console_P",
         "description_a": "manual_ui-10482435",
@@ -1009,7 +1009,7 @@
         "is_manual_target": 2,
         "use_fairy_ui": 0
     },
-    "482436": {
+    {
         "id": 482436,
         "code_a": "Console_P",
         "description_a": "manual_ui-10482436",
@@ -1019,7 +1019,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "482501": {
+    {
         "id": 482501,
         "code_a": "Console_P",
         "description_a": "manual_ui-10482501",
@@ -1029,7 +1029,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "482509": {
+    {
         "id": 482509,
         "code_a": "Console_P",
         "description_a": "manual_ui-10482509",
@@ -1039,7 +1039,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "482512": {
+    {
         "id": 482512,
         "code_a": "Door_Left_S",
         "description_a": "manual_ui-10482512",
@@ -1049,7 +1049,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "482513": {
+    {
         "id": 482513,
         "code_a": "PortalBlue",
         "description_a": "manual_ui-10482513",
@@ -1059,7 +1059,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "483401": {
+    {
         "id": 483401,
         "code_a": "Console_P",
         "description_a": "manual_ui-10483401",
@@ -1069,7 +1069,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "483501": {
+    {
         "id": 483501,
         "code_a": "Boomer",
         "description_a": "manual_ui-10483501",
@@ -1079,7 +1079,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "483502": {
+    {
         "id": 483502,
         "code_a": "Boomer",
         "description_a": "manual_ui-10483502",
@@ -1089,7 +1089,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "483511": {
+    {
         "id": 483511,
         "code_a": "Boomer",
         "description_a": "manual_ui-10483511",
@@ -1099,7 +1099,7 @@
         "is_manual_target": 2,
         "use_fairy_ui": 0
     },
-    "483611": {
+    {
         "id": 483611,
         "code_a": "Boomer",
         "description_a": "manual_ui-10483611",
@@ -1109,7 +1109,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "483902": {
+    {
         "id": 483902,
         "code_a": "Viscosity_Bomb",
         "description_a": "manual_ui-10483902",
@@ -1119,7 +1119,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "483903": {
+    {
         "id": 483903,
         "code_a": "Viscosity_Bomb",
         "description_a": "manual_ui-10483903",
@@ -1129,7 +1129,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "484170": {
+    {
         "id": 484170,
         "code_a": "Console_P",
         "description_a": "manual_ui-10484170",
@@ -1139,7 +1139,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "500000": {
+    {
         "id": 500000,
         "code_a": "2022WV00",
         "description_a": "manual_ui-10500000",
@@ -1149,7 +1149,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "500001": {
+    {
         "id": 500001,
         "code_a": "2022WV21",
         "description_a": "manual_ui-10500001",
@@ -1159,7 +1159,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "500002": {
+    {
         "id": 500002,
         "code_a": "2022WV22",
         "description_a": "manual_ui-10500002",
@@ -1169,7 +1169,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "500003": {
+    {
         "id": 500003,
         "code_a": "2022WV23",
         "description_a": "manual_ui-10500003",
@@ -1179,7 +1179,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "500004": {
+    {
         "id": 500004,
         "code_a": "2022WV24",
         "description_a": "manual_ui-10500004",
@@ -1189,7 +1189,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "500005": {
+    {
         "id": 500005,
         "code_a": "2022WV25",
         "description_a": "manual_ui-10500005",
@@ -1199,7 +1199,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "500006": {
+    {
         "id": 500006,
         "code_a": "2022WV11",
         "description_a": "manual_ui-10500006",
@@ -1209,7 +1209,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "500007": {
+    {
         "id": 500007,
         "code_a": "2022WV12",
         "description_a": "manual_ui-10500007",
@@ -1219,7 +1219,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "500020": {
+    {
         "id": 500020,
         "code_a": "2022WV01",
         "description_a": "manual_ui-10500020",
@@ -1229,7 +1229,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "500021": {
+    {
         "id": 500021,
         "code_a": "2022WV10",
         "description_a": "manual_ui-10500021",
@@ -1239,7 +1239,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "500022": {
+    {
         "id": 500022,
         "code_a": "2022WV02",
         "description_a": "manual_ui-10500022",
@@ -1249,7 +1249,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "500023": {
+    {
         "id": 500023,
         "code_a": "2022WV03",
         "description_a": "manual_ui-10500023",
@@ -1259,7 +1259,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "500024": {
+    {
         "id": 500024,
         "code_a": "2022WV04",
         "description_a": "manual_ui-10500024",
@@ -1269,7 +1269,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "500025": {
+    {
         "id": 500025,
         "code_a": "2022WV05",
         "description_a": "manual_ui-10500025",
@@ -1279,7 +1279,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "500026": {
+    {
         "id": 500026,
         "code_a": "2022WV06",
         "description_a": "manual_ui-10500026",
@@ -1289,7 +1289,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "500027": {
+    {
         "id": 500027,
         "code_a": "2022WV07",
         "description_a": "manual_ui-10500027",
@@ -1299,7 +1299,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "500028": {
+    {
         "id": 500028,
         "code_a": "2022WV08",
         "description_a": "manual_ui-10500028",
@@ -1309,7 +1309,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "500029": {
+    {
         "id": 500029,
         "code_a": "2022WV09",
         "description_a": "manual_ui-10500029",
@@ -1319,7 +1319,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "500030": {
+    {
         "id": 500030,
         "code_a": "2022WV01",
         "description_a": "manual_ui-10500030",
@@ -1329,7 +1329,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "500031": {
+    {
         "id": 500031,
         "code_a": "2022WV10",
         "description_a": "manual_ui-10500031",
@@ -1339,7 +1339,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "500032": {
+    {
         "id": 500032,
         "code_a": "2022WV02",
         "description_a": "manual_ui-10500032",
@@ -1349,7 +1349,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "500033": {
+    {
         "id": 500033,
         "code_a": "2022WV03",
         "description_a": "manual_ui-10500033",
@@ -1359,7 +1359,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "500034": {
+    {
         "id": 500034,
         "code_a": "2022WV04",
         "description_a": "manual_ui-10500034",
@@ -1369,7 +1369,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "500035": {
+    {
         "id": 500035,
         "code_a": "2022WV05",
         "description_a": "manual_ui-10500035",
@@ -1379,7 +1379,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "500036": {
+    {
         "id": 500036,
         "code_a": "2022WV06",
         "description_a": "manual_ui-10500036",
@@ -1389,7 +1389,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "500037": {
+    {
         "id": 500037,
         "code_a": "2022WV07",
         "description_a": "manual_ui-10500037",
@@ -1399,7 +1399,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "500038": {
+    {
         "id": 500038,
         "code_a": "2022WV08",
         "description_a": "manual_ui-10500038",
@@ -1409,7 +1409,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "500039": {
+    {
         "id": 500039,
         "code_a": "2022WV09",
         "description_a": "manual_ui-10500039",
@@ -1419,7 +1419,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "500091": {
+    {
         "id": 500091,
         "code_a": "2022WV00",
         "description_a": "manual_ui-10500091",
@@ -1429,7 +1429,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "500092": {
+    {
         "id": 500092,
         "code_a": "2022WV00",
         "description_a": "manual_ui-10500092",
@@ -1439,7 +1439,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "500093": {
+    {
         "id": 500093,
         "code_a": "2022WV00",
         "description_a": "manual_ui-10500093",
@@ -1449,7 +1449,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "500094": {
+    {
         "id": 500094,
         "code_a": "2022WV00",
         "description_a": "manual_ui-10500094",
@@ -1459,7 +1459,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "500099": {
+    {
         "id": 500099,
         "code_a": "2022WV00",
         "description_a": "manual_ui-10500099",
@@ -1469,7 +1469,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "500401": {
+    {
         "id": 500401,
         "code_a": "2022WV21",
         "description_a": "manual_ui-10500401",
@@ -1479,7 +1479,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "500402": {
+    {
         "id": 500402,
         "code_a": "2022WV22",
         "description_a": "manual_ui-10500402",
@@ -1489,7 +1489,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "500403": {
+    {
         "id": 500403,
         "code_a": "2022WV23",
         "description_a": "manual_ui-10500403",
@@ -1499,7 +1499,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "500404": {
+    {
         "id": 500404,
         "code_a": "2022WV24",
         "description_a": "manual_ui-10500404",
@@ -1509,7 +1509,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "500405": {
+    {
         "id": 500405,
         "code_a": "2022WV25",
         "description_a": "manual_ui-10500405",
@@ -1519,7 +1519,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "500406": {
+    {
         "id": 500406,
         "code_a": "2022WV11",
         "description_a": "manual_ui-10500406",
@@ -1529,7 +1529,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "500407": {
+    {
         "id": 500407,
         "code_a": "2022WV12",
         "description_a": "manual_ui-10500407",
@@ -1539,7 +1539,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "500410": {
+    {
         "id": 500410,
         "code_a": "2022WV25",
         "description_a": "manual_ui-10500410",
@@ -1549,7 +1549,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "500411": {
+    {
         "id": 500411,
         "code_a": "2022WVLewis",
         "description_a": "manual_ui-10500411",
@@ -1559,7 +1559,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "500412": {
+    {
         "id": 500412,
         "code_a": "2022WVFalcon",
         "description_a": "manual_ui-10500412",
@@ -1569,7 +1569,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "500413": {
+    {
         "id": 500413,
         "code_a": "2022WV79type",
         "description_a": "manual_ui-10500413",
@@ -1579,7 +1579,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "500414": {
+    {
         "id": 500414,
         "code_a": "2022WV97type",
         "description_a": "manual_ui-10500414",
@@ -1589,7 +1589,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "500415": {
+    {
         "id": 500415,
         "code_a": "2022WVHunter",
         "description_a": "manual_ui-10500415",
@@ -1599,7 +1599,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "500416": {
+    {
         "id": 500416,
         "code_a": "2022WVLWMMG",
         "description_a": "manual_ui-10500416",
@@ -1609,7 +1609,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "500417": {
+    {
         "id": 500417,
         "code_a": "2022WVK5",
         "description_a": "manual_ui-10500417",
@@ -1619,7 +1619,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "500418": {
+    {
         "id": 500418,
         "code_a": "2022WVM1",
         "description_a": "manual_ui-10500418",
@@ -1629,7 +1629,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "500419": {
+    {
         "id": 500419,
         "code_a": "2022WVP22",
         "description_a": "manual_ui-10500419",
@@ -1639,7 +1639,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "500420": {
+    {
         "id": 500420,
         "code_a": "2022WVT77",
         "description_a": "manual_ui-10500420",
@@ -1649,7 +1649,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "500461": {
+    {
         "id": 500461,
         "code_a": "LiftBlue",
         "description_a": "manual_ui-10500461",
@@ -1659,7 +1659,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "500491": {
+    {
         "id": 500491,
         "code_a": "2022WV11",
         "description_a": "manual_ui-10500491",
@@ -1669,7 +1669,7 @@
         "is_manual_target": 2,
         "use_fairy_ui": 0
     },
-    "500496": {
+    {
         "id": 500496,
         "code_a": "2022WV12",
         "description_a": "manual_ui-10500496",
@@ -1679,7 +1679,7 @@
         "is_manual_target": 2,
         "use_fairy_ui": 0
     },
-    "510303": {
+    {
         "id": 510303,
         "code_a": "MissileLauncher",
         "description_a": "manual_ui-10510303",
@@ -1689,7 +1689,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "510313": {
+    {
         "id": 510313,
         "code_a": "MissileLauncher",
         "description_a": "manual_ui-10510313",
@@ -1699,7 +1699,7 @@
         "is_manual_target": 2,
         "use_fairy_ui": 0
     },
-    "510411": {
+    {
         "id": 510411,
         "code_a": "LiftBlue",
         "description_a": "manual_ui-10510411",
@@ -1709,7 +1709,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "510701": {
+    {
         "id": 510701,
         "code_a": "Viscosity_Bomb",
         "description_a": "manual_ui-10510701",
@@ -1719,7 +1719,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "510705": {
+    {
         "id": 510705,
         "code_a": "Console_P",
         "description_a": "manual_ui-10510705",
@@ -1729,7 +1729,7 @@
         "is_manual_target": 2,
         "use_fairy_ui": 0
     },
-    "510712": {
+    {
         "id": 510712,
         "code_a": "Viscosity_Bomb",
         "description_a": "manual_ui-10510712",
@@ -1739,7 +1739,7 @@
         "is_manual_target": 2,
         "use_fairy_ui": 0
     },
-    "510903": {
+    {
         "id": 510903,
         "code_a": "Console_P",
         "description_a": "manual_ui-10510903",
@@ -1749,7 +1749,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "510911": {
+    {
         "id": 510911,
         "code_a": "Boomer",
         "description_a": "manual_ui-10510911",
@@ -1759,7 +1759,7 @@
         "is_manual_target": 2,
         "use_fairy_ui": 0
     },
-    "510913": {
+    {
         "id": 510913,
         "code_a": "Console_P",
         "description_a": "manual_ui-10510913",
@@ -1769,7 +1769,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "510921": {
+    {
         "id": 510921,
         "code_a": "MissileB2",
         "description_a": "manual_ui-10510921",
@@ -1779,7 +1779,7 @@
         "is_manual_target": 2,
         "use_fairy_ui": 0
     },
-    "511001": {
+    {
         "id": 511001,
         "code_a": "Console_P",
         "description_a": "manual_ui-10511001",
@@ -1789,7 +1789,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "511012": {
+    {
         "id": 511012,
         "code_a": "PylonTower_B_3",
         "description_a": "manual_ui-10511012",
@@ -1799,7 +1799,7 @@
         "is_manual_target": 2,
         "use_fairy_ui": 0
     },
-    "511013": {
+    {
         "id": 511013,
         "code_a": "PylonTower_A_3",
         "description_a": "manual_ui-10511013",
@@ -1809,7 +1809,7 @@
         "is_manual_target": 2,
         "use_fairy_ui": 0
     },
-    "511701": {
+    {
         "id": 511701,
         "code_a": "Console_P",
         "description_a": "manual_ui-10511701",
@@ -1819,7 +1819,7 @@
         "is_manual_target": 2,
         "use_fairy_ui": 0
     },
-    "1000101": {
+    {
         "id": 1000101,
         "code_a": "Rock",
         "description_a": "manual_ui-11000101",
@@ -1829,7 +1829,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "1000102": {
+    {
         "id": 1000102,
         "code_a": "Rock",
         "description_a": "manual_ui-11000102",
@@ -1839,7 +1839,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "1000105": {
+    {
         "id": 1000105,
         "code_a": "Rock",
         "description_a": "manual_ui-11000105",
@@ -1849,7 +1849,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "1000108": {
+    {
         "id": 1000108,
         "code_a": "Birdge_Left",
         "description_a": "manual_ui-11000108",
@@ -1859,7 +1859,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "1000112": {
+    {
         "id": 1000112,
         "code_a": "Birdge_Left",
         "description_a": "manual_ui-11000112",
@@ -1869,7 +1869,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "1000115": {
+    {
         "id": 1000115,
         "code_a": "Birdge_Left",
         "description_a": "manual_ui-11000115",
@@ -1879,7 +1879,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "1000201": {
+    {
         "id": 1000201,
         "code_a": "Rock",
         "description_a": "manual_ui-11000201",
@@ -1889,7 +1889,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "1000301": {
+    {
         "id": 1000301,
         "code_a": "Rock",
         "description_a": "manual_ui-11000301",
@@ -1899,7 +1899,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "1000401": {
+    {
         "id": 1000401,
         "code_a": "Rock",
         "description_a": "manual_ui-11000401",
@@ -1909,7 +1909,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "1000501": {
+    {
         "id": 1000501,
         "code_a": "Rock",
         "description_a": "manual_ui-11000501",
@@ -1919,7 +1919,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "1000601": {
+    {
         "id": 1000601,
         "code_a": "Rock",
         "description_a": "manual_ui-11000601",
@@ -1929,7 +1929,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "1010104": {
+    {
         "id": 1010104,
         "code_a": "Console",
         "description_a": "manual_ui-11010104",
@@ -1939,7 +1939,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "1010105": {
+    {
         "id": 1010105,
         "code_a": "Console",
         "description_a": "manual_ui-11010105",
@@ -1949,7 +1949,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "1010106": {
+    {
         "id": 1010106,
         "code_a": "Console",
         "description_a": "manual_ui-11010106",
@@ -1959,7 +1959,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "1010107": {
+    {
         "id": 1010107,
         "code_a": "Console",
         "description_a": "manual_ui-11010107",
@@ -1969,7 +1969,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "1010110": {
+    {
         "id": 1010110,
         "code_a": "Console",
         "description_a": "manual_ui-11010110",
@@ -1979,7 +1979,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "1010111": {
+    {
         "id": 1010111,
         "code_a": "Console",
         "description_a": "manual_ui-11010111",
@@ -1989,7 +1989,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "1010112": {
+    {
         "id": 1010112,
         "code_a": "Console",
         "description_a": "manual_ui-11010112",
@@ -1999,7 +1999,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "1010113": {
+    {
         "id": 1010113,
         "code_a": "Console",
         "description_a": "manual_ui-11010113",
@@ -2009,7 +2009,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "1010114": {
+    {
         "id": 1010114,
         "code_a": "Console",
         "description_a": "manual_ui-11010114",
@@ -2019,7 +2019,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "1010204": {
+    {
         "id": 1010204,
         "code_a": "Console",
         "description_a": "manual_ui-11010204",
@@ -2029,7 +2029,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "1010205": {
+    {
         "id": 1010205,
         "code_a": "Console",
         "description_a": "manual_ui-11010205",
@@ -2039,7 +2039,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "1010206": {
+    {
         "id": 1010206,
         "code_a": "Console",
         "description_a": "manual_ui-11010206",
@@ -2049,7 +2049,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "1010207": {
+    {
         "id": 1010207,
         "code_a": "Console",
         "description_a": "manual_ui-11010207",
@@ -2059,7 +2059,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "1010208": {
+    {
         "id": 1010208,
         "code_a": "Console",
         "description_a": "manual_ui-11010208",
@@ -2069,7 +2069,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "1010209": {
+    {
         "id": 1010209,
         "code_a": "Console",
         "description_a": "manual_ui-11010209",
@@ -2079,7 +2079,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "1010210": {
+    {
         "id": 1010210,
         "code_a": "Console",
         "description_a": "manual_ui-11010210",
@@ -2089,7 +2089,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "1010212": {
+    {
         "id": 1010212,
         "code_a": "Console",
         "description_a": "manual_ui-11010212",
@@ -2099,7 +2099,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "1010213": {
+    {
         "id": 1010213,
         "code_a": "Console",
         "description_a": "manual_ui-11010213",
@@ -2109,7 +2109,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "1010304": {
+    {
         "id": 1010304,
         "code_a": "Console",
         "description_a": "manual_ui-11010304",
@@ -2119,7 +2119,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "1010305": {
+    {
         "id": 1010305,
         "code_a": "Console",
         "description_a": "manual_ui-11010305",
@@ -2129,7 +2129,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "1010306": {
+    {
         "id": 1010306,
         "code_a": "Console",
         "description_a": "manual_ui-11010306",
@@ -2139,7 +2139,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "1010307": {
+    {
         "id": 1010307,
         "code_a": "Console",
         "description_a": "manual_ui-11010307",
@@ -2149,7 +2149,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "1010308": {
+    {
         "id": 1010308,
         "code_a": "Console",
         "description_a": "manual_ui-11010308",
@@ -2159,7 +2159,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "1010309": {
+    {
         "id": 1010309,
         "code_a": "Console",
         "description_a": "manual_ui-11010309",
@@ -2169,7 +2169,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "1010404": {
+    {
         "id": 1010404,
         "code_a": "Console",
         "description_a": "manual_ui-11010404",
@@ -2179,7 +2179,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "1010405": {
+    {
         "id": 1010405,
         "code_a": "Console",
         "description_a": "manual_ui-11010405",
@@ -2189,7 +2189,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "1010406": {
+    {
         "id": 1010406,
         "code_a": "Console",
         "description_a": "manual_ui-11010406",
@@ -2199,7 +2199,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "1010407": {
+    {
         "id": 1010407,
         "code_a": "Console",
         "description_a": "manual_ui-11010407",
@@ -2209,7 +2209,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "1010410": {
+    {
         "id": 1010410,
         "code_a": "Console",
         "description_a": "manual_ui-11010410",
@@ -2219,7 +2219,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "1010411": {
+    {
         "id": 1010411,
         "code_a": "Console",
         "description_a": "manual_ui-11010411",
@@ -2229,7 +2229,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "1010412": {
+    {
         "id": 1010412,
         "code_a": "Console",
         "description_a": "manual_ui-11010412",
@@ -2239,7 +2239,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "1010413": {
+    {
         "id": 1010413,
         "code_a": "Console",
         "description_a": "manual_ui-11010413",
@@ -2249,7 +2249,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "1010414": {
+    {
         "id": 1010414,
         "code_a": "Console",
         "description_a": "manual_ui-11010414",
@@ -2259,7 +2259,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "1010415": {
+    {
         "id": 1010415,
         "code_a": "Console",
         "description_a": "manual_ui-11010415",
@@ -2269,7 +2269,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "1010504": {
+    {
         "id": 1010504,
         "code_a": "Console",
         "description_a": "manual_ui-11010504",
@@ -2279,7 +2279,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "1010505": {
+    {
         "id": 1010505,
         "code_a": "Console",
         "description_a": "manual_ui-11010505",
@@ -2289,7 +2289,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "1010506": {
+    {
         "id": 1010506,
         "code_a": "Console",
         "description_a": "manual_ui-11010506",
@@ -2299,7 +2299,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "1010507": {
+    {
         "id": 1010507,
         "code_a": "Console",
         "description_a": "manual_ui-11010507",
@@ -2309,7 +2309,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "1010508": {
+    {
         "id": 1010508,
         "code_a": "Console",
         "description_a": "manual_ui-11010508",
@@ -2319,7 +2319,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "1010509": {
+    {
         "id": 1010509,
         "code_a": "Console",
         "description_a": "manual_ui-11010509",
@@ -2329,7 +2329,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "1010604": {
+    {
         "id": 1010604,
         "code_a": "Console",
         "description_a": "manual_ui-11010604",
@@ -2339,7 +2339,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "1010605": {
+    {
         "id": 1010605,
         "code_a": "Console",
         "description_a": "manual_ui-11010605",
@@ -2349,7 +2349,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "1010606": {
+    {
         "id": 1010606,
         "code_a": "Console",
         "description_a": "manual_ui-11010606",
@@ -2359,7 +2359,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "1010607": {
+    {
         "id": 1010607,
         "code_a": "Console",
         "description_a": "manual_ui-11010607",
@@ -2369,7 +2369,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "1010608": {
+    {
         "id": 1010608,
         "code_a": "Console",
         "description_a": "manual_ui-11010608",
@@ -2379,7 +2379,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "1010609": {
+    {
         "id": 1010609,
         "code_a": "Console",
         "description_a": "manual_ui-11010609",
@@ -2389,7 +2389,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "1010704": {
+    {
         "id": 1010704,
         "code_a": "Console",
         "description_a": "manual_ui-11010704",
@@ -2399,7 +2399,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "1010705": {
+    {
         "id": 1010705,
         "code_a": "Console",
         "description_a": "manual_ui-11010705",
@@ -2409,7 +2409,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "1010706": {
+    {
         "id": 1010706,
         "code_a": "Console",
         "description_a": "manual_ui-11010706",
@@ -2419,7 +2419,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "1010707": {
+    {
         "id": 1010707,
         "code_a": "Console",
         "description_a": "manual_ui-11010707",
@@ -2429,7 +2429,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "1010804": {
+    {
         "id": 1010804,
         "code_a": "Console",
         "description_a": "manual_ui-11010804",
@@ -2439,7 +2439,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "1010805": {
+    {
         "id": 1010805,
         "code_a": "Console",
         "description_a": "manual_ui-11010805",
@@ -2449,7 +2449,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "1010806": {
+    {
         "id": 1010806,
         "code_a": "Console",
         "description_a": "manual_ui-11010806",
@@ -2459,7 +2459,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "1010807": {
+    {
         "id": 1010807,
         "code_a": "Console",
         "description_a": "manual_ui-11010807",
@@ -2469,7 +2469,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "1020106": {
+    {
         "id": 1020106,
         "code_a": "Door_Left",
         "description_a": "manual_ui-11020106",
@@ -2479,7 +2479,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "1020107": {
+    {
         "id": 1020107,
         "code_a": "Door_Left",
         "description_a": "manual_ui-11020107",
@@ -2489,7 +2489,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "1020108": {
+    {
         "id": 1020108,
         "code_a": "Door_Left",
         "description_a": "manual_ui-11020108",
@@ -2499,7 +2499,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "1020109": {
+    {
         "id": 1020109,
         "code_a": "Door_Left",
         "description_a": "manual_ui-11020109",
@@ -2509,7 +2509,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "1020110": {
+    {
         "id": 1020110,
         "code_a": "Door_Left",
         "description_a": "manual_ui-11020110",
@@ -2519,7 +2519,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "1020111": {
+    {
         "id": 1020111,
         "code_a": "Door_Left",
         "description_a": "manual_ui-11020111",
@@ -2529,7 +2529,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "1020112": {
+    {
         "id": 1020112,
         "code_a": "Door_Left",
         "description_a": "manual_ui-11020112",
@@ -2539,7 +2539,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "1020113": {
+    {
         "id": 1020113,
         "code_a": "Door_Left",
         "description_a": "manual_ui-11020113",
@@ -2549,7 +2549,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "1020114": {
+    {
         "id": 1020114,
         "code_a": "Door_Left",
         "description_a": "manual_ui-11020114",
@@ -2559,7 +2559,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "1020115": {
+    {
         "id": 1020115,
         "code_a": "Door_Left",
         "description_a": "manual_ui-11020115",
@@ -2569,7 +2569,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "1020116": {
+    {
         "id": 1020116,
         "code_a": "Door_Left",
         "description_a": "manual_ui-11020116",
@@ -2579,7 +2579,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "1020117": {
+    {
         "id": 1020117,
         "code_a": "Door_Left",
         "description_a": "manual_ui-11020117",
@@ -2589,7 +2589,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "1020118": {
+    {
         "id": 1020118,
         "code_a": "Door_Left",
         "description_a": "manual_ui-11020118",
@@ -2599,7 +2599,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "1020119": {
+    {
         "id": 1020119,
         "code_a": "Door_Left",
         "description_a": "manual_ui-11020119",
@@ -2609,7 +2609,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "1020120": {
+    {
         "id": 1020120,
         "code_a": "Door_Left",
         "description_a": "manual_ui-11020120",
@@ -2619,7 +2619,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "1020121": {
+    {
         "id": 1020121,
         "code_a": "Door_Left",
         "description_a": "manual_ui-11020121",
@@ -2629,7 +2629,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "1020122": {
+    {
         "id": 1020122,
         "code_a": "Door_Left",
         "description_a": "manual_ui-11020122",
@@ -2639,7 +2639,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "1020123": {
+    {
         "id": 1020123,
         "code_a": "Door_Left",
         "description_a": "manual_ui-11020123",
@@ -2649,7 +2649,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "1020126": {
+    {
         "id": 1020126,
         "code_a": "Door_Left",
         "description_a": "manual_ui-11020126",
@@ -2659,7 +2659,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "1020127": {
+    {
         "id": 1020127,
         "code_a": "Door_Left",
         "description_a": "manual_ui-11020127",
@@ -2669,7 +2669,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "1020206": {
+    {
         "id": 1020206,
         "code_a": "Door_Left",
         "description_a": "manual_ui-11020206",
@@ -2679,7 +2679,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "1020207": {
+    {
         "id": 1020207,
         "code_a": "Door_Left",
         "description_a": "manual_ui-11020207",
@@ -2689,7 +2689,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "1020208": {
+    {
         "id": 1020208,
         "code_a": "Door_Left",
         "description_a": "manual_ui-11020208",
@@ -2699,7 +2699,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "1020209": {
+    {
         "id": 1020209,
         "code_a": "Door_Left",
         "description_a": "manual_ui-11020209",
@@ -2709,7 +2709,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "1020210": {
+    {
         "id": 1020210,
         "code_a": "Door_Left",
         "description_a": "manual_ui-11020210",
@@ -2719,7 +2719,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "1020211": {
+    {
         "id": 1020211,
         "code_a": "Door_Left",
         "description_a": "manual_ui-11020211",
@@ -2729,7 +2729,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "1020212": {
+    {
         "id": 1020212,
         "code_a": "Door_Left",
         "description_a": "manual_ui-11020212",
@@ -2739,7 +2739,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "1020213": {
+    {
         "id": 1020213,
         "code_a": "Door_Left",
         "description_a": "manual_ui-11020213",
@@ -2749,7 +2749,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "1020214": {
+    {
         "id": 1020214,
         "code_a": "Door_Left",
         "description_a": "manual_ui-11020214",
@@ -2759,7 +2759,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "1020215": {
+    {
         "id": 1020215,
         "code_a": "Door_Left",
         "description_a": "manual_ui-11020215",
@@ -2769,7 +2769,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "1020216": {
+    {
         "id": 1020216,
         "code_a": "Door_Left",
         "description_a": "manual_ui-11020216",
@@ -2779,7 +2779,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "1020217": {
+    {
         "id": 1020217,
         "code_a": "Door_Left",
         "description_a": "manual_ui-11020217",
@@ -2789,7 +2789,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "1020218": {
+    {
         "id": 1020218,
         "code_a": "Door_Left",
         "description_a": "manual_ui-11020218",
@@ -2799,7 +2799,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "1020219": {
+    {
         "id": 1020219,
         "code_a": "Door_Left",
         "description_a": "manual_ui-11020219",
@@ -2809,7 +2809,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "1020306": {
+    {
         "id": 1020306,
         "code_a": "Door_Left",
         "description_a": "manual_ui-11020306",
@@ -2819,7 +2819,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "1020307": {
+    {
         "id": 1020307,
         "code_a": "Door_Left",
         "description_a": "manual_ui-11020307",
@@ -2829,7 +2829,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "1020308": {
+    {
         "id": 1020308,
         "code_a": "Door_Left",
         "description_a": "manual_ui-11020308",
@@ -2839,7 +2839,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "1020309": {
+    {
         "id": 1020309,
         "code_a": "Door_Left",
         "description_a": "manual_ui-11020309",
@@ -2849,7 +2849,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "1020310": {
+    {
         "id": 1020310,
         "code_a": "Door_Left",
         "description_a": "manual_ui-11020310",
@@ -2859,7 +2859,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "1020311": {
+    {
         "id": 1020311,
         "code_a": "Door_Left",
         "description_a": "manual_ui-11020311",
@@ -2869,7 +2869,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "1020312": {
+    {
         "id": 1020312,
         "code_a": "Door_Left",
         "description_a": "manual_ui-11020312",
@@ -2879,7 +2879,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "1020313": {
+    {
         "id": 1020313,
         "code_a": "Door_Left",
         "description_a": "manual_ui-11020313",
@@ -2889,7 +2889,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "1020314": {
+    {
         "id": 1020314,
         "code_a": "Door_Left",
         "description_a": "manual_ui-11020314",
@@ -2899,7 +2899,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "1020406": {
+    {
         "id": 1020406,
         "code_a": "Door_Left",
         "description_a": "manual_ui-11020406",
@@ -2909,7 +2909,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "1020407": {
+    {
         "id": 1020407,
         "code_a": "Door_Left",
         "description_a": "manual_ui-11020407",
@@ -2919,7 +2919,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "1020408": {
+    {
         "id": 1020408,
         "code_a": "Door_Left",
         "description_a": "manual_ui-11020408",
@@ -2929,7 +2929,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "1020409": {
+    {
         "id": 1020409,
         "code_a": "Door_Left",
         "description_a": "manual_ui-11020409",
@@ -2939,7 +2939,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "1020410": {
+    {
         "id": 1020410,
         "code_a": "Door_Left",
         "description_a": "manual_ui-11020410",
@@ -2949,7 +2949,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "1020411": {
+    {
         "id": 1020411,
         "code_a": "Door_Left",
         "description_a": "manual_ui-11020411",
@@ -2959,7 +2959,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "1020506": {
+    {
         "id": 1020506,
         "code_a": "Door_Left",
         "description_a": "manual_ui-11020506",
@@ -2969,7 +2969,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "1020507": {
+    {
         "id": 1020507,
         "code_a": "Door_Left",
         "description_a": "manual_ui-11020507",
@@ -2979,7 +2979,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "1020508": {
+    {
         "id": 1020508,
         "code_a": "Door_Left",
         "description_a": "manual_ui-11020508",
@@ -2989,7 +2989,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "1020509": {
+    {
         "id": 1020509,
         "code_a": "Door_Left",
         "description_a": "manual_ui-11020509",
@@ -2999,7 +2999,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "1020606": {
+    {
         "id": 1020606,
         "code_a": "Door_Left",
         "description_a": "manual_ui-11020606",
@@ -3009,7 +3009,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "1020607": {
+    {
         "id": 1020607,
         "code_a": "Door_Left",
         "description_a": "manual_ui-11020607",
@@ -3019,7 +3019,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "1020608": {
+    {
         "id": 1020608,
         "code_a": "Door_Left",
         "description_a": "manual_ui-11020608",
@@ -3029,7 +3029,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "1020609": {
+    {
         "id": 1020609,
         "code_a": "Door_Left",
         "description_a": "manual_ui-11020609",
@@ -3039,7 +3039,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "1020706": {
+    {
         "id": 1020706,
         "code_a": "Door_Left",
         "description_a": "manual_ui-11020706",
@@ -3049,7 +3049,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "1020707": {
+    {
         "id": 1020707,
         "code_a": "Door_Left",
         "description_a": "manual_ui-11020707",
@@ -3059,7 +3059,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "1020708": {
+    {
         "id": 1020708,
         "code_a": "Door_Left",
         "description_a": "manual_ui-11020708",
@@ -3069,7 +3069,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "1020709": {
+    {
         "id": 1020709,
         "code_a": "Door_Left",
         "description_a": "manual_ui-11020709",
@@ -3079,7 +3079,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "1020806": {
+    {
         "id": 1020806,
         "code_a": "Door_Left",
         "description_a": "manual_ui-11020806",
@@ -3089,7 +3089,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "1020807": {
+    {
         "id": 1020807,
         "code_a": "Door_Left",
         "description_a": "manual_ui-11020807",
@@ -3099,7 +3099,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "1020906": {
+    {
         "id": 1020906,
         "code_a": "Door_Left",
         "description_a": "manual_ui-11020906",
@@ -3109,7 +3109,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "1020907": {
+    {
         "id": 1020907,
         "code_a": "Door_Left",
         "description_a": "manual_ui-11020907",
@@ -3119,7 +3119,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "1021006": {
+    {
         "id": 1021006,
         "code_a": "Door_Left",
         "description_a": "manual_ui-11021006",
@@ -3129,7 +3129,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "1021007": {
+    {
         "id": 1021007,
         "code_a": "Door_Left",
         "description_a": "manual_ui-11021007",
@@ -3139,7 +3139,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "1021106": {
+    {
         "id": 1021106,
         "code_a": "Door_Left",
         "description_a": "manual_ui-11021106",
@@ -3149,7 +3149,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "1021107": {
+    {
         "id": 1021107,
         "code_a": "Door_Left",
         "description_a": "manual_ui-11021107",
@@ -3159,7 +3159,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "1021206": {
+    {
         "id": 1021206,
         "code_a": "Door_Left",
         "description_a": "manual_ui-11021206",
@@ -3169,7 +3169,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "1021207": {
+    {
         "id": 1021207,
         "code_a": "Door_Left",
         "description_a": "manual_ui-11021207",
@@ -3179,7 +3179,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "1021306": {
+    {
         "id": 1021306,
         "code_a": "Door_Left",
         "description_a": "manual_ui-11021306",
@@ -3189,7 +3189,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "1021307": {
+    {
         "id": 1021307,
         "code_a": "Door_Left",
         "description_a": "manual_ui-11021307",
@@ -3199,7 +3199,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "1030101": {
+    {
         "id": 1030101,
         "code_a": "Boomer",
         "description_a": "manual_ui-11030101",
@@ -3209,7 +3209,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "1030201": {
+    {
         "id": 1030201,
         "code_a": "Boomer",
         "description_a": "manual_ui-11030201",
@@ -3219,7 +3219,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "1030301": {
+    {
         "id": 1030301,
         "code_a": "Boomer",
         "description_a": "manual_ui-11030301",
@@ -3229,7 +3229,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "1030401": {
+    {
         "id": 1030401,
         "code_a": "Boomer",
         "description_a": "manual_ui-11030401",
@@ -3239,7 +3239,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "1030501": {
+    {
         "id": 1030501,
         "code_a": "Boomer",
         "description_a": "manual_ui-11030501",
@@ -3249,7 +3249,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "1030601": {
+    {
         "id": 1030601,
         "code_a": "Boomer",
         "description_a": "manual_ui-11030601",
@@ -3259,7 +3259,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "1060105": {
+    {
         "id": 1060105,
         "code_a": "MissileLauncher",
         "description_a": "manual_ui-11060105",
@@ -3269,7 +3269,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "1060106": {
+    {
         "id": 1060106,
         "code_a": "MissileLauncher",
         "description_a": "manual_ui-11060106",
@@ -3279,7 +3279,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "1060107": {
+    {
         "id": 1060107,
         "code_a": "MissileLauncher",
         "description_a": "manual_ui-11060107",
@@ -3289,7 +3289,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "1060108": {
+    {
         "id": 1060108,
         "code_a": "MissileLauncher",
         "description_a": "manual_ui-11060108",
@@ -3299,7 +3299,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "1060109": {
+    {
         "id": 1060109,
         "code_a": "MissileLauncher",
         "description_a": "manual_ui-11060109",
@@ -3309,7 +3309,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "1060110": {
+    {
         "id": 1060110,
         "code_a": "MissileLauncher",
         "description_a": "manual_ui-11060110",
@@ -3319,7 +3319,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "1060111": {
+    {
         "id": 1060111,
         "code_a": "MissileLauncher",
         "description_a": "manual_ui-11060111",
@@ -3329,7 +3329,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "1060112": {
+    {
         "id": 1060112,
         "code_a": "MissileLauncher",
         "description_a": "manual_ui-11060112",
@@ -3339,7 +3339,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "1060205": {
+    {
         "id": 1060205,
         "code_a": "MissileLauncher",
         "description_a": "manual_ui-11060205",
@@ -3349,7 +3349,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "1060206": {
+    {
         "id": 1060206,
         "code_a": "MissileLauncher",
         "description_a": "manual_ui-11060206",
@@ -3359,7 +3359,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "1060207": {
+    {
         "id": 1060207,
         "code_a": "MissileLauncher",
         "description_a": "manual_ui-11060207",
@@ -3369,7 +3369,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "1060208": {
+    {
         "id": 1060208,
         "code_a": "MissileLauncher",
         "description_a": "manual_ui-11060208",
@@ -3379,7 +3379,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "1060209": {
+    {
         "id": 1060209,
         "code_a": "MissileLauncher",
         "description_a": "manual_ui-11060209",
@@ -3389,7 +3389,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "1060210": {
+    {
         "id": 1060210,
         "code_a": "MissileLauncher",
         "description_a": "manual_ui-11060210",
@@ -3399,7 +3399,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "1060211": {
+    {
         "id": 1060211,
         "code_a": "MissileLauncher",
         "description_a": "manual_ui-11060211",
@@ -3409,7 +3409,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "1060213": {
+    {
         "id": 1060213,
         "code_a": "MissileLauncher",
         "description_a": "manual_ui-11060213",
@@ -3419,7 +3419,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "1060214": {
+    {
         "id": 1060214,
         "code_a": "MissileLauncher",
         "description_a": "manual_ui-11060214",
@@ -3429,7 +3429,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "1060215": {
+    {
         "id": 1060215,
         "code_a": "MissileLauncher",
         "description_a": "manual_ui-11060215",
@@ -3439,7 +3439,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "1060305": {
+    {
         "id": 1060305,
         "code_a": "MissileLauncher",
         "description_a": "manual_ui-11060305",
@@ -3449,7 +3449,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "1060306": {
+    {
         "id": 1060306,
         "code_a": "MissileLauncher",
         "description_a": "manual_ui-11060306",
@@ -3459,7 +3459,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "1060307": {
+    {
         "id": 1060307,
         "code_a": "MissileLauncher",
         "description_a": "manual_ui-11060307",
@@ -3469,7 +3469,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "1060308": {
+    {
         "id": 1060308,
         "code_a": "MissileLauncher",
         "description_a": "manual_ui-11060308",
@@ -3479,7 +3479,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "1060309": {
+    {
         "id": 1060309,
         "code_a": "MissileLauncher",
         "description_a": "manual_ui-11060309",
@@ -3489,7 +3489,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "1060310": {
+    {
         "id": 1060310,
         "code_a": "MissileLauncher",
         "description_a": "manual_ui-11060310",
@@ -3499,7 +3499,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "1060311": {
+    {
         "id": 1060311,
         "code_a": "MissileLauncher",
         "description_a": "manual_ui-11060311",
@@ -3509,7 +3509,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "1060313": {
+    {
         "id": 1060313,
         "code_a": "MissileLauncher",
         "description_a": "manual_ui-11060313",
@@ -3519,7 +3519,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "1060314": {
+    {
         "id": 1060314,
         "code_a": "MissileLauncher",
         "description_a": "manual_ui-11060314",
@@ -3529,7 +3529,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "1060315": {
+    {
         "id": 1060315,
         "code_a": "MissileLauncher",
         "description_a": "manual_ui-11060315",
@@ -3539,7 +3539,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "1060316": {
+    {
         "id": 1060316,
         "code_a": "MissileLauncher",
         "description_a": "manual_ui-11060316",
@@ -3549,7 +3549,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "1060405": {
+    {
         "id": 1060405,
         "code_a": "MissileLauncher",
         "description_a": "manual_ui-11060405",
@@ -3559,7 +3559,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "1060406": {
+    {
         "id": 1060406,
         "code_a": "MissileLauncher",
         "description_a": "manual_ui-11060406",
@@ -3569,7 +3569,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "1060407": {
+    {
         "id": 1060407,
         "code_a": "MissileLauncher",
         "description_a": "manual_ui-11060407",
@@ -3579,7 +3579,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "1060505": {
+    {
         "id": 1060505,
         "code_a": "MissileLauncher",
         "description_a": "manual_ui-11060505",
@@ -3589,7 +3589,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "1060506": {
+    {
         "id": 1060506,
         "code_a": "MissileLauncher",
         "description_a": "manual_ui-11060506",
@@ -3599,7 +3599,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "1060507": {
+    {
         "id": 1060507,
         "code_a": "MissileLauncher",
         "description_a": "manual_ui-11060507",
@@ -3609,7 +3609,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "1060605": {
+    {
         "id": 1060605,
         "code_a": "MissileLauncher",
         "description_a": "manual_ui-11060605",
@@ -3619,7 +3619,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "1060606": {
+    {
         "id": 1060606,
         "code_a": "MissileLauncher",
         "description_a": "manual_ui-11060606",
@@ -3629,7 +3629,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "1060607": {
+    {
         "id": 1060607,
         "code_a": "MissileLauncher",
         "description_a": "manual_ui-11060607",
@@ -3639,7 +3639,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "1070101": {
+    {
         "id": 1070101,
         "code_a": "AirportTower",
         "description_a": "manual_ui-11070101",
@@ -3649,7 +3649,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "1070102": {
+    {
         "id": 1070102,
         "code_a": "AirportTower",
         "description_a": "manual_ui-11070102",
@@ -3659,7 +3659,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "1070201": {
+    {
         "id": 1070201,
         "code_a": "AirportTower",
         "description_a": "manual_ui-11070201",
@@ -3669,7 +3669,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "1070202": {
+    {
         "id": 1070202,
         "code_a": "AirportTower",
         "description_a": "manual_ui-11070202",
@@ -3679,7 +3679,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "1140101": {
+    {
         "id": 1140101,
         "code_a": "Build_PortableEMP",
         "description_a": "manual_ui-11140101",
@@ -3689,7 +3689,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "1140103": {
+    {
         "id": 1140103,
         "code_a": "Build_PortableEMP",
         "description_a": "manual_ui-11140103",
@@ -3699,7 +3699,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "1150102": {
+    {
         "id": 1150102,
         "code_a": "Build_Pump",
         "description_a": "manual_ui-11150102",
@@ -3709,7 +3709,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "1150202": {
+    {
         "id": 1150202,
         "code_a": "Build_Pump",
         "description_a": "manual_ui-11150202",
@@ -3719,7 +3719,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "1150302": {
+    {
         "id": 1150302,
         "code_a": "Build_Pump",
         "description_a": "manual_ui-11150302",
@@ -3729,7 +3729,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "1150402": {
+    {
         "id": 1150402,
         "code_a": "Build_Pump",
         "description_a": "manual_ui-11150402",
@@ -3739,7 +3739,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "6000001": {
+    {
         "id": 6000001,
         "code_a": "Console",
         "description_a": "manual_ui-16000001",
@@ -3749,7 +3749,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "6000002": {
+    {
         "id": 6000002,
         "code_a": "Boomer",
         "description_a": "manual_ui-16000002",
@@ -3759,7 +3759,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "6000003": {
+    {
         "id": 6000003,
         "code_a": "Rock",
         "description_a": "manual_ui-16000003",
@@ -3769,7 +3769,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "6000004": {
+    {
         "id": 6000004,
         "code_a": "Boomer",
         "description_a": "manual_ui-16000004",
@@ -3779,7 +3779,7 @@
         "is_manual_target": 1,
         "use_fairy_ui": 0
     },
-    "6000005": {
+    {
         "id": 6000005,
         "code_a": "Build_PortableEMP",
         "description_a": "manual_ui-16000005",
@@ -3789,7 +3789,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "6000006": {
+    {
         "id": 6000006,
         "code_a": "Build_PortableEMP",
         "description_a": "manual_ui-16000006",
@@ -3799,7 +3799,7 @@
         "is_manual_target": 1,
         "use_fairy_ui": 0
     },
-    "6000007": {
+    {
         "id": 6000007,
         "code_a": "Substation",
         "description_a": "manual_ui-16000007",
@@ -3809,7 +3809,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "6000008": {
+    {
         "id": 6000008,
         "code_a": "Substation",
         "description_a": "manual_ui-16000008",
@@ -3819,7 +3819,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "6000009": {
+    {
         "id": 6000009,
         "code_a": "EMP",
         "description_a": "manual_ui-16000009",
@@ -3829,7 +3829,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "6000010": {
+    {
         "id": 6000010,
         "code_a": "Portal1",
         "description_a": "manual_ui-16000010",
@@ -3839,7 +3839,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "6380201": {
+    {
         "id": 6380201,
         "code_a": "Console",
         "description_a": "manual_ui-16380201",
@@ -3849,7 +3849,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "6380202": {
+    {
         "id": 6380202,
         "code_a": "Console",
         "description_a": "manual_ui-16380202",
@@ -3859,7 +3859,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "6380203": {
+    {
         "id": 6380203,
         "code_a": "Console",
         "description_a": "manual_ui-16380203",
@@ -3869,7 +3869,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "6380204": {
+    {
         "id": 6380204,
         "code_a": "Console",
         "description_a": "manual_ui-16380204",
@@ -3879,7 +3879,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "6390301": {
+    {
         "id": 6390301,
         "code_a": "Console",
         "description_a": "manual_ui-16390301",
@@ -3889,7 +3889,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "6410101": {
+    {
         "id": 6410101,
         "code_a": "Boomer",
         "description_a": "manual_ui-16410101",
@@ -3899,7 +3899,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "6410102": {
+    {
         "id": 6410102,
         "code_a": "Boomer",
         "description_a": "manual_ui-16410102",
@@ -3909,7 +3909,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "6410401": {
+    {
         "id": 6410401,
         "code_a": "Console",
         "description_a": "manual_ui-16410401",
@@ -3919,7 +3919,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "6410501": {
+    {
         "id": 6410501,
         "code_a": "Console",
         "description_a": "manual_ui-16410501",
@@ -3929,7 +3929,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "6410701": {
+    {
         "id": 6410701,
         "code_a": "LiftBlue",
         "description_a": "manual_ui-16410701",
@@ -3939,7 +3939,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "6410901": {
+    {
         "id": 6410901,
         "code_a": "Console",
         "description_a": "manual_ui-16410901",
@@ -3949,7 +3949,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "6411101": {
+    {
         "id": 6411101,
         "code_a": "Boomer",
         "description_a": "manual_ui-16411101",
@@ -3959,7 +3959,7 @@
         "is_manual_target": 1,
         "use_fairy_ui": 0
     },
-    "6411201": {
+    {
         "id": 6411201,
         "code_a": "Console",
         "description_a": "manual_ui-16411201",
@@ -3969,7 +3969,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "6411401": {
+    {
         "id": 6411401,
         "code_a": "Console",
         "description_a": "manual_ui-16411401",
@@ -3979,7 +3979,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "6430005": {
+    {
         "id": 6430005,
         "code_a": "Grenade",
         "description_a": "manual_ui-16430005",
@@ -3989,7 +3989,7 @@
         "is_manual_target": 1,
         "use_fairy_ui": 0
     },
-    "6430006": {
+    {
         "id": 6430006,
         "code_a": "Flashbang",
         "description_a": "manual_ui-16430006",
@@ -3999,7 +3999,7 @@
         "is_manual_target": 1,
         "use_fairy_ui": 0
     },
-    "6430007": {
+    {
         "id": 6430007,
         "code_a": "Machine_Gun_Tower",
         "description_a": "manual_ui-16430007",
@@ -4009,7 +4009,7 @@
         "is_manual_target": 1,
         "use_fairy_ui": 0
     },
-    "6430008": {
+    {
         "id": 6430008,
         "code_a": "hk416_agent",
         "description_a": "manual_ui-16430008",
@@ -4019,7 +4019,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "6430009": {
+    {
         "id": 6430009,
         "code_a": "victor_agent",
         "description_a": "manual_ui-16430009",
@@ -4029,7 +4029,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "6430011": {
+    {
         "id": 6430011,
         "code_a": "Grenade",
         "description_a": "manual_ui-16430011",
@@ -4039,7 +4039,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "6430012": {
+    {
         "id": 6430012,
         "code_a": "Flashbang",
         "description_a": "manual_ui-16430012",
@@ -4049,7 +4049,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "6430013": {
+    {
         "id": 6430013,
         "code_a": "Machine_Gun_Tower",
         "description_a": "manual_ui-16430013",
@@ -4059,7 +4059,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "6430014": {
+    {
         "id": 6430014,
         "code_a": "Grenade",
         "description_a": "manual_ui-16430014",
@@ -4069,7 +4069,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "6430015": {
+    {
         "id": 6430015,
         "code_a": "Flashbang",
         "description_a": "manual_ui-16430015",
@@ -4079,7 +4079,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "6430016": {
+    {
         "id": 6430016,
         "code_a": "Machine_Gun_Tower",
         "description_a": "manual_ui-16430016",
@@ -4089,7 +4089,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "6430021": {
+    {
         "id": 6430021,
         "code_a": "Grenade",
         "description_a": "manual_ui-16430021",
@@ -4099,7 +4099,7 @@
         "is_manual_target": 1,
         "use_fairy_ui": 0
     },
-    "6430201": {
+    {
         "id": 6430201,
         "code_a": "WorkBench",
         "description_a": "manual_ui-16430201",
@@ -4109,7 +4109,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "6440001": {
+    {
         "id": 6440001,
         "code_a": "Console",
         "description_a": "manual_ui-16440001",
@@ -4119,7 +4119,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "6440002": {
+    {
         "id": 6440002,
         "code_a": "Console",
         "description_a": "manual_ui-16440002",
@@ -4129,7 +4129,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "6440003": {
+    {
         "id": 6440003,
         "code_a": "iaso",
         "description_a": "manual_ui-16440003",
@@ -4139,7 +4139,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "6440004": {
+    {
         "id": 6440004,
         "code_a": "Door_Left",
         "description_a": "manual_ui-16440004",
@@ -4149,7 +4149,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "6440005": {
+    {
         "id": 6440005,
         "code_a": "Console",
         "description_a": "manual_ui-16440005",
@@ -4159,7 +4159,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "6440006": {
+    {
         "id": 6440006,
         "code_a": "MissileLauncher",
         "description_a": "manual_ui-16440006",
@@ -4169,7 +4169,7 @@
         "is_manual_target": 2,
         "use_fairy_ui": 0
     },
-    "6440007": {
+    {
         "id": 6440007,
         "code_a": "Build_PortableEMP",
         "description_a": "manual_ui-16440007",
@@ -4179,7 +4179,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "6440008": {
+    {
         "id": 6440008,
         "code_a": "Build_PortableEMP",
         "description_a": "manual_ui-16440008",
@@ -4189,7 +4189,7 @@
         "is_manual_target": 2,
         "use_fairy_ui": 0
     },
-    "6441110": {
+    {
         "id": 6441110,
         "code_a": "Console_P",
         "description_a": "manual_ui-16441110",
@@ -4199,7 +4199,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "6441111": {
+    {
         "id": 6441111,
         "code_a": "Console_P",
         "description_a": "manual_ui-16441111",
@@ -4209,7 +4209,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "6441112": {
+    {
         "id": 6441112,
         "code_a": "Console_P",
         "description_a": "manual_ui-16441112",
@@ -4219,7 +4219,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "6441113": {
+    {
         "id": 6441113,
         "code_a": "Console_P",
         "description_a": "manual_ui-16441113",
@@ -4229,7 +4229,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "6441114": {
+    {
         "id": 6441114,
         "code_a": "Console_P",
         "description_a": "manual_ui-16441114",
@@ -4239,7 +4239,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "6441115": {
+    {
         "id": 6441115,
         "code_a": "Console_P",
         "description_a": "manual_ui-16441115",
@@ -4249,7 +4249,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "6441116": {
+    {
         "id": 6441116,
         "code_a": "Console_P",
         "description_a": "manual_ui-16441116",
@@ -4259,7 +4259,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "6441117": {
+    {
         "id": 6441117,
         "code_a": "Console_P",
         "description_a": "manual_ui-16441117",
@@ -4269,7 +4269,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "6441118": {
+    {
         "id": 6441118,
         "code_a": "Console_P",
         "description_a": "manual_ui-16441118",
@@ -4279,7 +4279,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "6441119": {
+    {
         "id": 6441119,
         "code_a": "Console_P",
         "description_a": "manual_ui-16441119",
@@ -4289,7 +4289,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "6449999": {
+    {
         "id": 6449999,
         "code_a": "golyatplg_d",
         "description_a": "manual_ui-16449999",
@@ -4299,7 +4299,7 @@
         "is_manual_target": 2,
         "use_fairy_ui": 0
     },
-    "6460001": {
+    {
         "id": 6460001,
         "code_a": "Boxhouse",
         "description_a": "manual_ui-16460001",
@@ -4309,7 +4309,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "6470001": {
+    {
         "id": 6470001,
         "code_a": "Console_P",
         "description_a": "manual_ui-16470001",
@@ -4319,7 +4319,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "6470002": {
+    {
         "id": 6470002,
         "code_a": "Console_P",
         "description_a": "manual_ui-16470002",
@@ -4329,7 +4329,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "6480001": {
+    {
         "id": 6480001,
         "code_a": "Console",
         "description_a": "manual_ui-16480001",
@@ -4339,7 +4339,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "6480002": {
+    {
         "id": 6480002,
         "code_a": "Console",
         "description_a": "manual_ui-16480002",
@@ -4349,7 +4349,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "6480003": {
+    {
         "id": 6480003,
         "code_a": "iaso",
         "description_a": "manual_ui-16480003",
@@ -4359,7 +4359,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "6480004": {
+    {
         "id": 6480004,
         "code_a": "iaso",
         "description_a": "manual_ui-16480004",
@@ -4369,7 +4369,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "6480005": {
+    {
         "id": 6480005,
         "code_a": "Boomer",
         "description_a": "manual_ui-16480005",
@@ -4379,7 +4379,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "6480006": {
+    {
         "id": 6480006,
         "code_a": "Boomer",
         "description_a": "manual_ui-16480006",
@@ -4389,7 +4389,7 @@
         "is_manual_target": 1,
         "use_fairy_ui": 0
     },
-    "6480007": {
+    {
         "id": 6480007,
         "code_a": "Console",
         "description_a": "manual_ui-16480007",
@@ -4399,7 +4399,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "6480008": {
+    {
         "id": 6480008,
         "code_a": "Console",
         "description_a": "manual_ui-16480008",
@@ -4409,7 +4409,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "6480009": {
+    {
         "id": 6480009,
         "code_a": "Viscosity_Bomb",
         "description_a": "manual_ui-16480009",
@@ -4419,7 +4419,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "6480010": {
+    {
         "id": 6480010,
         "code_a": "Viscosity_Bomb",
         "description_a": "manual_ui-16480010",
@@ -4429,7 +4429,7 @@
         "is_manual_target": 1,
         "use_fairy_ui": 0
     },
-    "6510001": {
+    {
         "id": 6510001,
         "code_a": "PortalBlue",
         "description_a": "manual_ui-16510001",
@@ -4439,7 +4439,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "6510002": {
+    {
         "id": 6510002,
         "code_a": "PortalBlue",
         "description_a": "manual_ui-16510002",
@@ -4449,7 +4449,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "6510003": {
+    {
         "id": 6510003,
         "code_a": "Building_Material1",
         "description_a": "manual_ui-16510003",
@@ -4459,7 +4459,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "6510004": {
+    {
         "id": 6510004,
         "code_a": "MissileA1",
         "description_a": "manual_ui-16510004",
@@ -4469,7 +4469,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "6510005": {
+    {
         "id": 6510005,
         "code_a": "MissileA2",
         "description_a": "manual_ui-16510005",
@@ -4479,7 +4479,7 @@
         "is_manual_target": 2,
         "use_fairy_ui": 0
     },
-    "6510006": {
+    {
         "id": 6510006,
         "code_a": "SpeedTower",
         "description_a": "manual_ui-16510006",
@@ -4489,7 +4489,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "6510007": {
+    {
         "id": 6510007,
         "code_a": "SpeeedTower",
         "description_a": "manual_ui-16510007",
@@ -4499,7 +4499,7 @@
         "is_manual_target": 2,
         "use_fairy_ui": 0
     },
-    "6510008": {
+    {
         "id": 6510008,
         "code_a": "Portal_hg_1",
         "description_a": "manual_ui-16510008",
@@ -4509,7 +4509,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "6510009": {
+    {
         "id": 6510009,
         "code_a": "Portal_ar_2",
         "description_a": "manual_ui-16510009",
@@ -4519,7 +4519,7 @@
         "is_manual_target": 2,
         "use_fairy_ui": 0
     },
-    "6510010": {
+    {
         "id": 6510010,
         "code_a": "PylonTower_A_1",
         "description_a": "manual_ui-16510010",
@@ -4529,7 +4529,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "6510011": {
+    {
         "id": 6510011,
         "code_a": "PylonTower_A_2",
         "description_a": "manual_ui-16510011",
@@ -4539,7 +4539,7 @@
         "is_manual_target": 2,
         "use_fairy_ui": 0
     },
-    "6510012": {
+    {
         "id": 6510012,
         "code_a": "MissileA1",
         "description_a": "manual_ui-16510012",
@@ -4549,7 +4549,7 @@
         "is_manual_target": 2,
         "use_fairy_ui": 0
     },
-    "6510013": {
+    {
         "id": 6510013,
         "code_a": "MissileA2",
         "description_a": "manual_ui-16510013",
@@ -4559,7 +4559,7 @@
         "is_manual_target": 2,
         "use_fairy_ui": 0
     },
-    "6510014": {
+    {
         "id": 6510014,
         "code_a": "MissileB2",
         "description_a": "manual_ui-16510014",
@@ -4569,7 +4569,7 @@
         "is_manual_target": 2,
         "use_fairy_ui": 0
     },
-    "6510015": {
+    {
         "id": 6510015,
         "code_a": "MissileA3",
         "description_a": "manual_ui-16510015",
@@ -4579,7 +4579,7 @@
         "is_manual_target": 2,
         "use_fairy_ui": 0
     },
-    "6510016": {
+    {
         "id": 6510016,
         "code_a": "MissileB3",
         "description_a": "manual_ui-16510016",
@@ -4589,7 +4589,7 @@
         "is_manual_target": 2,
         "use_fairy_ui": 0
     },
-    "6510017": {
+    {
         "id": 6510017,
         "code_a": "Portal_hg_1",
         "description_a": "manual_ui-16510017",
@@ -4599,7 +4599,7 @@
         "is_manual_target": 2,
         "use_fairy_ui": 0
     },
-    "6510018": {
+    {
         "id": 6510018,
         "code_a": "Portal_ar_2",
         "description_a": "manual_ui-16510018",
@@ -4609,7 +4609,7 @@
         "is_manual_target": 2,
         "use_fairy_ui": 0
     },
-    "6510019": {
+    {
         "id": 6510019,
         "code_a": "Portal_rf_2",
         "description_a": "manual_ui-16510019",
@@ -4619,7 +4619,7 @@
         "is_manual_target": 2,
         "use_fairy_ui": 0
     },
-    "6510020": {
+    {
         "id": 6510020,
         "code_a": "Portal_mg_2",
         "description_a": "manual_ui-16510020",
@@ -4629,7 +4629,7 @@
         "is_manual_target": 2,
         "use_fairy_ui": 0
     },
-    "6510021": {
+    {
         "id": 6510021,
         "code_a": "Portal_ar_3",
         "description_a": "manual_ui-16510021",
@@ -4639,7 +4639,7 @@
         "is_manual_target": 2,
         "use_fairy_ui": 0
     },
-    "6510022": {
+    {
         "id": 6510022,
         "code_a": "Portal_rf_3",
         "description_a": "manual_ui-16510022",
@@ -4649,7 +4649,7 @@
         "is_manual_target": 2,
         "use_fairy_ui": 0
     },
-    "6510023": {
+    {
         "id": 6510023,
         "code_a": "Portal_mg_3",
         "description_a": "manual_ui-16510023",
@@ -4659,7 +4659,7 @@
         "is_manual_target": 2,
         "use_fairy_ui": 0
     },
-    "6510024": {
+    {
         "id": 6510024,
         "code_a": "SpeedTower",
         "description_a": "manual_ui-16510024",
@@ -4669,7 +4669,7 @@
         "is_manual_target": 2,
         "use_fairy_ui": 0
     },
-    "6510025": {
+    {
         "id": 6510025,
         "code_a": "SpeeedTower",
         "description_a": "manual_ui-16510025",
@@ -4679,7 +4679,7 @@
         "is_manual_target": 2,
         "use_fairy_ui": 0
     },
-    "6510026": {
+    {
         "id": 6510026,
         "code_a": "SpeeeedTower",
         "description_a": "manual_ui-16510026",
@@ -4689,7 +4689,7 @@
         "is_manual_target": 2,
         "use_fairy_ui": 0
     },
-    "6510027": {
+    {
         "id": 6510027,
         "code_a": "PylonTower_A_1",
         "description_a": "manual_ui-16510027",
@@ -4699,7 +4699,7 @@
         "is_manual_target": 2,
         "use_fairy_ui": 0
     },
-    "6510028": {
+    {
         "id": 6510028,
         "code_a": "PylonTower_A_2",
         "description_a": "manual_ui-16510028",
@@ -4709,7 +4709,7 @@
         "is_manual_target": 2,
         "use_fairy_ui": 0
     },
-    "6510029": {
+    {
         "id": 6510029,
         "code_a": "PylonTower_B_2",
         "description_a": "manual_ui-16510029",
@@ -4719,7 +4719,7 @@
         "is_manual_target": 2,
         "use_fairy_ui": 0
     },
-    "6510030": {
+    {
         "id": 6510030,
         "code_a": "PylonTower_A_3",
         "description_a": "manual_ui-16510030",
@@ -4729,7 +4729,7 @@
         "is_manual_target": 2,
         "use_fairy_ui": 0
     },
-    "6510031": {
+    {
         "id": 6510031,
         "code_a": "PylonTower_B_3",
         "description_a": "manual_ui-16510031",
@@ -4739,7 +4739,7 @@
         "is_manual_target": 2,
         "use_fairy_ui": 0
     },
-    "6510032": {
+    {
         "id": 6510032,
         "code_a": "Console",
         "description_a": "manual_ui-16510032",
@@ -4749,7 +4749,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "6510033": {
+    {
         "id": 6510033,
         "code_a": "Console",
         "description_a": "manual_ui-16510033",
@@ -4759,7 +4759,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "6510034": {
+    {
         "id": 6510034,
         "code_a": "Console",
         "description_a": "manual_ui-16510034",
@@ -4769,7 +4769,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "6510035": {
+    {
         "id": 6510035,
         "code_a": "Console",
         "description_a": "manual_ui-16510035",
@@ -4779,7 +4779,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "6510036": {
+    {
         "id": 6510036,
         "code_a": "PylonTower_A_3",
         "description_a": "manual_ui-16510036",
@@ -4789,7 +4789,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "6510037": {
+    {
         "id": 6510037,
         "code_a": "PylonTower_A_3",
         "description_a": "manual_ui-16510037",
@@ -4799,7 +4799,7 @@
         "is_manual_target": 2,
         "use_fairy_ui": 0
     },
-    "6510038": {
+    {
         "id": 6510038,
         "code_a": "MissileB3",
         "description_a": "manual_ui-16510038",
@@ -4809,7 +4809,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "6510039": {
+    {
         "id": 6510039,
         "code_a": "MissileB3",
         "description_a": "manual_ui-16510039",
@@ -4819,7 +4819,7 @@
         "is_manual_target": 2,
         "use_fairy_ui": 0
     },
-    "6510040": {
+    {
         "id": 6510040,
         "code_a": "SpeeeedTower",
         "description_a": "manual_ui-16510040",
@@ -4829,7 +4829,7 @@
         "is_manual_target": 2,
         "use_fairy_ui": 0
     },
-    "6510041": {
+    {
         "id": 6510041,
         "code_a": "Console",
         "description_a": "manual_ui-16510041",
@@ -4839,7 +4839,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "6510042": {
+    {
         "id": 6510042,
         "code_a": "Console",
         "description_a": "manual_ui-16510042",
@@ -4849,7 +4849,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "6510043": {
+    {
         "id": 6510043,
         "code_a": "Console",
         "description_a": "manual_ui-16510043",
@@ -4859,7 +4859,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "6510044": {
+    {
         "id": 6510044,
         "code_a": "Control_Center",
         "description_a": "manual_ui-16510044",
@@ -4869,7 +4869,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "6510045": {
+    {
         "id": 6510045,
         "code_a": "Console",
         "description_a": "manual_ui-16510045",
@@ -4879,7 +4879,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "6510046": {
+    {
         "id": 6510046,
         "code_a": "Viscosity_Bomb",
         "description_a": "manual_ui-16510046",
@@ -4889,7 +4889,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "6510047": {
+    {
         "id": 6510047,
         "code_a": "Viscosity_Bomb",
         "description_a": "manual_ui-16510047",
@@ -4899,7 +4899,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "6510048": {
+    {
         "id": 6510048,
         "code_a": "MissileB3",
         "description_a": "manual_ui-16510048",
@@ -4909,7 +4909,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "6510049": {
+    {
         "id": 6510049,
         "code_a": "Console",
         "description_a": "manual_ui-16510049",
@@ -4919,7 +4919,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "6510050": {
+    {
         "id": 6510050,
         "code_a": "Console",
         "description_a": "manual_ui-16510050",
@@ -4929,7 +4929,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "6510051": {
+    {
         "id": 6510051,
         "code_a": "PortalRed",
         "description_a": "manual_ui-16510051",
@@ -4939,7 +4939,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "6510052": {
+    {
         "id": 6510052,
         "code_a": "PortalRed",
         "description_a": "manual_ui-16510052",
@@ -4949,7 +4949,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "6510053": {
+    {
         "id": 6510053,
         "code_a": "MissileB2",
         "description_a": "manual_ui-16510053",
@@ -4959,7 +4959,7 @@
         "is_manual_target": 2,
         "use_fairy_ui": 0
     },
-    "6510054": {
+    {
         "id": 6510054,
         "code_a": "MissileA3",
         "description_a": "manual_ui-16510054",
@@ -4969,7 +4969,7 @@
         "is_manual_target": 2,
         "use_fairy_ui": 0
     },
-    "6510055": {
+    {
         "id": 6510055,
         "code_a": "MissileB3",
         "description_a": "manual_ui-16510055",
@@ -4979,7 +4979,7 @@
         "is_manual_target": 2,
         "use_fairy_ui": 0
     },
-    "6510056": {
+    {
         "id": 6510056,
         "code_a": "SpeeeedTower",
         "description_a": "manual_ui-16510056",
@@ -4989,7 +4989,7 @@
         "is_manual_target": 2,
         "use_fairy_ui": 0
     },
-    "6510057": {
+    {
         "id": 6510057,
         "code_a": "Portal_rf_2",
         "description_a": "manual_ui-16510057",
@@ -4999,7 +4999,7 @@
         "is_manual_target": 2,
         "use_fairy_ui": 0
     },
-    "6510058": {
+    {
         "id": 6510058,
         "code_a": "Portal_mg_2",
         "description_a": "manual_ui-16510058",
@@ -5009,7 +5009,7 @@
         "is_manual_target": 2,
         "use_fairy_ui": 0
     },
-    "6510059": {
+    {
         "id": 6510059,
         "code_a": "Portal_ar_3",
         "description_a": "manual_ui-16510059",
@@ -5019,7 +5019,7 @@
         "is_manual_target": 2,
         "use_fairy_ui": 0
     },
-    "6510060": {
+    {
         "id": 6510060,
         "code_a": "Portal_rf_3",
         "description_a": "manual_ui-16510060",
@@ -5029,7 +5029,7 @@
         "is_manual_target": 2,
         "use_fairy_ui": 0
     },
-    "6510061": {
+    {
         "id": 6510061,
         "code_a": "Portal_mg_3",
         "description_a": "manual_ui-16510061",
@@ -5039,7 +5039,7 @@
         "is_manual_target": 2,
         "use_fairy_ui": 0
     },
-    "6510062": {
+    {
         "id": 6510062,
         "code_a": "PylonTower_B_2",
         "description_a": "manual_ui-16510062",
@@ -5049,7 +5049,7 @@
         "is_manual_target": 2,
         "use_fairy_ui": 0
     },
-    "6510063": {
+    {
         "id": 6510063,
         "code_a": "PylonTower_A_3",
         "description_a": "manual_ui-16510063",
@@ -5059,7 +5059,7 @@
         "is_manual_target": 2,
         "use_fairy_ui": 0
     },
-    "6510064": {
+    {
         "id": 6510064,
         "code_a": "PylonTower_B_3",
         "description_a": "manual_ui-16510064",
@@ -5069,7 +5069,7 @@
         "is_manual_target": 2,
         "use_fairy_ui": 0
     },
-    "6510065": {
+    {
         "id": 6510065,
         "code_a": "Building_Material2",
         "description_a": "manual_ui-16510065",
@@ -5079,7 +5079,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "6510066": {
+    {
         "id": 6510066,
         "code_a": "PylonTower_B_3",
         "description_a": "manual_ui-16510066",
@@ -5089,7 +5089,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "6510067": {
+    {
         "id": 6510067,
         "code_a": "PylonTower_B_3",
         "description_a": "manual_ui-16510067",
@@ -5099,7 +5099,7 @@
         "is_manual_target": 2,
         "use_fairy_ui": 0
     },
-    "8120301": {
+    {
         "id": 8120301,
         "code_a": "Door_Left",
         "description_a": "manual_ui-18120301",
@@ -5109,7 +5109,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "8120302": {
+    {
         "id": 8120302,
         "code_a": "Door_Left",
         "description_a": "manual_ui-18120302",
@@ -5119,7 +5119,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "8120303": {
+    {
         "id": 8120303,
         "code_a": "Door_Left",
         "description_a": "manual_ui-18120303",
@@ -5129,7 +5129,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "8120304": {
+    {
         "id": 8120304,
         "code_a": "Door_Left",
         "description_a": "manual_ui-18120304",
@@ -5139,7 +5139,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "8120305": {
+    {
         "id": 8120305,
         "code_a": "Door_Left",
         "description_a": "manual_ui-18120305",
@@ -5149,7 +5149,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "8120701": {
+    {
         "id": 8120701,
         "code_a": "RuinedBuilding",
         "description_a": "manual_ui-18120701",
@@ -5159,7 +5159,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "8120709": {
+    {
         "id": 8120709,
         "code_a": "EMP",
         "description_a": "manual_ui-18120709",
@@ -5169,7 +5169,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "9130101": {
+    {
         "id": 9130101,
         "code_a": "Build_FireStealer",
         "description_a": "manual_ui-19130101",
@@ -5179,7 +5179,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "9130114": {
+    {
         "id": 9130114,
         "code_a": "Rock",
         "description_a": "manual_ui-19130114",
@@ -5189,7 +5189,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "9130201": {
+    {
         "id": 9130201,
         "code_a": "ADK",
         "description_a": "manual_ui-19130201",
@@ -5199,7 +5199,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "9130506": {
+    {
         "id": 9130506,
         "code_a": "Door_Left",
         "description_a": "manual_ui-19130506",
@@ -5209,7 +5209,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "9130507": {
+    {
         "id": 9130507,
         "code_a": "Door_Left",
         "description_a": "manual_ui-19130507",
@@ -5219,7 +5219,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "9321201": {
+    {
         "id": 9321201,
         "code_a": "Door_Left",
         "description_a": "manual_ui-19321201",
@@ -5229,7 +5229,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "9321202": {
+    {
         "id": 9321202,
         "code_a": "Door_Left",
         "description_a": "manual_ui-19321202",
@@ -5239,7 +5239,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "9321203": {
+    {
         "id": 9321203,
         "code_a": "Door_Left",
         "description_a": "manual_ui-19321203",
@@ -5249,7 +5249,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "9321206": {
+    {
         "id": 9321206,
         "code_a": "Door_Left",
         "description_a": "manual_ui-19321206",
@@ -5259,7 +5259,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "9321208": {
+    {
         "id": 9321208,
         "code_a": "Door_Left",
         "description_a": "manual_ui-19321208",
@@ -5269,7 +5269,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "9321210": {
+    {
         "id": 9321210,
         "code_a": "Door_Left",
         "description_a": "manual_ui-19321210",
@@ -5279,7 +5279,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "9321212": {
+    {
         "id": 9321212,
         "code_a": "Door_Left",
         "description_a": "manual_ui-19321212",
@@ -5289,7 +5289,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "9321214": {
+    {
         "id": 9321214,
         "code_a": "Door_Left",
         "description_a": "manual_ui-19321214",
@@ -5299,7 +5299,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "9321215": {
+    {
         "id": 9321215,
         "code_a": "Door_Left",
         "description_a": "manual_ui-19321215",
@@ -5309,7 +5309,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "9321216": {
+    {
         "id": 9321216,
         "code_a": "Door_Left",
         "description_a": "manual_ui-19321216",
@@ -5319,7 +5319,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "9321217": {
+    {
         "id": 9321217,
         "code_a": "Console",
         "description_a": "manual_ui-19321217",
@@ -5329,7 +5329,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "9321218": {
+    {
         "id": 9321218,
         "code_a": "Console",
         "description_a": "manual_ui-19321218",
@@ -5339,7 +5339,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "9321223": {
+    {
         "id": 9321223,
         "code_a": "Door_Left",
         "description_a": "manual_ui-19321223",
@@ -5349,7 +5349,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "9321225": {
+    {
         "id": 9321225,
         "code_a": "Door_Left",
         "description_a": "manual_ui-19321225",
@@ -5359,7 +5359,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "9321503": {
+    {
         "id": 9321503,
         "code_a": "Boomer",
         "description_a": "manual_ui-19321503",
@@ -5369,7 +5369,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "9322301": {
+    {
         "id": 9322301,
         "code_a": "Console_P",
         "description_a": "manual_ui-19322301",
@@ -5379,7 +5379,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "9332102": {
+    {
         "id": 9332102,
         "code_a": "Substation",
         "description_a": "manual_ui-19332102",
@@ -5389,7 +5389,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "9332103": {
+    {
         "id": 9332103,
         "code_a": "Substation",
         "description_a": "manual_ui-19332103",
@@ -5399,7 +5399,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "9332106": {
+    {
         "id": 9332106,
         "code_a": "EMP",
         "description_a": "manual_ui-19332106",
@@ -5409,7 +5409,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "9332110": {
+    {
         "id": 9332110,
         "code_a": "Detonator",
         "description_a": "manual_ui-19332110",
@@ -5419,7 +5419,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "9332114": {
+    {
         "id": 9332114,
         "code_a": "Boomer",
         "description_a": "manual_ui-19332114",
@@ -5429,7 +5429,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "9333021": {
+    {
         "id": 9333021,
         "code_a": "Boomer",
         "description_a": "manual_ui-19333021",
@@ -5439,7 +5439,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "9333210": {
+    {
         "id": 9333210,
         "code_a": "Door_Left",
         "description_a": "manual_ui-19333210",
@@ -5449,7 +5449,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "9333211": {
+    {
         "id": 9333211,
         "code_a": "Door_Left",
         "description_a": "manual_ui-19333211",
@@ -5459,7 +5459,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "9333212": {
+    {
         "id": 9333212,
         "code_a": "Door_Left",
         "description_a": "manual_ui-19333212",
@@ -5469,7 +5469,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "9333213": {
+    {
         "id": 9333213,
         "code_a": "Door_Left",
         "description_a": "manual_ui-19333213",
@@ -5479,7 +5479,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "9333214": {
+    {
         "id": 9333214,
         "code_a": "Door_Left",
         "description_a": "manual_ui-19333214",
@@ -5489,7 +5489,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "9333215": {
+    {
         "id": 9333215,
         "code_a": "Door_Left",
         "description_a": "manual_ui-19333215",
@@ -5499,7 +5499,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "9333216": {
+    {
         "id": 9333216,
         "code_a": "Door_Left",
         "description_a": "manual_ui-19333216",
@@ -5509,7 +5509,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "9333217": {
+    {
         "id": 9333217,
         "code_a": "Door_Left",
         "description_a": "manual_ui-19333217",
@@ -5519,7 +5519,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "9333218": {
+    {
         "id": 9333218,
         "code_a": "Door_Left",
         "description_a": "manual_ui-19333218",
@@ -5529,7 +5529,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "9333230": {
+    {
         "id": 9333230,
         "code_a": "Door_Left",
         "description_a": "manual_ui-19333230",
@@ -5539,7 +5539,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "9333604": {
+    {
         "id": 9333604,
         "code_a": "Console",
         "description_a": "manual_ui-19333604",
@@ -5549,7 +5549,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "9335202": {
+    {
         "id": 9335202,
         "code_a": "Console",
         "description_a": "manual_ui-19335202",
@@ -5559,7 +5559,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "9335203": {
+    {
         "id": 9335203,
         "code_a": "Console",
         "description_a": "manual_ui-19335203",
@@ -5569,7 +5569,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "9335204": {
+    {
         "id": 9335204,
         "code_a": "Console",
         "description_a": "manual_ui-19335204",
@@ -5579,7 +5579,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "9335205": {
+    {
         "id": 9335205,
         "code_a": "Console",
         "description_a": "manual_ui-19335205",
@@ -5589,7 +5589,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "9335206": {
+    {
         "id": 9335206,
         "code_a": "Console",
         "description_a": "manual_ui-19335206",
@@ -5599,7 +5599,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "9335303": {
+    {
         "id": 9335303,
         "code_a": "Boomer",
         "description_a": "manual_ui-19335303",
@@ -5609,7 +5609,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "9336101": {
+    {
         "id": 9336101,
         "code_a": "Boomer",
         "description_a": "manual_ui-19336101",
@@ -5619,7 +5619,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "9336103": {
+    {
         "id": 9336103,
         "code_a": "Door_Left",
         "description_a": "manual_ui-19336103",
@@ -5629,7 +5629,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "9336306": {
+    {
         "id": 9336306,
         "code_a": "Door_Left",
         "description_a": "manual_ui-19336306",
@@ -5639,7 +5639,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "9336401": {
+    {
         "id": 9336401,
         "code_a": "Console",
         "description_a": "manual_ui-19336401",
@@ -5649,7 +5649,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "9361731": {
+    {
         "id": 9361731,
         "code_a": "Console",
         "description_a": "manual_ui-19361731",
@@ -5659,7 +5659,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "9361732": {
+    {
         "id": 9361732,
         "code_a": "Console",
         "description_a": "manual_ui-19361732",
@@ -5669,7 +5669,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "9361733": {
+    {
         "id": 9361733,
         "code_a": "Console",
         "description_a": "manual_ui-19361733",
@@ -5679,7 +5679,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "9361734": {
+    {
         "id": 9361734,
         "code_a": "Console",
         "description_a": "manual_ui-19361734",
@@ -5689,7 +5689,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "9361735": {
+    {
         "id": 9361735,
         "code_a": "Console",
         "description_a": "manual_ui-19361735",
@@ -5699,7 +5699,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "9361736": {
+    {
         "id": 9361736,
         "code_a": "Console",
         "description_a": "manual_ui-19361736",
@@ -5709,7 +5709,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "9361737": {
+    {
         "id": 9361737,
         "code_a": "Console",
         "description_a": "manual_ui-19361737",
@@ -5719,7 +5719,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "9361738": {
+    {
         "id": 9361738,
         "code_a": "Console",
         "description_a": "manual_ui-19361738",
@@ -5729,7 +5729,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "9361741": {
+    {
         "id": 9361741,
         "code_a": "Console",
         "description_a": "manual_ui-19361741",
@@ -5739,7 +5739,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "9361742": {
+    {
         "id": 9361742,
         "code_a": "Console",
         "description_a": "manual_ui-19361742",
@@ -5749,7 +5749,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "9361743": {
+    {
         "id": 9361743,
         "code_a": "Console",
         "description_a": "manual_ui-19361743",
@@ -5759,7 +5759,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "9361744": {
+    {
         "id": 9361744,
         "code_a": "Console",
         "description_a": "manual_ui-19361744",
@@ -5769,7 +5769,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "9361745": {
+    {
         "id": 9361745,
         "code_a": "Console",
         "description_a": "manual_ui-19361745",
@@ -5779,7 +5779,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "9361746": {
+    {
         "id": 9361746,
         "code_a": "Console",
         "description_a": "manual_ui-19361746",
@@ -5789,7 +5789,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "9361747": {
+    {
         "id": 9361747,
         "code_a": "Console",
         "description_a": "manual_ui-19361747",
@@ -5799,7 +5799,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "9361748": {
+    {
         "id": 9361748,
         "code_a": "Console",
         "description_a": "manual_ui-19361748",
@@ -5809,7 +5809,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "9361751": {
+    {
         "id": 9361751,
         "code_a": "Console",
         "description_a": "manual_ui-19361751",
@@ -5819,7 +5819,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "9361752": {
+    {
         "id": 9361752,
         "code_a": "Console",
         "description_a": "manual_ui-19361752",
@@ -5829,7 +5829,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "9361753": {
+    {
         "id": 9361753,
         "code_a": "Console",
         "description_a": "manual_ui-19361753",
@@ -5839,7 +5839,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "9361754": {
+    {
         "id": 9361754,
         "code_a": "Console",
         "description_a": "manual_ui-19361754",
@@ -5849,7 +5849,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "9361755": {
+    {
         "id": 9361755,
         "code_a": "Console",
         "description_a": "manual_ui-19361755",
@@ -5859,7 +5859,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "9361756": {
+    {
         "id": 9361756,
         "code_a": "Console",
         "description_a": "manual_ui-19361756",
@@ -5869,7 +5869,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "9361757": {
+    {
         "id": 9361757,
         "code_a": "Console",
         "description_a": "manual_ui-19361757",
@@ -5879,7 +5879,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "9361758": {
+    {
         "id": 9361758,
         "code_a": "Console",
         "description_a": "manual_ui-19361758",
@@ -5889,7 +5889,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "9361759": {
+    {
         "id": 9361759,
         "code_a": "Console",
         "description_a": "manual_ui-19361759",
@@ -5899,7 +5899,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "9361761": {
+    {
         "id": 9361761,
         "code_a": "Console",
         "description_a": "manual_ui-19361761",
@@ -5909,7 +5909,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "9361762": {
+    {
         "id": 9361762,
         "code_a": "Console",
         "description_a": "manual_ui-19361762",
@@ -5919,7 +5919,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "9361763": {
+    {
         "id": 9361763,
         "code_a": "Console",
         "description_a": "manual_ui-19361763",
@@ -5929,7 +5929,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "9361764": {
+    {
         "id": 9361764,
         "code_a": "Console",
         "description_a": "manual_ui-19361764",
@@ -5939,7 +5939,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "9361765": {
+    {
         "id": 9361765,
         "code_a": "Console",
         "description_a": "manual_ui-19361765",
@@ -5949,7 +5949,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "9361766": {
+    {
         "id": 9361766,
         "code_a": "Console",
         "description_a": "manual_ui-19361766",
@@ -5959,7 +5959,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "9361767": {
+    {
         "id": 9361767,
         "code_a": "Console",
         "description_a": "manual_ui-19361767",
@@ -5969,7 +5969,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "9361768": {
+    {
         "id": 9361768,
         "code_a": "Console",
         "description_a": "manual_ui-19361768",
@@ -5979,7 +5979,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "9361769": {
+    {
         "id": 9361769,
         "code_a": "Console",
         "description_a": "manual_ui-19361769",
@@ -5989,7 +5989,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "9361803": {
+    {
         "id": 9361803,
         "code_a": "Build_PortableEMP",
         "description_a": "manual_ui-19361803",
@@ -5999,7 +5999,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "9361805": {
+    {
         "id": 9361805,
         "code_a": "Build_PortableEMP",
         "description_a": "manual_ui-19361805",
@@ -6009,7 +6009,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "9362002": {
+    {
         "id": 9362002,
         "code_a": "Boomer",
         "description_a": "manual_ui-19362002",
@@ -6019,7 +6019,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "9362003": {
+    {
         "id": 9362003,
         "code_a": "Boomer",
         "description_a": "manual_ui-19362003",
@@ -6029,7 +6029,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "9362013": {
+    {
         "id": 9362013,
         "code_a": "MissileLauncher",
         "description_a": "manual_ui-19362013",
@@ -6039,7 +6039,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "9362014": {
+    {
         "id": 9362014,
         "code_a": "MissileLauncher",
         "description_a": "manual_ui-19362014",
@@ -6049,7 +6049,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "9363069": {
+    {
         "id": 9363069,
         "code_a": "AirportTower",
         "description_a": "manual_ui-19363069",
@@ -6059,7 +6059,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "9363070": {
+    {
         "id": 9363070,
         "code_a": "AirportTower",
         "description_a": "manual_ui-19363070",
@@ -6069,7 +6069,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "9363082": {
+    {
         "id": 9363082,
         "code_a": "Boomer",
         "description_a": "manual_ui-19363082",
@@ -6079,7 +6079,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "9363403": {
+    {
         "id": 9363403,
         "code_a": "Armstrongspiralgun",
         "description_a": "manual_ui-19363403",
@@ -6089,7 +6089,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "9363405": {
+    {
         "id": 9363405,
         "code_a": "Armstrongspiralgun",
         "description_a": "manual_ui-19363405",
@@ -6099,7 +6099,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "9363802": {
+    {
         "id": 9363802,
         "code_a": "PortableEMP_Nobase",
         "description_a": "manual_ui-19363802",
@@ -6109,7 +6109,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "9363901": {
+    {
         "id": 9363901,
         "code_a": "PortableEMP_Nobase",
         "description_a": "manual_ui-19363901",
@@ -6119,7 +6119,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "9363902": {
+    {
         "id": 9363902,
         "code_a": "PortableEMP_Nobase",
         "description_a": "manual_ui-19363902",
@@ -6129,7 +6129,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "9363903": {
+    {
         "id": 9363903,
         "code_a": "PortableEMP_Nobase",
         "description_a": "manual_ui-19363903",
@@ -6139,7 +6139,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "9370211": {
+    {
         "id": 9370211,
         "code_a": "Console",
         "description_a": "manual_ui-19370211",
@@ -6149,7 +6149,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "9370212": {
+    {
         "id": 9370212,
         "code_a": "Console",
         "description_a": "manual_ui-19370212",
@@ -6159,7 +6159,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "9370411": {
+    {
         "id": 9370411,
         "code_a": "Console",
         "description_a": "manual_ui-19370411",
@@ -6169,7 +6169,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "9370412": {
+    {
         "id": 9370412,
         "code_a": "Console",
         "description_a": "manual_ui-19370412",
@@ -6179,7 +6179,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "9370511": {
+    {
         "id": 9370511,
         "code_a": "Console",
         "description_a": "manual_ui-19370511",
@@ -6189,7 +6189,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "9370512": {
+    {
         "id": 9370512,
         "code_a": "Console",
         "description_a": "manual_ui-19370512",
@@ -6199,7 +6199,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "9370513": {
+    {
         "id": 9370513,
         "code_a": "Console",
         "description_a": "manual_ui-19370513",
@@ -6209,7 +6209,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "9370514": {
+    {
         "id": 9370514,
         "code_a": "Console",
         "description_a": "manual_ui-19370514",
@@ -6219,7 +6219,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "9370515": {
+    {
         "id": 9370515,
         "code_a": "Console",
         "description_a": "manual_ui-19370515",
@@ -6229,7 +6229,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "9370516": {
+    {
         "id": 9370516,
         "code_a": "Console",
         "description_a": "manual_ui-19370516",
@@ -6239,7 +6239,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "9370517": {
+    {
         "id": 9370517,
         "code_a": "Console",
         "description_a": "manual_ui-19370517",
@@ -6249,7 +6249,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "9370518": {
+    {
         "id": 9370518,
         "code_a": "Console",
         "description_a": "manual_ui-19370518",
@@ -6259,7 +6259,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "9370611": {
+    {
         "id": 9370611,
         "code_a": "Console",
         "description_a": "manual_ui-19370611",
@@ -6269,7 +6269,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "9370612": {
+    {
         "id": 9370612,
         "code_a": "Console",
         "description_a": "manual_ui-19370612",
@@ -6279,7 +6279,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "9370613": {
+    {
         "id": 9370613,
         "code_a": "Console",
         "description_a": "manual_ui-19370613",
@@ -6289,7 +6289,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "9370614": {
+    {
         "id": 9370614,
         "code_a": "Boomer",
         "description_a": "manual_ui-19370614",
@@ -6299,7 +6299,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "9370615": {
+    {
         "id": 9370615,
         "code_a": "Boomer",
         "description_a": "manual_ui-19370615",
@@ -6309,7 +6309,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "9410201": {
+    {
         "id": 9410201,
         "code_a": "Console",
         "description_a": "manual_ui-19410201",
@@ -6319,7 +6319,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "9410212": {
+    {
         "id": 9410212,
         "code_a": "Console",
         "description_a": "manual_ui-19410212",
@@ -6329,7 +6329,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "9410214": {
+    {
         "id": 9410214,
         "code_a": "LiftBlue",
         "description_a": "manual_ui-19410214",
@@ -6339,7 +6339,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "9410308": {
+    {
         "id": 9410308,
         "code_a": "Door_Left",
         "description_a": "manual_ui-19410308",
@@ -6349,7 +6349,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "9410321": {
+    {
         "id": 9410321,
         "code_a": "Console",
         "description_a": "manual_ui-19410321",
@@ -6359,7 +6359,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "9410329": {
+    {
         "id": 9410329,
         "code_a": "Console",
         "description_a": "manual_ui-19410329",
@@ -6369,7 +6369,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "9411239": {
+    {
         "id": 9411239,
         "code_a": "Hole",
         "description_a": "manual_ui-19411239",
@@ -6379,7 +6379,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "9411240": {
+    {
         "id": 9411240,
         "code_a": "Hole",
         "description_a": "manual_ui-19411240",
@@ -6389,7 +6389,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "9411241": {
+    {
         "id": 9411241,
         "code_a": "Hole",
         "description_a": "manual_ui-19411241",
@@ -6399,7 +6399,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "9411242": {
+    {
         "id": 9411242,
         "code_a": "Hole",
         "description_a": "manual_ui-19411242",
@@ -6409,7 +6409,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "9411244": {
+    {
         "id": 9411244,
         "code_a": "Hole",
         "description_a": "manual_ui-19411244",
@@ -6419,7 +6419,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "9411301": {
+    {
         "id": 9411301,
         "code_a": "Console",
         "description_a": "manual_ui-19411301",
@@ -6429,7 +6429,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "9411302": {
+    {
         "id": 9411302,
         "code_a": "Console",
         "description_a": "manual_ui-19411302",
@@ -6439,7 +6439,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "9411303": {
+    {
         "id": 9411303,
         "code_a": "Console",
         "description_a": "manual_ui-19411303",
@@ -6449,7 +6449,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "9411801": {
+    {
         "id": 9411801,
         "code_a": "Console",
         "description_a": "manual_ui-19411801",
@@ -6459,7 +6459,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "9411802": {
+    {
         "id": 9411802,
         "code_a": "Console",
         "description_a": "manual_ui-19411802",
@@ -6469,7 +6469,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "9411803": {
+    {
         "id": 9411803,
         "code_a": "Console",
         "description_a": "manual_ui-19411803",
@@ -6479,7 +6479,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "9411804": {
+    {
         "id": 9411804,
         "code_a": "Console",
         "description_a": "manual_ui-19411804",
@@ -6489,7 +6489,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "9411808": {
+    {
         "id": 9411808,
         "code_a": "Console",
         "description_a": "manual_ui-19411808",
@@ -6499,7 +6499,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "9411833": {
+    {
         "id": 9411833,
         "code_a": "Console",
         "description_a": "manual_ui-19411833",
@@ -6509,7 +6509,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "9411834": {
+    {
         "id": 9411834,
         "code_a": "Console",
         "description_a": "manual_ui-19411834",
@@ -6519,7 +6519,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "9411835": {
+    {
         "id": 9411835,
         "code_a": "Console",
         "description_a": "manual_ui-19411835",
@@ -6529,7 +6529,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "9411836": {
+    {
         "id": 9411836,
         "code_a": "Console",
         "description_a": "manual_ui-19411836",
@@ -6539,7 +6539,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "9411842": {
+    {
         "id": 9411842,
         "code_a": "Console",
         "description_a": "manual_ui-19411842",
@@ -6549,7 +6549,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "9411843": {
+    {
         "id": 9411843,
         "code_a": "Console",
         "description_a": "manual_ui-19411843",
@@ -6559,7 +6559,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "9411844": {
+    {
         "id": 9411844,
         "code_a": "Console",
         "description_a": "manual_ui-19411844",
@@ -6569,7 +6569,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "9411845": {
+    {
         "id": 9411845,
         "code_a": "Console",
         "description_a": "manual_ui-19411845",
@@ -6579,7 +6579,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "9411846": {
+    {
         "id": 9411846,
         "code_a": "Console",
         "description_a": "manual_ui-19411846",
@@ -6589,7 +6589,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "9411847": {
+    {
         "id": 9411847,
         "code_a": "Console",
         "description_a": "manual_ui-19411847",
@@ -6599,7 +6599,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "9411848": {
+    {
         "id": 9411848,
         "code_a": "Console",
         "description_a": "manual_ui-19411848",
@@ -6609,7 +6609,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "9411849": {
+    {
         "id": 9411849,
         "code_a": "Console",
         "description_a": "manual_ui-19411849",
@@ -6619,7 +6619,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "9411858": {
+    {
         "id": 9411858,
         "code_a": "Console",
         "description_a": "manual_ui-19411858",
@@ -6629,7 +6629,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "9411859": {
+    {
         "id": 9411859,
         "code_a": "Console",
         "description_a": "manual_ui-19411859",
@@ -6639,7 +6639,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "9490103": {
+    {
         "id": 9490103,
         "code_a": "Sundries",
         "description_a": "manual_ui-19490103",
@@ -6649,7 +6649,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "9490104": {
+    {
         "id": 9490104,
         "code_a": "Sundries",
         "description_a": "manual_ui-19490104",
@@ -6659,7 +6659,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "9490105": {
+    {
         "id": 9490105,
         "code_a": "Sundries",
         "description_a": "manual_ui-19490105",
@@ -6669,7 +6669,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "9490106": {
+    {
         "id": 9490106,
         "code_a": "Sundries",
         "description_a": "manual_ui-19490106",
@@ -6679,7 +6679,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "9490202": {
+    {
         "id": 9490202,
         "code_a": "KP-31CD",
         "description_a": "manual_ui-19490202",
@@ -6689,7 +6689,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "9490203": {
+    {
         "id": 9490203,
         "code_a": "KP-31CD",
         "description_a": "manual_ui-19490203",
@@ -6699,7 +6699,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "44360002": {
+    {
         "id": 44360002,
         "code_a": "golyatplg_d",
         "description_a": "manual_ui-54360002",
@@ -6709,7 +6709,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "44400004": {
+    {
         "id": 44400004,
         "code_a": "Console",
         "description_a": "manual_ui-54400004",
@@ -6719,7 +6719,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "44400005": {
+    {
         "id": 44400005,
         "code_a": "Console",
         "description_a": "manual_ui-54400005",
@@ -6729,7 +6729,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "44400006": {
+    {
         "id": 44400006,
         "code_a": "Console",
         "description_a": "manual_ui-54400006",
@@ -6739,7 +6739,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "44540001": {
+    {
         "id": 44540001,
         "code_a": "Console",
         "description_a": "manual_ui-54540001",
@@ -6749,7 +6749,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "44540002": {
+    {
         "id": 44540002,
         "code_a": "Console",
         "description_a": "manual_ui-54540002",
@@ -6759,7 +6759,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "45010001": {
+    {
         "id": 45010001,
         "code_a": "Console",
         "description_a": "manual_ui-55010001",
@@ -6769,7 +6769,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "45010002": {
+    {
         "id": 45010002,
         "code_a": "Console",
         "description_a": "manual_ui-55010002",
@@ -6779,7 +6779,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "45010003": {
+    {
         "id": 45010003,
         "code_a": "Console",
         "description_a": "manual_ui-55010003",
@@ -6789,7 +6789,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "45010004": {
+    {
         "id": 45010004,
         "code_a": "Console",
         "description_a": "manual_ui-55010004",
@@ -6799,7 +6799,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "45010005": {
+    {
         "id": 45010005,
         "code_a": "Console",
         "description_a": "manual_ui-55010005",
@@ -6809,7 +6809,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "94040901": {
+    {
         "id": 94040901,
         "code_a": "Rock",
         "description_a": "manual_ui-104040901",
@@ -6819,7 +6819,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "94040902": {
+    {
         "id": 94040902,
         "code_a": "Birdge_Left",
         "description_a": "manual_ui-104040902",
@@ -6829,7 +6829,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "94040905": {
+    {
         "id": 94040905,
         "code_a": "Boomer",
         "description_a": "manual_ui-104040905",
@@ -6839,7 +6839,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "94040908": {
+    {
         "id": 94040908,
         "code_a": "Door_Left",
         "description_a": "manual_ui-104040908",
@@ -6849,7 +6849,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "94040909": {
+    {
         "id": 94040909,
         "code_a": "Door_Left",
         "description_a": "manual_ui-104040909",
@@ -6859,7 +6859,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "94040910": {
+    {
         "id": 94040910,
         "code_a": "Door_Left",
         "description_a": "manual_ui-104040910",
@@ -6869,7 +6869,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "94040911": {
+    {
         "id": 94040911,
         "code_a": "Door_Left",
         "description_a": "manual_ui-104040911",
@@ -6879,7 +6879,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "94040912": {
+    {
         "id": 94040912,
         "code_a": "Door_Left",
         "description_a": "manual_ui-104040912",
@@ -6889,7 +6889,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "94040913": {
+    {
         "id": 94040913,
         "code_a": "Door_Left",
         "description_a": "manual_ui-104040913",
@@ -6899,7 +6899,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "94040914": {
+    {
         "id": 94040914,
         "code_a": "Door_Left",
         "description_a": "manual_ui-104040914",
@@ -6909,7 +6909,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "94040915": {
+    {
         "id": 94040915,
         "code_a": "Door_Left",
         "description_a": "manual_ui-104040915",
@@ -6919,7 +6919,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "94040916": {
+    {
         "id": 94040916,
         "code_a": "Door_Left",
         "description_a": "manual_ui-104040916",
@@ -6929,7 +6929,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "94040917": {
+    {
         "id": 94040917,
         "code_a": "Door_Left",
         "description_a": "manual_ui-104040917",
@@ -6939,7 +6939,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "94040918": {
+    {
         "id": 94040918,
         "code_a": "AirportTower",
         "description_a": "manual_ui-104040918",
@@ -6949,7 +6949,7 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     },
-    "94314001": {
+    {
         "id": 94314001,
         "code_a": "WorkBench",
         "description_a": "manual_ui-104314001",
@@ -6959,4 +6959,4 @@
         "is_manual_target": 0,
         "use_fairy_ui": 0
     }
-}
+]

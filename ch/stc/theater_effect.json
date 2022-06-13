@@ -1,5 +1,5 @@
-{
-    "41100": {
+[
+    {
         "id": 41100,
         "name": "theater_effect-10041100",
         "description": "theater_effect-20041100",
@@ -13,7 +13,7 @@
         "spare_sangvis_cost": 0,
         "spare_fairy_num": 0
     },
-    "41101": {
+    {
         "id": 41101,
         "name": "theater_effect-10041101",
         "description": "theater_effect-20041101",
@@ -27,7 +27,7 @@
         "spare_sangvis_cost": 20,
         "spare_fairy_num": 1
     },
-    "41102": {
+    {
         "id": 41102,
         "name": "theater_effect-10041102",
         "description": "theater_effect-20041102",
@@ -41,7 +41,7 @@
         "spare_sangvis_cost": 40,
         "spare_fairy_num": 2
     },
-    "41103": {
+    {
         "id": 41103,
         "name": "theater_effect-10041103",
         "description": "theater_effect-20041103",
@@ -55,7 +55,7 @@
         "spare_sangvis_cost": 72,
         "spare_fairy_num": 3
     },
-    "42100": {
+    {
         "id": 42100,
         "name": "theater_effect-10042100",
         "description": "theater_effect-20042100",
@@ -69,7 +69,7 @@
         "spare_sangvis_cost": 0,
         "spare_fairy_num": 0
     },
-    "42101": {
+    {
         "id": 42101,
         "name": "theater_effect-10042101",
         "description": "theater_effect-20042101",
@@ -83,7 +83,7 @@
         "spare_sangvis_cost": 20,
         "spare_fairy_num": 1
     },
-    "42102": {
+    {
         "id": 42102,
         "name": "theater_effect-10042102",
         "description": "theater_effect-20042102",
@@ -97,7 +97,7 @@
         "spare_sangvis_cost": 40,
         "spare_fairy_num": 2
     },
-    "42103": {
+    {
         "id": 42103,
         "name": "theater_effect-10042103",
         "description": "theater_effect-20042103",
@@ -111,7 +111,7 @@
         "spare_sangvis_cost": 72,
         "spare_fairy_num": 3
     },
-    "42500": {
+    {
         "id": 42500,
         "name": "theater_effect-10042500",
         "description": "theater_effect-20042500",
@@ -125,7 +125,7 @@
         "spare_sangvis_cost": 0,
         "spare_fairy_num": 0
     },
-    "42501": {
+    {
         "id": 42501,
         "name": "theater_effect-10042501",
         "description": "theater_effect-20042501",
@@ -139,7 +139,7 @@
         "spare_sangvis_cost": 0,
         "spare_fairy_num": 0
     },
-    "42502": {
+    {
         "id": 42502,
         "name": "theater_effect-10042502",
         "description": "theater_effect-20042502",
@@ -153,7 +153,7 @@
         "spare_sangvis_cost": 0,
         "spare_fairy_num": 0
     },
-    "42503": {
+    {
         "id": 42503,
         "name": "theater_effect-10042503",
         "description": "theater_effect-20042503",
@@ -167,7 +167,7 @@
         "spare_sangvis_cost": 0,
         "spare_fairy_num": 0
     },
-    "43100": {
+    {
         "id": 43100,
         "name": "theater_effect-10043100",
         "description": "theater_effect-20043100",
@@ -181,7 +181,7 @@
         "spare_sangvis_cost": 0,
         "spare_fairy_num": 0
     },
-    "43101": {
+    {
         "id": 43101,
         "name": "theater_effect-10043101",
         "description": "theater_effect-20043101",
@@ -195,7 +195,7 @@
         "spare_sangvis_cost": 20,
         "spare_fairy_num": 1
     },
-    "43102": {
+    {
         "id": 43102,
         "name": "theater_effect-10043102",
         "description": "theater_effect-20043102",
@@ -209,7 +209,7 @@
         "spare_sangvis_cost": 40,
         "spare_fairy_num": 2
     },
-    "43103": {
+    {
         "id": 43103,
         "name": "theater_effect-10043103",
         "description": "theater_effect-20043103",
@@ -223,7 +223,7 @@
         "spare_sangvis_cost": 72,
         "spare_fairy_num": 3
     },
-    "43400": {
+    {
         "id": 43400,
         "name": "theater_effect-10043400",
         "description": "theater_effect-20043400",
@@ -237,7 +237,7 @@
         "spare_sangvis_cost": 0,
         "spare_fairy_num": 0
     },
-    "43401": {
+    {
         "id": 43401,
         "name": "theater_effect-10043401",
         "description": "theater_effect-20043401",
@@ -251,7 +251,7 @@
         "spare_sangvis_cost": 0,
         "spare_fairy_num": 0
     },
-    "43402": {
+    {
         "id": 43402,
         "name": "theater_effect-10043402",
         "description": "theater_effect-20043402",
@@ -265,7 +265,7 @@
         "spare_sangvis_cost": 0,
         "spare_fairy_num": 0
     },
-    "43403": {
+    {
         "id": 43403,
         "name": "theater_effect-10043403",
         "description": "theater_effect-20043403",
@@ -279,7 +279,7 @@
         "spare_sangvis_cost": 0,
         "spare_fairy_num": 0
     },
-    "43600": {
+    {
         "id": 43600,
         "name": "theater_effect-10043600",
         "description": "theater_effect-20043600",
@@ -293,7 +293,7 @@
         "spare_sangvis_cost": 0,
         "spare_fairy_num": 0
     },
-    "43601": {
+    {
         "id": 43601,
         "name": "theater_effect-10043601",
         "description": "theater_effect-20043601",
@@ -307,7 +307,7 @@
         "spare_sangvis_cost": 0,
         "spare_fairy_num": 0
     },
-    "43602": {
+    {
         "id": 43602,
         "name": "theater_effect-10043602",
         "description": "theater_effect-20043602",
@@ -321,7 +321,7 @@
         "spare_sangvis_cost": 0,
         "spare_fairy_num": 0
     },
-    "43603": {
+    {
         "id": 43603,
         "name": "theater_effect-10043603",
         "description": "theater_effect-20043603",
@@ -335,7 +335,7 @@
         "spare_sangvis_cost": 0,
         "spare_fairy_num": 0
     },
-    "44100": {
+    {
         "id": 44100,
         "name": "theater_effect-10044100",
         "description": "theater_effect-20044100",
@@ -349,7 +349,7 @@
         "spare_sangvis_cost": 0,
         "spare_fairy_num": 0
     },
-    "44101": {
+    {
         "id": 44101,
         "name": "theater_effect-10044101",
         "description": "theater_effect-20044101",
@@ -363,7 +363,7 @@
         "spare_sangvis_cost": 20,
         "spare_fairy_num": 1
     },
-    "44102": {
+    {
         "id": 44102,
         "name": "theater_effect-10044102",
         "description": "theater_effect-20044102",
@@ -377,7 +377,7 @@
         "spare_sangvis_cost": 40,
         "spare_fairy_num": 2
     },
-    "44103": {
+    {
         "id": 44103,
         "name": "theater_effect-10044103",
         "description": "theater_effect-20044103",
@@ -391,7 +391,7 @@
         "spare_sangvis_cost": 72,
         "spare_fairy_num": 3
     },
-    "44200": {
+    {
         "id": 44200,
         "name": "theater_effect-10044200",
         "description": "theater_effect-20044200",
@@ -405,7 +405,7 @@
         "spare_sangvis_cost": 0,
         "spare_fairy_num": 0
     },
-    "44201": {
+    {
         "id": 44201,
         "name": "theater_effect-10044201",
         "description": "theater_effect-20044201",
@@ -419,7 +419,7 @@
         "spare_sangvis_cost": 0,
         "spare_fairy_num": 0
     },
-    "44202": {
+    {
         "id": 44202,
         "name": "theater_effect-10044202",
         "description": "theater_effect-20044202",
@@ -433,7 +433,7 @@
         "spare_sangvis_cost": 0,
         "spare_fairy_num": 0
     },
-    "44203": {
+    {
         "id": 44203,
         "name": "theater_effect-10044203",
         "description": "theater_effect-20044203",
@@ -447,7 +447,7 @@
         "spare_sangvis_cost": 0,
         "spare_fairy_num": 0
     },
-    "44300": {
+    {
         "id": 44300,
         "name": "theater_effect-10044300",
         "description": "theater_effect-20044300",
@@ -461,7 +461,7 @@
         "spare_sangvis_cost": 0,
         "spare_fairy_num": 0
     },
-    "44301": {
+    {
         "id": 44301,
         "name": "theater_effect-10044301",
         "description": "theater_effect-20044301",
@@ -475,7 +475,7 @@
         "spare_sangvis_cost": 0,
         "spare_fairy_num": 0
     },
-    "44302": {
+    {
         "id": 44302,
         "name": "theater_effect-10044302",
         "description": "theater_effect-20044302",
@@ -489,7 +489,7 @@
         "spare_sangvis_cost": 0,
         "spare_fairy_num": 0
     },
-    "44303": {
+    {
         "id": 44303,
         "name": "theater_effect-10044303",
         "description": "theater_effect-20044303",
@@ -503,4 +503,4 @@
         "spare_sangvis_cost": 0,
         "spare_fairy_num": 0
     }
-}
+]

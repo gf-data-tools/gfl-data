@@ -1,5 +1,5 @@
-{
-    "1": {
+[
+    {
         "id": 1,
         "type": 1,
         "sub_type": 0,
@@ -7,7 +7,7 @@
         "sub_title": "career_quest_group-20000001",
         "function_control_id": 0
     },
-    "2": {
+    {
         "id": 2,
         "type": 1,
         "sub_type": 1,
@@ -15,7 +15,7 @@
         "sub_title": "career_quest_group-20000002",
         "function_control_id": 0
     },
-    "3": {
+    {
         "id": 3,
         "type": 1,
         "sub_type": 2,
@@ -23,7 +23,7 @@
         "sub_title": "career_quest_group-20000003",
         "function_control_id": 2
     },
-    "4": {
+    {
         "id": 4,
         "type": 1,
         "sub_type": 3,
@@ -31,7 +31,7 @@
         "sub_title": "career_quest_group-20000004",
         "function_control_id": 1
     },
-    "5": {
+    {
         "id": 5,
         "type": 1,
         "sub_type": 4,
@@ -39,7 +39,7 @@
         "sub_title": "career_quest_group-20000005",
         "function_control_id": 15
     },
-    "6": {
+    {
         "id": 6,
         "type": 1,
         "sub_type": 5,
@@ -47,7 +47,7 @@
         "sub_title": "career_quest_group-20000006",
         "function_control_id": 21
     },
-    "7": {
+    {
         "id": 7,
         "type": 2,
         "sub_type": 0,
@@ -55,7 +55,7 @@
         "sub_title": "career_quest_group-20000007",
         "function_control_id": 0
     },
-    "8": {
+    {
         "id": 8,
         "type": 2,
         "sub_type": 1,
@@ -63,7 +63,7 @@
         "sub_title": "career_quest_group-20000008",
         "function_control_id": 0
     },
-    "9": {
+    {
         "id": 9,
         "type": 2,
         "sub_type": 2,
@@ -71,7 +71,7 @@
         "sub_title": "career_quest_group-20000009",
         "function_control_id": 0
     },
-    "10": {
+    {
         "id": 10,
         "type": 2,
         "sub_type": 3,
@@ -79,7 +79,7 @@
         "sub_title": "career_quest_group-20000010",
         "function_control_id": 0
     },
-    "11": {
+    {
         "id": 11,
         "type": 2,
         "sub_type": 4,
@@ -87,4 +87,4 @@
         "sub_title": "career_quest_group-20000011",
         "function_control_id": 0
     }
-}
+]

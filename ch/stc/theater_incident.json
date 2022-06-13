@@ -1,5 +1,5 @@
-{
-    "1": {
+[
+    {
         "id": 1,
         "name": "theater_incident-10000001",
         "description": "theater_incident-20000001",
@@ -12,7 +12,7 @@
         "is_active": 1,
         "theater_event_id": 8
     },
-    "2": {
+    {
         "id": 2,
         "name": "theater_incident-10000002",
         "description": "theater_incident-20000002",
@@ -25,7 +25,7 @@
         "is_active": 1,
         "theater_event_id": 8
     },
-    "3": {
+    {
         "id": 3,
         "name": "theater_incident-10000003",
         "description": "theater_incident-20000003",
@@ -38,7 +38,7 @@
         "is_active": 1,
         "theater_event_id": 8
     },
-    "4": {
+    {
         "id": 4,
         "name": "theater_incident-10000004",
         "description": "theater_incident-20000004",
@@ -51,7 +51,7 @@
         "is_active": 1,
         "theater_event_id": 8
     },
-    "5": {
+    {
         "id": 5,
         "name": "theater_incident-10000005",
         "description": "theater_incident-20000005",
@@ -64,7 +64,7 @@
         "is_active": 1,
         "theater_event_id": 8
     },
-    "6": {
+    {
         "id": 6,
         "name": "theater_incident-10000006",
         "description": "theater_incident-20000006",
@@ -77,7 +77,7 @@
         "is_active": 1,
         "theater_event_id": 8
     },
-    "7": {
+    {
         "id": 7,
         "name": "theater_incident-10000007",
         "description": "theater_incident-20000007",
@@ -90,7 +90,7 @@
         "is_active": 1,
         "theater_event_id": 8
     },
-    "8": {
+    {
         "id": 8,
         "name": "theater_incident-10000008",
         "description": "theater_incident-20000008",
@@ -103,7 +103,7 @@
         "is_active": 1,
         "theater_event_id": 8
     },
-    "9": {
+    {
         "id": 9,
         "name": "theater_incident-10000009",
         "description": "theater_incident-20000009",
@@ -116,7 +116,7 @@
         "is_active": 1,
         "theater_event_id": 8
     },
-    "10": {
+    {
         "id": 10,
         "name": "theater_incident-10000010",
         "description": "theater_incident-20000010",
@@ -129,7 +129,7 @@
         "is_active": 1,
         "theater_event_id": 8
     },
-    "11": {
+    {
         "id": 11,
         "name": "theater_incident-10000011",
         "description": "theater_incident-20000011",
@@ -142,7 +142,7 @@
         "is_active": 1,
         "theater_event_id": 8
     },
-    "12": {
+    {
         "id": 12,
         "name": "theater_incident-10000012",
         "description": "theater_incident-20000012",
@@ -155,7 +155,7 @@
         "is_active": 1,
         "theater_event_id": 8
     },
-    "13": {
+    {
         "id": 13,
         "name": "theater_incident-10000013",
         "description": "theater_incident-20000013",
@@ -168,7 +168,7 @@
         "is_active": 1,
         "theater_event_id": 8
     },
-    "14": {
+    {
         "id": 14,
         "name": "theater_incident-10000014",
         "description": "theater_incident-20000014",
@@ -181,7 +181,7 @@
         "is_active": 1,
         "theater_event_id": 8
     },
-    "15": {
+    {
         "id": 15,
         "name": "theater_incident-10000015",
         "description": "theater_incident-20000015",
@@ -194,7 +194,7 @@
         "is_active": 1,
         "theater_event_id": 8
     },
-    "16": {
+    {
         "id": 16,
         "name": "theater_incident-10000016",
         "description": "theater_incident-20000016",
@@ -207,7 +207,7 @@
         "is_active": 1,
         "theater_event_id": 8
     },
-    "17": {
+    {
         "id": 17,
         "name": "theater_incident-10000017",
         "description": "theater_incident-20000017",
@@ -220,7 +220,7 @@
         "is_active": 1,
         "theater_event_id": 8
     },
-    "18": {
+    {
         "id": 18,
         "name": "theater_incident-10000018",
         "description": "theater_incident-20000018",
@@ -233,7 +233,7 @@
         "is_active": 1,
         "theater_event_id": 8
     },
-    "19": {
+    {
         "id": 19,
         "name": "theater_incident-10000019",
         "description": "theater_incident-20000019",
@@ -246,7 +246,7 @@
         "is_active": 1,
         "theater_event_id": 8
     },
-    "20": {
+    {
         "id": 20,
         "name": "theater_incident-10000020",
         "description": "theater_incident-20000020",
@@ -259,7 +259,7 @@
         "is_active": 1,
         "theater_event_id": 8
     },
-    "21": {
+    {
         "id": 21,
         "name": "theater_incident-10000021",
         "description": "theater_incident-20000021",
@@ -272,7 +272,7 @@
         "is_active": 1,
         "theater_event_id": 8
     },
-    "22": {
+    {
         "id": 22,
         "name": "theater_incident-10000022",
         "description": "theater_incident-20000022",
@@ -285,7 +285,7 @@
         "is_active": 1,
         "theater_event_id": 8
     },
-    "23": {
+    {
         "id": 23,
         "name": "theater_incident-10000023",
         "description": "theater_incident-20000023",
@@ -298,7 +298,7 @@
         "is_active": 1,
         "theater_event_id": 8
     },
-    "24": {
+    {
         "id": 24,
         "name": "theater_incident-10000024",
         "description": "theater_incident-20000024",
@@ -311,7 +311,7 @@
         "is_active": 1,
         "theater_event_id": 8
     },
-    "25": {
+    {
         "id": 25,
         "name": "theater_incident-10000025",
         "description": "theater_incident-20000025",
@@ -324,4 +324,4 @@
         "is_active": 1,
         "theater_event_id": 8
     }
-}
+]

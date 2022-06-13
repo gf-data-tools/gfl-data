@@ -1,5 +1,5 @@
-{
-    "1": {
+[
+    {
         "id": 1,
         "name": "gun-10000001",
         "en_name": "M1873",
@@ -57,7 +57,7 @@
         "gun_detail_bg": "nation_US",
         "org_id": 10302
     },
-    "2": {
+    {
         "id": 2,
         "name": "gun-10000002",
         "en_name": "M1911",
@@ -115,7 +115,7 @@
         "gun_detail_bg": "nation_US",
         "org_id": 10202
     },
-    "3": {
+    {
         "id": 3,
         "name": "gun-10000003",
         "en_name": "M9",
@@ -173,7 +173,7 @@
         "gun_detail_bg": "nation_US",
         "org_id": 10202
     },
-    "4": {
+    {
         "id": 4,
         "name": "gun-10000004",
         "en_name": "Python",
@@ -231,7 +231,7 @@
         "gun_detail_bg": "nation_US",
         "org_id": 10202
     },
-    "5": {
+    {
         "id": 5,
         "name": "gun-10000005",
         "en_name": "M1895",
@@ -289,7 +289,7 @@
         "gun_detail_bg": "nation_Russia",
         "org_id": 10302
     },
-    "6": {
+    {
         "id": 6,
         "name": "gun-10000006",
         "en_name": "TT33",
@@ -347,7 +347,7 @@
         "gun_detail_bg": "nation_Russia",
         "org_id": 10302
     },
-    "7": {
+    {
         "id": 7,
         "name": "gun-10000007",
         "en_name": "APS",
@@ -405,7 +405,7 @@
         "gun_detail_bg": "nation_Russia",
         "org_id": 10303
     },
-    "8": {
+    {
         "id": 8,
         "name": "gun-10000008",
         "en_name": "PM",
@@ -463,7 +463,7 @@
         "gun_detail_bg": "nation_Russia",
         "org_id": 10704
     },
-    "9": {
+    {
         "id": 9,
         "name": "gun-10000009",
         "en_name": "P38",
@@ -521,7 +521,7 @@
         "gun_detail_bg": "nation_German",
         "org_id": 10803
     },
-    "10": {
+    {
         "id": 10,
         "name": "gun-10000010",
         "en_name": "PPK",
@@ -579,7 +579,7 @@
         "gun_detail_bg": "nation_German",
         "org_id": 10303
     },
-    "11": {
+    {
         "id": 11,
         "name": "gun-10000011",
         "en_name": "P08",
@@ -637,7 +637,7 @@
         "gun_detail_bg": "nation_German",
         "org_id": 10303
     },
-    "12": {
+    {
         "id": 12,
         "name": "gun-10000012",
         "en_name": "C96",
@@ -695,7 +695,7 @@
         "gun_detail_bg": "nation_German",
         "org_id": 10302
     },
-    "13": {
+    {
         "id": 13,
         "name": "gun-10000013",
         "en_name": "Type 92",
@@ -753,7 +753,7 @@
         "gun_detail_bg": "nation_China",
         "org_id": 10704
     },
-    "14": {
+    {
         "id": 14,
         "name": "gun-10000014",
         "en_name": "357",
@@ -811,7 +811,7 @@
         "gun_detail_bg": "",
         "org_id": 10303
     },
-    "15": {
+    {
         "id": 15,
         "name": "gun-10000015",
         "en_name": "Glock 17",
@@ -869,7 +869,7 @@
         "gun_detail_bg": "",
         "org_id": 10802
     },
-    "16": {
+    {
         "id": 16,
         "name": "gun-10000016",
         "en_name": "M1928A1",
@@ -927,7 +927,7 @@
         "gun_detail_bg": "nation_US",
         "org_id": 102
     },
-    "17": {
+    {
         "id": 17,
         "name": "gun-10000017",
         "en_name": "M3",
@@ -985,7 +985,7 @@
         "gun_detail_bg": "nation_US",
         "org_id": 10303
     },
-    "18": {
+    {
         "id": 18,
         "name": "gun-10000018",
         "en_name": "MAC-10",
@@ -1043,7 +1043,7 @@
         "gun_detail_bg": "nation_US",
         "org_id": 10202
     },
-    "19": {
+    {
         "id": 19,
         "name": "gun-10000019",
         "en_name": "FMG-9",
@@ -1101,7 +1101,7 @@
         "gun_detail_bg": "nation_US",
         "org_id": 10402
     },
-    "20": {
+    {
         "id": 20,
         "name": "gun-10000020",
         "en_name": "Vector",
@@ -1159,7 +1159,7 @@
         "gun_detail_bg": "nation_US",
         "org_id": 10202
     },
-    "21": {
+    {
         "id": 21,
         "name": "gun-10000021",
         "en_name": "PPSh-41",
@@ -1217,7 +1217,7 @@
         "gun_detail_bg": "nation_Russia",
         "org_id": 10303
     },
-    "22": {
+    {
         "id": 22,
         "name": "gun-10000022",
         "en_name": "PPS-43",
@@ -1275,7 +1275,7 @@
         "gun_detail_bg": "nation_Russia",
         "org_id": 10302
     },
-    "23": {
+    {
         "id": 23,
         "name": "gun-10000023",
         "en_name": "PP-90",
@@ -1333,7 +1333,7 @@
         "gun_detail_bg": "nation_Russia",
         "org_id": 10303
     },
-    "24": {
+    {
         "id": 24,
         "name": "gun-10000024",
         "en_name": "PP-2000",
@@ -1391,7 +1391,7 @@
         "gun_detail_bg": "nation_Russia",
         "org_id": 10303
     },
-    "25": {
+    {
         "id": 25,
         "name": "gun-10000025",
         "en_name": "MP40",
@@ -1449,7 +1449,7 @@
         "gun_detail_bg": "nation_German",
         "org_id": 10302
     },
-    "26": {
+    {
         "id": 26,
         "name": "gun-10000026",
         "en_name": "MP5",
@@ -1507,7 +1507,7 @@
         "gun_detail_bg": "nation_German",
         "org_id": 10203
     },
-    "27": {
+    {
         "id": 27,
         "name": "gun-10000027",
         "en_name": "Vz. 61",
@@ -1565,7 +1565,7 @@
         "gun_detail_bg": "",
         "org_id": 10302
     },
-    "28": {
+    {
         "id": 28,
         "name": "gun-10000028",
         "en_name": "MP7",
@@ -1623,7 +1623,7 @@
         "gun_detail_bg": "nation_German",
         "org_id": 10202
     },
-    "29": {
+    {
         "id": 29,
         "name": "gun-10000029",
         "en_name": "Sten Mk Ⅱ",
@@ -1681,7 +1681,7 @@
         "gun_detail_bg": "",
         "org_id": 10704
     },
-    "31": {
+    {
         "id": 31,
         "name": "gun-10000031",
         "en_name": "MAB 38",
@@ -1739,7 +1739,7 @@
         "gun_detail_bg": "nation_Italy",
         "org_id": 10302
     },
-    "32": {
+    {
         "id": 32,
         "name": "gun-10000032",
         "en_name": "Micro Uzi",
@@ -1797,7 +1797,7 @@
         "gun_detail_bg": "",
         "org_id": 10202
     },
-    "33": {
+    {
         "id": 33,
         "name": "gun-10000033",
         "en_name": "m45",
@@ -1855,7 +1855,7 @@
         "gun_detail_bg": "",
         "org_id": 10802
     },
-    "34": {
+    {
         "id": 34,
         "name": "gun-10000034",
         "en_name": "M1",
@@ -1913,7 +1913,7 @@
         "gun_detail_bg": "nation_US",
         "org_id": 10303
     },
-    "35": {
+    {
         "id": 35,
         "name": "gun-10000035",
         "en_name": "M1A1",
@@ -1971,7 +1971,7 @@
         "gun_detail_bg": "nation_US",
         "org_id": 10303
     },
-    "36": {
+    {
         "id": 36,
         "name": "gun-10000036",
         "en_name": "M1903",
@@ -2029,7 +2029,7 @@
         "gun_detail_bg": "nation_US",
         "org_id": 107
     },
-    "37": {
+    {
         "id": 37,
         "name": "gun-10000037",
         "en_name": "M14",
@@ -2087,7 +2087,7 @@
         "gun_detail_bg": "nation_US",
         "org_id": 10202
     },
-    "38": {
+    {
         "id": 38,
         "name": "gun-10000038",
         "en_name": "M21",
@@ -2145,7 +2145,7 @@
         "gun_detail_bg": "nation_US",
         "org_id": 10202
     },
-    "39": {
+    {
         "id": 39,
         "name": "gun-10000039",
         "en_name": "M1891",
@@ -2203,7 +2203,7 @@
         "gun_detail_bg": "nation_Russia",
         "org_id": 10302
     },
-    "40": {
+    {
         "id": 40,
         "name": "gun-10000040",
         "en_name": "SVT-38",
@@ -2261,7 +2261,7 @@
         "gun_detail_bg": "nation_Russia",
         "org_id": 10303
     },
-    "41": {
+    {
         "id": 41,
         "name": "gun-10000041",
         "en_name": "SKS",
@@ -2319,7 +2319,7 @@
         "gun_detail_bg": "nation_Russia",
         "org_id": 10302
     },
-    "42": {
+    {
         "id": 42,
         "name": "gun-10000042",
         "en_name": "PTRD",
@@ -2377,7 +2377,7 @@
         "gun_detail_bg": "nation_Russia",
         "org_id": 10302
     },
-    "43": {
+    {
         "id": 43,
         "name": "gun-10000043",
         "en_name": "SVD",
@@ -2435,7 +2435,7 @@
         "gun_detail_bg": "nation_Russia",
         "org_id": 10402
     },
-    "44": {
+    {
         "id": 44,
         "name": "gun-10000044",
         "en_name": "SV-98",
@@ -2493,7 +2493,7 @@
         "gun_detail_bg": "nation_Russia",
         "org_id": 10302
     },
-    "46": {
+    {
         "id": 46,
         "name": "gun-10000046",
         "en_name": "Kar98k",
@@ -2551,7 +2551,7 @@
         "gun_detail_bg": "nation_German",
         "org_id": 10201
     },
-    "47": {
+    {
         "id": 47,
         "name": "gun-10000047",
         "en_name": "G43",
@@ -2609,7 +2609,7 @@
         "gun_detail_bg": "nation_German",
         "org_id": 10303
     },
-    "48": {
+    {
         "id": 48,
         "name": "gun-10000048",
         "en_name": "WA2000",
@@ -2667,7 +2667,7 @@
         "gun_detail_bg": "nation_German",
         "org_id": 10201
     },
-    "49": {
+    {
         "id": 49,
         "name": "gun-10000049",
         "en_name": "Type 56 R",
@@ -2725,7 +2725,7 @@
         "gun_detail_bg": "nation_China",
         "org_id": 10705
     },
-    "50": {
+    {
         "id": 50,
         "name": "gun-10000050",
         "en_name": "MLE Mk I",
@@ -2783,7 +2783,7 @@
         "gun_detail_bg": "",
         "org_id": 10201
     },
-    "51": {
+    {
         "id": 51,
         "name": "gun-10000051",
         "en_name": "FN-49",
@@ -2841,7 +2841,7 @@
         "gun_detail_bg": "nation_Belgium",
         "org_id": 10202
     },
-    "52": {
+    {
         "id": 52,
         "name": "gun-10000052",
         "en_name": "BM59",
@@ -2899,7 +2899,7 @@
         "gun_detail_bg": "nation_Italy",
         "org_id": 10302
     },
-    "53": {
+    {
         "id": 53,
         "name": "gun-10000053",
         "en_name": "NTW-20",
@@ -2957,7 +2957,7 @@
         "gun_detail_bg": "",
         "org_id": 104
     },
-    "54": {
+    {
         "id": 54,
         "name": "gun-10000054",
         "en_name": "M16A1",
@@ -3015,7 +3015,7 @@
         "gun_detail_bg": "team_ar",
         "org_id": 106
     },
-    "55": {
+    {
         "id": 55,
         "name": "gun-10000055",
         "en_name": "M4A1",
@@ -3073,7 +3073,7 @@
         "gun_detail_bg": "team_ar",
         "org_id": 10601
     },
-    "56": {
+    {
         "id": 56,
         "name": "gun-10000056",
         "en_name": "M4 SOPMOD II",
@@ -3131,7 +3131,7 @@
         "gun_detail_bg": "team_ar",
         "org_id": 10601
     },
-    "57": {
+    {
         "id": 57,
         "name": "gun-10000057",
         "en_name": "ST AR-15",
@@ -3189,7 +3189,7 @@
         "gun_detail_bg": "team_ar",
         "org_id": 10601
     },
-    "58": {
+    {
         "id": 58,
         "name": "gun-10000058",
         "en_name": "AK-47",
@@ -3247,7 +3247,7 @@
         "gun_detail_bg": "nation_Russia",
         "org_id": 10302
     },
-    "59": {
+    {
         "id": 59,
         "name": "gun-10000059",
         "en_name": "AKS-74U",
@@ -3305,7 +3305,7 @@
         "gun_detail_bg": "nation_Russia",
         "org_id": 10203
     },
-    "60": {
+    {
         "id": 60,
         "name": "gun-10000060",
         "en_name": "AS Val",
@@ -3363,7 +3363,7 @@
         "gun_detail_bg": "nation_Russia",
         "org_id": 10303
     },
-    "61": {
+    {
         "id": 61,
         "name": "gun-10000061",
         "en_name": "StG44",
@@ -3421,7 +3421,7 @@
         "gun_detail_bg": "nation_German",
         "org_id": 10303
     },
-    "62": {
+    {
         "id": 62,
         "name": "gun-10000062",
         "en_name": "G41",
@@ -3479,7 +3479,7 @@
         "gun_detail_bg": "nation_German",
         "org_id": 10202
     },
-    "63": {
+    {
         "id": 63,
         "name": "gun-10000063",
         "en_name": "G3",
@@ -3537,7 +3537,7 @@
         "gun_detail_bg": "nation_German",
         "org_id": 105
     },
-    "64": {
+    {
         "id": 64,
         "name": "gun-10000064",
         "en_name": "G36",
@@ -3595,7 +3595,7 @@
         "gun_detail_bg": "nation_German",
         "org_id": 10705
     },
-    "65": {
+    {
         "id": 65,
         "name": "gun-10000065",
         "en_name": "HK416",
@@ -3653,7 +3653,7 @@
         "gun_detail_bg": "team_404",
         "org_id": 10104
     },
-    "66": {
+    {
         "id": 66,
         "name": "gun-10000066",
         "en_name": "Type 56-1 A",
@@ -3711,7 +3711,7 @@
         "gun_detail_bg": "nation_China",
         "org_id": 10705
     },
-    "68": {
+    {
         "id": 68,
         "name": "gun-10000068",
         "en_name": "L85A1",
@@ -3769,7 +3769,7 @@
         "gun_detail_bg": "",
         "org_id": 10302
     },
-    "69": {
+    {
         "id": 69,
         "name": "gun-10000069",
         "en_name": "FAMAS",
@@ -3827,7 +3827,7 @@
         "gun_detail_bg": "",
         "org_id": 10403
     },
-    "70": {
+    {
         "id": 70,
         "name": "gun-10000070",
         "en_name": "FNC",
@@ -3885,7 +3885,7 @@
         "gun_detail_bg": "nation_Belgium",
         "org_id": 10202
     },
-    "71": {
+    {
         "id": 71,
         "name": "gun-10000071",
         "en_name": "AR",
@@ -3943,7 +3943,7 @@
         "gun_detail_bg": "",
         "org_id": 10202
     },
-    "72": {
+    {
         "id": 72,
         "name": "gun-10000072",
         "en_name": "TAR-21",
@@ -4001,7 +4001,7 @@
         "gun_detail_bg": "",
         "org_id": 10202
     },
-    "73": {
+    {
         "id": 73,
         "name": "gun-10000073",
         "en_name": "AUG",
@@ -4059,7 +4059,7 @@
         "gun_detail_bg": "",
         "org_id": 10402
     },
-    "74": {
+    {
         "id": 74,
         "name": "gun-10000074",
         "en_name": "SIG-510",
@@ -4117,7 +4117,7 @@
         "gun_detail_bg": "",
         "org_id": 10302
     },
-    "75": {
+    {
         "id": 75,
         "name": "gun-10000075",
         "en_name": "M1918",
@@ -4175,7 +4175,7 @@
         "gun_detail_bg": "nation_US",
         "org_id": 10303
     },
-    "77": {
+    {
         "id": 77,
         "name": "gun-10000077",
         "en_name": "M2HB",
@@ -4233,7 +4233,7 @@
         "gun_detail_bg": "nation_US",
         "org_id": 10302
     },
-    "78": {
+    {
         "id": 78,
         "name": "gun-10000078",
         "en_name": "M60",
@@ -4291,7 +4291,7 @@
         "gun_detail_bg": "nation_US",
         "org_id": 10704
     },
-    "79": {
+    {
         "id": 79,
         "name": "gun-10000079",
         "en_name": "M249 SAW",
@@ -4349,7 +4349,7 @@
         "gun_detail_bg": "nation_US",
         "org_id": 10302
     },
-    "80": {
+    {
         "id": 80,
         "name": "gun-10000080",
         "en_name": "M1919A4",
@@ -4407,7 +4407,7 @@
         "gun_detail_bg": "nation_US",
         "org_id": 10704
     },
-    "81": {
+    {
         "id": 81,
         "name": "gun-10000081",
         "en_name": "LWMMG",
@@ -4465,7 +4465,7 @@
         "gun_detail_bg": "nation_US",
         "org_id": 10302
     },
-    "82": {
+    {
         "id": 82,
         "name": "gun-10000082",
         "en_name": "DP28",
@@ -4523,7 +4523,7 @@
         "gun_detail_bg": "nation_Russia",
         "org_id": 10302
     },
-    "84": {
+    {
         "id": 84,
         "name": "gun-10000084",
         "en_name": "RPD",
@@ -4581,7 +4581,7 @@
         "gun_detail_bg": "nation_Russia",
         "org_id": 10704
     },
-    "85": {
+    {
         "id": 85,
         "name": "gun-10000085",
         "en_name": "PK",
@@ -4639,7 +4639,7 @@
         "gun_detail_bg": "nation_Russia",
         "org_id": 10402
     },
-    "86": {
+    {
         "id": 86,
         "name": "gun-10000086",
         "en_name": "MG42",
@@ -4697,7 +4697,7 @@
         "gun_detail_bg": "nation_German",
         "org_id": 10702
     },
-    "87": {
+    {
         "id": 87,
         "name": "gun-10000087",
         "en_name": "MG34",
@@ -4755,7 +4755,7 @@
         "gun_detail_bg": "nation_German",
         "org_id": 10702
     },
-    "88": {
+    {
         "id": 88,
         "name": "gun-10000088",
         "en_name": "MG3",
@@ -4813,7 +4813,7 @@
         "gun_detail_bg": "nation_German",
         "org_id": 10302
     },
-    "89": {
+    {
         "id": 89,
         "name": "gun-10000089",
         "en_name": "Bren MK I",
@@ -4871,7 +4871,7 @@
         "gun_detail_bg": "",
         "org_id": 10302
     },
-    "90": {
+    {
         "id": 90,
         "name": "gun-10000090",
         "en_name": "FNP-9",
@@ -4929,7 +4929,7 @@
         "gun_detail_bg": "nation_Belgium",
         "org_id": 10704
     },
-    "91": {
+    {
         "id": 91,
         "name": "gun-10000091",
         "en_name": "MP-446",
@@ -4987,7 +4987,7 @@
         "gun_detail_bg": "nation_Russia",
         "org_id": 10302
     },
-    "92": {
+    {
         "id": 92,
         "name": "gun-10000092",
         "en_name": "Spectre M4",
@@ -5045,7 +5045,7 @@
         "gun_detail_bg": "nation_Italy",
         "org_id": 10704
     },
-    "93": {
+    {
         "id": 93,
         "name": "gun-10000093",
         "en_name": "IDW",
@@ -5103,7 +5103,7 @@
         "gun_detail_bg": "",
         "org_id": 10302
     },
-    "94": {
+    {
         "id": 94,
         "name": "gun-10000094",
         "en_name": "Type 64",
@@ -5161,7 +5161,7 @@
         "gun_detail_bg": "nation_China",
         "org_id": 10705
     },
-    "95": {
+    {
         "id": 95,
         "name": "gun-10000095",
         "en_name": "Type 88",
@@ -5219,7 +5219,7 @@
         "gun_detail_bg": "nation_China",
         "org_id": 10701
     },
-    "96": {
+    {
         "id": 96,
         "name": "gun-10000096",
         "en_name": "Grizzly",
@@ -5277,7 +5277,7 @@
         "gun_detail_bg": "nation_US",
         "org_id": 10401
     },
-    "97": {
+    {
         "id": 97,
         "name": "gun-10000097",
         "en_name": "M950A",
@@ -5335,7 +5335,7 @@
         "gun_detail_bg": "nation_US",
         "org_id": 10202
     },
-    "98": {
+    {
         "id": 98,
         "name": "gun-10000098",
         "en_name": "SPP-1",
@@ -5393,7 +5393,7 @@
         "gun_detail_bg": "nation_Russia",
         "org_id": 10802
     },
-    "99": {
+    {
         "id": 99,
         "name": "gun-10000099",
         "en_name": "Mk23",
@@ -5451,7 +5451,7 @@
         "gun_detail_bg": "nation_German",
         "org_id": 10302
     },
-    "100": {
+    {
         "id": 100,
         "name": "gun-10000100",
         "en_name": "P7",
@@ -5509,7 +5509,7 @@
         "gun_detail_bg": "nation_German",
         "org_id": 10303
     },
-    "101": {
+    {
         "id": 101,
         "name": "gun-10000101",
         "en_name": "UMP9",
@@ -5567,7 +5567,7 @@
         "gun_detail_bg": "team_404",
         "org_id": 10104
     },
-    "102": {
+    {
         "id": 102,
         "name": "gun-10000102",
         "en_name": "UMP40",
@@ -5625,7 +5625,7 @@
         "gun_detail_bg": "nation_German",
         "org_id": 0
     },
-    "103": {
+    {
         "id": 103,
         "name": "gun-10000103",
         "en_name": "UMP45",
@@ -5683,7 +5683,7 @@
         "gun_detail_bg": "team_404",
         "org_id": 10104
     },
-    "104": {
+    {
         "id": 104,
         "name": "gun-10000104",
         "en_name": "G36C",
@@ -5741,7 +5741,7 @@
         "gun_detail_bg": "nation_German",
         "org_id": 10703
     },
-    "105": {
+    {
         "id": 105,
         "name": "gun-10000105",
         "en_name": "OTs-12",
@@ -5799,7 +5799,7 @@
         "gun_detail_bg": "nation_Russia",
         "org_id": 10704
     },
-    "106": {
+    {
         "id": 106,
         "name": "gun-10000106",
         "en_name": "FAL",
@@ -5857,7 +5857,7 @@
         "gun_detail_bg": "nation_Belgium",
         "org_id": 10202
     },
-    "107": {
+    {
         "id": 107,
         "name": "gun-10000107",
         "en_name": "F2000",
@@ -5915,7 +5915,7 @@
         "gun_detail_bg": "nation_Belgium",
         "org_id": 10202
     },
-    "108": {
+    {
         "id": 108,
         "name": "gun-10000108",
         "en_name": "CZ-805",
@@ -5973,7 +5973,7 @@
         "gun_detail_bg": "",
         "org_id": 10704
     },
-    "109": {
+    {
         "id": 109,
         "name": "gun-10000109",
         "en_name": "MG5",
@@ -6031,7 +6031,7 @@
         "gun_detail_bg": "nation_German",
         "org_id": 10402
     },
-    "110": {
+    {
         "id": 110,
         "name": "gun-10000110",
         "en_name": "FG42",
@@ -6089,7 +6089,7 @@
         "gun_detail_bg": "nation_German",
         "org_id": 10303
     },
-    "111": {
+    {
         "id": 111,
         "name": "gun-10000111",
         "en_name": "AAT-52",
@@ -6147,7 +6147,7 @@
         "gun_detail_bg": "",
         "org_id": 10704
     },
-    "112": {
+    {
         "id": 112,
         "name": "gun-10000112",
         "en_name": "NEGEV",
@@ -6205,7 +6205,7 @@
         "gun_detail_bg": "",
         "org_id": 10202
     },
-    "113": {
+    {
         "id": 113,
         "name": "gun-10000113",
         "en_name": "SPS",
@@ -6263,7 +6263,7 @@
         "gun_detail_bg": "nation_Russia",
         "org_id": 10801
     },
-    "114": {
+    {
         "id": 114,
         "name": "gun-10000114",
         "en_name": "Welrod Mk Ⅱ",
@@ -6321,7 +6321,7 @@
         "gun_detail_bg": "",
         "org_id": 103
     },
-    "115": {
+    {
         "id": 115,
         "name": "gun-10000115",
         "en_name": "KP/-31 ",
@@ -6379,7 +6379,7 @@
         "gun_detail_bg": "",
         "org_id": 10803
     },
-    "116": {
+    {
         "id": 116,
         "name": "gun-10000116",
         "en_name": "Z-62",
@@ -6437,7 +6437,7 @@
         "gun_detail_bg": "",
         "org_id": 10704
     },
-    "117": {
+    {
         "id": 117,
         "name": "gun-10000117",
         "en_name": "PSG-1",
@@ -6495,7 +6495,7 @@
         "gun_detail_bg": "nation_German",
         "org_id": 10302
     },
-    "118": {
+    {
         "id": 118,
         "name": "gun-10000118",
         "en_name": "9A-91",
@@ -6553,7 +6553,7 @@
         "gun_detail_bg": "nation_Russia",
         "org_id": 10403
     },
-    "119": {
+    {
         "id": 119,
         "name": "gun-10000119",
         "en_name": "OTs-14",
@@ -6611,7 +6611,7 @@
         "gun_detail_bg": "nation_Russia",
         "org_id": 10202
     },
-    "120": {
+    {
         "id": 120,
         "name": "gun-10000120",
         "en_name": "ARX-160",
@@ -6669,7 +6669,7 @@
         "gun_detail_bg": "nation_Italy",
         "org_id": 10403
     },
-    "121": {
+    {
         "id": 121,
         "name": "gun-10000121",
         "en_name": "Mk48",
@@ -6727,7 +6727,7 @@
         "gun_detail_bg": "nation_US",
         "org_id": 10402
     },
-    "122": {
+    {
         "id": 122,
         "name": "gun-10000122",
         "en_name": "G11",
@@ -6785,7 +6785,7 @@
         "gun_detail_bg": "team_404",
         "org_id": 10104
     },
-    "123": {
+    {
         "id": 123,
         "name": "gun-10000123",
         "en_name": "P99",
@@ -6843,7 +6843,7 @@
         "gun_detail_bg": "nation_German",
         "org_id": 10704
     },
-    "124": {
+    {
         "id": 124,
         "name": "gun-10000124",
         "en_name": "Super SASS",
@@ -6901,7 +6901,7 @@
         "gun_detail_bg": "nation_US",
         "org_id": 10202
     },
-    "125": {
+    {
         "id": 125,
         "name": "gun-10000125",
         "en_name": "MG4",
@@ -6959,7 +6959,7 @@
         "gun_detail_bg": "nation_German",
         "org_id": 10402
     },
-    "126": {
+    {
         "id": 126,
         "name": "gun-10000126",
         "en_name": "NZ75",
@@ -7017,7 +7017,7 @@
         "gun_detail_bg": "nation_China",
         "org_id": 10402
     },
-    "127": {
+    {
         "id": 127,
         "name": "gun-10000127",
         "en_name": "Type 79",
@@ -7075,7 +7075,7 @@
         "gun_detail_bg": "nation_China",
         "org_id": 10203
     },
-    "128": {
+    {
         "id": 128,
         "name": "gun-10000128",
         "en_name": "M99",
@@ -7133,7 +7133,7 @@
         "gun_detail_bg": "nation_China",
         "org_id": 10203
     },
-    "129": {
+    {
         "id": 129,
         "name": "gun-10000129",
         "en_name": "Type 95",
@@ -7191,7 +7191,7 @@
         "gun_detail_bg": "nation_China",
         "org_id": 10203
     },
-    "130": {
+    {
         "id": 130,
         "name": "gun-10000130",
         "en_name": "Type 97",
@@ -7249,7 +7249,7 @@
         "gun_detail_bg": "nation_China",
         "org_id": 10203
     },
-    "131": {
+    {
         "id": 131,
         "name": "gun-10000131",
         "en_name": "EVO 3",
@@ -7307,7 +7307,7 @@
         "gun_detail_bg": "",
         "org_id": 10303
     },
-    "132": {
+    {
         "id": 132,
         "name": "gun-10000132",
         "en_name": "Type 59",
@@ -7365,7 +7365,7 @@
         "gun_detail_bg": "nation_China",
         "org_id": 10704
     },
-    "133": {
+    {
         "id": 133,
         "name": "gun-10000133",
         "en_name": "Type 63",
@@ -7423,7 +7423,7 @@
         "gun_detail_bg": "nation_China",
         "org_id": 10704
     },
-    "134": {
+    {
         "id": 134,
         "name": "gun-10000134",
         "en_name": "AR70",
@@ -7481,7 +7481,7 @@
         "gun_detail_bg": "nation_Italy",
         "org_id": 10302
     },
-    "135": {
+    {
         "id": 135,
         "name": "gun-10000135",
         "en_name": "SR-3MP",
@@ -7539,7 +7539,7 @@
         "gun_detail_bg": "nation_Russia",
         "org_id": 10202
     },
-    "136": {
+    {
         "id": 136,
         "name": "gun-10000136",
         "en_name": "PP-19",
@@ -7597,7 +7597,7 @@
         "gun_detail_bg": "nation_Russia",
         "org_id": 10203
     },
-    "137": {
+    {
         "id": 137,
         "name": "gun-10000137",
         "en_name": "PP1901",
@@ -7655,7 +7655,7 @@
         "gun_detail_bg": "nation_Russia",
         "org_id": 10802
     },
-    "138": {
+    {
         "id": 138,
         "name": "gun-10000138",
         "en_name": "6P62",
@@ -7713,7 +7713,7 @@
         "gun_detail_bg": "nation_Russia",
         "org_id": 10102
     },
-    "139": {
+    {
         "id": 139,
         "name": "gun-10000139",
         "en_name": "Bren Ten",
@@ -7771,7 +7771,7 @@
         "gun_detail_bg": "nation_US",
         "org_id": 10704
     },
-    "140": {
+    {
         "id": 140,
         "name": "gun-10000140",
         "en_name": "PSM",
@@ -7829,7 +7829,7 @@
         "gun_detail_bg": "nation_Russia",
         "org_id": 10704
     },
-    "141": {
+    {
         "id": 141,
         "name": "gun-10000141",
         "en_name": "USP Compact",
@@ -7887,7 +7887,7 @@
         "gun_detail_bg": "nation_German",
         "org_id": 10704
     },
-    "142": {
+    {
         "id": 142,
         "name": "gun-10000142",
         "en_name": "Five-seveN",
@@ -7945,7 +7945,7 @@
         "gun_detail_bg": "nation_Belgium",
         "org_id": 10202
     },
-    "143": {
+    {
         "id": 143,
         "name": "gun-10000143",
         "en_name": "RO635",
@@ -8003,7 +8003,7 @@
         "gun_detail_bg": "team_ar",
         "org_id": 10601
     },
-    "144": {
+    {
         "id": 144,
         "name": "gun-10000144",
         "en_name": "MT-9",
@@ -8061,7 +8061,7 @@
         "gun_detail_bg": "",
         "org_id": 10303
     },
-    "145": {
+    {
         "id": 145,
         "name": "gun-10000145",
         "en_name": "OTs-44",
@@ -8119,7 +8119,7 @@
         "gun_detail_bg": "nation_Russia",
         "org_id": 10703
     },
-    "146": {
+    {
         "id": 146,
         "name": "gun-10000146",
         "en_name": "G28",
@@ -8177,7 +8177,7 @@
         "gun_detail_bg": "nation_German",
         "org_id": 10701
     },
-    "147": {
+    {
         "id": 147,
         "name": "gun-10000147",
         "en_name": "SSG 69",
@@ -8235,7 +8235,7 @@
         "gun_detail_bg": "",
         "org_id": 10803
     },
-    "148": {
+    {
         "id": 148,
         "name": "gun-10000148",
         "en_name": "IWS 2000",
@@ -8293,7 +8293,7 @@
         "gun_detail_bg": "",
         "org_id": 10203
     },
-    "149": {
+    {
         "id": 149,
         "name": "gun-10000149",
         "en_name": "AEK-999",
@@ -8351,7 +8351,7 @@
         "gun_detail_bg": "nation_Russia",
         "org_id": 10202
     },
-    "150": {
+    {
         "id": 150,
         "name": "gun-10000150",
         "en_name": "Shipka",
@@ -8409,7 +8409,7 @@
         "gun_detail_bg": "",
         "org_id": 10302
     },
-    "151": {
+    {
         "id": 151,
         "name": "gun-10000151",
         "en_name": "M1887",
@@ -8467,7 +8467,7 @@
         "gun_detail_bg": "nation_US",
         "org_id": 10202
     },
-    "152": {
+    {
         "id": 152,
         "name": "gun-10000152",
         "en_name": "M1897",
@@ -8525,7 +8525,7 @@
         "gun_detail_bg": "nation_US",
         "org_id": 10303
     },
-    "153": {
+    {
         "id": 153,
         "name": "gun-10000153",
         "en_name": "M37",
@@ -8583,7 +8583,7 @@
         "gun_detail_bg": "nation_US",
         "org_id": 10702
     },
-    "154": {
+    {
         "id": 154,
         "name": "gun-10000154",
         "en_name": "M500",
@@ -8641,7 +8641,7 @@
         "gun_detail_bg": "nation_US",
         "org_id": 10802
     },
-    "155": {
+    {
         "id": 155,
         "name": "gun-10000155",
         "en_name": "M590",
@@ -8699,7 +8699,7 @@
         "gun_detail_bg": "nation_US",
         "org_id": 10402
     },
-    "156": {
+    {
         "id": 156,
         "name": "gun-10000156",
         "en_name": "Super-Shorty",
@@ -8757,7 +8757,7 @@
         "gun_detail_bg": "nation_US",
         "org_id": 10203
     },
-    "157": {
+    {
         "id": 157,
         "name": "gun-10000157",
         "en_name": "KSG",
@@ -8815,7 +8815,7 @@
         "gun_detail_bg": "nation_US",
         "org_id": 10202
     },
-    "158": {
+    {
         "id": 158,
         "name": "gun-10000158",
         "en_name": "KS-23",
@@ -8873,7 +8873,7 @@
         "gun_detail_bg": "nation_Russia",
         "org_id": 10402
     },
-    "159": {
+    {
         "id": 159,
         "name": "gun-10000159",
         "en_name": "RMB-93",
@@ -8931,7 +8931,7 @@
         "gun_detail_bg": "nation_Russia",
         "org_id": 10704
     },
-    "160": {
+    {
         "id": 160,
         "name": "gun-10000160",
         "en_name": "Saiga-12",
@@ -8989,7 +8989,7 @@
         "gun_detail_bg": "nation_Russia",
         "org_id": 10802
     },
-    "161": {
+    {
         "id": 161,
         "name": "gun-10000161",
         "en_name": "Type 97 S",
@@ -9047,7 +9047,7 @@
         "gun_detail_bg": "nation_China",
         "org_id": 10302
     },
-    "162": {
+    {
         "id": 162,
         "name": "gun-10000162",
         "en_name": "SPAS-12",
@@ -9105,7 +9105,7 @@
         "gun_detail_bg": "nation_Italy",
         "org_id": 10402
     },
-    "163": {
+    {
         "id": 163,
         "name": "gun-10000163",
         "en_name": "AA-12",
@@ -9163,7 +9163,7 @@
         "gun_detail_bg": "nation_US",
         "org_id": 10402
     },
-    "164": {
+    {
         "id": 164,
         "name": "gun-10000164",
         "en_name": "FP-6",
@@ -9221,7 +9221,7 @@
         "gun_detail_bg": "nation_Italy",
         "org_id": 10202
     },
-    "165": {
+    {
         "id": 165,
         "name": "gun-10000165",
         "en_name": "M1014",
@@ -9279,7 +9279,7 @@
         "gun_detail_bg": "nation_Italy",
         "org_id": 10704
     },
-    "166": {
+    {
         "id": 166,
         "name": "gun-10000166",
         "en_name": "CZ75",
@@ -9337,7 +9337,7 @@
         "gun_detail_bg": "",
         "org_id": 10401
     },
-    "167": {
+    {
         "id": 167,
         "name": "gun-10000167",
         "en_name": "HK45",
@@ -9395,7 +9395,7 @@
         "gun_detail_bg": "nation_German",
         "org_id": 10803
     },
-    "168": {
+    {
         "id": 168,
         "name": "gun-10000168",
         "en_name": "Spitfire",
@@ -9453,7 +9453,7 @@
         "gun_detail_bg": "",
         "org_id": 10401
     },
-    "169": {
+    {
         "id": 169,
         "name": "gun-10000169",
         "en_name": "Colt SCW",
@@ -9511,7 +9511,7 @@
         "gun_detail_bg": "nation_US",
         "org_id": 10703
     },
-    "170": {
+    {
         "id": 170,
         "name": "gun-10000170",
         "en_name": "ASh-12.7",
@@ -9569,7 +9569,7 @@
         "gun_detail_bg": "nation_Russia",
         "org_id": 10402
     },
-    "171": {
+    {
         "id": 171,
         "name": "gun-10000171",
         "en_name": "Ribeyrolles1918",
@@ -9627,7 +9627,7 @@
         "gun_detail_bg": "",
         "org_id": 10702
     },
-    "172": {
+    {
         "id": 172,
         "name": "gun-10000172",
         "en_name": "RFB",
@@ -9685,7 +9685,7 @@
         "gun_detail_bg": "nation_US",
         "org_id": 10802
     },
-    "173": {
+    {
         "id": 173,
         "name": "gun-10000173",
         "en_name": "Pecheneg",
@@ -9743,7 +9743,7 @@
         "gun_detail_bg": "nation_Russia",
         "org_id": 10402
     },
-    "174": {
+    {
         "id": 174,
         "name": "gun-10000174",
         "en_name": "type 81 R",
@@ -9801,7 +9801,7 @@
         "gun_detail_bg": "nation_China",
         "org_id": 10701
     },
-    "175": {
+    {
         "id": 175,
         "name": "gun-10000175",
         "en_name": "ART556",
@@ -9859,7 +9859,7 @@
         "gun_detail_bg": "",
         "org_id": 10203
     },
-    "176": {
+    {
         "id": 176,
         "name": "gun-10000176",
         "en_name": "TMP",
@@ -9917,7 +9917,7 @@
         "gun_detail_bg": "",
         "org_id": 10202
     },
-    "177": {
+    {
         "id": 177,
         "name": "gun-10000177",
         "en_name": "KLIN",
@@ -9975,7 +9975,7 @@
         "gun_detail_bg": "nation_Russia",
         "org_id": 10704
     },
-    "178": {
+    {
         "id": 178,
         "name": "gun-10000178",
         "en_name": "F1",
@@ -10033,7 +10033,7 @@
         "gun_detail_bg": "",
         "org_id": 10802
     },
-    "179": {
+    {
         "id": 179,
         "name": "gun-10000179",
         "en_name": "DSR-50",
@@ -10091,7 +10091,7 @@
         "gun_detail_bg": "nation_German",
         "org_id": 10701
     },
-    "180": {
+    {
         "id": 180,
         "name": "gun-10000180",
         "en_name": "PzB39",
@@ -10149,7 +10149,7 @@
         "gun_detail_bg": "nation_German",
         "org_id": 10402
     },
-    "181": {
+    {
         "id": 181,
         "name": "gun-10000181",
         "en_name": "T91",
@@ -10207,7 +10207,7 @@
         "gun_detail_bg": "nation_China",
         "org_id": 10203
     },
-    "182": {
+    {
         "id": 182,
         "name": "gun-10000182",
         "en_name": "wz.29",
@@ -10265,7 +10265,7 @@
         "gun_detail_bg": "",
         "org_id": 10704
     },
-    "183": {
+    {
         "id": 183,
         "name": "gun-10000183",
         "en_name": "Contender",
@@ -10323,7 +10323,7 @@
         "gun_detail_bg": "nation_US",
         "org_id": 10203
     },
-    "184": {
+    {
         "id": 184,
         "name": "gun-10000184",
         "en_name": "T-5000",
@@ -10381,7 +10381,7 @@
         "gun_detail_bg": "nation_Russia",
         "org_id": 10302
     },
-    "185": {
+    {
         "id": 185,
         "name": "gun-10000185",
         "en_name": "Ameli",
@@ -10439,7 +10439,7 @@
         "gun_detail_bg": "",
         "org_id": 10704
     },
-    "186": {
+    {
         "id": 186,
         "name": "gun-10000186",
         "en_name": "P226",
@@ -10497,7 +10497,7 @@
         "gun_detail_bg": "nation_German",
         "org_id": 10703
     },
-    "187": {
+    {
         "id": 187,
         "name": "gun-10000187",
         "en_name": "Ak5",
@@ -10555,7 +10555,7 @@
         "gun_detail_bg": "",
         "org_id": 10303
     },
-    "188": {
+    {
         "id": 188,
         "name": "gun-10000188",
         "en_name": "SAT8",
@@ -10613,7 +10613,7 @@
         "gun_detail_bg": "nation_Italy",
         "org_id": 10705
     },
-    "189": {
+    {
         "id": 189,
         "name": "gun-10000189",
         "en_name": "USAS12",
@@ -10671,7 +10671,7 @@
         "gun_detail_bg": "",
         "org_id": 10704
     },
-    "190": {
+    {
         "id": 190,
         "name": "gun-10000190",
         "en_name": "NS2000",
@@ -10729,7 +10729,7 @@
         "gun_detail_bg": "",
         "org_id": 10704
     },
-    "191": {
+    {
         "id": 191,
         "name": "gun-10000191",
         "en_name": "M12",
@@ -10787,7 +10787,7 @@
         "gun_detail_bg": "nation_Italy",
         "org_id": 10704
     },
-    "192": {
+    {
         "id": 192,
         "name": "gun-10000192",
         "en_name": "JS05",
@@ -10845,7 +10845,7 @@
         "gun_detail_bg": "nation_China",
         "org_id": 10403
     },
-    "193": {
+    {
         "id": 193,
         "name": "gun-10000193",
         "en_name": "T65",
@@ -10903,7 +10903,7 @@
         "gun_detail_bg": "nation_China",
         "org_id": 10704
     },
-    "194": {
+    {
         "id": 194,
         "name": "gun-10000194",
         "en_name": "K2",
@@ -10961,7 +10961,7 @@
         "gun_detail_bg": "",
         "org_id": 10202
     },
-    "195": {
+    {
         "id": 195,
         "name": "gun-10000195",
         "en_name": "HK23",
@@ -11019,7 +11019,7 @@
         "gun_detail_bg": "nation_German",
         "org_id": 10704
     },
-    "196": {
+    {
         "id": 196,
         "name": "gun-10000196",
         "en_name": "Zastava M21",
@@ -11077,7 +11077,7 @@
         "gun_detail_bg": "",
         "org_id": 10802
     },
-    "197": {
+    {
         "id": 197,
         "name": "gun-10000197",
         "en_name": "Carcano M1891",
@@ -11135,7 +11135,7 @@
         "gun_detail_bg": "nation_Italy",
         "org_id": 10203
     },
-    "198": {
+    {
         "id": 198,
         "name": "gun-10000198",
         "en_name": "Carcano M91/38",
@@ -11193,7 +11193,7 @@
         "gun_detail_bg": "nation_Italy",
         "org_id": 10203
     },
-    "199": {
+    {
         "id": 199,
         "name": "gun-10000199",
         "en_name": "80type",
@@ -11251,7 +11251,7 @@
         "gun_detail_bg": "nation_China",
         "org_id": 10704
     },
-    "200": {
+    {
         "id": 200,
         "name": "gun-10000200",
         "en_name": "XM3",
@@ -11309,7 +11309,7 @@
         "gun_detail_bg": "nation_US",
         "org_id": 10302
     },
-    "201": {
+    {
         "id": 201,
         "name": "gun-10000201",
         "en_name": "Gepard M1",
@@ -11367,7 +11367,7 @@
         "gun_detail_bg": "",
         "org_id": 10701
     },
-    "202": {
+    {
         "id": 202,
         "name": "gun-10000202",
         "en_name": "Thunder.50",
@@ -11425,7 +11425,7 @@
         "gun_detail_bg": "nation_US",
         "org_id": 10202
     },
-    "203": {
+    {
         "id": 203,
         "name": "gun-10000203",
         "en_name": "PDW",
@@ -11483,7 +11483,7 @@
         "gun_detail_bg": "nation_US",
         "org_id": 10703
     },
-    "204": {
+    {
         "id": 204,
         "name": "gun-10000204",
         "en_name": "Ballista",
@@ -11541,7 +11541,7 @@
         "gun_detail_bg": "nation_Belgium",
         "org_id": 10202
     },
-    "205": {
+    {
         "id": 205,
         "name": "gun-10000205",
         "en_name": "AN94",
@@ -11599,7 +11599,7 @@
         "gun_detail_bg": "team_defy",
         "org_id": 10104
     },
-    "206": {
+    {
         "id": 206,
         "name": "gun-10000206",
         "en_name": "AK12",
@@ -11657,7 +11657,7 @@
         "gun_detail_bg": "team_defy",
         "org_id": 10104
     },
-    "207": {
+    {
         "id": 207,
         "name": "gun-10000207",
         "en_name": "CZ2000",
@@ -11715,7 +11715,7 @@
         "gun_detail_bg": "",
         "org_id": 10703
     },
-    "208": {
+    {
         "id": 208,
         "name": "gun-10000208",
         "en_name": "HK21",
@@ -11773,7 +11773,7 @@
         "gun_detail_bg": "nation_German",
         "org_id": 10501
     },
-    "209": {
+    {
         "id": 209,
         "name": "gun-10000209",
         "en_name": "OTs-39",
@@ -11831,7 +11831,7 @@
         "gun_detail_bg": "nation_Russia",
         "org_id": 10704
     },
-    "210": {
+    {
         "id": 210,
         "name": "gun-10000210",
         "en_name": "CZ52",
@@ -11889,7 +11889,7 @@
         "gun_detail_bg": "",
         "org_id": 10402
     },
-    "211": {
+    {
         "id": 211,
         "name": "gun-10000211",
         "en_name": "DTASRS",
@@ -11947,7 +11947,7 @@
         "gun_detail_bg": "nation_US",
         "org_id": 10303
     },
-    "212": {
+    {
         "id": 212,
         "name": "gun-10000212",
         "en_name": "K5",
@@ -12005,7 +12005,7 @@
         "gun_detail_bg": "",
         "org_id": 10802
     },
-    "213": {
+    {
         "id": 213,
         "name": "gun-10000213",
         "en_name": "C-MS",
@@ -12063,7 +12063,7 @@
         "gun_detail_bg": "",
         "org_id": 10203
     },
-    "214": {
+    {
         "id": 214,
         "name": "gun-10000214",
         "en_name": "ADS",
@@ -12121,7 +12121,7 @@
         "gun_detail_bg": "nation_Russia",
         "org_id": 10802
     },
-    "215": {
+    {
         "id": 215,
         "name": "gun-10000215",
         "en_name": "MDR",
@@ -12179,7 +12179,7 @@
         "gun_detail_bg": "nation_US",
         "org_id": 10802
     },
-    "216": {
+    {
         "id": 216,
         "name": "gun-10000216",
         "en_name": "XM8",
@@ -12237,7 +12237,7 @@
         "gun_detail_bg": "nation_German",
         "org_id": 10802
     },
-    "217": {
+    {
         "id": 217,
         "name": "gun-10000217",
         "en_name": "SM-1",
@@ -12295,7 +12295,7 @@
         "gun_detail_bg": "",
         "org_id": 10303
     },
-    "218": {
+    {
         "id": 218,
         "name": "gun-10000218",
         "en_name": "T77",
@@ -12353,7 +12353,7 @@
         "gun_detail_bg": "nation_China",
         "org_id": 10703
     },
-    "220": {
+    {
         "id": 220,
         "name": "gun-10000220",
         "en_name": "MP-443",
@@ -12411,7 +12411,7 @@
         "gun_detail_bg": "nation_Russia",
         "org_id": 10802
     },
-    "221": {
+    {
         "id": 221,
         "name": "gun-10000221",
         "en_name": "GSh-18",
@@ -12469,7 +12469,7 @@
         "gun_detail_bg": "nation_Russia",
         "org_id": 10802
     },
-    "222": {
+    {
         "id": 222,
         "name": "gun-10000222",
         "en_name": "TAC-50",
@@ -12527,7 +12527,7 @@
         "gun_detail_bg": "nation_US",
         "org_id": 10802
     },
-    "223": {
+    {
         "id": 223,
         "name": "gun-10000223",
         "en_name": "Model L",
@@ -12585,7 +12585,7 @@
         "gun_detail_bg": "",
         "org_id": 10301
     },
-    "224": {
+    {
         "id": 224,
         "name": "gun-10000224",
         "en_name": "PM-06",
@@ -12643,7 +12643,7 @@
         "gun_detail_bg": "",
         "org_id": 10403
     },
-    "225": {
+    {
         "id": 225,
         "name": "gun-10000225",
         "en_name": "Cx4 Storm",
@@ -12701,7 +12701,7 @@
         "gun_detail_bg": "nation_Italy",
         "org_id": 10301
     },
-    "226": {
+    {
         "id": 226,
         "name": "gun-10000226",
         "en_name": "Mk.12 Mod 01",
@@ -12759,7 +12759,7 @@
         "gun_detail_bg": "nation_US",
         "org_id": 10301
     },
-    "227": {
+    {
         "id": 227,
         "name": "gun-10000227",
         "en_name": "A-91",
@@ -12817,7 +12817,7 @@
         "gun_detail_bg": "nation_Russia",
         "org_id": 10802
     },
-    "228": {
+    {
         "id": 228,
         "name": "gun-10000228",
         "en_name": "Sakura",
@@ -12875,7 +12875,7 @@
         "gun_detail_bg": "",
         "org_id": 10203
     },
-    "229": {
+    {
         "id": 229,
         "name": "gun-10000229",
         "en_name": "M870P",
@@ -12933,7 +12933,7 @@
         "gun_detail_bg": "nation_US",
         "org_id": 10402
     },
-    "230": {
+    {
         "id": 230,
         "name": "gun-10000230",
         "en_name": "OBR",
@@ -12991,7 +12991,7 @@
         "gun_detail_bg": "nation_US",
         "org_id": 10704
     },
-    "231": {
+    {
         "id": 231,
         "name": "gun-10000231",
         "en_name": "M82A1",
@@ -13049,7 +13049,7 @@
         "gun_detail_bg": "nation_US",
         "org_id": 10402
     },
-    "232": {
+    {
         "id": 232,
         "name": "gun-10000232",
         "en_name": "MP-448",
@@ -13107,7 +13107,7 @@
         "gun_detail_bg": "nation_Russia",
         "org_id": 10301
     },
-    "233": {
+    {
         "id": 233,
         "name": "gun-10000233",
         "en_name": "Px4 Storm",
@@ -13165,7 +13165,7 @@
         "gun_detail_bg": "nation_Italy",
         "org_id": 10203
     },
-    "234": {
+    {
         "id": 234,
         "name": "gun-10000234",
         "en_name": "JS 9 mm",
@@ -13223,7 +13223,7 @@
         "gun_detail_bg": "nation_China",
         "org_id": 10203
     },
-    "235": {
+    {
         "id": 235,
         "name": "gun-10000235",
         "en_name": "SPR A3G",
@@ -13281,7 +13281,7 @@
         "gun_detail_bg": "nation_Belgium",
         "org_id": 10704
     },
-    "236": {
+    {
         "id": 236,
         "name": "gun-10000236",
         "en_name": "K11",
@@ -13339,7 +13339,7 @@
         "gun_detail_bg": "",
         "org_id": 10402
     },
-    "237": {
+    {
         "id": 237,
         "name": "gun-10000237",
         "en_name": "SAR-21",
@@ -13397,7 +13397,7 @@
         "gun_detail_bg": "",
         "org_id": 10802
     },
-    "238": {
+    {
         "id": 238,
         "name": "gun-10000238",
         "en_name": "Type88",
@@ -13455,7 +13455,7 @@
         "gun_detail_bg": "nation_China",
         "org_id": 10802
     },
-    "239": {
+    {
         "id": 239,
         "name": "gun-10000239",
         "en_name": "Type03",
@@ -13513,7 +13513,7 @@
         "gun_detail_bg": "nation_China",
         "org_id": 10704
     },
-    "240": {
+    {
         "id": 240,
         "name": "gun-10000240",
         "en_name": "Mk46",
@@ -13571,7 +13571,7 @@
         "gun_detail_bg": "nation_US",
         "org_id": 10402
     },
-    "241": {
+    {
         "id": 241,
         "name": "gun-10000241",
         "en_name": "RT-20",
@@ -13629,7 +13629,7 @@
         "gun_detail_bg": "",
         "org_id": 10802
     },
-    "242": {
+    {
         "id": 242,
         "name": "gun-10000242",
         "en_name": "P22",
@@ -13687,7 +13687,7 @@
         "gun_detail_bg": "nation_German",
         "org_id": 10203
     },
-    "243": {
+    {
         "id": 243,
         "name": "gun-10000243",
         "en_name": "Type64",
@@ -13745,7 +13745,7 @@
         "gun_detail_bg": "",
         "org_id": 10403
     },
-    "244": {
+    {
         "id": 244,
         "name": "gun-10000244",
         "en_name": "TEC-9",
@@ -13803,7 +13803,7 @@
         "gun_detail_bg": "nation_US",
         "org_id": 10704
     },
-    "245": {
+    {
         "id": 245,
         "name": "gun-10000245",
         "en_name": "P90",
@@ -13861,7 +13861,7 @@
         "gun_detail_bg": "nation_Belgium",
         "org_id": 10802
     },
-    "247": {
+    {
         "id": 247,
         "name": "gun-10000247",
         "en_name": "K31",
@@ -13919,7 +13919,7 @@
         "gun_detail_bg": "",
         "org_id": 10303
     },
-    "248": {
+    {
         "id": 248,
         "name": "gun-10000248",
         "en_name": "Jericho",
@@ -13977,7 +13977,7 @@
         "gun_detail_bg": "",
         "org_id": 10202
     },
-    "249": {
+    {
         "id": 249,
         "name": "gun-10000249",
         "en_name": "Type62",
@@ -14035,7 +14035,7 @@
         "gun_detail_bg": "",
         "org_id": 10802
     },
-    "250": {
+    {
         "id": 250,
         "name": "gun-10000250",
         "en_name": "HS2000",
@@ -14093,7 +14093,7 @@
         "gun_detail_bg": "",
         "org_id": 10203
     },
-    "251": {
+    {
         "id": 251,
         "name": "gun-10000251",
         "en_name": "X95",
@@ -14151,7 +14151,7 @@
         "gun_detail_bg": "",
         "org_id": 10203
     },
-    "252": {
+    {
         "id": 252,
         "name": "gun-10000252",
         "en_name": "KSVK",
@@ -14209,7 +14209,7 @@
         "gun_detail_bg": "nation_Russia",
         "org_id": 10802
     },
-    "253": {
+    {
         "id": 253,
         "name": "gun-10000253",
         "en_name": "Lewis",
@@ -14267,7 +14267,7 @@
         "gun_detail_bg": "nation_US",
         "org_id": 10801
     },
-    "254": {
+    {
         "id": 254,
         "name": "gun-10000254",
         "en_name": "UKM-2000",
@@ -14325,7 +14325,7 @@
         "gun_detail_bg": "",
         "org_id": 10802
     },
-    "255": {
+    {
         "id": 255,
         "name": "gun-10000255",
         "en_name": "Scout",
@@ -14383,7 +14383,7 @@
         "gun_detail_bg": "",
         "org_id": 10703
     },
-    "256": {
+    {
         "id": 256,
         "name": "gun-10000256",
         "en_name": "Falcon",
@@ -14441,7 +14441,7 @@
         "gun_detail_bg": "",
         "org_id": 10703
     },
-    "257": {
+    {
         "id": 257,
         "name": "gun-10000257",
         "en_name": "M200",
@@ -14499,7 +14499,7 @@
         "gun_detail_bg": "nation_US",
         "org_id": 10203
     },
-    "258": {
+    {
         "id": 258,
         "name": "gun-10000258",
         "en_name": "Magal",
@@ -14557,7 +14557,7 @@
         "gun_detail_bg": "",
         "org_id": 10402
     },
-    "259": {
+    {
         "id": 259,
         "name": "gun-10000259",
         "en_name": "PM-9",
@@ -14615,7 +14615,7 @@
         "gun_detail_bg": "",
         "org_id": 10203
     },
-    "260": {
+    {
         "id": 260,
         "name": "gun-10000260",
         "en_name": "PA-15",
@@ -14673,7 +14673,7 @@
         "gun_detail_bg": "",
         "org_id": 10402
     },
-    "261": {
+    {
         "id": 261,
         "name": "gun-10000261",
         "en_name": "QBU-88",
@@ -14731,7 +14731,7 @@
         "gun_detail_bg": "nation_China",
         "org_id": 10203
     },
-    "262": {
+    {
         "id": 262,
         "name": "gun-10000262",
         "en_name": "EM-2",
@@ -14789,7 +14789,7 @@
         "gun_detail_bg": "",
         "org_id": 10303
     },
-    "263": {
+    {
         "id": 263,
         "name": "gun-10000263",
         "en_name": "MG36",
@@ -14847,7 +14847,7 @@
         "gun_detail_bg": "nation_German",
         "org_id": 10802
     },
-    "264": {
+    {
         "id": 264,
         "name": "gun-10000264",
         "en_name": "Chauchat",
@@ -14905,7 +14905,7 @@
         "gun_detail_bg": "",
         "org_id": 10403
     },
-    "265": {
+    {
         "id": 265,
         "name": "gun-10000265",
         "en_name": "HK33",
@@ -14963,7 +14963,7 @@
         "gun_detail_bg": "nation_German",
         "org_id": 10403
     },
-    "266": {
+    {
         "id": 266,
         "name": "gun-10000266",
         "en_name": "R93",
@@ -15021,7 +15021,7 @@
         "gun_detail_bg": "nation_German",
         "org_id": 10201
     },
-    "267": {
+    {
         "id": 267,
         "name": "gun-10000267",
         "en_name": "MP41",
@@ -15079,7 +15079,7 @@
         "gun_detail_bg": "nation_German",
         "org_id": 10704
     },
-    "268": {
+    {
         "id": 268,
         "name": "gun-10000268",
         "en_name": "T-CMS",
@@ -15137,7 +15137,7 @@
         "gun_detail_bg": "",
         "org_id": 10802
     },
-    "269": {
+    {
         "id": 269,
         "name": "gun-10000269",
         "en_name": "P30",
@@ -15195,7 +15195,7 @@
         "gun_detail_bg": "nation_German",
         "org_id": 10403
     },
-    "270": {
+    {
         "id": 270,
         "name": "gun-10000270",
         "en_name": "Type 4",
@@ -15253,7 +15253,7 @@
         "gun_detail_bg": "",
         "org_id": 10802
     },
-    "271": {
+    {
         "id": 271,
         "name": "gun-10000271",
         "en_name": "K3",
@@ -15311,7 +15311,7 @@
         "gun_detail_bg": "",
         "org_id": 10802
     },
-    "272": {
+    {
         "id": 272,
         "name": "gun-10000272",
         "en_name": "DesertEagle",
@@ -15369,7 +15369,7 @@
         "gun_detail_bg": "",
         "org_id": 10803
     },
-    "273": {
+    {
         "id": 273,
         "name": "gun-10000273",
         "en_name": "SSG3000",
@@ -15427,7 +15427,7 @@
         "gun_detail_bg": "nation_German",
         "org_id": 10402
     },
-    "274": {
+    {
         "id": 274,
         "name": "gun-10000274",
         "en_name": "ACR",
@@ -15485,7 +15485,7 @@
         "gun_detail_bg": "nation_US",
         "org_id": 10402
     },
-    "275": {
+    {
         "id": 275,
         "name": "gun-10000275",
         "en_name": "M1895",
@@ -15543,7 +15543,7 @@
         "gun_detail_bg": "nation_US",
         "org_id": 10403
     },
-    "276": {
+    {
         "id": 276,
         "name": "gun-10000276",
         "en_name": "Kord",
@@ -15601,7 +15601,7 @@
         "gun_detail_bg": "nation_Russia",
         "org_id": 10402
     },
-    "277": {
+    {
         "id": 277,
         "name": "gun-10000277",
         "en_name": "VP70",
@@ -15659,7 +15659,7 @@
         "gun_detail_bg": "nation_German",
         "org_id": 10702
     },
-    "278": {
+    {
         "id": 278,
         "name": "gun-10000278",
         "en_name": "Six12",
@@ -15717,7 +15717,7 @@
         "gun_detail_bg": "nation_US",
         "org_id": 10802
     },
-    "279": {
+    {
         "id": 279,
         "name": "gun-10000279",
         "en_name": "INSAS",
@@ -15775,7 +15775,7 @@
         "gun_detail_bg": "",
         "org_id": 10702
     },
-    "280": {
+    {
         "id": 280,
         "name": "gun-10000280",
         "en_name": "MAT-49",
@@ -15833,7 +15833,7 @@
         "gun_detail_bg": "",
         "org_id": 10302
     },
-    "281": {
+    {
         "id": 281,
         "name": "gun-10000281",
         "en_name": "CAWS",
@@ -15891,7 +15891,7 @@
         "gun_detail_bg": "nation_German",
         "org_id": 10203
     },
-    "282": {
+    {
         "id": 282,
         "name": "gun-10000282",
         "en_name": "DP-12",
@@ -15949,7 +15949,7 @@
         "gun_detail_bg": "nation_US",
         "org_id": 10802
     },
-    "283": {
+    {
         "id": 283,
         "name": "gun-10000283",
         "en_name": "Liberator",
@@ -16007,7 +16007,7 @@
         "gun_detail_bg": "nation_US",
         "org_id": 10403
     },
-    "284": {
+    {
         "id": 284,
         "name": "gun-10000284",
         "en_name": "Zas M76",
@@ -16065,7 +16065,7 @@
         "gun_detail_bg": "",
         "org_id": 10403
     },
-    "285": {
+    {
         "id": 285,
         "name": "gun-10000285",
         "en_name": "C-93",
@@ -16123,7 +16123,7 @@
         "gun_detail_bg": "nation_German",
         "org_id": 10802
     },
-    "286": {
+    {
         "id": 286,
         "name": "gun-10000286",
         "en_name": "K-PDW",
@@ -16181,7 +16181,7 @@
         "gun_detail_bg": "nation_US",
         "org_id": 10302
     },
-    "287": {
+    {
         "id": 287,
         "name": "gun-10000287",
         "en_name": "SIG556",
@@ -16239,7 +16239,7 @@
         "gun_detail_bg": "",
         "org_id": 10403
     },
-    "288": {
+    {
         "id": 288,
         "name": "gun-10000288",
         "en_name": "CR-21",
@@ -16297,7 +16297,7 @@
         "gun_detail_bg": "",
         "org_id": 10402
     },
-    "289": {
+    {
         "id": 289,
         "name": "gun-10000289",
         "en_name": "R5",
@@ -16355,7 +16355,7 @@
         "gun_detail_bg": "nation_US",
         "org_id": 10803
     },
-    "290": {
+    {
         "id": 290,
         "name": "gun-10000290",
         "en_name": "Type89",
@@ -16413,7 +16413,7 @@
         "gun_detail_bg": "",
         "org_id": 10403
     },
-    "291": {
+    {
         "id": 291,
         "name": "gun-10000291",
         "en_name": "Danuvia43M",
@@ -16471,7 +16471,7 @@
         "gun_detail_bg": "",
         "org_id": 10704
     },
-    "292": {
+    {
         "id": 292,
         "name": "gun-10000292",
         "en_name": "RPK-16",
@@ -16529,7 +16529,7 @@
         "gun_detail_bg": "team_defy",
         "org_id": 10104
     },
-    "293": {
+    {
         "id": 293,
         "name": "gun-10000293",
         "en_name": "AK-15",
@@ -16587,7 +16587,7 @@
         "gun_detail_bg": "team_defy",
         "org_id": 10104
     },
-    "294": {
+    {
         "id": 294,
         "name": "gun-10000294",
         "en_name": "Webley",
@@ -16645,7 +16645,7 @@
         "gun_detail_bg": "",
         "org_id": 10201
     },
-    "295": {
+    {
         "id": 295,
         "name": "gun-10000295",
         "en_name": "CF05",
@@ -16703,7 +16703,7 @@
         "gun_detail_bg": "nation_China",
         "org_id": 10802
     },
-    "296": {
+    {
         "id": 296,
         "name": "gun-10000296",
         "en_name": "SL8",
@@ -16761,7 +16761,7 @@
         "gun_detail_bg": "nation_German",
         "org_id": 10401
     },
-    "297": {
+    {
         "id": 297,
         "name": "gun-10000297",
         "en_name": "M82",
@@ -16819,7 +16819,7 @@
         "gun_detail_bg": "",
         "org_id": 10403
     },
-    "298": {
+    {
         "id": 298,
         "name": "gun-10000298",
         "en_name": "Vepr",
@@ -16877,7 +16877,7 @@
         "gun_detail_bg": "",
         "org_id": 10802
     },
-    "299": {
+    {
         "id": 299,
         "name": "gun-10000299",
         "en_name": "HSM10",
@@ -16935,7 +16935,7 @@
         "gun_detail_bg": "nation_US",
         "org_id": 10402
     },
-    "300": {
+    {
         "id": 300,
         "name": "gun-10000300",
         "en_name": "CAR",
@@ -16993,7 +16993,7 @@
         "gun_detail_bg": "",
         "org_id": 10702
     },
-    "301": {
+    {
         "id": 301,
         "name": "gun-10000301",
         "en_name": "MAS-38",
@@ -17051,7 +17051,7 @@
         "gun_detail_bg": "",
         "org_id": 10704
     },
-    "302": {
+    {
         "id": 302,
         "name": "gun-10000302",
         "en_name": "ColtDefender",
@@ -17109,7 +17109,7 @@
         "gun_detail_bg": "nation_US",
         "org_id": 10403
     },
-    "303": {
+    {
         "id": 303,
         "name": "gun-10000303",
         "en_name": "HP-35",
@@ -17167,7 +17167,7 @@
         "gun_detail_bg": "nation_US",
         "org_id": 10402
     },
-    "304": {
+    {
         "id": 304,
         "name": "gun-10000304",
         "en_name": "SAF",
@@ -17225,7 +17225,7 @@
         "gun_detail_bg": "",
         "org_id": 10402
     },
-    "305": {
+    {
         "id": 305,
         "name": "gun-10000305",
         "en_name": "Tabuk",
@@ -17283,7 +17283,7 @@
         "gun_detail_bg": "",
         "org_id": 10802
     },
-    "306": {
+    {
         "id": 306,
         "name": "gun-10000306",
         "en_name": "AK-Alfa",
@@ -17341,7 +17341,7 @@
         "gun_detail_bg": "nation_US",
         "org_id": 10402
     },
-    "307": {
+    {
         "id": 307,
         "name": "gun-10000307",
         "en_name": "ZB-26",
@@ -17399,7 +17399,7 @@
         "gun_detail_bg": "",
         "org_id": 10302
     },
-    "308": {
+    {
         "id": 308,
         "name": "gun-10000308",
         "en_name": "C14",
@@ -17457,7 +17457,7 @@
         "gun_detail_bg": "",
         "org_id": 10303
     },
-    "309": {
+    {
         "id": 309,
         "name": "gun-10000309",
         "en_name": "WKp",
@@ -17515,7 +17515,7 @@
         "gun_detail_bg": "nation_German",
         "org_id": 10303
     },
-    "310": {
+    {
         "id": 310,
         "name": "gun-10000310",
         "en_name": "Rex Zero 1",
@@ -17573,7 +17573,7 @@
         "gun_detail_bg": "",
         "org_id": 10703
     },
-    "311": {
+    {
         "id": 311,
         "name": "gun-10000311",
         "en_name": "Lusa",
@@ -17631,7 +17631,7 @@
         "gun_detail_bg": "",
         "org_id": 10802
     },
-    "312": {
+    {
         "id": 312,
         "name": "gun-10000312",
         "en_name": "VSK-94",
@@ -17689,7 +17689,7 @@
         "gun_detail_bg": "nation_Russia",
         "org_id": 10402
     },
-    "313": {
+    {
         "id": 313,
         "name": "gun-10000313",
         "en_name": "S-ACR",
@@ -17747,7 +17747,7 @@
         "gun_detail_bg": "",
         "org_id": 10202
     },
-    "314": {
+    {
         "id": 314,
         "name": "gun-10000314",
         "en_name": "StG-940",
@@ -17805,7 +17805,7 @@
         "gun_detail_bg": "nation_German",
         "org_id": 10702
     },
-    "315": {
+    {
         "id": 315,
         "name": "gun-10000315",
         "en_name": "AUG Para ",
@@ -17863,7 +17863,7 @@
         "gun_detail_bg": "",
         "org_id": 10303
     },
-    "316": {
+    {
         "id": 316,
         "name": "gun-10000316",
         "en_name": "GeneralLiu",
@@ -17921,7 +17921,7 @@
         "gun_detail_bg": "nation_China",
         "org_id": 10203
     },
-    "317": {
+    {
         "id": 317,
         "name": "gun-10000317",
         "en_name": "MondragonM1908",
@@ -17979,7 +17979,7 @@
         "gun_detail_bg": "",
         "org_id": 10202
     },
-    "318": {
+    {
         "id": 318,
         "name": "gun-10000318",
         "en_name": "VHS",
@@ -18037,7 +18037,7 @@
         "gun_detail_bg": "",
         "org_id": 10403
     },
-    "319": {
+    {
         "id": 319,
         "name": "gun-10000319",
         "en_name": "PM1910",
@@ -18095,7 +18095,7 @@
         "gun_detail_bg": "nation_Russia",
         "org_id": 10402
     },
-    "320": {
+    {
         "id": 320,
         "name": "gun-10000320",
         "en_name": "GM6 Lynx",
@@ -18153,7 +18153,7 @@
         "gun_detail_bg": "",
         "org_id": 10402
     },
-    "321": {
+    {
         "id": 321,
         "name": "gun-10000321",
         "en_name": "TS12",
@@ -18211,7 +18211,7 @@
         "gun_detail_bg": "",
         "org_id": 10202
     },
-    "322": {
+    {
         "id": 322,
         "name": "gun-10000322",
         "en_name": "QSB-91",
@@ -18269,7 +18269,7 @@
         "gun_detail_bg": "nation_China",
         "org_id": 10705
     },
-    "323": {
+    {
         "id": 323,
         "name": "gun-10000323",
         "en_name": "LTLX7000",
@@ -18327,7 +18327,7 @@
         "gun_detail_bg": "nation_Italy",
         "org_id": 10302
     },
-    "324": {
+    {
         "id": 324,
         "name": "gun-10000324",
         "en_name": "M6 ASW",
@@ -18385,7 +18385,7 @@
         "gun_detail_bg": "nation_US",
         "org_id": 10202
     },
-    "325": {
+    {
         "id": 325,
         "name": "gun-10000325",
         "en_name": "V-PM5",
@@ -18443,7 +18443,7 @@
         "gun_detail_bg": "nation_Italy",
         "org_id": 10701
     },
-    "326": {
+    {
         "id": 326,
         "name": "gun-10000326",
         "en_name": "HK512",
@@ -18501,7 +18501,7 @@
         "gun_detail_bg": "nation_German",
         "org_id": 10403
     },
-    "327": {
+    {
         "id": 327,
         "name": "gun-10000327",
         "en_name": "SUB-2000",
@@ -18559,7 +18559,7 @@
         "gun_detail_bg": "nation_US",
         "org_id": 10802
     },
-    "328": {
+    {
         "id": 328,
         "name": "gun-10000328",
         "en_name": "AR-57",
@@ -18617,7 +18617,7 @@
         "gun_detail_bg": "nation_US",
         "org_id": 10202
     },
-    "329": {
+    {
         "id": 329,
         "name": "gun-10000329",
         "en_name": "SVCh",
@@ -18675,7 +18675,7 @@
         "gun_detail_bg": "nation_Russia",
         "org_id": 10203
     },
-    "330": {
+    {
         "id": 330,
         "name": "gun-10000330",
         "en_name": "FX-05",
@@ -18733,7 +18733,7 @@
         "gun_detail_bg": "",
         "org_id": 10403
     },
-    "331": {
+    {
         "id": 331,
         "name": "gun-10000331",
         "en_name": "Kolibri",
@@ -18791,7 +18791,7 @@
         "gun_detail_bg": "",
         "org_id": 10401
     },
-    "332": {
+    {
         "id": 332,
         "name": "gun-10000332",
         "en_name": "Derringer",
@@ -18849,7 +18849,7 @@
         "gun_detail_bg": "nation_US",
         "org_id": 10704
     },
-    "333": {
+    {
         "id": 333,
         "name": "gun-10000333",
         "en_name": "VP1915",
@@ -18907,7 +18907,7 @@
         "gun_detail_bg": "nation_Italy",
         "org_id": 10201
     },
-    "334": {
+    {
         "id": 334,
         "name": "gun-10000334",
         "en_name": "Savage 99",
@@ -18965,7 +18965,7 @@
         "gun_detail_bg": "nation_US",
         "org_id": 10302
     },
-    "335": {
+    {
         "id": 335,
         "name": "gun-10000335",
         "en_name": "Fedorov",
@@ -19023,7 +19023,7 @@
         "gun_detail_bg": "nation_Russia",
         "org_id": 10202
     },
-    "336": {
+    {
         "id": 336,
         "name": "gun-10000336",
         "en_name": "PPD-40",
@@ -19081,7 +19081,7 @@
         "gun_detail_bg": "nation_Russia",
         "org_id": 10301
     },
-    "337": {
+    {
         "id": 337,
         "name": "gun-10000337",
         "en_name": "Delisle",
@@ -19139,7 +19139,7 @@
         "gun_detail_bg": "",
         "org_id": 10802
     },
-    "338": {
+    {
         "id": 338,
         "name": "gun-10000338",
         "en_name": "SIG MCX",
@@ -19197,7 +19197,7 @@
         "gun_detail_bg": "",
         "org_id": 10802
     },
-    "339": {
+    {
         "id": 339,
         "name": "gun-10000339",
         "en_name": "RPK-203",
@@ -19255,7 +19255,7 @@
         "gun_detail_bg": "nation_Russia",
         "org_id": 10203
     },
-    "340": {
+    {
         "id": 340,
         "name": "gun-10000340",
         "en_name": "TKB-408",
@@ -19313,7 +19313,7 @@
         "gun_detail_bg": "nation_Russia",
         "org_id": 10402
     },
-    "341": {
+    {
         "id": 341,
         "name": "gun-10000341",
         "en_name": "SP9",
@@ -19371,7 +19371,7 @@
         "gun_detail_bg": "",
         "org_id": 10202
     },
-    "342": {
+    {
         "id": 342,
         "name": "gun-10000342",
         "en_name": "KH2002",
@@ -19429,7 +19429,7 @@
         "gun_detail_bg": "",
         "org_id": 10201
     },
-    "343": {
+    {
         "id": 343,
         "name": "gun-10000343",
         "en_name": "APC556",
@@ -19487,7 +19487,7 @@
         "gun_detail_bg": "",
         "org_id": 10402
     },
-    "344": {
+    {
         "id": 344,
         "name": "gun-10000344",
         "en_name": "FARA 83",
@@ -19545,7 +19545,7 @@
         "gun_detail_bg": "",
         "org_id": 10403
     },
-    "345": {
+    {
         "id": 345,
         "name": "gun-10000345",
         "en_name": "MG338",
@@ -19603,7 +19603,7 @@
         "gun_detail_bg": "",
         "org_id": 10202
     },
-    "346": {
+    {
         "id": 346,
         "name": "gun-10000346",
         "en_name": "CZ 100",
@@ -19661,7 +19661,7 @@
         "gun_detail_bg": "",
         "org_id": 10303
     },
-    "347": {
+    {
         "id": 347,
         "name": "gun-10000347",
         "en_name": "SR-2",
@@ -19719,7 +19719,7 @@
         "gun_detail_bg": "nation_Russia",
         "org_id": 10202
     },
-    "348": {
+    {
         "id": 348,
         "name": "gun-10000348",
         "en_name": "HS.50",
@@ -19777,7 +19777,7 @@
         "gun_detail_bg": "",
         "org_id": 10402
     },
-    "349": {
+    {
         "id": 349,
         "name": "gun-10000349",
         "en_name": "AK74M",
@@ -19835,7 +19835,7 @@
         "gun_detail_bg": "nation_Russia",
         "org_id": 10402
     },
-    "350": {
+    {
         "id": 350,
         "name": "gun-10000350",
         "en_name": "FO-12",
@@ -19893,7 +19893,7 @@
         "gun_detail_bg": "nation_US",
         "org_id": 10402
     },
-    "351": {
+    {
         "id": 351,
         "name": "gun-10000351",
         "en_name": "M26-MASS",
@@ -19951,7 +19951,7 @@
         "gun_detail_bg": "nation_US",
         "org_id": 10705
     },
-    "352": {
+    {
         "id": 352,
         "name": "gun-10000352",
         "en_name": "Nova",
@@ -20009,7 +20009,7 @@
         "gun_detail_bg": "nation_Italy",
         "org_id": 10403
     },
-    "353": {
+    {
         "id": 353,
         "name": "gun-10000353",
         "en_name": "MAG-7",
@@ -20067,7 +20067,7 @@
         "gun_detail_bg": "",
         "org_id": 10802
     },
-    "354": {
+    {
         "id": 354,
         "name": "gun-10000354",
         "en_name": "ZiP .22",
@@ -20125,7 +20125,7 @@
         "gun_detail_bg": "nation_US",
         "org_id": 10302
     },
-    "355": {
+    {
         "id": 355,
         "name": "gun-10000355",
         "en_name": "VigneronM2",
@@ -20183,7 +20183,7 @@
         "gun_detail_bg": "nation_Belgium",
         "org_id": 10704
     },
-    "356": {
+    {
         "id": 356,
         "name": "gun-10000356",
         "en_name": "A-545",
@@ -20241,7 +20241,7 @@
         "gun_detail_bg": "nation_Russia",
         "org_id": 10202
     },
-    "357": {
+    {
         "id": 357,
         "name": "gun-10000357",
         "en_name": "Rhino",
@@ -20299,7 +20299,7 @@
         "gun_detail_bg": "nation_Italy",
         "org_id": 10203
     },
-    "358": {
+    {
         "id": 358,
         "name": "gun-10000358",
         "en_name": "PPQ",
@@ -20357,7 +20357,7 @@
         "gun_detail_bg": "nation_German",
         "org_id": 10202
     },
-    "359": {
+    {
         "id": 359,
         "name": "gun-10000359",
         "en_name": "Sterling",
@@ -20415,7 +20415,7 @@
         "gun_detail_bg": "",
         "org_id": 10402
     },
-    "360": {
+    {
         "id": 360,
         "name": "gun-10000360",
         "en_name": "TF-Q",
@@ -20473,7 +20473,7 @@
         "gun_detail_bg": "nation_US",
         "org_id": 10802
     },
-    "361": {
+    {
         "id": 361,
         "name": "gun-10000361",
         "en_name": "QBZ-191",
@@ -20531,7 +20531,7 @@
         "gun_detail_bg": "nation_China",
         "org_id": 10402
     },
-    "362": {
+    {
         "id": 362,
         "name": "gun-10000362",
         "en_name": "LS26",
@@ -20589,7 +20589,7 @@
         "gun_detail_bg": "",
         "org_id": 10403
     },
-    "363": {
+    {
         "id": 363,
         "name": "gun-10000363",
         "en_name": "MPL",
@@ -20647,7 +20647,7 @@
         "gun_detail_bg": "nation_German",
         "org_id": 10301
     },
-    "364": {
+    {
         "id": 364,
         "name": "gun-10000364",
         "en_name": "MPK",
@@ -20705,7 +20705,7 @@
         "gun_detail_bg": "nation_German",
         "org_id": 10302
     },
-    "365": {
+    {
         "id": 365,
         "name": "gun-10000365",
         "en_name": "SCR",
@@ -20763,7 +20763,7 @@
         "gun_detail_bg": "nation_US",
         "org_id": 10704
     },
-    "1001": {
+    {
         "id": 1001,
         "name": "gun-10001001",
         "en_name": "Noel",
@@ -20821,7 +20821,7 @@
         "gun_detail_bg": "collab",
         "org_id": 0
     },
-    "1002": {
+    {
         "id": 1002,
         "name": "gun-10001002",
         "en_name": "Elphelt",
@@ -20879,7 +20879,7 @@
         "gun_detail_bg": "collab",
         "org_id": 0
     },
-    "1003": {
+    {
         "id": 1003,
         "name": "gun-10001003",
         "en_name": "Kiana",
@@ -20937,7 +20937,7 @@
         "gun_detail_bg": "collab",
         "org_id": 0
     },
-    "1004": {
+    {
         "id": 1004,
         "name": "gun-10001004",
         "en_name": "Mei",
@@ -20995,7 +20995,7 @@
         "gun_detail_bg": "collab",
         "org_id": 0
     },
-    "1005": {
+    {
         "id": 1005,
         "name": "gun-10001005",
         "en_name": "Bronya",
@@ -21053,7 +21053,7 @@
         "gun_detail_bg": "collab",
         "org_id": 0
     },
-    "1006": {
+    {
         "id": 1006,
         "name": "gun-10001006",
         "en_name": "Theresa",
@@ -21111,7 +21111,7 @@
         "gun_detail_bg": "collab",
         "org_id": 0
     },
-    "1007": {
+    {
         "id": 1007,
         "name": "gun-10001007",
         "en_name": "Himeko",
@@ -21169,7 +21169,7 @@
         "gun_detail_bg": "collab",
         "org_id": 0
     },
-    "1008": {
+    {
         "id": 1008,
         "name": "gun-10001008",
         "en_name": "Seele",
@@ -21227,7 +21227,7 @@
         "gun_detail_bg": "collab",
         "org_id": 0
     },
-    "1009": {
+    {
         "id": 1009,
         "name": "gun-10001009",
         "en_name": "CLEAR",
@@ -21285,7 +21285,7 @@
         "gun_detail_bg": "collab",
         "org_id": 0
     },
-    "1010": {
+    {
         "id": 1010,
         "name": "gun-10001010",
         "en_name": "FAIL",
@@ -21343,7 +21343,7 @@
         "gun_detail_bg": "collab",
         "org_id": 0
     },
-    "1017": {
+    {
         "id": 1017,
         "name": "gun-10001017",
         "en_name": "Jill Stingray",
@@ -21401,7 +21401,7 @@
         "gun_detail_bg": "collab",
         "org_id": 0
     },
-    "1018": {
+    {
         "id": 1018,
         "name": "gun-10001018",
         "en_name": "Sei Asagiri",
@@ -21459,7 +21459,7 @@
         "gun_detail_bg": "collab",
         "org_id": 0
     },
-    "1019": {
+    {
         "id": 1019,
         "name": "gun-10001019",
         "en_name": "Dorothy Haze",
@@ -21517,7 +21517,7 @@
         "gun_detail_bg": "collab",
         "org_id": 0
     },
-    "1020": {
+    {
         "id": 1020,
         "name": "gun-10001020",
         "en_name": "Stella Hoshii",
@@ -21575,7 +21575,7 @@
         "gun_detail_bg": "collab",
         "org_id": 0
     },
-    "1021": {
+    {
         "id": 1021,
         "name": "gun-10001021",
         "en_name": "Alma Armas",
@@ -21633,7 +21633,7 @@
         "gun_detail_bg": "collab",
         "org_id": 0
     },
-    "1022": {
+    {
         "id": 1022,
         "name": "gun-10001022",
         "en_name": "Dana Zane",
@@ -21691,7 +21691,7 @@
         "gun_detail_bg": "collab",
         "org_id": 0
     },
-    "1023": {
+    {
         "id": 1023,
         "name": "gun-10001023",
         "en_name": "Henrietta",
@@ -21749,7 +21749,7 @@
         "gun_detail_bg": "collab",
         "org_id": 0
     },
-    "1024": {
+    {
         "id": 1024,
         "name": "gun-10001024",
         "en_name": "Rico",
@@ -21807,7 +21807,7 @@
         "gun_detail_bg": "collab",
         "org_id": 0
     },
-    "1025": {
+    {
         "id": 1025,
         "name": "gun-10001025",
         "en_name": "Triela",
@@ -21865,7 +21865,7 @@
         "gun_detail_bg": "collab",
         "org_id": 0
     },
-    "1026": {
+    {
         "id": 1026,
         "name": "gun-10001026",
         "en_name": "Claes",
@@ -21923,7 +21923,7 @@
         "gun_detail_bg": "collab",
         "org_id": 0
     },
-    "1027": {
+    {
         "id": 1027,
         "name": "gun-10001027",
         "en_name": "Angelica",
@@ -21981,7 +21981,7 @@
         "gun_detail_bg": "collab",
         "org_id": 0
     },
-    "1028": {
+    {
         "id": 1028,
         "name": "gun-10001028",
         "en_name": "Vector",
@@ -22039,7 +22039,7 @@
         "gun_detail_bg": "collab",
         "org_id": 0
     },
-    "1029": {
+    {
         "id": 1029,
         "name": "gun-10001029",
         "en_name": "HK416",
@@ -22097,7 +22097,7 @@
         "gun_detail_bg": "collab",
         "org_id": 0
     },
-    "1030": {
+    {
         "id": 1030,
         "name": "gun-10001030",
         "en_name": "Jashin-chan",
@@ -22155,7 +22155,7 @@
         "gun_detail_bg": "collab",
         "org_id": 0
     },
-    "1031": {
+    {
         "id": 1031,
         "name": "gun-10001031",
         "en_name": "Pekola",
@@ -22213,7 +22213,7 @@
         "gun_detail_bg": "collab",
         "org_id": 0
     },
-    "1032": {
+    {
         "id": 1032,
         "name": "gun-10001032",
         "en_name": "Medusa",
@@ -22271,7 +22271,7 @@
         "gun_detail_bg": "collab",
         "org_id": 0
     },
-    "1033": {
+    {
         "id": 1033,
         "name": "gun-10001033",
         "en_name": "Yurine Hanazono",
@@ -22329,7 +22329,7 @@
         "gun_detail_bg": "collab",
         "org_id": 0
     },
-    "1034": {
+    {
         "id": 1034,
         "name": "gun-10001034",
         "en_name": "Minos",
@@ -22387,7 +22387,7 @@
         "gun_detail_bg": "collab",
         "org_id": 0
     },
-    "9001": {
+    {
         "id": 9001,
         "name": "gun-10009001",
         "en_name": "Cyclops",
@@ -22445,7 +22445,7 @@
         "gun_detail_bg": "",
         "org_id": 0
     },
-    "9002": {
+    {
         "id": 9002,
         "name": "gun-10009002",
         "en_name": "Cyclops_SG",
@@ -22503,7 +22503,7 @@
         "gun_detail_bg": "",
         "org_id": 0
     },
-    "9003": {
+    {
         "id": 9003,
         "name": "gun-10009003",
         "en_name": "Cerynitis",
@@ -22561,7 +22561,7 @@
         "gun_detail_bg": "",
         "org_id": 0
     },
-    "9004": {
+    {
         "id": 9004,
         "name": "gun-10009004",
         "en_name": "Hydra",
@@ -22619,7 +22619,7 @@
         "gun_detail_bg": "",
         "org_id": 0
     },
-    "9005": {
+    {
         "id": 9005,
         "name": "gun-10009005",
         "en_name": "Aegis_GA",
@@ -22677,7 +22677,7 @@
         "gun_detail_bg": "",
         "org_id": 0
     },
-    "9006": {
+    {
         "id": 9006,
         "name": "gun-10009006",
         "en_name": "Cyclops",
@@ -22735,7 +22735,7 @@
         "gun_detail_bg": "",
         "org_id": 0
     },
-    "9007": {
+    {
         "id": 9007,
         "name": "gun-10009007",
         "en_name": "Cyclops",
@@ -22793,7 +22793,7 @@
         "gun_detail_bg": "",
         "org_id": 0
     },
-    "9008": {
+    {
         "id": 9008,
         "name": "gun-10009008",
         "en_name": "Cyclops_SG",
@@ -22851,7 +22851,7 @@
         "gun_detail_bg": "",
         "org_id": 0
     },
-    "9009": {
+    {
         "id": 9009,
         "name": "gun-10009009",
         "en_name": "Cyclops_SG",
@@ -22909,7 +22909,7 @@
         "gun_detail_bg": "",
         "org_id": 0
     },
-    "9010": {
+    {
         "id": 9010,
         "name": "gun-10009010",
         "en_name": "Hydra",
@@ -22967,7 +22967,7 @@
         "gun_detail_bg": "",
         "org_id": 0
     },
-    "9011": {
+    {
         "id": 9011,
         "name": "gun-10009011",
         "en_name": "Hydra",
@@ -23025,7 +23025,7 @@
         "gun_detail_bg": "",
         "org_id": 0
     },
-    "9012": {
+    {
         "id": 9012,
         "name": "gun-10009012",
         "en_name": "M4A1",
@@ -23083,7 +23083,7 @@
         "gun_detail_bg": "",
         "org_id": 0
     },
-    "9013": {
+    {
         "id": 9013,
         "name": "gun-10009013",
         "en_name": "M950A",
@@ -23141,7 +23141,7 @@
         "gun_detail_bg": "",
         "org_id": 0
     },
-    "9014": {
+    {
         "id": 9014,
         "name": "gun-10009014",
         "en_name": "Thunder .50",
@@ -23199,7 +23199,7 @@
         "gun_detail_bg": "",
         "org_id": 0
     },
-    "9015": {
+    {
         "id": 9015,
         "name": "gun-10009015",
         "en_name": "AEK999",
@@ -23257,7 +23257,7 @@
         "gun_detail_bg": "",
         "org_id": 0
     },
-    "9016": {
+    {
         "id": 9016,
         "name": "gun-10009016",
         "en_name": "TMP",
@@ -23315,7 +23315,7 @@
         "gun_detail_bg": "",
         "org_id": 0
     },
-    "9017": {
+    {
         "id": 9017,
         "name": "gun-10009017",
         "en_name": "K2",
@@ -23373,7 +23373,7 @@
         "gun_detail_bg": "",
         "org_id": 0
     },
-    "9018": {
+    {
         "id": 9018,
         "name": "gun-10009018",
         "en_name": "Thunder .50",
@@ -23431,7 +23431,7 @@
         "gun_detail_bg": "",
         "org_id": 0
     },
-    "9019": {
+    {
         "id": 9019,
         "name": "gun-10009019",
         "en_name": "AEK999",
@@ -23489,7 +23489,7 @@
         "gun_detail_bg": "",
         "org_id": 0
     },
-    "9020": {
+    {
         "id": 9020,
         "name": "gun-10009020",
         "en_name": "TMP",
@@ -23547,7 +23547,7 @@
         "gun_detail_bg": "",
         "org_id": 0
     },
-    "9021": {
+    {
         "id": 9021,
         "name": "gun-10009021",
         "en_name": "K2",
@@ -23605,7 +23605,7 @@
         "gun_detail_bg": "",
         "org_id": 0
     },
-    "9022": {
+    {
         "id": 9022,
         "name": "gun-10009022",
         "en_name": "M950A",
@@ -23663,7 +23663,7 @@
         "gun_detail_bg": "",
         "org_id": 0
     },
-    "9023": {
+    {
         "id": 9023,
         "name": "gun-10009023",
         "en_name": "Thunder .50",
@@ -23721,7 +23721,7 @@
         "gun_detail_bg": "",
         "org_id": 0
     },
-    "9024": {
+    {
         "id": 9024,
         "name": "gun-10009024",
         "en_name": "AEK999",
@@ -23779,7 +23779,7 @@
         "gun_detail_bg": "",
         "org_id": 0
     },
-    "9025": {
+    {
         "id": 9025,
         "name": "gun-10009025",
         "en_name": "K2",
@@ -23837,7 +23837,7 @@
         "gun_detail_bg": "",
         "org_id": 0
     },
-    "9026": {
+    {
         "id": 9026,
         "name": "gun-10009026",
         "en_name": "M950A",
@@ -23895,7 +23895,7 @@
         "gun_detail_bg": "",
         "org_id": 0
     },
-    "9027": {
+    {
         "id": 9027,
         "name": "gun-10009027",
         "en_name": "Thunder .50",
@@ -23953,7 +23953,7 @@
         "gun_detail_bg": "",
         "org_id": 0
     },
-    "9028": {
+    {
         "id": 9028,
         "name": "gun-10009028",
         "en_name": "TMP",
@@ -24011,7 +24011,7 @@
         "gun_detail_bg": "",
         "org_id": 0
     },
-    "9029": {
+    {
         "id": 9029,
         "name": "gun-10009029",
         "en_name": "K2",
@@ -24069,7 +24069,7 @@
         "gun_detail_bg": "",
         "org_id": 0
     },
-    "9030": {
+    {
         "id": 9030,
         "name": "gun-10009030",
         "en_name": "M950A",
@@ -24127,7 +24127,7 @@
         "gun_detail_bg": "",
         "org_id": 0
     },
-    "9031": {
+    {
         "id": 9031,
         "name": "gun-10009031",
         "en_name": "AEK999",
@@ -24185,7 +24185,7 @@
         "gun_detail_bg": "",
         "org_id": 0
     },
-    "9032": {
+    {
         "id": 9032,
         "name": "gun-10009032",
         "en_name": "TMP",
@@ -24243,7 +24243,7 @@
         "gun_detail_bg": "",
         "org_id": 0
     },
-    "9034": {
+    {
         "id": 9034,
         "name": "gun-10009034",
         "en_name": "AK12",
@@ -24301,7 +24301,7 @@
         "gun_detail_bg": "",
         "org_id": 0
     },
-    "9035": {
+    {
         "id": 9035,
         "name": "gun-10009035",
         "en_name": "AN94",
@@ -24359,7 +24359,7 @@
         "gun_detail_bg": "",
         "org_id": 0
     },
-    "9036": {
+    {
         "id": 9036,
         "name": "gun-10009036",
         "en_name": "M4A1_Motor",
@@ -24417,7 +24417,7 @@
         "gun_detail_bg": "",
         "org_id": 0
     },
-    "9037": {
+    {
         "id": 9037,
         "name": "gun-10009037",
         "en_name": "AR15_Motor",
@@ -24475,7 +24475,7 @@
         "gun_detail_bg": "",
         "org_id": 0
     },
-    "9038": {
+    {
         "id": 9038,
         "name": "gun-10009038",
         "en_name": "AK12_Motor",
@@ -24533,7 +24533,7 @@
         "gun_detail_bg": "",
         "org_id": 0
     },
-    "9039": {
+    {
         "id": 9039,
         "name": "gun-10009039",
         "en_name": "AN94_Motor",
@@ -24591,7 +24591,7 @@
         "gun_detail_bg": "",
         "org_id": 0
     },
-    "9040": {
+    {
         "id": 9040,
         "name": "gun-10009040",
         "en_name": "M4A1",
@@ -24649,7 +24649,7 @@
         "gun_detail_bg": "",
         "org_id": 0
     },
-    "9041": {
+    {
         "id": 9041,
         "name": "gun-10009041",
         "en_name": "M4A1",
@@ -24707,7 +24707,7 @@
         "gun_detail_bg": "",
         "org_id": 0
     },
-    "9042": {
+    {
         "id": 9042,
         "name": "gun-10009042",
         "en_name": "M4A1",
@@ -24765,7 +24765,7 @@
         "gun_detail_bg": "",
         "org_id": 0
     },
-    "9043": {
+    {
         "id": 9043,
         "name": "gun-10009043",
         "en_name": "M4A1",
@@ -24823,7 +24823,7 @@
         "gun_detail_bg": "",
         "org_id": 0
     },
-    "9044": {
+    {
         "id": 9044,
         "name": "gun-10009044",
         "en_name": "M16A1",
@@ -24881,7 +24881,7 @@
         "gun_detail_bg": "",
         "org_id": 0
     },
-    "9045": {
+    {
         "id": 9045,
         "name": "gun-10009045",
         "en_name": "Carina",
@@ -24939,7 +24939,7 @@
         "gun_detail_bg": "",
         "org_id": 0
     },
-    "9046": {
+    {
         "id": 9046,
         "name": "gun-10009046",
         "en_name": "Vela ",
@@ -24997,7 +24997,7 @@
         "gun_detail_bg": "",
         "org_id": 0
     },
-    "9047": {
+    {
         "id": 9047,
         "name": "gun-10009047",
         "en_name": "Puppis",
@@ -25055,7 +25055,7 @@
         "gun_detail_bg": "",
         "org_id": 0
     },
-    "9048": {
+    {
         "id": 9048,
         "name": "gun-10009048",
         "en_name": "M4A1",
@@ -25113,7 +25113,7 @@
         "gun_detail_bg": "",
         "org_id": 0
     },
-    "9049": {
+    {
         "id": 9049,
         "name": "gun-10009049",
         "en_name": "Scarecrow_Ally",
@@ -25171,7 +25171,7 @@
         "gun_detail_bg": "",
         "org_id": 0
     },
-    "9050": {
+    {
         "id": 9050,
         "name": "gun-10009050",
         "en_name": "Excutioner_Griffin",
@@ -25229,7 +25229,7 @@
         "gun_detail_bg": "",
         "org_id": 0
     },
-    "9051": {
+    {
         "id": 9051,
         "name": "gun-10009051",
         "en_name": "Boss9_Ally",
@@ -25287,7 +25287,7 @@
         "gun_detail_bg": "",
         "org_id": 0
     },
-    "9052": {
+    {
         "id": 9052,
         "name": "gun-10009052",
         "en_name": "Hunter_Ally",
@@ -25345,7 +25345,7 @@
         "gun_detail_bg": "",
         "org_id": 0
     },
-    "9053": {
+    {
         "id": 9053,
         "name": "gun-10009053",
         "en_name": "M4A1",
@@ -25403,7 +25403,7 @@
         "gun_detail_bg": "",
         "org_id": 0
     },
-    "9054": {
+    {
         "id": 9054,
         "name": "gun-10009054",
         "en_name": "Scarecrow_shadow",
@@ -25461,7 +25461,7 @@
         "gun_detail_bg": "",
         "org_id": 0
     },
-    "9055": {
+    {
         "id": 9055,
         "name": "gun-10009055",
         "en_name": "HostageCommander",
@@ -25519,7 +25519,7 @@
         "gun_detail_bg": "",
         "org_id": 0
     },
-    "9056": {
+    {
         "id": 9056,
         "name": "gun-10009056",
         "en_name": "Rico",
@@ -25577,7 +25577,7 @@
         "gun_detail_bg": "collab",
         "org_id": 0
     },
-    "9057": {
+    {
         "id": 9057,
         "name": "gun-10009057",
         "en_name": "Rico",
@@ -25635,7 +25635,7 @@
         "gun_detail_bg": "collab",
         "org_id": 0
     },
-    "9058": {
+    {
         "id": 9058,
         "name": "gun-10009058",
         "en_name": "Hydra",
@@ -25693,7 +25693,7 @@
         "gun_detail_bg": "",
         "org_id": 0
     },
-    "9059": {
+    {
         "id": 9059,
         "name": "gun-10009059",
         "en_name": "Hydra",
@@ -25751,7 +25751,7 @@
         "gun_detail_bg": "",
         "org_id": 0
     },
-    "9060": {
+    {
         "id": 9060,
         "name": "gun-10009060",
         "en_name": "Ange",
@@ -25809,7 +25809,7 @@
         "gun_detail_bg": "",
         "org_id": 0
     },
-    "9061": {
+    {
         "id": 9061,
         "name": "gun-10009061",
         "en_name": "refugee_hg",
@@ -25867,7 +25867,7 @@
         "gun_detail_bg": "",
         "org_id": 0
     },
-    "9062": {
+    {
         "id": 9062,
         "name": "gun-10009062",
         "en_name": "refugee_smg",
@@ -25925,7 +25925,7 @@
         "gun_detail_bg": "",
         "org_id": 0
     },
-    "9063": {
+    {
         "id": 9063,
         "name": "gun-10009063",
         "en_name": "Ange",
@@ -25983,7 +25983,7 @@
         "gun_detail_bg": "",
         "org_id": 0
     },
-    "9064": {
+    {
         "id": 9064,
         "name": "gun-10009064",
         "en_name": "HK416",
@@ -26041,7 +26041,7 @@
         "gun_detail_bg": "",
         "org_id": 0
     },
-    "9065": {
+    {
         "id": 9065,
         "name": "gun-10009065",
         "en_name": "Vector",
@@ -26099,7 +26099,7 @@
         "gun_detail_bg": "",
         "org_id": 0
     },
-    "9066": {
+    {
         "id": 9066,
         "name": "gun-10009066",
         "en_name": "Mahelian",
@@ -26157,7 +26157,7 @@
         "gun_detail_bg": "",
         "org_id": 0
     },
-    "9067": {
+    {
         "id": 9067,
         "name": "gun-10009067",
         "en_name": "Rogue_D",
@@ -26215,7 +26215,7 @@
         "gun_detail_bg": "",
         "org_id": 0
     },
-    "9068": {
+    {
         "id": 9068,
         "name": "gun-10009068",
         "en_name": "Rogue_D",
@@ -26273,7 +26273,7 @@
         "gun_detail_bg": "",
         "org_id": 0
     },
-    "9069": {
+    {
         "id": 9069,
         "name": "gun-10009069",
         "en_name": "Dandelion_Gri",
@@ -26331,7 +26331,7 @@
         "gun_detail_bg": "",
         "org_id": 0
     },
-    "9070": {
+    {
         "id": 9070,
         "name": "gun-10009070",
         "en_name": "Jashin-chan",
@@ -26389,7 +26389,7 @@
         "gun_detail_bg": "collab",
         "org_id": 0
     },
-    "9071": {
+    {
         "id": 9071,
         "name": "gun-10009071",
         "en_name": "NPC_Kevin",
@@ -26447,7 +26447,7 @@
         "gun_detail_bg": "",
         "org_id": 0
     },
-    "9072": {
+    {
         "id": 9072,
         "name": "gun-10009072",
         "en_name": "Jason",
@@ -26505,7 +26505,7 @@
         "gun_detail_bg": "",
         "org_id": 0
     },
-    "9073": {
+    {
         "id": 9073,
         "name": "gun-10009073",
         "en_name": "NPC_Kryuger",
@@ -26563,7 +26563,7 @@
         "gun_detail_bg": "",
         "org_id": 0
     },
-    "9074": {
+    {
         "id": 9074,
         "name": "gun-10009074",
         "en_name": "Kryuger_2021summer",
@@ -26621,7 +26621,7 @@
         "gun_detail_bg": "",
         "org_id": 0
     },
-    "9075": {
+    {
         "id": 9075,
         "name": "gun-10009075",
         "en_name": "Helianthus",
@@ -26679,7 +26679,7 @@
         "gun_detail_bg": "",
         "org_id": 0
     },
-    "9076": {
+    {
         "id": 9076,
         "name": "gun-10009076",
         "en_name": "NPC_Persica",
@@ -26737,7 +26737,7 @@
         "gun_detail_bg": "",
         "org_id": 0
     },
-    "9077": {
+    {
         "id": 9077,
         "name": "gun-10009077",
         "en_name": "Plaincloth_Ally",
@@ -26795,7 +26795,7 @@
         "gun_detail_bg": "",
         "org_id": 0
     },
-    "9078": {
+    {
         "id": 9078,
         "name": "gun-10009078",
         "en_name": "Nele",
@@ -26853,7 +26853,7 @@
         "gun_detail_bg": "",
         "org_id": 0
     },
-    "9079": {
+    {
         "id": 9079,
         "name": "gun-10009079",
         "en_name": "Dandelion_M4",
@@ -26911,7 +26911,7 @@
         "gun_detail_bg": "",
         "org_id": 0
     },
-    "9080": {
+    {
         "id": 9080,
         "name": "gun-10009080",
         "en_name": "Dandelion_M4",
@@ -26969,7 +26969,7 @@
         "gun_detail_bg": "",
         "org_id": 0
     },
-    "9081": {
+    {
         "id": 9081,
         "name": "gun-10009081",
         "en_name": "Dana_Car",
@@ -27027,7 +27027,7 @@
         "gun_detail_bg": "",
         "org_id": 0
     },
-    "9082": {
+    {
         "id": 9082,
         "name": "gun-10009082",
         "en_name": "Dana_Car",
@@ -27085,7 +27085,7 @@
         "gun_detail_bg": "",
         "org_id": 0
     },
-    "9083": {
+    {
         "id": 9083,
         "name": "gun-10009083",
         "en_name": "Dana_Car",
@@ -27143,7 +27143,7 @@
         "gun_detail_bg": "",
         "org_id": 0
     },
-    "9084": {
+    {
         "id": 9084,
         "name": "gun-10009084",
         "en_name": "Dana_Car",
@@ -27201,7 +27201,7 @@
         "gun_detail_bg": "",
         "org_id": 0
     },
-    "9085": {
+    {
         "id": 9085,
         "name": "gun-10009085",
         "en_name": "Plaincloth_Ally",
@@ -27259,7 +27259,7 @@
         "gun_detail_bg": "",
         "org_id": 0
     },
-    "9086": {
+    {
         "id": 9086,
         "name": "gun-10009086",
         "en_name": "BGM-71",
@@ -27317,7 +27317,7 @@
         "gun_detail_bg": "",
         "org_id": 0
     },
-    "9087": {
+    {
         "id": 9087,
         "name": "gun-10009087",
         "en_name": "PP93",
@@ -27375,7 +27375,7 @@
         "gun_detail_bg": "",
         "org_id": 0
     },
-    "9088": {
+    {
         "id": 9088,
         "name": "gun-10009088",
         "en_name": "QLZ-04",
@@ -27433,7 +27433,7 @@
         "gun_detail_bg": "",
         "org_id": 0
     },
-    "9089": {
+    {
         "id": 9089,
         "name": "gun-10009089",
         "en_name": "HostageCommander",
@@ -27491,7 +27491,7 @@
         "gun_detail_bg": "",
         "org_id": 0
     },
-    "9090": {
+    {
         "id": 9090,
         "name": "gun-10009090",
         "en_name": "SIGMCX",
@@ -27549,7 +27549,7 @@
         "gun_detail_bg": "collab",
         "org_id": 0
     },
-    "9091": {
+    {
         "id": 9091,
         "name": "gun-10009091",
         "en_name": "VSK-94",
@@ -27607,7 +27607,7 @@
         "gun_detail_bg": "nation_Russia",
         "org_id": 0
     },
-    "9092": {
+    {
         "id": 9092,
         "name": "gun-10009092",
         "en_name": "P90",
@@ -27665,7 +27665,7 @@
         "gun_detail_bg": "nation_Belgium",
         "org_id": 0
     },
-    "9093": {
+    {
         "id": 9093,
         "name": "gun-10009093",
         "en_name": "DesertEagle",
@@ -27723,7 +27723,7 @@
         "gun_detail_bg": "",
         "org_id": 0
     },
-    "9094": {
+    {
         "id": 9094,
         "name": "gun-10009094",
         "en_name": "MG4",
@@ -27781,7 +27781,7 @@
         "gun_detail_bg": "",
         "org_id": 0
     },
-    "9095": {
+    {
         "id": 9095,
         "name": "gun-10009095",
         "en_name": "HostageCommander",
@@ -27839,7 +27839,7 @@
         "gun_detail_bg": "",
         "org_id": 0
     },
-    "9096": {
+    {
         "id": 9096,
         "name": "gun-10009096",
         "en_name": "HostageCommander",
@@ -27897,7 +27897,7 @@
         "gun_detail_bg": "",
         "org_id": 0
     },
-    "9097": {
+    {
         "id": 9097,
         "name": "gun-10009097",
         "en_name": "HostageCommander",
@@ -27955,7 +27955,7 @@
         "gun_detail_bg": "",
         "org_id": 0
     },
-    "9098": {
+    {
         "id": 9098,
         "name": "gun-10009098",
         "en_name": "M16A1",
@@ -28013,7 +28013,7 @@
         "gun_detail_bg": "",
         "org_id": 0
     },
-    "9099": {
+    {
         "id": 9099,
         "name": "gun-10009099",
         "en_name": "Beak",
@@ -28071,7 +28071,7 @@
         "gun_detail_bg": "",
         "org_id": 0
     },
-    "9100": {
+    {
         "id": 9100,
         "name": "gun-10009100",
         "en_name": "Dupijin",
@@ -28129,7 +28129,7 @@
         "gun_detail_bg": "",
         "org_id": 0
     },
-    "20001": {
+    {
         "id": 20001,
         "name": "gun-10020001",
         "en_name": "M1873",
@@ -28187,7 +28187,7 @@
         "gun_detail_bg": "nation_US",
         "org_id": 0
     },
-    "20002": {
+    {
         "id": 20002,
         "name": "gun-10020002",
         "en_name": "M1911",
@@ -28245,7 +28245,7 @@
         "gun_detail_bg": "nation_US",
         "org_id": 0
     },
-    "20005": {
+    {
         "id": 20005,
         "name": "gun-10020005",
         "en_name": "M1895",
@@ -28303,7 +28303,7 @@
         "gun_detail_bg": "nation_Russia",
         "org_id": 0
     },
-    "20007": {
+    {
         "id": 20007,
         "name": "gun-10020007",
         "en_name": "APS",
@@ -28361,7 +28361,7 @@
         "gun_detail_bg": "nation_Russia",
         "org_id": 0
     },
-    "20008": {
+    {
         "id": 20008,
         "name": "gun-10020008",
         "en_name": "PM",
@@ -28419,7 +28419,7 @@
         "gun_detail_bg": "nation_Russia",
         "org_id": 0
     },
-    "20010": {
+    {
         "id": 20010,
         "name": "gun-10020010",
         "en_name": "PPK",
@@ -28477,7 +28477,7 @@
         "gun_detail_bg": "nation_German",
         "org_id": 0
     },
-    "20012": {
+    {
         "id": 20012,
         "name": "gun-10020012",
         "en_name": "C96",
@@ -28535,7 +28535,7 @@
         "gun_detail_bg": "nation_German",
         "org_id": 0
     },
-    "20021": {
+    {
         "id": 20021,
         "name": "gun-10020021",
         "en_name": "PPSh-41",
@@ -28593,7 +28593,7 @@
         "gun_detail_bg": "nation_Russia",
         "org_id": 0
     },
-    "20026": {
+    {
         "id": 20026,
         "name": "gun-10020026",
         "en_name": "MP5",
@@ -28651,7 +28651,7 @@
         "gun_detail_bg": "nation_German",
         "org_id": 0
     },
-    "20029": {
+    {
         "id": 20029,
         "name": "gun-10020029",
         "en_name": "Sten Mk Ⅱ",
@@ -28709,7 +28709,7 @@
         "gun_detail_bg": "",
         "org_id": 0
     },
-    "20031": {
+    {
         "id": 20031,
         "name": "gun-10020031",
         "en_name": "MAB 38",
@@ -28767,7 +28767,7 @@
         "gun_detail_bg": "nation_Italy",
         "org_id": 0
     },
-    "20032": {
+    {
         "id": 20032,
         "name": "gun-10020032",
         "en_name": "Micro Uzi",
@@ -28825,7 +28825,7 @@
         "gun_detail_bg": "",
         "org_id": 0
     },
-    "20037": {
+    {
         "id": 20037,
         "name": "gun-10020037",
         "en_name": "M14",
@@ -28883,7 +28883,7 @@
         "gun_detail_bg": "nation_US",
         "org_id": 0
     },
-    "20039": {
+    {
         "id": 20039,
         "name": "gun-10020039",
         "en_name": "M1891",
@@ -28941,7 +28941,7 @@
         "gun_detail_bg": "nation_Russia",
         "org_id": 0
     },
-    "20044": {
+    {
         "id": 20044,
         "name": "gun-10020044",
         "en_name": "SV-98",
@@ -28999,7 +28999,7 @@
         "gun_detail_bg": "nation_Russia",
         "org_id": 0
     },
-    "20049": {
+    {
         "id": 20049,
         "name": "gun-10020049",
         "en_name": "Type 56 R",
@@ -29057,7 +29057,7 @@
         "gun_detail_bg": "nation_China",
         "org_id": 0
     },
-    "20051": {
+    {
         "id": 20051,
         "name": "gun-10020051",
         "en_name": "FN-49",
@@ -29115,7 +29115,7 @@
         "gun_detail_bg": "nation_Belgium",
         "org_id": 0
     },
-    "20053": {
+    {
         "id": 20053,
         "name": "gun-10020053",
         "en_name": "NTW-20",
@@ -29173,7 +29173,7 @@
         "gun_detail_bg": "",
         "org_id": 0
     },
-    "20055": {
+    {
         "id": 20055,
         "name": "gun-10020055",
         "en_name": "M4A1",
@@ -29231,7 +29231,7 @@
         "gun_detail_bg": "team_ar",
         "org_id": 0
     },
-    "20056": {
+    {
         "id": 20056,
         "name": "gun-10020056",
         "en_name": "M4 SOPMOD II",
@@ -29289,7 +29289,7 @@
         "gun_detail_bg": "team_ar",
         "org_id": 0
     },
-    "20057": {
+    {
         "id": 20057,
         "name": "gun-10020057",
         "en_name": "ST AR-15",
@@ -29347,7 +29347,7 @@
         "gun_detail_bg": "team_ar",
         "org_id": 0
     },
-    "20060": {
+    {
         "id": 20060,
         "name": "gun-10020060",
         "en_name": "AS Val",
@@ -29405,7 +29405,7 @@
         "gun_detail_bg": "nation_Russia",
         "org_id": 0
     },
-    "20061": {
+    {
         "id": 20061,
         "name": "gun-10020061",
         "en_name": "StG44",
@@ -29463,7 +29463,7 @@
         "gun_detail_bg": "nation_German",
         "org_id": 0
     },
-    "20063": {
+    {
         "id": 20063,
         "name": "gun-10020063",
         "en_name": "G3",
@@ -29521,7 +29521,7 @@
         "gun_detail_bg": "nation_German",
         "org_id": 0
     },
-    "20064": {
+    {
         "id": 20064,
         "name": "gun-10020064",
         "en_name": "G36",
@@ -29579,7 +29579,7 @@
         "gun_detail_bg": "nation_German",
         "org_id": 0
     },
-    "20065": {
+    {
         "id": 20065,
         "name": "gun-10020065",
         "en_name": "HK416",
@@ -29637,7 +29637,7 @@
         "gun_detail_bg": "team_404",
         "org_id": 0
     },
-    "20071": {
+    {
         "id": 20071,
         "name": "gun-10020071",
         "en_name": "AR",
@@ -29695,7 +29695,7 @@
         "gun_detail_bg": "",
         "org_id": 0
     },
-    "20075": {
+    {
         "id": 20075,
         "name": "gun-10020075",
         "en_name": "M1918",
@@ -29753,7 +29753,7 @@
         "gun_detail_bg": "nation_US",
         "org_id": 0
     },
-    "20081": {
+    {
         "id": 20081,
         "name": "gun-10020081",
         "en_name": "LWMMG",
@@ -29811,7 +29811,7 @@
         "gun_detail_bg": "nation_US",
         "org_id": 0
     },
-    "20088": {
+    {
         "id": 20088,
         "name": "gun-10020088",
         "en_name": "MG3",
@@ -29869,7 +29869,7 @@
         "gun_detail_bg": "nation_German",
         "org_id": 0
     },
-    "20089": {
+    {
         "id": 20089,
         "name": "gun-10020089",
         "en_name": "Bren MK I",
@@ -29927,7 +29927,7 @@
         "gun_detail_bg": "",
         "org_id": 0
     },
-    "20091": {
+    {
         "id": 20091,
         "name": "gun-10020091",
         "en_name": "MP-446",
@@ -29985,7 +29985,7 @@
         "gun_detail_bg": "nation_Russia",
         "org_id": 0
     },
-    "20093": {
+    {
         "id": 20093,
         "name": "gun-10020093",
         "en_name": "IDW",
@@ -30043,7 +30043,7 @@
         "gun_detail_bg": "",
         "org_id": 0
     },
-    "20094": {
+    {
         "id": 20094,
         "name": "gun-10020094",
         "en_name": "Type 64",
@@ -30101,7 +30101,7 @@
         "gun_detail_bg": "nation_China",
         "org_id": 0
     },
-    "20095": {
+    {
         "id": 20095,
         "name": "gun-10020095",
         "en_name": "Type 88",
@@ -30159,7 +30159,7 @@
         "gun_detail_bg": "nation_China",
         "org_id": 0
     },
-    "20097": {
+    {
         "id": 20097,
         "name": "gun-10020097",
         "en_name": "M950A",
@@ -30217,7 +30217,7 @@
         "gun_detail_bg": "nation_US",
         "org_id": 0
     },
-    "20101": {
+    {
         "id": 20101,
         "name": "gun-10020101",
         "en_name": "UMP9",
@@ -30275,7 +30275,7 @@
         "gun_detail_bg": "team_404",
         "org_id": 0
     },
-    "20103": {
+    {
         "id": 20103,
         "name": "gun-10020103",
         "en_name": "UMP45",
@@ -30333,7 +30333,7 @@
         "gun_detail_bg": "team_404",
         "org_id": 0
     },
-    "20104": {
+    {
         "id": 20104,
         "name": "gun-10020104",
         "en_name": "G36C",
@@ -30391,7 +30391,7 @@
         "gun_detail_bg": "nation_German",
         "org_id": 0
     },
-    "20114": {
+    {
         "id": 20114,
         "name": "gun-10020114",
         "en_name": "Welrod Mk Ⅱ",
@@ -30449,7 +30449,7 @@
         "gun_detail_bg": "",
         "org_id": 0
     },
-    "20115": {
+    {
         "id": 20115,
         "name": "gun-10020115",
         "en_name": "KP/-31 ",
@@ -30507,7 +30507,7 @@
         "gun_detail_bg": "",
         "org_id": 0
     },
-    "20122": {
+    {
         "id": 20122,
         "name": "gun-10020122",
         "en_name": "G11",
@@ -30565,7 +30565,7 @@
         "gun_detail_bg": "team_404",
         "org_id": 0
     },
-    "20124": {
+    {
         "id": 20124,
         "name": "gun-10020124",
         "en_name": "Super SASS",
@@ -30623,7 +30623,7 @@
         "gun_detail_bg": "nation_US",
         "org_id": 0
     },
-    "20125": {
+    {
         "id": 20125,
         "name": "gun-10020125",
         "en_name": "MG4",
@@ -30681,7 +30681,7 @@
         "gun_detail_bg": "nation_German",
         "org_id": 0
     },
-    "20136": {
+    {
         "id": 20136,
         "name": "gun-10020136",
         "en_name": "PP-19",
@@ -30739,7 +30739,7 @@
         "gun_detail_bg": "nation_Russia",
         "org_id": 0
     },
-    "20143": {
+    {
         "id": 20143,
         "name": "gun-10020143",
         "en_name": "RO635",
@@ -30797,7 +30797,7 @@
         "gun_detail_bg": "team_ar",
         "org_id": 0
     },
-    "20152": {
+    {
         "id": 20152,
         "name": "gun-10020152",
         "en_name": "M1897",
@@ -30855,7 +30855,7 @@
         "gun_detail_bg": "nation_US",
         "org_id": 0
     },
-    "20154": {
+    {
         "id": 20154,
         "name": "gun-10020154",
         "en_name": "M500",
@@ -30913,7 +30913,7 @@
         "gun_detail_bg": "nation_US",
         "org_id": 0
     },
-    "20159": {
+    {
         "id": 20159,
         "name": "gun-10020159",
         "en_name": "RMB-93",
@@ -30971,7 +30971,7 @@
         "gun_detail_bg": "nation_Russia",
         "org_id": 0
     },
-    "20161": {
+    {
         "id": 20161,
         "name": "gun-10020161",
         "en_name": "Type 97 S",
@@ -31029,7 +31029,7 @@
         "gun_detail_bg": "nation_China",
         "org_id": 0
     },
-    "20171": {
+    {
         "id": 20171,
         "name": "gun-10020171",
         "en_name": "Ribeyrolles1918",
@@ -31087,7 +31087,7 @@
         "gun_detail_bg": "",
         "org_id": 0
     },
-    "20178": {
+    {
         "id": 20178,
         "name": "gun-10020178",
         "en_name": "F1",
@@ -31145,7 +31145,7 @@
         "gun_detail_bg": "",
         "org_id": 0
     },
-    "20199": {
+    {
         "id": 20199,
         "name": "gun-10020199",
         "en_name": "80type",
@@ -31203,7 +31203,7 @@
         "gun_detail_bg": "nation_China",
         "org_id": 0
     },
-    "20200": {
+    {
         "id": 20200,
         "name": "gun-10020200",
         "en_name": "XM3",
@@ -31261,7 +31261,7 @@
         "gun_detail_bg": "nation_US",
         "org_id": 0
     },
-    "20201": {
+    {
         "id": 20201,
         "name": "gun-10020201",
         "en_name": "Gepard M1",
@@ -31319,7 +31319,7 @@
         "gun_detail_bg": "",
         "org_id": 0
     },
-    "20205": {
+    {
         "id": 20205,
         "name": "gun-10020205",
         "en_name": "AN94",
@@ -31377,7 +31377,7 @@
         "gun_detail_bg": "team_defy",
         "org_id": 0
     },
-    "20216": {
+    {
         "id": 20216,
         "name": "gun-10020216",
         "en_name": "XM8",
@@ -31435,7 +31435,7 @@
         "gun_detail_bg": "nation_German",
         "org_id": 0
     },
-    "20220": {
+    {
         "id": 20220,
         "name": "gun-10020220",
         "en_name": "MP-443",
@@ -31493,7 +31493,7 @@
         "gun_detail_bg": "nation_Russia",
         "org_id": 0
     },
-    "20221": {
+    {
         "id": 20221,
         "name": "gun-10020221",
         "en_name": "GSh-18",
@@ -31551,7 +31551,7 @@
         "gun_detail_bg": "nation_Russia",
         "org_id": 0
     },
-    "20230": {
+    {
         "id": 20230,
         "name": "gun-10020230",
         "en_name": "OBR",
@@ -31609,7 +31609,7 @@
         "gun_detail_bg": "nation_US",
         "org_id": 0
     },
-    "20252": {
+    {
         "id": 20252,
         "name": "gun-10020252",
         "en_name": "KSVK",
@@ -31667,7 +31667,7 @@
         "gun_detail_bg": "nation_Russia",
         "org_id": 0
     },
-    "20293": {
+    {
         "id": 20293,
         "name": "gun-10020293",
         "en_name": "AK-15",
@@ -31725,7 +31725,7 @@
         "gun_detail_bg": "team_defy",
         "org_id": 0
     },
-    "30156": {
+    {
         "id": 30156,
         "name": "gun-10030156",
         "en_name": "Super-Shorty",
@@ -31783,7 +31783,7 @@
         "gun_detail_bg": "",
         "org_id": 0
     },
-    "30164": {
+    {
         "id": 30164,
         "name": "gun-10030164",
         "en_name": "FP-6",
@@ -31841,7 +31841,7 @@
         "gun_detail_bg": "",
         "org_id": 0
     },
-    "30229": {
+    {
         "id": 30229,
         "name": "gun-10030229",
         "en_name": "M870P",
@@ -31899,7 +31899,7 @@
         "gun_detail_bg": "",
         "org_id": 0
     },
-    "90001": {
+    {
         "id": 90001,
         "name": "gun-10090001",
         "en_name": "PPSh-41",
@@ -31957,4 +31957,4 @@
         "gun_detail_bg": "",
         "org_id": 0
     }
-}
+]

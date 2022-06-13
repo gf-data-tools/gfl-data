@@ -1,5 +1,5 @@
-{
-    "101": {
+[
+    {
         "id": 101,
         "name": "chess_buff-10000101",
         "code": "FlightChessBuff_3",
@@ -14,7 +14,7 @@
         "available_gun_type": "0",
         "ui_control": 0
     },
-    "102": {
+    {
         "id": 102,
         "name": "chess_buff-10000102",
         "code": "FlightChessBuff_1",
@@ -29,7 +29,7 @@
         "available_gun_type": "0",
         "ui_control": 0
     },
-    "103": {
+    {
         "id": 103,
         "name": "chess_buff-10000103",
         "code": "",
@@ -44,7 +44,7 @@
         "available_gun_type": "0",
         "ui_control": 0
     },
-    "104": {
+    {
         "id": 104,
         "name": "chess_buff-10000104",
         "code": "FlightChessBuff_3",
@@ -59,7 +59,7 @@
         "available_gun_type": "0",
         "ui_control": 0
     },
-    "105": {
+    {
         "id": 105,
         "name": "chess_buff-10000105",
         "code": "",
@@ -74,7 +74,7 @@
         "available_gun_type": "0",
         "ui_control": 0
     },
-    "106": {
+    {
         "id": 106,
         "name": "chess_buff-10000106",
         "code": "FlightChessBuff_17",
@@ -89,7 +89,7 @@
         "available_gun_type": "0",
         "ui_control": 0
     },
-    "107": {
+    {
         "id": 107,
         "name": "chess_buff-10000107",
         "code": "FlightChessBuff_3",
@@ -104,7 +104,7 @@
         "available_gun_type": "0",
         "ui_control": 0
     },
-    "108": {
+    {
         "id": 108,
         "name": "chess_buff-10000108",
         "code": "",
@@ -119,7 +119,7 @@
         "available_gun_type": "0",
         "ui_control": 0
     },
-    "109": {
+    {
         "id": 109,
         "name": "chess_buff-10000109",
         "code": "FlightChessBuff_1",
@@ -134,7 +134,7 @@
         "available_gun_type": "0",
         "ui_control": 0
     },
-    "110": {
+    {
         "id": 110,
         "name": "chess_buff-10000110",
         "code": "FlightChessBuff_3",
@@ -149,7 +149,7 @@
         "available_gun_type": "0",
         "ui_control": 0
     },
-    "111": {
+    {
         "id": 111,
         "name": "chess_buff-10000111",
         "code": "FlightChessBuff_8",
@@ -164,7 +164,7 @@
         "available_gun_type": "0",
         "ui_control": 0
     },
-    "112": {
+    {
         "id": 112,
         "name": "chess_buff-10000112",
         "code": "FlightChessBuff_5",
@@ -179,7 +179,7 @@
         "available_gun_type": "0",
         "ui_control": 0
     },
-    "113": {
+    {
         "id": 113,
         "name": "chess_buff-10000113",
         "code": "",
@@ -194,7 +194,7 @@
         "available_gun_type": "0",
         "ui_control": 0
     },
-    "114": {
+    {
         "id": 114,
         "name": "chess_buff-10000114",
         "code": "",
@@ -209,7 +209,7 @@
         "available_gun_type": "0",
         "ui_control": 0
     },
-    "115": {
+    {
         "id": 115,
         "name": "chess_buff-10000115",
         "code": "FlightChessBuff_19",
@@ -224,7 +224,7 @@
         "available_gun_type": "0",
         "ui_control": 0
     },
-    "116": {
+    {
         "id": 116,
         "name": "chess_buff-10000116",
         "code": "FlightChessBuff_8",
@@ -239,7 +239,7 @@
         "available_gun_type": "0",
         "ui_control": 0
     },
-    "117": {
+    {
         "id": 117,
         "name": "chess_buff-10000117",
         "code": "FlightChessBuff_28",
@@ -254,7 +254,7 @@
         "available_gun_type": "0",
         "ui_control": 0
     },
-    "118": {
+    {
         "id": 118,
         "name": "chess_buff-10000118",
         "code": "FlightChessBuff_17",
@@ -269,7 +269,7 @@
         "available_gun_type": "0",
         "ui_control": 0
     },
-    "119": {
+    {
         "id": 119,
         "name": "chess_buff-10000119",
         "code": "FlightChessBuff_3",
@@ -284,7 +284,7 @@
         "available_gun_type": "0",
         "ui_control": 0
     },
-    "120": {
+    {
         "id": 120,
         "name": "chess_buff-10000120",
         "code": "",
@@ -299,7 +299,7 @@
         "available_gun_type": "0",
         "ui_control": 0
     },
-    "121": {
+    {
         "id": 121,
         "name": "chess_buff-10000121",
         "code": "FlightChessBuff_27",
@@ -314,7 +314,7 @@
         "available_gun_type": "0",
         "ui_control": 0
     },
-    "122": {
+    {
         "id": 122,
         "name": "chess_buff-10000122",
         "code": "FlightChessBuff_27",
@@ -329,7 +329,7 @@
         "available_gun_type": "0",
         "ui_control": 0
     },
-    "123": {
+    {
         "id": 123,
         "name": "chess_buff-10000123",
         "code": "",
@@ -344,7 +344,7 @@
         "available_gun_type": "0",
         "ui_control": 0
     },
-    "124": {
+    {
         "id": 124,
         "name": "chess_buff-10000124",
         "code": "FlightChessBuff_15",
@@ -359,7 +359,7 @@
         "available_gun_type": "0",
         "ui_control": 0
     },
-    "125": {
+    {
         "id": 125,
         "name": "chess_buff-10000125",
         "code": "FlightChessBuff_1",
@@ -374,7 +374,7 @@
         "available_gun_type": "0",
         "ui_control": 0
     },
-    "126": {
+    {
         "id": 126,
         "name": "chess_buff-10000126",
         "code": "FlightChessBuff_1",
@@ -389,7 +389,7 @@
         "available_gun_type": "0",
         "ui_control": 0
     },
-    "127": {
+    {
         "id": 127,
         "name": "chess_buff-10000127",
         "code": "FlightChessBuff_28",
@@ -404,7 +404,7 @@
         "available_gun_type": "0",
         "ui_control": 0
     },
-    "128": {
+    {
         "id": 128,
         "name": "chess_buff-10000128",
         "code": "FlightChessBuff_3",
@@ -419,7 +419,7 @@
         "available_gun_type": "0",
         "ui_control": 0
     },
-    "129": {
+    {
         "id": 129,
         "name": "chess_buff-10000129",
         "code": "FlightChessBuff_5",
@@ -434,7 +434,7 @@
         "available_gun_type": "0",
         "ui_control": 0
     },
-    "130": {
+    {
         "id": 130,
         "name": "chess_buff-10000130",
         "code": "FlightChessBuff_1",
@@ -449,7 +449,7 @@
         "available_gun_type": "0",
         "ui_control": 0
     },
-    "131": {
+    {
         "id": 131,
         "name": "chess_buff-10000131",
         "code": "FlightChessBuff_8",
@@ -464,7 +464,7 @@
         "available_gun_type": "0",
         "ui_control": 0
     },
-    "132": {
+    {
         "id": 132,
         "name": "chess_buff-10000132",
         "code": "",
@@ -479,7 +479,7 @@
         "available_gun_type": "0",
         "ui_control": 0
     },
-    "133": {
+    {
         "id": 133,
         "name": "chess_buff-10000133",
         "code": "",
@@ -494,7 +494,7 @@
         "available_gun_type": "0",
         "ui_control": 0
     },
-    "134": {
+    {
         "id": 134,
         "name": "chess_buff-10000134",
         "code": "FlightChessBuff_3",
@@ -509,7 +509,7 @@
         "available_gun_type": "0",
         "ui_control": 0
     },
-    "135": {
+    {
         "id": 135,
         "name": "chess_buff-10000135",
         "code": "FlightChessBuff_22",
@@ -524,7 +524,7 @@
         "available_gun_type": "0",
         "ui_control": 0
     },
-    "136": {
+    {
         "id": 136,
         "name": "chess_buff-10000136",
         "code": "FlightChessBuff_24",
@@ -539,7 +539,7 @@
         "available_gun_type": "0",
         "ui_control": 0
     },
-    "137": {
+    {
         "id": 137,
         "name": "chess_buff-10000137",
         "code": "FlightChessBuff_23",
@@ -554,7 +554,7 @@
         "available_gun_type": "0",
         "ui_control": 0
     },
-    "138": {
+    {
         "id": 138,
         "name": "chess_buff-10000138",
         "code": "FlightChessBuff_24",
@@ -569,7 +569,7 @@
         "available_gun_type": "0",
         "ui_control": 0
     },
-    "139": {
+    {
         "id": 139,
         "name": "chess_buff-10000139",
         "code": "FlightChessBuff_25",
@@ -584,7 +584,7 @@
         "available_gun_type": "0",
         "ui_control": 0
     },
-    "140": {
+    {
         "id": 140,
         "name": "chess_buff-10000140",
         "code": "",
@@ -599,7 +599,7 @@
         "available_gun_type": "0",
         "ui_control": 0
     },
-    "141": {
+    {
         "id": 141,
         "name": "chess_buff-10000141",
         "code": "",
@@ -614,7 +614,7 @@
         "available_gun_type": "0",
         "ui_control": 0
     },
-    "142": {
+    {
         "id": 142,
         "name": "chess_buff-10000142",
         "code": "FlightChessBuff_1",
@@ -629,7 +629,7 @@
         "available_gun_type": "0",
         "ui_control": 0
     },
-    "143": {
+    {
         "id": 143,
         "name": "chess_buff-10000143",
         "code": "",
@@ -644,7 +644,7 @@
         "available_gun_type": "0",
         "ui_control": 0
     },
-    "144": {
+    {
         "id": 144,
         "name": "chess_buff-10000144",
         "code": "",
@@ -659,7 +659,7 @@
         "available_gun_type": "0",
         "ui_control": 0
     },
-    "145": {
+    {
         "id": 145,
         "name": "chess_buff-10000145",
         "code": "FlightChessBuff_24",
@@ -674,7 +674,7 @@
         "available_gun_type": "0",
         "ui_control": 0
     },
-    "146": {
+    {
         "id": 146,
         "name": "chess_buff-10000146",
         "code": "FlightChessBuff_25",
@@ -689,7 +689,7 @@
         "available_gun_type": "0",
         "ui_control": 0
     },
-    "147": {
+    {
         "id": 147,
         "name": "chess_buff-10000147",
         "code": "FlightChessBuff_22",
@@ -704,7 +704,7 @@
         "available_gun_type": "0",
         "ui_control": 0
     },
-    "148": {
+    {
         "id": 148,
         "name": "chess_buff-10000148",
         "code": "",
@@ -719,7 +719,7 @@
         "available_gun_type": "0",
         "ui_control": 0
     },
-    "149": {
+    {
         "id": 149,
         "name": "chess_buff-10000149",
         "code": "",
@@ -734,7 +734,7 @@
         "available_gun_type": "0",
         "ui_control": 0
     },
-    "150": {
+    {
         "id": 150,
         "name": "chess_buff-10000150",
         "code": "FlightChessBuff_28",
@@ -749,7 +749,7 @@
         "available_gun_type": "0",
         "ui_control": 0
     },
-    "151": {
+    {
         "id": 151,
         "name": "chess_buff-10000151",
         "code": "FlightChessBuff_28",
@@ -764,7 +764,7 @@
         "available_gun_type": "0",
         "ui_control": 0
     },
-    "152": {
+    {
         "id": 152,
         "name": "chess_buff-10000152",
         "code": "",
@@ -779,7 +779,7 @@
         "available_gun_type": "0",
         "ui_control": 0
     },
-    "153": {
+    {
         "id": 153,
         "name": "chess_buff-10000153",
         "code": "",
@@ -794,7 +794,7 @@
         "available_gun_type": "0",
         "ui_control": 0
     },
-    "154": {
+    {
         "id": 154,
         "name": "chess_buff-10000154",
         "code": "FlightChessBuff_3",
@@ -809,7 +809,7 @@
         "available_gun_type": "0",
         "ui_control": 0
     },
-    "155": {
+    {
         "id": 155,
         "name": "chess_buff-10000155",
         "code": "",
@@ -824,7 +824,7 @@
         "available_gun_type": "0",
         "ui_control": 0
     },
-    "156": {
+    {
         "id": 156,
         "name": "chess_buff-10000156",
         "code": "FlightChessBuff_3",
@@ -839,7 +839,7 @@
         "available_gun_type": "0",
         "ui_control": 0
     },
-    "157": {
+    {
         "id": 157,
         "name": "chess_buff-10000157",
         "code": "",
@@ -854,7 +854,7 @@
         "available_gun_type": "0",
         "ui_control": 0
     },
-    "158": {
+    {
         "id": 158,
         "name": "chess_buff-10000158",
         "code": "",
@@ -869,7 +869,7 @@
         "available_gun_type": "0",
         "ui_control": 0
     },
-    "159": {
+    {
         "id": 159,
         "name": "chess_buff-10000159",
         "code": "FlightChessBuff_3",
@@ -884,7 +884,7 @@
         "available_gun_type": "0",
         "ui_control": 0
     },
-    "160": {
+    {
         "id": 160,
         "name": "chess_buff-10000160",
         "code": "FlightChessBuff_8",
@@ -899,7 +899,7 @@
         "available_gun_type": "0",
         "ui_control": 0
     },
-    "161": {
+    {
         "id": 161,
         "name": "chess_buff-10000161",
         "code": "FlightChessBuff_28",
@@ -914,7 +914,7 @@
         "available_gun_type": "0",
         "ui_control": 0
     },
-    "162": {
+    {
         "id": 162,
         "name": "chess_buff-10000162",
         "code": "FlightChessBuff_5",
@@ -929,7 +929,7 @@
         "available_gun_type": "0",
         "ui_control": 0
     },
-    "163": {
+    {
         "id": 163,
         "name": "chess_buff-10000163",
         "code": "FlightChessBuff_1",
@@ -944,7 +944,7 @@
         "available_gun_type": "0",
         "ui_control": 0
     },
-    "164": {
+    {
         "id": 164,
         "name": "chess_buff-10000164",
         "code": "",
@@ -959,7 +959,7 @@
         "available_gun_type": "0",
         "ui_control": 0
     },
-    "165": {
+    {
         "id": 165,
         "name": "chess_buff-10000165",
         "code": "FlightChessBuff_28",
@@ -974,7 +974,7 @@
         "available_gun_type": "0",
         "ui_control": 0
     },
-    "166": {
+    {
         "id": 166,
         "name": "chess_buff-10000166",
         "code": "",
@@ -989,7 +989,7 @@
         "available_gun_type": "0",
         "ui_control": 0
     },
-    "167": {
+    {
         "id": 167,
         "name": "chess_buff-10000167",
         "code": "",
@@ -1004,7 +1004,7 @@
         "available_gun_type": "0",
         "ui_control": 0
     },
-    "168": {
+    {
         "id": 168,
         "name": "chess_buff-10000168",
         "code": "FlightChessBuff_3",
@@ -1019,7 +1019,7 @@
         "available_gun_type": "0",
         "ui_control": 0
     },
-    "169": {
+    {
         "id": 169,
         "name": "chess_buff-10000169",
         "code": "FlightChessBuff_1",
@@ -1034,7 +1034,7 @@
         "available_gun_type": "0",
         "ui_control": 0
     },
-    "170": {
+    {
         "id": 170,
         "name": "chess_buff-10000170",
         "code": "FlightChessBuff_5",
@@ -1049,7 +1049,7 @@
         "available_gun_type": "0",
         "ui_control": 0
     },
-    "171": {
+    {
         "id": 171,
         "name": "chess_buff-10000171",
         "code": "FlightChessBuff_1",
@@ -1064,7 +1064,7 @@
         "available_gun_type": "0",
         "ui_control": 0
     },
-    "172": {
+    {
         "id": 172,
         "name": "chess_buff-10000172",
         "code": "FlightChessBuff_3",
@@ -1079,7 +1079,7 @@
         "available_gun_type": "0",
         "ui_control": 0
     },
-    "173": {
+    {
         "id": 173,
         "name": "chess_buff-10000173",
         "code": "FlightChessBuff_8",
@@ -1094,7 +1094,7 @@
         "available_gun_type": "0",
         "ui_control": 0
     },
-    "174": {
+    {
         "id": 174,
         "name": "chess_buff-10000174",
         "code": "",
@@ -1109,7 +1109,7 @@
         "available_gun_type": "0",
         "ui_control": 0
     },
-    "175": {
+    {
         "id": 175,
         "name": "chess_buff-10000175",
         "code": "",
@@ -1124,7 +1124,7 @@
         "available_gun_type": "0",
         "ui_control": 0
     },
-    "176": {
+    {
         "id": 176,
         "name": "chess_buff-10000176",
         "code": "",
@@ -1139,7 +1139,7 @@
         "available_gun_type": "0",
         "ui_control": 0
     },
-    "177": {
+    {
         "id": 177,
         "name": "chess_buff-10000177",
         "code": "",
@@ -1154,7 +1154,7 @@
         "available_gun_type": "0",
         "ui_control": 0
     },
-    "178": {
+    {
         "id": 178,
         "name": "chess_buff-10000178",
         "code": "",
@@ -1169,7 +1169,7 @@
         "available_gun_type": "0",
         "ui_control": 2
     },
-    "179": {
+    {
         "id": 179,
         "name": "chess_buff-10000179",
         "code": "FlightChessBuff_17",
@@ -1184,7 +1184,7 @@
         "available_gun_type": "0",
         "ui_control": 0
     },
-    "180": {
+    {
         "id": 180,
         "name": "chess_buff-10000180",
         "code": "FlightChessBuff_17",
@@ -1199,7 +1199,7 @@
         "available_gun_type": "0",
         "ui_control": 0
     },
-    "181": {
+    {
         "id": 181,
         "name": "chess_buff-10000181",
         "code": "",
@@ -1214,7 +1214,7 @@
         "available_gun_type": "0",
         "ui_control": 0
     },
-    "182": {
+    {
         "id": 182,
         "name": "chess_buff-10000182",
         "code": "FlightChessBuff_15",
@@ -1229,7 +1229,7 @@
         "available_gun_type": "0",
         "ui_control": 0
     },
-    "183": {
+    {
         "id": 183,
         "name": "chess_buff-10000183",
         "code": "FlightChessBuff_28",
@@ -1244,7 +1244,7 @@
         "available_gun_type": "0",
         "ui_control": 0
     },
-    "194": {
+    {
         "id": 194,
         "name": "chess_buff-10000194",
         "code": "",
@@ -1259,7 +1259,7 @@
         "available_gun_type": "0",
         "ui_control": 3
     },
-    "195": {
+    {
         "id": 195,
         "name": "chess_buff-10000195",
         "code": "",
@@ -1274,7 +1274,7 @@
         "available_gun_type": "0",
         "ui_control": 0
     },
-    "196": {
+    {
         "id": 196,
         "name": "chess_buff-10000196",
         "code": "",
@@ -1289,7 +1289,7 @@
         "available_gun_type": "0",
         "ui_control": 0
     },
-    "197": {
+    {
         "id": 197,
         "name": "chess_buff-10000197",
         "code": "",
@@ -1304,7 +1304,7 @@
         "available_gun_type": "0",
         "ui_control": 0
     },
-    "198": {
+    {
         "id": 198,
         "name": "chess_buff-10000198",
         "code": "",
@@ -1319,7 +1319,7 @@
         "available_gun_type": "0",
         "ui_control": 0
     },
-    "199": {
+    {
         "id": 199,
         "name": "chess_buff-10000199",
         "code": "FlightChessBuff_5",
@@ -1334,7 +1334,7 @@
         "available_gun_type": "0",
         "ui_control": 0
     },
-    "200": {
+    {
         "id": 200,
         "name": "chess_buff-10000200",
         "code": "",
@@ -1349,7 +1349,7 @@
         "available_gun_type": "0",
         "ui_control": 0
     },
-    "201": {
+    {
         "id": 201,
         "name": "chess_buff-10000201",
         "code": "",
@@ -1364,7 +1364,7 @@
         "available_gun_type": "0",
         "ui_control": 0
     },
-    "202": {
+    {
         "id": 202,
         "name": "chess_buff-10000202",
         "code": "FlightChessBuff_27",
@@ -1379,7 +1379,7 @@
         "available_gun_type": "0",
         "ui_control": 0
     },
-    "203": {
+    {
         "id": 203,
         "name": "chess_buff-10000203",
         "code": "",
@@ -1394,7 +1394,7 @@
         "available_gun_type": "0",
         "ui_control": 0
     },
-    "204": {
+    {
         "id": 204,
         "name": "chess_buff-10000204",
         "code": "",
@@ -1409,7 +1409,7 @@
         "available_gun_type": "0",
         "ui_control": 0
     },
-    "205": {
+    {
         "id": 205,
         "name": "chess_buff-10000205",
         "code": "",
@@ -1424,7 +1424,7 @@
         "available_gun_type": "0",
         "ui_control": 0
     },
-    "206": {
+    {
         "id": 206,
         "name": "chess_buff-10000206",
         "code": "",
@@ -1439,7 +1439,7 @@
         "available_gun_type": "0",
         "ui_control": 0
     },
-    "207": {
+    {
         "id": 207,
         "name": "chess_buff-10000207",
         "code": "FlightChessBuff_22",
@@ -1454,7 +1454,7 @@
         "available_gun_type": "0",
         "ui_control": 0
     },
-    "208": {
+    {
         "id": 208,
         "name": "chess_buff-10000208",
         "code": "",
@@ -1469,7 +1469,7 @@
         "available_gun_type": "0",
         "ui_control": 0
     },
-    "209": {
+    {
         "id": 209,
         "name": "chess_buff-10000209",
         "code": "",
@@ -1484,7 +1484,7 @@
         "available_gun_type": "0",
         "ui_control": 0
     },
-    "210": {
+    {
         "id": 210,
         "name": "chess_buff-10000210",
         "code": "",
@@ -1499,7 +1499,7 @@
         "available_gun_type": "0",
         "ui_control": 0
     },
-    "211": {
+    {
         "id": 211,
         "name": "chess_buff-10000211",
         "code": "",
@@ -1514,7 +1514,7 @@
         "available_gun_type": "0",
         "ui_control": 0
     },
-    "212": {
+    {
         "id": 212,
         "name": "chess_buff-10000212",
         "code": "",
@@ -1529,7 +1529,7 @@
         "available_gun_type": "0",
         "ui_control": 0
     },
-    "213": {
+    {
         "id": 213,
         "name": "chess_buff-10000213",
         "code": "",
@@ -1544,7 +1544,7 @@
         "available_gun_type": "0",
         "ui_control": 0
     },
-    "214": {
+    {
         "id": 214,
         "name": "chess_buff-10000214",
         "code": "",
@@ -1559,7 +1559,7 @@
         "available_gun_type": "0",
         "ui_control": 0
     },
-    "215": {
+    {
         "id": 215,
         "name": "chess_buff-10000215",
         "code": "FlightChessBuff_8",
@@ -1574,7 +1574,7 @@
         "available_gun_type": "0",
         "ui_control": 0
     },
-    "216": {
+    {
         "id": 216,
         "name": "chess_buff-10000216",
         "code": "FlightChessBuff_1",
@@ -1589,7 +1589,7 @@
         "available_gun_type": "0",
         "ui_control": 0
     },
-    "217": {
+    {
         "id": 217,
         "name": "chess_buff-10000217",
         "code": "FlightChessBuff_3",
@@ -1604,7 +1604,7 @@
         "available_gun_type": "0",
         "ui_control": 0
     },
-    "218": {
+    {
         "id": 218,
         "name": "chess_buff-10000218",
         "code": "FlightChessBuff_5",
@@ -1619,7 +1619,7 @@
         "available_gun_type": "0",
         "ui_control": 0
     },
-    "219": {
+    {
         "id": 219,
         "name": "chess_buff-10000219",
         "code": "FlightChessBuff_19",
@@ -1634,7 +1634,7 @@
         "available_gun_type": "0",
         "ui_control": 0
     },
-    "220": {
+    {
         "id": 220,
         "name": "chess_buff-10000220",
         "code": "",
@@ -1649,7 +1649,7 @@
         "available_gun_type": "0",
         "ui_control": 0
     },
-    "221": {
+    {
         "id": 221,
         "name": "chess_buff-10000221",
         "code": "",
@@ -1664,7 +1664,7 @@
         "available_gun_type": "0",
         "ui_control": 0
     },
-    "222": {
+    {
         "id": 222,
         "name": "chess_buff-10000222",
         "code": "FlightChessBuff_10",
@@ -1679,7 +1679,7 @@
         "available_gun_type": "0",
         "ui_control": 0
     },
-    "223": {
+    {
         "id": 223,
         "name": "chess_buff-10000223",
         "code": "FlightChessBuff_8",
@@ -1694,7 +1694,7 @@
         "available_gun_type": "0",
         "ui_control": 0
     },
-    "224": {
+    {
         "id": 224,
         "name": "chess_buff-10000224",
         "code": "FlightChessBuff_5",
@@ -1709,7 +1709,7 @@
         "available_gun_type": "0",
         "ui_control": 0
     },
-    "225": {
+    {
         "id": 225,
         "name": "chess_buff-10000225",
         "code": "",
@@ -1724,7 +1724,7 @@
         "available_gun_type": "0",
         "ui_control": 0
     },
-    "226": {
+    {
         "id": 226,
         "name": "chess_buff-10000226",
         "code": "FlightChessBuff_27",
@@ -1739,7 +1739,7 @@
         "available_gun_type": "0",
         "ui_control": 0
     },
-    "227": {
+    {
         "id": 227,
         "name": "chess_buff-10000227",
         "code": "",
@@ -1754,7 +1754,7 @@
         "available_gun_type": "0",
         "ui_control": 0
     },
-    "228": {
+    {
         "id": 228,
         "name": "chess_buff-10000228",
         "code": "FlightChessBuff_22",
@@ -1769,7 +1769,7 @@
         "available_gun_type": "0",
         "ui_control": 0
     },
-    "229": {
+    {
         "id": 229,
         "name": "chess_buff-10000229",
         "code": "",
@@ -1784,7 +1784,7 @@
         "available_gun_type": "0",
         "ui_control": 0
     },
-    "230": {
+    {
         "id": 230,
         "name": "chess_buff-10000230",
         "code": "",
@@ -1799,7 +1799,7 @@
         "available_gun_type": "0",
         "ui_control": 0
     },
-    "231": {
+    {
         "id": 231,
         "name": "chess_buff-10000231",
         "code": "",
@@ -1814,7 +1814,7 @@
         "available_gun_type": "0",
         "ui_control": 0
     },
-    "232": {
+    {
         "id": 232,
         "name": "chess_buff-10000232",
         "code": "FlightChessBuff_24",
@@ -1829,7 +1829,7 @@
         "available_gun_type": "0",
         "ui_control": 0
     },
-    "233": {
+    {
         "id": 233,
         "name": "chess_buff-10000233",
         "code": "FlightChessBuff_3",
@@ -1844,7 +1844,7 @@
         "available_gun_type": "0",
         "ui_control": 0
     },
-    "234": {
+    {
         "id": 234,
         "name": "chess_buff-10000234",
         "code": "FlightChessBuff_3",
@@ -1859,7 +1859,7 @@
         "available_gun_type": "0",
         "ui_control": 0
     },
-    "235": {
+    {
         "id": 235,
         "name": "chess_buff-10000235",
         "code": "FlightChessBuff_3",
@@ -1874,7 +1874,7 @@
         "available_gun_type": "0",
         "ui_control": 0
     },
-    "236": {
+    {
         "id": 236,
         "name": "chess_buff-10000236",
         "code": "FlightChessBuff_3",
@@ -1889,7 +1889,7 @@
         "available_gun_type": "0",
         "ui_control": 0
     },
-    "237": {
+    {
         "id": 237,
         "name": "chess_buff-10000237",
         "code": "FlightChessBuff_3",
@@ -1904,7 +1904,7 @@
         "available_gun_type": "0",
         "ui_control": 0
     },
-    "238": {
+    {
         "id": 238,
         "name": "chess_buff-10000238",
         "code": "FlightChessBuff_3",
@@ -1919,7 +1919,7 @@
         "available_gun_type": "0",
         "ui_control": 0
     },
-    "239": {
+    {
         "id": 239,
         "name": "chess_buff-10000239",
         "code": "FlightChessBuff_3",
@@ -1934,7 +1934,7 @@
         "available_gun_type": "0",
         "ui_control": 0
     },
-    "240": {
+    {
         "id": 240,
         "name": "chess_buff-10000240",
         "code": "FlightChessBuff_3",
@@ -1949,7 +1949,7 @@
         "available_gun_type": "0",
         "ui_control": 0
     },
-    "241": {
+    {
         "id": 241,
         "name": "chess_buff-10000241",
         "code": "",
@@ -1964,7 +1964,7 @@
         "available_gun_type": "0",
         "ui_control": 0
     },
-    "242": {
+    {
         "id": 242,
         "name": "chess_buff-10000242",
         "code": "FlightChessBuff_25",
@@ -1979,7 +1979,7 @@
         "available_gun_type": "0",
         "ui_control": 0
     },
-    "243": {
+    {
         "id": 243,
         "name": "chess_buff-10000243",
         "code": "FlightChessBuff_25",
@@ -1994,7 +1994,7 @@
         "available_gun_type": "0",
         "ui_control": 0
     },
-    "244": {
+    {
         "id": 244,
         "name": "chess_buff-10000244",
         "code": "",
@@ -2009,7 +2009,7 @@
         "available_gun_type": "0",
         "ui_control": 0
     },
-    "246": {
+    {
         "id": 246,
         "name": "chess_buff-10000246",
         "code": "FlightChessBuff_30",
@@ -2024,7 +2024,7 @@
         "available_gun_type": "0",
         "ui_control": 0
     },
-    "247": {
+    {
         "id": 247,
         "name": "chess_buff-10000247",
         "code": "FlightChessBuff_29",
@@ -2039,7 +2039,7 @@
         "available_gun_type": "0",
         "ui_control": 0
     },
-    "248": {
+    {
         "id": 248,
         "name": "chess_buff-10000248",
         "code": "",
@@ -2054,7 +2054,7 @@
         "available_gun_type": "0",
         "ui_control": 0
     },
-    "249": {
+    {
         "id": 249,
         "name": "chess_buff-10000249",
         "code": "",
@@ -2069,7 +2069,7 @@
         "available_gun_type": "0",
         "ui_control": 0
     },
-    "250": {
+    {
         "id": 250,
         "name": "chess_buff-10000250",
         "code": "",
@@ -2084,7 +2084,7 @@
         "available_gun_type": "0",
         "ui_control": 0
     },
-    "251": {
+    {
         "id": 251,
         "name": "chess_buff-10000251",
         "code": "",
@@ -2099,7 +2099,7 @@
         "available_gun_type": "0",
         "ui_control": 0
     },
-    "252": {
+    {
         "id": 252,
         "name": "chess_buff-10000252",
         "code": "",
@@ -2114,7 +2114,7 @@
         "available_gun_type": "0",
         "ui_control": 0
     },
-    "253": {
+    {
         "id": 253,
         "name": "chess_buff-10000253",
         "code": "",
@@ -2129,7 +2129,7 @@
         "available_gun_type": "0",
         "ui_control": 0
     },
-    "254": {
+    {
         "id": 254,
         "name": "chess_buff-10000254",
         "code": "FlightChessBuff_27",
@@ -2144,7 +2144,7 @@
         "available_gun_type": "0",
         "ui_control": 0
     },
-    "255": {
+    {
         "id": 255,
         "name": "chess_buff-10000255",
         "code": "FlightChessBuff_8",
@@ -2159,7 +2159,7 @@
         "available_gun_type": "0",
         "ui_control": 0
     },
-    "256": {
+    {
         "id": 256,
         "name": "chess_buff-10000256",
         "code": "FlightChessBuff_3",
@@ -2174,7 +2174,7 @@
         "available_gun_type": "0",
         "ui_control": 0
     },
-    "257": {
+    {
         "id": 257,
         "name": "chess_buff-10000257",
         "code": "FlightChessBuff_8",
@@ -2189,7 +2189,7 @@
         "available_gun_type": "0",
         "ui_control": 0
     },
-    "258": {
+    {
         "id": 258,
         "name": "chess_buff-10000258",
         "code": "FlightChessBuff_1",
@@ -2204,7 +2204,7 @@
         "available_gun_type": "0",
         "ui_control": 0
     },
-    "259": {
+    {
         "id": 259,
         "name": "chess_buff-10000259",
         "code": "",
@@ -2219,7 +2219,7 @@
         "available_gun_type": "0",
         "ui_control": 0
     },
-    "260": {
+    {
         "id": 260,
         "name": "chess_buff-10000260",
         "code": "",
@@ -2234,7 +2234,7 @@
         "available_gun_type": "0",
         "ui_control": 0
     },
-    "261": {
+    {
         "id": 261,
         "name": "chess_buff-10000261",
         "code": "",
@@ -2249,7 +2249,7 @@
         "available_gun_type": "0",
         "ui_control": 0
     },
-    "262": {
+    {
         "id": 262,
         "name": "chess_buff-10000262",
         "code": "",
@@ -2264,7 +2264,7 @@
         "available_gun_type": "0",
         "ui_control": 0
     },
-    "263": {
+    {
         "id": 263,
         "name": "chess_buff-10000263",
         "code": "FlightChessBuff_1",
@@ -2279,7 +2279,7 @@
         "available_gun_type": "0",
         "ui_control": 0
     },
-    "264": {
+    {
         "id": 264,
         "name": "chess_buff-10000264",
         "code": "",
@@ -2294,7 +2294,7 @@
         "available_gun_type": "0",
         "ui_control": 0
     },
-    "265": {
+    {
         "id": 265,
         "name": "chess_buff-10000265",
         "code": "FlightChessBuff_5",
@@ -2309,7 +2309,7 @@
         "available_gun_type": "0",
         "ui_control": 0
     },
-    "266": {
+    {
         "id": 266,
         "name": "chess_buff-10000266",
         "code": "",
@@ -2324,7 +2324,7 @@
         "available_gun_type": "0",
         "ui_control": 0
     },
-    "267": {
+    {
         "id": 267,
         "name": "chess_buff-10000267",
         "code": "",
@@ -2339,7 +2339,7 @@
         "available_gun_type": "0",
         "ui_control": 0
     },
-    "268": {
+    {
         "id": 268,
         "name": "chess_buff-10000268",
         "code": "FlightChessBuff_28",
@@ -2354,7 +2354,7 @@
         "available_gun_type": "0",
         "ui_control": 0
     },
-    "269": {
+    {
         "id": 269,
         "name": "chess_buff-10000269",
         "code": "FlightChessBuff_28",
@@ -2369,7 +2369,7 @@
         "available_gun_type": "0",
         "ui_control": 0
     },
-    "270": {
+    {
         "id": 270,
         "name": "chess_buff-10000270",
         "code": "FlightChessBuff_27",
@@ -2384,7 +2384,7 @@
         "available_gun_type": "0",
         "ui_control": 0
     },
-    "271": {
+    {
         "id": 271,
         "name": "chess_buff-10000271",
         "code": "",
@@ -2399,7 +2399,7 @@
         "available_gun_type": "0",
         "ui_control": 0
     },
-    "272": {
+    {
         "id": 272,
         "name": "chess_buff-10000272",
         "code": "FlightChessBuff_1",
@@ -2414,7 +2414,7 @@
         "available_gun_type": "0",
         "ui_control": 0
     },
-    "273": {
+    {
         "id": 273,
         "name": "chess_buff-10000273",
         "code": "FlightChessBuff_3",
@@ -2429,7 +2429,7 @@
         "available_gun_type": "0",
         "ui_control": 0
     },
-    "274": {
+    {
         "id": 274,
         "name": "chess_buff-10000274",
         "code": "FlightChessBuff_8",
@@ -2444,7 +2444,7 @@
         "available_gun_type": "0",
         "ui_control": 0
     },
-    "275": {
+    {
         "id": 275,
         "name": "chess_buff-10000275",
         "code": "FlightChessBuff_5",
@@ -2459,7 +2459,7 @@
         "available_gun_type": "0",
         "ui_control": 0
     },
-    "276": {
+    {
         "id": 276,
         "name": "chess_buff-10000276",
         "code": "",
@@ -2474,7 +2474,7 @@
         "available_gun_type": "0",
         "ui_control": 0
     },
-    "277": {
+    {
         "id": 277,
         "name": "chess_buff-10000277",
         "code": "FlightChessBuff_27",
@@ -2489,7 +2489,7 @@
         "available_gun_type": "0",
         "ui_control": 0
     },
-    "278": {
+    {
         "id": 278,
         "name": "chess_buff-10000278",
         "code": "",
@@ -2504,7 +2504,7 @@
         "available_gun_type": "0",
         "ui_control": 0
     },
-    "279": {
+    {
         "id": 279,
         "name": "chess_buff-10000279",
         "code": "",
@@ -2519,7 +2519,7 @@
         "available_gun_type": "0",
         "ui_control": 0
     },
-    "280": {
+    {
         "id": 280,
         "name": "chess_buff-10000280",
         "code": "",
@@ -2534,7 +2534,7 @@
         "available_gun_type": "0",
         "ui_control": 0
     },
-    "281": {
+    {
         "id": 281,
         "name": "chess_buff-10000281",
         "code": "",
@@ -2549,7 +2549,7 @@
         "available_gun_type": "0",
         "ui_control": 0
     },
-    "282": {
+    {
         "id": 282,
         "name": "chess_buff-10000282",
         "code": "",
@@ -2564,7 +2564,7 @@
         "available_gun_type": "0",
         "ui_control": 0
     },
-    "283": {
+    {
         "id": 283,
         "name": "chess_buff-10000283",
         "code": "",
@@ -2579,7 +2579,7 @@
         "available_gun_type": "0",
         "ui_control": 0
     },
-    "284": {
+    {
         "id": 284,
         "name": "chess_buff-10000284",
         "code": "",
@@ -2594,7 +2594,7 @@
         "available_gun_type": "0",
         "ui_control": 0
     },
-    "285": {
+    {
         "id": 285,
         "name": "chess_buff-10000285",
         "code": "",
@@ -2609,7 +2609,7 @@
         "available_gun_type": "0",
         "ui_control": 0
     },
-    "286": {
+    {
         "id": 286,
         "name": "chess_buff-10000286",
         "code": "",
@@ -2624,7 +2624,7 @@
         "available_gun_type": "0",
         "ui_control": 0
     },
-    "287": {
+    {
         "id": 287,
         "name": "chess_buff-10000287",
         "code": "FlightChessBuff_3",
@@ -2639,7 +2639,7 @@
         "available_gun_type": "0",
         "ui_control": 0
     },
-    "288": {
+    {
         "id": 288,
         "name": "chess_buff-10000288",
         "code": "",
@@ -2654,4 +2654,4 @@
         "available_gun_type": "0",
         "ui_control": 0
     }
-}
+]

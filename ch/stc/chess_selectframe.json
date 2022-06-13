@@ -1,5 +1,5 @@
-{
-    "1": {
+[
+    {
         "id": 1,
         "select_num": 2,
         "itemlanguage_id": "280125,280057",
@@ -7,7 +7,7 @@
         "des": "chess_selectframe-10000001",
         "preview": "AttentionGroup,ChessOnboard"
     },
-    "2": {
+    {
         "id": 2,
         "select_num": 6,
         "itemlanguage_id": "280235,280236,280237,280238,280239,280240",
@@ -15,7 +15,7 @@
         "des": "chess_selectframe-10000002",
         "preview": "ReturnButton"
     },
-    "101": {
+    {
         "id": 101,
         "select_num": 2,
         "itemlanguage_id": "280125,280057",
@@ -23,7 +23,7 @@
         "des": "chess_selectframe-10000101",
         "preview": "AttentionGroup,ChessOnboard"
     },
-    "106": {
+    {
         "id": 106,
         "select_num": 2,
         "itemlanguage_id": "280125,280057",
@@ -31,4 +31,4 @@
         "des": "chess_selectframe-10000106",
         "preview": "AttentionGroup,ChessOnboard"
     }
-}
+]

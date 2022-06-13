@@ -1,5 +1,5 @@
-{
-    "2011": {
+[
+    {
         "id": 2011,
         "name": "squad_chip-10002011",
         "rank": 2,
@@ -22,7 +22,7 @@
         "fit_squads": "",
         "develop_duration": 28800
     },
-    "2021": {
+    {
         "id": 2021,
         "name": "squad_chip-10002021",
         "rank": 2,
@@ -45,7 +45,7 @@
         "fit_squads": "",
         "develop_duration": 28800
     },
-    "2031": {
+    {
         "id": 2031,
         "name": "squad_chip-10002031",
         "rank": 2,
@@ -68,7 +68,7 @@
         "fit_squads": "",
         "develop_duration": 28800
     },
-    "2041": {
+    {
         "id": 2041,
         "name": "squad_chip-10002041",
         "rank": 2,
@@ -91,7 +91,7 @@
         "fit_squads": "",
         "develop_duration": 28800
     },
-    "2051": {
+    {
         "id": 2051,
         "name": "squad_chip-10002051",
         "rank": 2,
@@ -114,7 +114,7 @@
         "fit_squads": "",
         "develop_duration": 28800
     },
-    "2052": {
+    {
         "id": 2052,
         "name": "squad_chip-10002052",
         "rank": 2,
@@ -137,7 +137,7 @@
         "fit_squads": "",
         "develop_duration": 28800
     },
-    "2061": {
+    {
         "id": 2061,
         "name": "squad_chip-10002061",
         "rank": 2,
@@ -160,7 +160,7 @@
         "fit_squads": "",
         "develop_duration": 28800
     },
-    "3011": {
+    {
         "id": 3011,
         "name": "squad_chip-10003011",
         "rank": 3,
@@ -183,7 +183,7 @@
         "fit_squads": "",
         "develop_duration": 28800
     },
-    "3021": {
+    {
         "id": 3021,
         "name": "squad_chip-10003021",
         "rank": 3,
@@ -206,7 +206,7 @@
         "fit_squads": "",
         "develop_duration": 28800
     },
-    "3031": {
+    {
         "id": 3031,
         "name": "squad_chip-10003031",
         "rank": 3,
@@ -229,7 +229,7 @@
         "fit_squads": "",
         "develop_duration": 28800
     },
-    "3041": {
+    {
         "id": 3041,
         "name": "squad_chip-10003041",
         "rank": 3,
@@ -252,7 +252,7 @@
         "fit_squads": "",
         "develop_duration": 28800
     },
-    "3051": {
+    {
         "id": 3051,
         "name": "squad_chip-10003051",
         "rank": 3,
@@ -275,7 +275,7 @@
         "fit_squads": "",
         "develop_duration": 28800
     },
-    "3052": {
+    {
         "id": 3052,
         "name": "squad_chip-10003052",
         "rank": 3,
@@ -298,7 +298,7 @@
         "fit_squads": "",
         "develop_duration": 28800
     },
-    "3061": {
+    {
         "id": 3061,
         "name": "squad_chip-10003061",
         "rank": 3,
@@ -321,7 +321,7 @@
         "fit_squads": "",
         "develop_duration": 28800
     },
-    "4011": {
+    {
         "id": 4011,
         "name": "squad_chip-10004011",
         "rank": 4,
@@ -344,7 +344,7 @@
         "fit_squads": "",
         "develop_duration": 28800
     },
-    "4021": {
+    {
         "id": 4021,
         "name": "squad_chip-10004021",
         "rank": 4,
@@ -367,7 +367,7 @@
         "fit_squads": "",
         "develop_duration": 28800
     },
-    "4031": {
+    {
         "id": 4031,
         "name": "squad_chip-10004031",
         "rank": 4,
@@ -390,7 +390,7 @@
         "fit_squads": "",
         "develop_duration": 28800
     },
-    "4041": {
+    {
         "id": 4041,
         "name": "squad_chip-10004041",
         "rank": 4,
@@ -413,7 +413,7 @@
         "fit_squads": "",
         "develop_duration": 28800
     },
-    "4051": {
+    {
         "id": 4051,
         "name": "squad_chip-10004051",
         "rank": 4,
@@ -436,7 +436,7 @@
         "fit_squads": "",
         "develop_duration": 28800
     },
-    "4052": {
+    {
         "id": 4052,
         "name": "squad_chip-10004052",
         "rank": 4,
@@ -459,7 +459,7 @@
         "fit_squads": "",
         "develop_duration": 28800
     },
-    "4061": {
+    {
         "id": 4061,
         "name": "squad_chip-10004061",
         "rank": 4,
@@ -482,7 +482,7 @@
         "fit_squads": "",
         "develop_duration": 28800
     },
-    "5011": {
+    {
         "id": 5011,
         "name": "squad_chip-10005011",
         "rank": 5,
@@ -505,7 +505,7 @@
         "fit_squads": "",
         "develop_duration": 28800
     },
-    "5021": {
+    {
         "id": 5021,
         "name": "squad_chip-10005021",
         "rank": 5,
@@ -528,7 +528,7 @@
         "fit_squads": "",
         "develop_duration": 28800
     },
-    "5031": {
+    {
         "id": 5031,
         "name": "squad_chip-10005031",
         "rank": 5,
@@ -551,7 +551,7 @@
         "fit_squads": "",
         "develop_duration": 28800
     },
-    "5041": {
+    {
         "id": 5041,
         "name": "squad_chip-10005041",
         "rank": 5,
@@ -574,7 +574,7 @@
         "fit_squads": "",
         "develop_duration": 28800
     },
-    "5051": {
+    {
         "id": 5051,
         "name": "squad_chip-10005051",
         "rank": 5,
@@ -597,7 +597,7 @@
         "fit_squads": "",
         "develop_duration": 28800
     },
-    "5052": {
+    {
         "id": 5052,
         "name": "squad_chip-10005052",
         "rank": 5,
@@ -620,7 +620,7 @@
         "fit_squads": "",
         "develop_duration": 28800
     },
-    "5061": {
+    {
         "id": 5061,
         "name": "squad_chip-10005061",
         "rank": 5,
@@ -643,4 +643,4 @@
         "fit_squads": "",
         "develop_duration": 28800
     }
-}
+]

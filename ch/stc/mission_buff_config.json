@@ -1,5 +1,5 @@
-{
-    "1": {
+[
+    {
         "id": 1,
         "name": "mission_buff_config-10000001",
         "description": "mission_buff_config-20000001",
@@ -31,7 +31,7 @@
         "carry_mission_skill": "",
         "sangvis_chip_id": ""
     },
-    "2": {
+    {
         "id": 2,
         "name": "mission_buff_config-10000002",
         "description": "mission_buff_config-20000002",
@@ -63,7 +63,7 @@
         "carry_mission_skill": "",
         "sangvis_chip_id": ""
     },
-    "3": {
+    {
         "id": 3,
         "name": "mission_buff_config-10000003",
         "description": "mission_buff_config-20000003",
@@ -95,7 +95,7 @@
         "carry_mission_skill": "",
         "sangvis_chip_id": ""
     },
-    "5": {
+    {
         "id": 5,
         "name": "mission_buff_config-10000005",
         "description": "mission_buff_config-20000005",
@@ -127,7 +127,7 @@
         "carry_mission_skill": "",
         "sangvis_chip_id": ""
     },
-    "6": {
+    {
         "id": 6,
         "name": "mission_buff_config-10000006",
         "description": "mission_buff_config-20000006",
@@ -159,7 +159,7 @@
         "carry_mission_skill": "",
         "sangvis_chip_id": ""
     },
-    "8": {
+    {
         "id": 8,
         "name": "mission_buff_config-10000008",
         "description": "mission_buff_config-20000008",
@@ -191,7 +191,7 @@
         "carry_mission_skill": "",
         "sangvis_chip_id": ""
     },
-    "13": {
+    {
         "id": 13,
         "name": "mission_buff_config-10000013",
         "description": "mission_buff_config-20000013",
@@ -223,7 +223,7 @@
         "carry_mission_skill": "",
         "sangvis_chip_id": ""
     },
-    "14": {
+    {
         "id": 14,
         "name": "mission_buff_config-10000014",
         "description": "mission_buff_config-20000014",
@@ -255,7 +255,7 @@
         "carry_mission_skill": "",
         "sangvis_chip_id": ""
     },
-    "15": {
+    {
         "id": 15,
         "name": "mission_buff_config-10000015",
         "description": "mission_buff_config-20000015",
@@ -287,7 +287,7 @@
         "carry_mission_skill": "",
         "sangvis_chip_id": ""
     },
-    "1004": {
+    {
         "id": 1004,
         "name": "mission_buff_config-10001004",
         "description": "mission_buff_config-20001004",
@@ -319,7 +319,7 @@
         "carry_mission_skill": "",
         "sangvis_chip_id": ""
     },
-    "1301": {
+    {
         "id": 1301,
         "name": "mission_buff_config-10001301",
         "description": "mission_buff_config-20001301",
@@ -351,7 +351,7 @@
         "carry_mission_skill": "",
         "sangvis_chip_id": ""
     },
-    "1302": {
+    {
         "id": 1302,
         "name": "mission_buff_config-10001302",
         "description": "mission_buff_config-20001302",
@@ -383,7 +383,7 @@
         "carry_mission_skill": "",
         "sangvis_chip_id": ""
     },
-    "1303": {
+    {
         "id": 1303,
         "name": "mission_buff_config-10001303",
         "description": "mission_buff_config-20001303",
@@ -415,7 +415,7 @@
         "carry_mission_skill": "",
         "sangvis_chip_id": ""
     },
-    "1304": {
+    {
         "id": 1304,
         "name": "mission_buff_config-10001304",
         "description": "mission_buff_config-20001304",
@@ -447,7 +447,7 @@
         "carry_mission_skill": "",
         "sangvis_chip_id": ""
     },
-    "1305": {
+    {
         "id": 1305,
         "name": "mission_buff_config-10001305",
         "description": "mission_buff_config-20001305",
@@ -479,7 +479,7 @@
         "carry_mission_skill": "",
         "sangvis_chip_id": ""
     },
-    "1306": {
+    {
         "id": 1306,
         "name": "mission_buff_config-10001306",
         "description": "mission_buff_config-20001306",
@@ -511,7 +511,7 @@
         "carry_mission_skill": "",
         "sangvis_chip_id": ""
     },
-    "1307": {
+    {
         "id": 1307,
         "name": "mission_buff_config-10001307",
         "description": "mission_buff_config-20001307",
@@ -543,7 +543,7 @@
         "carry_mission_skill": "",
         "sangvis_chip_id": ""
     },
-    "1308": {
+    {
         "id": 1308,
         "name": "mission_buff_config-10001308",
         "description": "mission_buff_config-20001308",
@@ -575,7 +575,7 @@
         "carry_mission_skill": "",
         "sangvis_chip_id": ""
     },
-    "1309": {
+    {
         "id": 1309,
         "name": "mission_buff_config-10001309",
         "description": "mission_buff_config-20001309",
@@ -607,7 +607,7 @@
         "carry_mission_skill": "",
         "sangvis_chip_id": ""
     },
-    "1310": {
+    {
         "id": 1310,
         "name": "mission_buff_config-10001310",
         "description": "mission_buff_config-20001310",
@@ -639,7 +639,7 @@
         "carry_mission_skill": "",
         "sangvis_chip_id": ""
     },
-    "1501": {
+    {
         "id": 1501,
         "name": "mission_buff_config-10001501",
         "description": "mission_buff_config-20001501",
@@ -671,7 +671,7 @@
         "carry_mission_skill": "",
         "sangvis_chip_id": ""
     },
-    "1502": {
+    {
         "id": 1502,
         "name": "mission_buff_config-10001502",
         "description": "mission_buff_config-20001502",
@@ -703,7 +703,7 @@
         "carry_mission_skill": "",
         "sangvis_chip_id": ""
     },
-    "1503": {
+    {
         "id": 1503,
         "name": "mission_buff_config-10001503",
         "description": "mission_buff_config-20001503",
@@ -735,7 +735,7 @@
         "carry_mission_skill": "",
         "sangvis_chip_id": ""
     },
-    "1504": {
+    {
         "id": 1504,
         "name": "mission_buff_config-10001504",
         "description": "mission_buff_config-20001504",
@@ -767,7 +767,7 @@
         "carry_mission_skill": "",
         "sangvis_chip_id": ""
     },
-    "1505": {
+    {
         "id": 1505,
         "name": "mission_buff_config-10001505",
         "description": "mission_buff_config-20001505",
@@ -799,7 +799,7 @@
         "carry_mission_skill": "",
         "sangvis_chip_id": ""
     },
-    "1506": {
+    {
         "id": 1506,
         "name": "mission_buff_config-10001506",
         "description": "mission_buff_config-20001506",
@@ -831,7 +831,7 @@
         "carry_mission_skill": "",
         "sangvis_chip_id": ""
     },
-    "1507": {
+    {
         "id": 1507,
         "name": "mission_buff_config-10001507",
         "description": "mission_buff_config-20001507",
@@ -863,7 +863,7 @@
         "carry_mission_skill": "",
         "sangvis_chip_id": ""
     },
-    "1508": {
+    {
         "id": 1508,
         "name": "mission_buff_config-10001508",
         "description": "mission_buff_config-20001508",
@@ -895,7 +895,7 @@
         "carry_mission_skill": "",
         "sangvis_chip_id": ""
     },
-    "1509": {
+    {
         "id": 1509,
         "name": "mission_buff_config-10001509",
         "description": "mission_buff_config-20001509",
@@ -927,7 +927,7 @@
         "carry_mission_skill": "",
         "sangvis_chip_id": ""
     },
-    "1510": {
+    {
         "id": 1510,
         "name": "mission_buff_config-10001510",
         "description": "mission_buff_config-20001510",
@@ -959,7 +959,7 @@
         "carry_mission_skill": "",
         "sangvis_chip_id": ""
     },
-    "1700": {
+    {
         "id": 1700,
         "name": "mission_buff_config-10001700",
         "description": "mission_buff_config-20001700",
@@ -991,7 +991,7 @@
         "carry_mission_skill": "",
         "sangvis_chip_id": ""
     },
-    "1701": {
+    {
         "id": 1701,
         "name": "mission_buff_config-10001701",
         "description": "mission_buff_config-20001701",
@@ -1023,7 +1023,7 @@
         "carry_mission_skill": "",
         "sangvis_chip_id": ""
     },
-    "1702": {
+    {
         "id": 1702,
         "name": "mission_buff_config-10001702",
         "description": "mission_buff_config-20001702",
@@ -1055,7 +1055,7 @@
         "carry_mission_skill": "",
         "sangvis_chip_id": ""
     },
-    "1801": {
+    {
         "id": 1801,
         "name": "mission_buff_config-10001801",
         "description": "mission_buff_config-20001801",
@@ -1087,7 +1087,7 @@
         "carry_mission_skill": "",
         "sangvis_chip_id": ""
     },
-    "1811": {
+    {
         "id": 1811,
         "name": "mission_buff_config-10001811",
         "description": "mission_buff_config-20001811",
@@ -1119,7 +1119,7 @@
         "carry_mission_skill": "",
         "sangvis_chip_id": ""
     },
-    "1900": {
+    {
         "id": 1900,
         "name": "mission_buff_config-10001900",
         "description": "mission_buff_config-20001900",
@@ -1151,7 +1151,7 @@
         "carry_mission_skill": "",
         "sangvis_chip_id": ""
     },
-    "2000": {
+    {
         "id": 2000,
         "name": "mission_buff_config-10002000",
         "description": "mission_buff_config-20002000",
@@ -1183,7 +1183,7 @@
         "carry_mission_skill": "",
         "sangvis_chip_id": ""
     },
-    "2100": {
+    {
         "id": 2100,
         "name": "mission_buff_config-10002100",
         "description": "mission_buff_config-20002100",
@@ -1215,7 +1215,7 @@
         "carry_mission_skill": "",
         "sangvis_chip_id": ""
     },
-    "2300": {
+    {
         "id": 2300,
         "name": "mission_buff_config-10002300",
         "description": "mission_buff_config-20002300",
@@ -1247,7 +1247,7 @@
         "carry_mission_skill": "",
         "sangvis_chip_id": ""
     },
-    "10001": {
+    {
         "id": 10001,
         "name": "mission_buff_config-10010001",
         "description": "mission_buff_config-20010001",
@@ -1279,7 +1279,7 @@
         "carry_mission_skill": "10002",
         "sangvis_chip_id": ""
     },
-    "10086": {
+    {
         "id": 10086,
         "name": "mission_buff_config-10010086",
         "description": "mission_buff_config-20010086",
@@ -1311,7 +1311,7 @@
         "carry_mission_skill": "",
         "sangvis_chip_id": ""
     },
-    "10101": {
+    {
         "id": 10101,
         "name": "mission_buff_config-10010101",
         "description": "mission_buff_config-20010101",
@@ -1343,7 +1343,7 @@
         "carry_mission_skill": "10102",
         "sangvis_chip_id": ""
     },
-    "20101": {
+    {
         "id": 20101,
         "name": "mission_buff_config-10020101",
         "description": "mission_buff_config-20020101",
@@ -1375,7 +1375,7 @@
         "carry_mission_skill": "",
         "sangvis_chip_id": ""
     },
-    "20102": {
+    {
         "id": 20102,
         "name": "mission_buff_config-10020102",
         "description": "mission_buff_config-20020102",
@@ -1407,7 +1407,7 @@
         "carry_mission_skill": "",
         "sangvis_chip_id": ""
     },
-    "20201": {
+    {
         "id": 20201,
         "name": "mission_buff_config-10020201",
         "description": "mission_buff_config-20020201",
@@ -1439,7 +1439,7 @@
         "carry_mission_skill": "",
         "sangvis_chip_id": ""
     },
-    "20202": {
+    {
         "id": 20202,
         "name": "mission_buff_config-10020202",
         "description": "mission_buff_config-20020202",
@@ -1471,7 +1471,7 @@
         "carry_mission_skill": "",
         "sangvis_chip_id": ""
     },
-    "20301": {
+    {
         "id": 20301,
         "name": "mission_buff_config-10020301",
         "description": "mission_buff_config-20020301",
@@ -1503,7 +1503,7 @@
         "carry_mission_skill": "",
         "sangvis_chip_id": ""
     },
-    "20302": {
+    {
         "id": 20302,
         "name": "mission_buff_config-10020302",
         "description": "mission_buff_config-20020302",
@@ -1535,7 +1535,7 @@
         "carry_mission_skill": "",
         "sangvis_chip_id": ""
     },
-    "50000": {
+    {
         "id": 50000,
         "name": "mission_buff_config-10050000",
         "description": "mission_buff_config-20050000",
@@ -1567,7 +1567,7 @@
         "carry_mission_skill": "",
         "sangvis_chip_id": ""
     },
-    "50001": {
+    {
         "id": 50001,
         "name": "mission_buff_config-10050001",
         "description": "mission_buff_config-20050001",
@@ -1599,7 +1599,7 @@
         "carry_mission_skill": "",
         "sangvis_chip_id": ""
     },
-    "50002": {
+    {
         "id": 50002,
         "name": "mission_buff_config-10050002",
         "description": "mission_buff_config-20050002",
@@ -1631,7 +1631,7 @@
         "carry_mission_skill": "",
         "sangvis_chip_id": ""
     },
-    "50003": {
+    {
         "id": 50003,
         "name": "mission_buff_config-10050003",
         "description": "mission_buff_config-20050003",
@@ -1663,7 +1663,7 @@
         "carry_mission_skill": "",
         "sangvis_chip_id": ""
     },
-    "50004": {
+    {
         "id": 50004,
         "name": "mission_buff_config-10050004",
         "description": "mission_buff_config-20050004",
@@ -1695,7 +1695,7 @@
         "carry_mission_skill": "",
         "sangvis_chip_id": ""
     },
-    "50005": {
+    {
         "id": 50005,
         "name": "mission_buff_config-10050005",
         "description": "mission_buff_config-20050005",
@@ -1727,7 +1727,7 @@
         "carry_mission_skill": "",
         "sangvis_chip_id": ""
     },
-    "50006": {
+    {
         "id": 50006,
         "name": "mission_buff_config-10050006",
         "description": "mission_buff_config-20050006",
@@ -1759,7 +1759,7 @@
         "carry_mission_skill": "",
         "sangvis_chip_id": ""
     },
-    "50007": {
+    {
         "id": 50007,
         "name": "mission_buff_config-10050007",
         "description": "mission_buff_config-20050007",
@@ -1791,7 +1791,7 @@
         "carry_mission_skill": "",
         "sangvis_chip_id": ""
     },
-    "50008": {
+    {
         "id": 50008,
         "name": "mission_buff_config-10050008",
         "description": "mission_buff_config-20050008",
@@ -1823,7 +1823,7 @@
         "carry_mission_skill": "",
         "sangvis_chip_id": ""
     },
-    "363001": {
+    {
         "id": 363001,
         "name": "mission_buff_config-10363001",
         "description": "mission_buff_config-20363001",
@@ -1855,7 +1855,7 @@
         "carry_mission_skill": "363001",
         "sangvis_chip_id": ""
     },
-    "363002": {
+    {
         "id": 363002,
         "name": "mission_buff_config-10363002",
         "description": "mission_buff_config-20363002",
@@ -1887,7 +1887,7 @@
         "carry_mission_skill": "363002",
         "sangvis_chip_id": ""
     },
-    "381402": {
+    {
         "id": 381402,
         "name": "mission_buff_config-10381402",
         "description": "mission_buff_config-20381402",
@@ -1919,7 +1919,7 @@
         "carry_mission_skill": "",
         "sangvis_chip_id": ""
     },
-    "381403": {
+    {
         "id": 381403,
         "name": "mission_buff_config-10381403",
         "description": "mission_buff_config-20381403",
@@ -1951,7 +1951,7 @@
         "carry_mission_skill": "",
         "sangvis_chip_id": ""
     },
-    "381404": {
+    {
         "id": 381404,
         "name": "mission_buff_config-10381404",
         "description": "mission_buff_config-20381404",
@@ -1983,7 +1983,7 @@
         "carry_mission_skill": "",
         "sangvis_chip_id": ""
     },
-    "381405": {
+    {
         "id": 381405,
         "name": "mission_buff_config-10381405",
         "description": "mission_buff_config-20381405",
@@ -2015,7 +2015,7 @@
         "carry_mission_skill": "",
         "sangvis_chip_id": ""
     },
-    "381406": {
+    {
         "id": 381406,
         "name": "mission_buff_config-10381406",
         "description": "mission_buff_config-20381406",
@@ -2047,7 +2047,7 @@
         "carry_mission_skill": "",
         "sangvis_chip_id": ""
     },
-    "381407": {
+    {
         "id": 381407,
         "name": "mission_buff_config-10381407",
         "description": "mission_buff_config-20381407",
@@ -2079,7 +2079,7 @@
         "carry_mission_skill": "",
         "sangvis_chip_id": ""
     },
-    "381408": {
+    {
         "id": 381408,
         "name": "mission_buff_config-10381408",
         "description": "mission_buff_config-20381408",
@@ -2111,7 +2111,7 @@
         "carry_mission_skill": "",
         "sangvis_chip_id": ""
     },
-    "381409": {
+    {
         "id": 381409,
         "name": "mission_buff_config-10381409",
         "description": "mission_buff_config-20381409",
@@ -2143,7 +2143,7 @@
         "carry_mission_skill": "",
         "sangvis_chip_id": ""
     },
-    "381410": {
+    {
         "id": 381410,
         "name": "mission_buff_config-10381410",
         "description": "mission_buff_config-20381410",
@@ -2175,7 +2175,7 @@
         "carry_mission_skill": "",
         "sangvis_chip_id": ""
     },
-    "381411": {
+    {
         "id": 381411,
         "name": "mission_buff_config-10381411",
         "description": "mission_buff_config-20381411",
@@ -2207,7 +2207,7 @@
         "carry_mission_skill": "",
         "sangvis_chip_id": ""
     },
-    "381412": {
+    {
         "id": 381412,
         "name": "mission_buff_config-10381412",
         "description": "mission_buff_config-20381412",
@@ -2239,7 +2239,7 @@
         "carry_mission_skill": "",
         "sangvis_chip_id": ""
     },
-    "381413": {
+    {
         "id": 381413,
         "name": "mission_buff_config-10381413",
         "description": "mission_buff_config-20381413",
@@ -2271,7 +2271,7 @@
         "carry_mission_skill": "",
         "sangvis_chip_id": ""
     },
-    "381414": {
+    {
         "id": 381414,
         "name": "mission_buff_config-10381414",
         "description": "mission_buff_config-20381414",
@@ -2303,7 +2303,7 @@
         "carry_mission_skill": "",
         "sangvis_chip_id": ""
     },
-    "381415": {
+    {
         "id": 381415,
         "name": "mission_buff_config-10381415",
         "description": "mission_buff_config-20381415",
@@ -2335,7 +2335,7 @@
         "carry_mission_skill": "",
         "sangvis_chip_id": ""
     },
-    "381416": {
+    {
         "id": 381416,
         "name": "mission_buff_config-10381416",
         "description": "mission_buff_config-20381416",
@@ -2367,7 +2367,7 @@
         "carry_mission_skill": "",
         "sangvis_chip_id": ""
     },
-    "381417": {
+    {
         "id": 381417,
         "name": "mission_buff_config-10381417",
         "description": "mission_buff_config-20381417",
@@ -2399,7 +2399,7 @@
         "carry_mission_skill": "",
         "sangvis_chip_id": ""
     },
-    "381418": {
+    {
         "id": 381418,
         "name": "mission_buff_config-10381418",
         "description": "mission_buff_config-20381418",
@@ -2431,7 +2431,7 @@
         "carry_mission_skill": "",
         "sangvis_chip_id": ""
     },
-    "381419": {
+    {
         "id": 381419,
         "name": "mission_buff_config-10381419",
         "description": "mission_buff_config-20381419",
@@ -2463,7 +2463,7 @@
         "carry_mission_skill": "",
         "sangvis_chip_id": ""
     },
-    "381420": {
+    {
         "id": 381420,
         "name": "mission_buff_config-10381420",
         "description": "mission_buff_config-20381420",
@@ -2495,7 +2495,7 @@
         "carry_mission_skill": "",
         "sangvis_chip_id": ""
     },
-    "381421": {
+    {
         "id": 381421,
         "name": "mission_buff_config-10381421",
         "description": "mission_buff_config-20381421",
@@ -2527,7 +2527,7 @@
         "carry_mission_skill": "",
         "sangvis_chip_id": ""
     },
-    "381422": {
+    {
         "id": 381422,
         "name": "mission_buff_config-10381422",
         "description": "mission_buff_config-20381422",
@@ -2559,7 +2559,7 @@
         "carry_mission_skill": "",
         "sangvis_chip_id": ""
     },
-    "381423": {
+    {
         "id": 381423,
         "name": "mission_buff_config-10381423",
         "description": "mission_buff_config-20381423",
@@ -2591,7 +2591,7 @@
         "carry_mission_skill": "",
         "sangvis_chip_id": ""
     },
-    "381424": {
+    {
         "id": 381424,
         "name": "mission_buff_config-10381424",
         "description": "mission_buff_config-20381424",
@@ -2623,7 +2623,7 @@
         "carry_mission_skill": "",
         "sangvis_chip_id": ""
     },
-    "381425": {
+    {
         "id": 381425,
         "name": "mission_buff_config-10381425",
         "description": "mission_buff_config-20381425",
@@ -2655,7 +2655,7 @@
         "carry_mission_skill": "",
         "sangvis_chip_id": ""
     },
-    "381468": {
+    {
         "id": 381468,
         "name": "mission_buff_config-10381468",
         "description": "mission_buff_config-20381468",
@@ -2687,7 +2687,7 @@
         "carry_mission_skill": "",
         "sangvis_chip_id": ""
     },
-    "381602": {
+    {
         "id": 381602,
         "name": "mission_buff_config-10381602",
         "description": "mission_buff_config-20381602",
@@ -2719,7 +2719,7 @@
         "carry_mission_skill": "",
         "sangvis_chip_id": ""
     },
-    "381603": {
+    {
         "id": 381603,
         "name": "mission_buff_config-10381603",
         "description": "mission_buff_config-20381603",
@@ -2751,7 +2751,7 @@
         "carry_mission_skill": "",
         "sangvis_chip_id": ""
     },
-    "381903": {
+    {
         "id": 381903,
         "name": "mission_buff_config-10381903",
         "description": "mission_buff_config-20381903",
@@ -2783,7 +2783,7 @@
         "carry_mission_skill": "",
         "sangvis_chip_id": ""
     },
-    "410301": {
+    {
         "id": 410301,
         "name": "mission_buff_config-10410301",
         "description": "mission_buff_config-20410301",
@@ -2815,7 +2815,7 @@
         "carry_mission_skill": "",
         "sangvis_chip_id": ""
     },
-    "410363": {
+    {
         "id": 410363,
         "name": "mission_buff_config-10410363",
         "description": "mission_buff_config-20410363",
@@ -2847,7 +2847,7 @@
         "carry_mission_skill": "410365",
         "sangvis_chip_id": ""
     },
-    "410364": {
+    {
         "id": 410364,
         "name": "mission_buff_config-10410364",
         "description": "mission_buff_config-20410364",
@@ -2879,7 +2879,7 @@
         "carry_mission_skill": "410366",
         "sangvis_chip_id": ""
     },
-    "410501": {
+    {
         "id": 410501,
         "name": "mission_buff_config-10410501",
         "description": "mission_buff_config-20410501",
@@ -2911,7 +2911,7 @@
         "carry_mission_skill": "",
         "sangvis_chip_id": ""
     },
-    "410502": {
+    {
         "id": 410502,
         "name": "mission_buff_config-10410502",
         "description": "mission_buff_config-20410502",
@@ -2943,7 +2943,7 @@
         "carry_mission_skill": "",
         "sangvis_chip_id": ""
     },
-    "440000": {
+    {
         "id": 440000,
         "name": "mission_buff_config-10440000",
         "description": "mission_buff_config-20440000",
@@ -2975,7 +2975,7 @@
         "carry_mission_skill": "440011,440021,440031,440041,440051,440061,440071,440081,440091,440001,440002",
         "sangvis_chip_id": ""
     },
-    "440001": {
+    {
         "id": 440001,
         "name": "mission_buff_config-10440001",
         "description": "mission_buff_config-20440001",
@@ -3007,7 +3007,7 @@
         "carry_mission_skill": "",
         "sangvis_chip_id": ""
     },
-    "440002": {
+    {
         "id": 440002,
         "name": "mission_buff_config-10440002",
         "description": "mission_buff_config-20440002",
@@ -3039,7 +3039,7 @@
         "carry_mission_skill": "",
         "sangvis_chip_id": ""
     },
-    "440003": {
+    {
         "id": 440003,
         "name": "mission_buff_config-10440003",
         "description": "mission_buff_config-20440003",
@@ -3071,7 +3071,7 @@
         "carry_mission_skill": "",
         "sangvis_chip_id": ""
     },
-    "440004": {
+    {
         "id": 440004,
         "name": "mission_buff_config-10440004",
         "description": "mission_buff_config-20440004",
@@ -3103,7 +3103,7 @@
         "carry_mission_skill": "",
         "sangvis_chip_id": ""
     },
-    "440005": {
+    {
         "id": 440005,
         "name": "mission_buff_config-10440005",
         "description": "mission_buff_config-20440005",
@@ -3135,7 +3135,7 @@
         "carry_mission_skill": "",
         "sangvis_chip_id": ""
     },
-    "440006": {
+    {
         "id": 440006,
         "name": "mission_buff_config-10440006",
         "description": "mission_buff_config-20440006",
@@ -3167,7 +3167,7 @@
         "carry_mission_skill": "440011,440021,440031,440041,440051,440061,440071,440081,440091,440001,440002",
         "sangvis_chip_id": ""
     },
-    "440301": {
+    {
         "id": 440301,
         "name": "mission_buff_config-10440301",
         "description": "mission_buff_config-20440301",
@@ -3199,7 +3199,7 @@
         "carry_mission_skill": "",
         "sangvis_chip_id": ""
     },
-    "460501": {
+    {
         "id": 460501,
         "name": "mission_buff_config-10460501",
         "description": "mission_buff_config-20460501",
@@ -3231,7 +3231,7 @@
         "carry_mission_skill": "",
         "sangvis_chip_id": ""
     },
-    "460502": {
+    {
         "id": 460502,
         "name": "mission_buff_config-10460502",
         "description": "mission_buff_config-20460502",
@@ -3263,7 +3263,7 @@
         "carry_mission_skill": "",
         "sangvis_chip_id": ""
     },
-    "480000": {
+    {
         "id": 480000,
         "name": "mission_buff_config-10480000",
         "description": "mission_buff_config-20480000",
@@ -3295,7 +3295,7 @@
         "carry_mission_skill": "480112",
         "sangvis_chip_id": ""
     },
-    "480102": {
+    {
         "id": 480102,
         "name": "mission_buff_config-10480102",
         "description": "mission_buff_config-20480102",
@@ -3327,7 +3327,7 @@
         "carry_mission_skill": "480122",
         "sangvis_chip_id": ""
     },
-    "481400": {
+    {
         "id": 481400,
         "name": "mission_buff_config-10481400",
         "description": "mission_buff_config-20481400",
@@ -3359,7 +3359,7 @@
         "carry_mission_skill": "",
         "sangvis_chip_id": ""
     },
-    "482000": {
+    {
         "id": 482000,
         "name": "mission_buff_config-10482000",
         "description": "mission_buff_config-20482000",
@@ -3391,7 +3391,7 @@
         "carry_mission_skill": "",
         "sangvis_chip_id": ""
     },
-    "482001": {
+    {
         "id": 482001,
         "name": "mission_buff_config-10482001",
         "description": "mission_buff_config-20482001",
@@ -3423,7 +3423,7 @@
         "carry_mission_skill": "",
         "sangvis_chip_id": ""
     },
-    "482002": {
+    {
         "id": 482002,
         "name": "mission_buff_config-10482002",
         "description": "mission_buff_config-20482002",
@@ -3455,7 +3455,7 @@
         "carry_mission_skill": "",
         "sangvis_chip_id": ""
     },
-    "482101": {
+    {
         "id": 482101,
         "name": "mission_buff_config-10482101",
         "description": "mission_buff_config-20482101",
@@ -3487,7 +3487,7 @@
         "carry_mission_skill": "",
         "sangvis_chip_id": ""
     },
-    "482300": {
+    {
         "id": 482300,
         "name": "mission_buff_config-10482300",
         "description": "mission_buff_config-20482300",
@@ -3519,7 +3519,7 @@
         "carry_mission_skill": "482300",
         "sangvis_chip_id": ""
     },
-    "482301": {
+    {
         "id": 482301,
         "name": "mission_buff_config-10482301",
         "description": "mission_buff_config-20482301",
@@ -3551,7 +3551,7 @@
         "carry_mission_skill": "",
         "sangvis_chip_id": ""
     },
-    "482430": {
+    {
         "id": 482430,
         "name": "mission_buff_config-10482430",
         "description": "mission_buff_config-20482430",
@@ -3583,7 +3583,7 @@
         "carry_mission_skill": "482431,482432,482433,482434,482435",
         "sangvis_chip_id": ""
     },
-    "482505": {
+    {
         "id": 482505,
         "name": "mission_buff_config-10482505",
         "description": "mission_buff_config-20482505",
@@ -3615,7 +3615,7 @@
         "carry_mission_skill": "",
         "sangvis_chip_id": ""
     },
-    "482506": {
+    {
         "id": 482506,
         "name": "mission_buff_config-10482506",
         "description": "mission_buff_config-20482506",
@@ -3647,7 +3647,7 @@
         "carry_mission_skill": "",
         "sangvis_chip_id": ""
     },
-    "482507": {
+    {
         "id": 482507,
         "name": "mission_buff_config-10482507",
         "description": "mission_buff_config-20482507",
@@ -3679,7 +3679,7 @@
         "carry_mission_skill": "",
         "sangvis_chip_id": ""
     },
-    "483501": {
+    {
         "id": 483501,
         "name": "mission_buff_config-10483501",
         "description": "mission_buff_config-20483501",
@@ -3711,7 +3711,7 @@
         "carry_mission_skill": "483511",
         "sangvis_chip_id": ""
     },
-    "483600": {
+    {
         "id": 483600,
         "name": "mission_buff_config-10483600",
         "description": "mission_buff_config-20483600",
@@ -3743,7 +3743,7 @@
         "carry_mission_skill": "",
         "sangvis_chip_id": ""
     },
-    "483601": {
+    {
         "id": 483601,
         "name": "mission_buff_config-10483601",
         "description": "mission_buff_config-20483601",
@@ -3775,7 +3775,7 @@
         "carry_mission_skill": "483611",
         "sangvis_chip_id": ""
     },
-    "483901": {
+    {
         "id": 483901,
         "name": "mission_buff_config-10483901",
         "description": "mission_buff_config-20483901",
@@ -3807,7 +3807,7 @@
         "carry_mission_skill": "",
         "sangvis_chip_id": ""
     },
-    "483903": {
+    {
         "id": 483903,
         "name": "mission_buff_config-10483903",
         "description": "mission_buff_config-20483903",
@@ -3839,7 +3839,7 @@
         "carry_mission_skill": "",
         "sangvis_chip_id": ""
     },
-    "483911": {
+    {
         "id": 483911,
         "name": "mission_buff_config-10483911",
         "description": "mission_buff_config-20483911",
@@ -3871,7 +3871,7 @@
         "carry_mission_skill": "",
         "sangvis_chip_id": ""
     },
-    "483921": {
+    {
         "id": 483921,
         "name": "mission_buff_config-10483921",
         "description": "mission_buff_config-20483921",
@@ -3903,7 +3903,7 @@
         "carry_mission_skill": "",
         "sangvis_chip_id": ""
     },
-    "500020": {
+    {
         "id": 500020,
         "name": "mission_buff_config-10500020",
         "description": "mission_buff_config-20500020",
@@ -3935,7 +3935,7 @@
         "carry_mission_skill": "",
         "sangvis_chip_id": ""
     },
-    "500021": {
+    {
         "id": 500021,
         "name": "mission_buff_config-10500021",
         "description": "mission_buff_config-20500021",
@@ -3967,7 +3967,7 @@
         "carry_mission_skill": "",
         "sangvis_chip_id": ""
     },
-    "500022": {
+    {
         "id": 500022,
         "name": "mission_buff_config-10500022",
         "description": "mission_buff_config-20500022",
@@ -3999,7 +3999,7 @@
         "carry_mission_skill": "",
         "sangvis_chip_id": ""
     },
-    "500023": {
+    {
         "id": 500023,
         "name": "mission_buff_config-10500023",
         "description": "mission_buff_config-20500023",
@@ -4031,7 +4031,7 @@
         "carry_mission_skill": "",
         "sangvis_chip_id": ""
     },
-    "500024": {
+    {
         "id": 500024,
         "name": "mission_buff_config-10500024",
         "description": "mission_buff_config-20500024",
@@ -4063,7 +4063,7 @@
         "carry_mission_skill": "",
         "sangvis_chip_id": ""
     },
-    "500025": {
+    {
         "id": 500025,
         "name": "mission_buff_config-10500025",
         "description": "mission_buff_config-20500025",
@@ -4095,7 +4095,7 @@
         "carry_mission_skill": "",
         "sangvis_chip_id": ""
     },
-    "500026": {
+    {
         "id": 500026,
         "name": "mission_buff_config-10500026",
         "description": "mission_buff_config-20500026",
@@ -4127,7 +4127,7 @@
         "carry_mission_skill": "",
         "sangvis_chip_id": ""
     },
-    "500027": {
+    {
         "id": 500027,
         "name": "mission_buff_config-10500027",
         "description": "mission_buff_config-20500027",
@@ -4159,7 +4159,7 @@
         "carry_mission_skill": "",
         "sangvis_chip_id": ""
     },
-    "500028": {
+    {
         "id": 500028,
         "name": "mission_buff_config-10500028",
         "description": "mission_buff_config-20500028",
@@ -4191,7 +4191,7 @@
         "carry_mission_skill": "",
         "sangvis_chip_id": ""
     },
-    "500029": {
+    {
         "id": 500029,
         "name": "mission_buff_config-10500029",
         "description": "mission_buff_config-20500029",
@@ -4223,7 +4223,7 @@
         "carry_mission_skill": "",
         "sangvis_chip_id": ""
     },
-    "500099": {
+    {
         "id": 500099,
         "name": "mission_buff_config-10500099",
         "description": "mission_buff_config-20500099",
@@ -4255,7 +4255,7 @@
         "carry_mission_skill": "",
         "sangvis_chip_id": ""
     },
-    "500401": {
+    {
         "id": 500401,
         "name": "mission_buff_config-10500401",
         "description": "mission_buff_config-20500401",
@@ -4287,7 +4287,7 @@
         "carry_mission_skill": "",
         "sangvis_chip_id": ""
     },
-    "500402": {
+    {
         "id": 500402,
         "name": "mission_buff_config-10500402",
         "description": "mission_buff_config-20500402",
@@ -4319,7 +4319,7 @@
         "carry_mission_skill": "",
         "sangvis_chip_id": ""
     },
-    "500403": {
+    {
         "id": 500403,
         "name": "mission_buff_config-10500403",
         "description": "mission_buff_config-20500403",
@@ -4351,7 +4351,7 @@
         "carry_mission_skill": "",
         "sangvis_chip_id": ""
     },
-    "500404": {
+    {
         "id": 500404,
         "name": "mission_buff_config-10500404",
         "description": "mission_buff_config-20500404",
@@ -4383,7 +4383,7 @@
         "carry_mission_skill": "",
         "sangvis_chip_id": ""
     },
-    "500405": {
+    {
         "id": 500405,
         "name": "mission_buff_config-10500405",
         "description": "mission_buff_config-20500405",
@@ -4415,7 +4415,7 @@
         "carry_mission_skill": "",
         "sangvis_chip_id": ""
     },
-    "500406": {
+    {
         "id": 500406,
         "name": "mission_buff_config-10500406",
         "description": "mission_buff_config-20500406",
@@ -4447,7 +4447,7 @@
         "carry_mission_skill": "500491,500492,500493,500494,500495",
         "sangvis_chip_id": ""
     },
-    "500407": {
+    {
         "id": 500407,
         "name": "mission_buff_config-10500407",
         "description": "mission_buff_config-20500407",
@@ -4479,7 +4479,7 @@
         "carry_mission_skill": "500496",
         "sangvis_chip_id": ""
     },
-    "500499": {
+    {
         "id": 500499,
         "name": "mission_buff_config-10500499",
         "description": "mission_buff_config-20500499",
@@ -4511,7 +4511,7 @@
         "carry_mission_skill": "",
         "sangvis_chip_id": ""
     },
-    "510201": {
+    {
         "id": 510201,
         "name": "mission_buff_config-10510201",
         "description": "mission_buff_config-20510201",
@@ -4543,7 +4543,7 @@
         "carry_mission_skill": "",
         "sangvis_chip_id": ""
     },
-    "510701": {
+    {
         "id": 510701,
         "name": "mission_buff_config-10510701",
         "description": "mission_buff_config-20510701",
@@ -4575,7 +4575,7 @@
         "carry_mission_skill": "",
         "sangvis_chip_id": ""
     },
-    "510703": {
+    {
         "id": 510703,
         "name": "mission_buff_config-10510703",
         "description": "mission_buff_config-20510703",
@@ -4607,7 +4607,7 @@
         "carry_mission_skill": "",
         "sangvis_chip_id": ""
     },
-    "510704": {
+    {
         "id": 510704,
         "name": "mission_buff_config-10510704",
         "description": "mission_buff_config-20510704",
@@ -4639,7 +4639,7 @@
         "carry_mission_skill": "510705",
         "sangvis_chip_id": ""
     },
-    "510705": {
+    {
         "id": 510705,
         "name": "mission_buff_config-10510705",
         "description": "mission_buff_config-20510705",
@@ -4671,7 +4671,7 @@
         "carry_mission_skill": "",
         "sangvis_chip_id": ""
     },
-    "510713": {
+    {
         "id": 510713,
         "name": "mission_buff_config-10510713",
         "description": "mission_buff_config-20510713",
@@ -4703,7 +4703,7 @@
         "carry_mission_skill": "",
         "sangvis_chip_id": ""
     },
-    "510904": {
+    {
         "id": 510904,
         "name": "mission_buff_config-10510904",
         "description": "mission_buff_config-20510904",
@@ -4735,7 +4735,7 @@
         "carry_mission_skill": "",
         "sangvis_chip_id": ""
     },
-    "510914": {
+    {
         "id": 510914,
         "name": "mission_buff_config-10510914",
         "description": "mission_buff_config-20510914",
@@ -4767,7 +4767,7 @@
         "carry_mission_skill": "",
         "sangvis_chip_id": ""
     },
-    "511012": {
+    {
         "id": 511012,
         "name": "mission_buff_config-10511012",
         "description": "mission_buff_config-20511012",
@@ -4799,7 +4799,7 @@
         "carry_mission_skill": "",
         "sangvis_chip_id": ""
     },
-    "511013": {
+    {
         "id": 511013,
         "name": "mission_buff_config-10511013",
         "description": "mission_buff_config-20511013",
@@ -4831,7 +4831,7 @@
         "carry_mission_skill": "",
         "sangvis_chip_id": ""
     },
-    "511022": {
+    {
         "id": 511022,
         "name": "mission_buff_config-10511022",
         "description": "mission_buff_config-20511022",
@@ -4863,7 +4863,7 @@
         "carry_mission_skill": "",
         "sangvis_chip_id": ""
     },
-    "511023": {
+    {
         "id": 511023,
         "name": "mission_buff_config-10511023",
         "description": "mission_buff_config-20511023",
@@ -4895,7 +4895,7 @@
         "carry_mission_skill": "",
         "sangvis_chip_id": ""
     },
-    "910630": {
+    {
         "id": 910630,
         "name": "mission_buff_config-10910630",
         "description": "mission_buff_config-20910630",
@@ -4927,7 +4927,7 @@
         "carry_mission_skill": "",
         "sangvis_chip_id": ""
     },
-    "1000000": {
+    {
         "id": 1000000,
         "name": "mission_buff_config-11000000",
         "description": "mission_buff_config-21000000",
@@ -4959,7 +4959,7 @@
         "carry_mission_skill": "",
         "sangvis_chip_id": ""
     },
-    "1000001": {
+    {
         "id": 1000001,
         "name": "mission_buff_config-11000001",
         "description": "mission_buff_config-21000001",
@@ -4991,7 +4991,7 @@
         "carry_mission_skill": "",
         "sangvis_chip_id": ""
     },
-    "1000002": {
+    {
         "id": 1000002,
         "name": "mission_buff_config-11000002",
         "description": "mission_buff_config-21000002",
@@ -5023,7 +5023,7 @@
         "carry_mission_skill": "",
         "sangvis_chip_id": ""
     },
-    "1000003": {
+    {
         "id": 1000003,
         "name": "mission_buff_config-11000003",
         "description": "mission_buff_config-21000003",
@@ -5055,7 +5055,7 @@
         "carry_mission_skill": "",
         "sangvis_chip_id": ""
     },
-    "1000004": {
+    {
         "id": 1000004,
         "name": "mission_buff_config-11000004",
         "description": "mission_buff_config-21000004",
@@ -5087,7 +5087,7 @@
         "carry_mission_skill": "",
         "sangvis_chip_id": ""
     },
-    "1000005": {
+    {
         "id": 1000005,
         "name": "mission_buff_config-11000005",
         "description": "mission_buff_config-21000005",
@@ -5119,7 +5119,7 @@
         "carry_mission_skill": "",
         "sangvis_chip_id": ""
     },
-    "1000006": {
+    {
         "id": 1000006,
         "name": "mission_buff_config-11000006",
         "description": "mission_buff_config-21000006",
@@ -5151,7 +5151,7 @@
         "carry_mission_skill": "",
         "sangvis_chip_id": ""
     },
-    "1000007": {
+    {
         "id": 1000007,
         "name": "mission_buff_config-11000007",
         "description": "mission_buff_config-21000007",
@@ -5183,7 +5183,7 @@
         "carry_mission_skill": "",
         "sangvis_chip_id": ""
     },
-    "1000008": {
+    {
         "id": 1000008,
         "name": "mission_buff_config-11000008",
         "description": "mission_buff_config-21000008",
@@ -5215,7 +5215,7 @@
         "carry_mission_skill": "",
         "sangvis_chip_id": ""
     },
-    "1000009": {
+    {
         "id": 1000009,
         "name": "mission_buff_config-11000009",
         "description": "mission_buff_config-21000009",
@@ -5247,7 +5247,7 @@
         "carry_mission_skill": "",
         "sangvis_chip_id": ""
     },
-    "1000010": {
+    {
         "id": 1000010,
         "name": "mission_buff_config-11000010",
         "description": "mission_buff_config-21000010",
@@ -5279,7 +5279,7 @@
         "carry_mission_skill": "",
         "sangvis_chip_id": ""
     },
-    "1000011": {
+    {
         "id": 1000011,
         "name": "mission_buff_config-11000011",
         "description": "mission_buff_config-21000011",
@@ -5311,7 +5311,7 @@
         "carry_mission_skill": "",
         "sangvis_chip_id": ""
     },
-    "4040901": {
+    {
         "id": 4040901,
         "name": "mission_buff_config-14040901",
         "description": "mission_buff_config-24040901",
@@ -5343,7 +5343,7 @@
         "carry_mission_skill": "94040901",
         "sangvis_chip_id": ""
     },
-    "6000001": {
+    {
         "id": 6000001,
         "name": "mission_buff_config-16000001",
         "description": "mission_buff_config-26000001",
@@ -5375,7 +5375,7 @@
         "carry_mission_skill": "6000213",
         "sangvis_chip_id": ""
     },
-    "6000002": {
+    {
         "id": 6000002,
         "name": "mission_buff_config-16000002",
         "description": "mission_buff_config-26000002",
@@ -5407,7 +5407,7 @@
         "carry_mission_skill": "6000303",
         "sangvis_chip_id": ""
     },
-    "6000003": {
+    {
         "id": 6000003,
         "name": "mission_buff_config-16000003",
         "description": "mission_buff_config-26000003",
@@ -5439,7 +5439,7 @@
         "carry_mission_skill": "",
         "sangvis_chip_id": ""
     },
-    "6410101": {
+    {
         "id": 6410101,
         "name": "mission_buff_config-16410101",
         "description": "mission_buff_config-26410101",
@@ -5471,7 +5471,7 @@
         "carry_mission_skill": "",
         "sangvis_chip_id": ""
     },
-    "6410102": {
+    {
         "id": 6410102,
         "name": "mission_buff_config-16410102",
         "description": "mission_buff_config-26410102",
@@ -5503,7 +5503,7 @@
         "carry_mission_skill": "",
         "sangvis_chip_id": ""
     },
-    "6410103": {
+    {
         "id": 6410103,
         "name": "mission_buff_config-16410103",
         "description": "mission_buff_config-26410103",
@@ -5535,7 +5535,7 @@
         "carry_mission_skill": "",
         "sangvis_chip_id": ""
     },
-    "6410104": {
+    {
         "id": 6410104,
         "name": "mission_buff_config-16410104",
         "description": "mission_buff_config-26410104",
@@ -5567,7 +5567,7 @@
         "carry_mission_skill": "6411112",
         "sangvis_chip_id": ""
     },
-    "6430001": {
+    {
         "id": 6430001,
         "name": "mission_buff_config-16430001",
         "description": "mission_buff_config-26430001",
@@ -5599,7 +5599,7 @@
         "carry_mission_skill": "6430022,6430025,6430026,6430011,6430012,6430013,6430005,6430006,6430007,6430028",
         "sangvis_chip_id": ""
     },
-    "6430002": {
+    {
         "id": 6430002,
         "name": "mission_buff_config-16430002",
         "description": "mission_buff_config-26430002",
@@ -5631,7 +5631,7 @@
         "carry_mission_skill": "",
         "sangvis_chip_id": ""
     },
-    "6430003": {
+    {
         "id": 6430003,
         "name": "mission_buff_config-16430003",
         "description": "mission_buff_config-26430003",
@@ -5663,7 +5663,7 @@
         "carry_mission_skill": "6430022,6430025,6430026,6430011,6430012,6430013,6430015,6430006,6430016,6430029",
         "sangvis_chip_id": ""
     },
-    "6430004": {
+    {
         "id": 6430004,
         "name": "mission_buff_config-16430004",
         "description": "mission_buff_config-26430004",
@@ -5695,7 +5695,7 @@
         "carry_mission_skill": "",
         "sangvis_chip_id": ""
     },
-    "6430005": {
+    {
         "id": 6430005,
         "name": "mission_buff_config-16430005",
         "description": "mission_buff_config-26430005",
@@ -5727,7 +5727,7 @@
         "carry_mission_skill": "",
         "sangvis_chip_id": ""
     },
-    "6440001": {
+    {
         "id": 6440001,
         "name": "mission_buff_config-16440001",
         "description": "mission_buff_config-26440001",
@@ -5759,7 +5759,7 @@
         "carry_mission_skill": "",
         "sangvis_chip_id": ""
     },
-    "6440002": {
+    {
         "id": 6440002,
         "name": "mission_buff_config-16440002",
         "description": "mission_buff_config-26440002",
@@ -5791,7 +5791,7 @@
         "carry_mission_skill": "6440051",
         "sangvis_chip_id": ""
     },
-    "6440003": {
+    {
         "id": 6440003,
         "name": "mission_buff_config-16440003",
         "description": "mission_buff_config-26440003",
@@ -5823,7 +5823,7 @@
         "carry_mission_skill": "",
         "sangvis_chip_id": ""
     },
-    "6440004": {
+    {
         "id": 6440004,
         "name": "mission_buff_config-16440004",
         "description": "mission_buff_config-26440004",
@@ -5855,7 +5855,7 @@
         "carry_mission_skill": "",
         "sangvis_chip_id": ""
     },
-    "6440005": {
+    {
         "id": 6440005,
         "name": "mission_buff_config-16440005",
         "description": "mission_buff_config-26440005",
@@ -5887,7 +5887,7 @@
         "carry_mission_skill": "",
         "sangvis_chip_id": ""
     },
-    "6440006": {
+    {
         "id": 6440006,
         "name": "mission_buff_config-16440006",
         "description": "mission_buff_config-26440006",
@@ -5919,7 +5919,7 @@
         "carry_mission_skill": "6449999",
         "sangvis_chip_id": ""
     },
-    "6480001": {
+    {
         "id": 6480001,
         "name": "mission_buff_config-16480001",
         "description": "mission_buff_config-26480001",
@@ -5951,7 +5951,7 @@
         "carry_mission_skill": "",
         "sangvis_chip_id": ""
     },
-    "6480002": {
+    {
         "id": 6480002,
         "name": "mission_buff_config-16480002",
         "description": "mission_buff_config-26480002",
@@ -5983,7 +5983,7 @@
         "carry_mission_skill": "6480036",
         "sangvis_chip_id": ""
     },
-    "6480003": {
+    {
         "id": 6480003,
         "name": "mission_buff_config-16480003",
         "description": "mission_buff_config-26480003",
@@ -6015,7 +6015,7 @@
         "carry_mission_skill": "6480049",
         "sangvis_chip_id": ""
     },
-    "6480004": {
+    {
         "id": 6480004,
         "name": "mission_buff_config-16480004",
         "description": "mission_buff_config-26480004",
@@ -6047,7 +6047,7 @@
         "carry_mission_skill": "",
         "sangvis_chip_id": ""
     },
-    "6510001": {
+    {
         "id": 6510001,
         "name": "mission_buff_config-16510001",
         "description": "mission_buff_config-26510001",
@@ -6079,7 +6079,7 @@
         "carry_mission_skill": "",
         "sangvis_chip_id": ""
     },
-    "6510002": {
+    {
         "id": 6510002,
         "name": "mission_buff_config-16510002",
         "description": "mission_buff_config-26510002",
@@ -6111,7 +6111,7 @@
         "carry_mission_skill": "",
         "sangvis_chip_id": ""
     },
-    "6510003": {
+    {
         "id": 6510003,
         "name": "mission_buff_config-16510003",
         "description": "mission_buff_config-26510003",
@@ -6143,7 +6143,7 @@
         "carry_mission_skill": "",
         "sangvis_chip_id": ""
     },
-    "6510004": {
+    {
         "id": 6510004,
         "name": "mission_buff_config-16510004",
         "description": "mission_buff_config-26510004",
@@ -6175,7 +6175,7 @@
         "carry_mission_skill": "",
         "sangvis_chip_id": ""
     },
-    "6510005": {
+    {
         "id": 6510005,
         "name": "mission_buff_config-16510005",
         "description": "mission_buff_config-26510005",
@@ -6207,7 +6207,7 @@
         "carry_mission_skill": "",
         "sangvis_chip_id": ""
     },
-    "6510006": {
+    {
         "id": 6510006,
         "name": "mission_buff_config-16510006",
         "description": "mission_buff_config-26510006",
@@ -6239,7 +6239,7 @@
         "carry_mission_skill": "",
         "sangvis_chip_id": ""
     },
-    "6510007": {
+    {
         "id": 6510007,
         "name": "mission_buff_config-16510007",
         "description": "mission_buff_config-26510007",
@@ -6271,7 +6271,7 @@
         "carry_mission_skill": "",
         "sangvis_chip_id": ""
     },
-    "6510008": {
+    {
         "id": 6510008,
         "name": "mission_buff_config-16510008",
         "description": "mission_buff_config-26510008",
@@ -6303,7 +6303,7 @@
         "carry_mission_skill": "",
         "sangvis_chip_id": ""
     },
-    "6510009": {
+    {
         "id": 6510009,
         "name": "mission_buff_config-16510009",
         "description": "mission_buff_config-26510009",
@@ -6335,7 +6335,7 @@
         "carry_mission_skill": "",
         "sangvis_chip_id": ""
     },
-    "6510010": {
+    {
         "id": 6510010,
         "name": "mission_buff_config-16510010",
         "description": "mission_buff_config-26510010",
@@ -6367,7 +6367,7 @@
         "carry_mission_skill": "6510087",
         "sangvis_chip_id": ""
     },
-    "6510011": {
+    {
         "id": 6510011,
         "name": "mission_buff_config-16510011",
         "description": "mission_buff_config-26510011",
@@ -6399,7 +6399,7 @@
         "carry_mission_skill": "",
         "sangvis_chip_id": ""
     },
-    "6510012": {
+    {
         "id": 6510012,
         "name": "mission_buff_config-16510012",
         "description": "mission_buff_config-26510012",
@@ -6431,7 +6431,7 @@
         "carry_mission_skill": "",
         "sangvis_chip_id": ""
     },
-    "6510013": {
+    {
         "id": 6510013,
         "name": "mission_buff_config-16510013",
         "description": "mission_buff_config-26510013",
@@ -6463,7 +6463,7 @@
         "carry_mission_skill": "6510157",
         "sangvis_chip_id": ""
     },
-    "6510014": {
+    {
         "id": 6510014,
         "name": "mission_buff_config-16510014",
         "description": "mission_buff_config-26510014",
@@ -6495,7 +6495,7 @@
         "carry_mission_skill": "",
         "sangvis_chip_id": ""
     },
-    "6510015": {
+    {
         "id": 6510015,
         "name": "mission_buff_config-16510015",
         "description": "mission_buff_config-26510015",
@@ -6527,7 +6527,7 @@
         "carry_mission_skill": "",
         "sangvis_chip_id": ""
     },
-    "6510016": {
+    {
         "id": 6510016,
         "name": "mission_buff_config-16510016",
         "description": "mission_buff_config-26510016",
@@ -6559,7 +6559,7 @@
         "carry_mission_skill": "",
         "sangvis_chip_id": ""
     },
-    "6510017": {
+    {
         "id": 6510017,
         "name": "mission_buff_config-16510017",
         "description": "mission_buff_config-26510017",
@@ -6591,7 +6591,7 @@
         "carry_mission_skill": "",
         "sangvis_chip_id": ""
     },
-    "6510018": {
+    {
         "id": 6510018,
         "name": "mission_buff_config-16510018",
         "description": "mission_buff_config-26510018",
@@ -6623,7 +6623,7 @@
         "carry_mission_skill": "",
         "sangvis_chip_id": ""
     },
-    "6510019": {
+    {
         "id": 6510019,
         "name": "mission_buff_config-16510019",
         "description": "mission_buff_config-26510019",
@@ -6655,7 +6655,7 @@
         "carry_mission_skill": "",
         "sangvis_chip_id": ""
     },
-    "6510020": {
+    {
         "id": 6510020,
         "name": "mission_buff_config-16510020",
         "description": "mission_buff_config-26510020",
@@ -6687,7 +6687,7 @@
         "carry_mission_skill": "",
         "sangvis_chip_id": ""
     },
-    "9100001": {
+    {
         "id": 9100001,
         "name": "mission_buff_config-19100001",
         "description": "mission_buff_config-29100001",
@@ -6719,7 +6719,7 @@
         "carry_mission_skill": "",
         "sangvis_chip_id": ""
     },
-    "9100002": {
+    {
         "id": 9100002,
         "name": "mission_buff_config-19100002",
         "description": "mission_buff_config-29100002",
@@ -6751,7 +6751,7 @@
         "carry_mission_skill": "",
         "sangvis_chip_id": ""
     },
-    "9100003": {
+    {
         "id": 9100003,
         "name": "mission_buff_config-19100003",
         "description": "mission_buff_config-29100003",
@@ -6783,7 +6783,7 @@
         "carry_mission_skill": "",
         "sangvis_chip_id": ""
     },
-    "9100004": {
+    {
         "id": 9100004,
         "name": "mission_buff_config-19100004",
         "description": "mission_buff_config-29100004",
@@ -6815,7 +6815,7 @@
         "carry_mission_skill": "",
         "sangvis_chip_id": ""
     },
-    "9100005": {
+    {
         "id": 9100005,
         "name": "mission_buff_config-19100005",
         "description": "mission_buff_config-29100005",
@@ -6847,7 +6847,7 @@
         "carry_mission_skill": "",
         "sangvis_chip_id": ""
     },
-    "9100006": {
+    {
         "id": 9100006,
         "name": "mission_buff_config-19100006",
         "description": "mission_buff_config-29100006",
@@ -6879,7 +6879,7 @@
         "carry_mission_skill": "",
         "sangvis_chip_id": ""
     },
-    "9100007": {
+    {
         "id": 9100007,
         "name": "mission_buff_config-19100007",
         "description": "mission_buff_config-29100007",
@@ -6911,7 +6911,7 @@
         "carry_mission_skill": "",
         "sangvis_chip_id": ""
     },
-    "9100008": {
+    {
         "id": 9100008,
         "name": "mission_buff_config-19100008",
         "description": "mission_buff_config-29100008",
@@ -6943,7 +6943,7 @@
         "carry_mission_skill": "",
         "sangvis_chip_id": ""
     },
-    "9100009": {
+    {
         "id": 9100009,
         "name": "mission_buff_config-19100009",
         "description": "mission_buff_config-29100009",
@@ -6975,7 +6975,7 @@
         "carry_mission_skill": "",
         "sangvis_chip_id": ""
     },
-    "9100010": {
+    {
         "id": 9100010,
         "name": "mission_buff_config-19100010",
         "description": "mission_buff_config-29100010",
@@ -7007,7 +7007,7 @@
         "carry_mission_skill": "",
         "sangvis_chip_id": ""
     },
-    "9100011": {
+    {
         "id": 9100011,
         "name": "mission_buff_config-19100011",
         "description": "mission_buff_config-29100011",
@@ -7039,7 +7039,7 @@
         "carry_mission_skill": "",
         "sangvis_chip_id": ""
     },
-    "9100012": {
+    {
         "id": 9100012,
         "name": "mission_buff_config-19100012",
         "description": "mission_buff_config-29100012",
@@ -7071,7 +7071,7 @@
         "carry_mission_skill": "",
         "sangvis_chip_id": ""
     },
-    "9100013": {
+    {
         "id": 9100013,
         "name": "mission_buff_config-19100013",
         "description": "mission_buff_config-29100013",
@@ -7103,7 +7103,7 @@
         "carry_mission_skill": "",
         "sangvis_chip_id": ""
     },
-    "9100014": {
+    {
         "id": 9100014,
         "name": "mission_buff_config-19100014",
         "description": "mission_buff_config-29100014",
@@ -7135,7 +7135,7 @@
         "carry_mission_skill": "",
         "sangvis_chip_id": ""
     },
-    "9100015": {
+    {
         "id": 9100015,
         "name": "mission_buff_config-19100015",
         "description": "mission_buff_config-29100015",
@@ -7167,7 +7167,7 @@
         "carry_mission_skill": "",
         "sangvis_chip_id": ""
     },
-    "9100016": {
+    {
         "id": 9100016,
         "name": "mission_buff_config-19100016",
         "description": "mission_buff_config-29100016",
@@ -7199,7 +7199,7 @@
         "carry_mission_skill": "",
         "sangvis_chip_id": ""
     },
-    "9100017": {
+    {
         "id": 9100017,
         "name": "mission_buff_config-19100017",
         "description": "mission_buff_config-29100017",
@@ -7231,7 +7231,7 @@
         "carry_mission_skill": "",
         "sangvis_chip_id": ""
     },
-    "9100018": {
+    {
         "id": 9100018,
         "name": "mission_buff_config-19100018",
         "description": "mission_buff_config-29100018",
@@ -7263,7 +7263,7 @@
         "carry_mission_skill": "",
         "sangvis_chip_id": ""
     },
-    "9100019": {
+    {
         "id": 9100019,
         "name": "mission_buff_config-19100019",
         "description": "mission_buff_config-29100019",
@@ -7295,7 +7295,7 @@
         "carry_mission_skill": "",
         "sangvis_chip_id": ""
     },
-    "9100020": {
+    {
         "id": 9100020,
         "name": "mission_buff_config-19100020",
         "description": "mission_buff_config-29100020",
@@ -7327,7 +7327,7 @@
         "carry_mission_skill": "",
         "sangvis_chip_id": ""
     },
-    "9100021": {
+    {
         "id": 9100021,
         "name": "mission_buff_config-19100021",
         "description": "mission_buff_config-29100021",
@@ -7359,7 +7359,7 @@
         "carry_mission_skill": "",
         "sangvis_chip_id": ""
     },
-    "9100022": {
+    {
         "id": 9100022,
         "name": "mission_buff_config-19100022",
         "description": "mission_buff_config-29100022",
@@ -7391,7 +7391,7 @@
         "carry_mission_skill": "",
         "sangvis_chip_id": ""
     },
-    "9100023": {
+    {
         "id": 9100023,
         "name": "mission_buff_config-19100023",
         "description": "mission_buff_config-29100023",
@@ -7423,7 +7423,7 @@
         "carry_mission_skill": "",
         "sangvis_chip_id": ""
     },
-    "9100024": {
+    {
         "id": 9100024,
         "name": "mission_buff_config-19100024",
         "description": "mission_buff_config-29100024",
@@ -7455,7 +7455,7 @@
         "carry_mission_skill": "",
         "sangvis_chip_id": ""
     },
-    "9100025": {
+    {
         "id": 9100025,
         "name": "mission_buff_config-19100025",
         "description": "mission_buff_config-29100025",
@@ -7487,7 +7487,7 @@
         "carry_mission_skill": "",
         "sangvis_chip_id": ""
     },
-    "9100026": {
+    {
         "id": 9100026,
         "name": "mission_buff_config-19100026",
         "description": "mission_buff_config-29100026",
@@ -7519,7 +7519,7 @@
         "carry_mission_skill": "",
         "sangvis_chip_id": ""
     },
-    "9100027": {
+    {
         "id": 9100027,
         "name": "mission_buff_config-19100027",
         "description": "mission_buff_config-29100027",
@@ -7551,7 +7551,7 @@
         "carry_mission_skill": "",
         "sangvis_chip_id": ""
     },
-    "9100028": {
+    {
         "id": 9100028,
         "name": "mission_buff_config-19100028",
         "description": "mission_buff_config-29100028",
@@ -7583,7 +7583,7 @@
         "carry_mission_skill": "",
         "sangvis_chip_id": ""
     },
-    "9100029": {
+    {
         "id": 9100029,
         "name": "mission_buff_config-19100029",
         "description": "mission_buff_config-29100029",
@@ -7615,7 +7615,7 @@
         "carry_mission_skill": "",
         "sangvis_chip_id": ""
     },
-    "9100030": {
+    {
         "id": 9100030,
         "name": "mission_buff_config-19100030",
         "description": "mission_buff_config-29100030",
@@ -7647,7 +7647,7 @@
         "carry_mission_skill": "",
         "sangvis_chip_id": ""
     },
-    "9100031": {
+    {
         "id": 9100031,
         "name": "mission_buff_config-19100031",
         "description": "mission_buff_config-29100031",
@@ -7679,7 +7679,7 @@
         "carry_mission_skill": "",
         "sangvis_chip_id": ""
     },
-    "9100032": {
+    {
         "id": 9100032,
         "name": "mission_buff_config-19100032",
         "description": "mission_buff_config-29100032",
@@ -7711,7 +7711,7 @@
         "carry_mission_skill": "",
         "sangvis_chip_id": ""
     },
-    "9100033": {
+    {
         "id": 9100033,
         "name": "mission_buff_config-19100033",
         "description": "mission_buff_config-29100033",
@@ -7743,7 +7743,7 @@
         "carry_mission_skill": "",
         "sangvis_chip_id": ""
     },
-    "9100034": {
+    {
         "id": 9100034,
         "name": "mission_buff_config-19100034",
         "description": "mission_buff_config-29100034",
@@ -7775,7 +7775,7 @@
         "carry_mission_skill": "",
         "sangvis_chip_id": ""
     },
-    "9100035": {
+    {
         "id": 9100035,
         "name": "mission_buff_config-19100035",
         "description": "mission_buff_config-29100035",
@@ -7807,7 +7807,7 @@
         "carry_mission_skill": "",
         "sangvis_chip_id": ""
     },
-    "9100036": {
+    {
         "id": 9100036,
         "name": "mission_buff_config-19100036",
         "description": "mission_buff_config-29100036",
@@ -7839,7 +7839,7 @@
         "carry_mission_skill": "",
         "sangvis_chip_id": ""
     },
-    "9100037": {
+    {
         "id": 9100037,
         "name": "mission_buff_config-19100037",
         "description": "mission_buff_config-29100037",
@@ -7871,7 +7871,7 @@
         "carry_mission_skill": "",
         "sangvis_chip_id": ""
     },
-    "9100038": {
+    {
         "id": 9100038,
         "name": "mission_buff_config-19100038",
         "description": "mission_buff_config-29100038",
@@ -7903,7 +7903,7 @@
         "carry_mission_skill": "",
         "sangvis_chip_id": ""
     },
-    "9100039": {
+    {
         "id": 9100039,
         "name": "mission_buff_config-19100039",
         "description": "mission_buff_config-29100039",
@@ -7935,7 +7935,7 @@
         "carry_mission_skill": "",
         "sangvis_chip_id": ""
     },
-    "9100040": {
+    {
         "id": 9100040,
         "name": "mission_buff_config-19100040",
         "description": "mission_buff_config-29100040",
@@ -7967,7 +7967,7 @@
         "carry_mission_skill": "",
         "sangvis_chip_id": ""
     },
-    "9100041": {
+    {
         "id": 9100041,
         "name": "mission_buff_config-19100041",
         "description": "mission_buff_config-29100041",
@@ -7999,7 +7999,7 @@
         "carry_mission_skill": "",
         "sangvis_chip_id": ""
     },
-    "9100042": {
+    {
         "id": 9100042,
         "name": "mission_buff_config-19100042",
         "description": "mission_buff_config-29100042",
@@ -8031,7 +8031,7 @@
         "carry_mission_skill": "",
         "sangvis_chip_id": ""
     },
-    "9100043": {
+    {
         "id": 9100043,
         "name": "mission_buff_config-19100043",
         "description": "mission_buff_config-29100043",
@@ -8063,7 +8063,7 @@
         "carry_mission_skill": "",
         "sangvis_chip_id": ""
     },
-    "9100044": {
+    {
         "id": 9100044,
         "name": "mission_buff_config-19100044",
         "description": "mission_buff_config-29100044",
@@ -8095,7 +8095,7 @@
         "carry_mission_skill": "",
         "sangvis_chip_id": ""
     },
-    "9100045": {
+    {
         "id": 9100045,
         "name": "mission_buff_config-19100045",
         "description": "mission_buff_config-29100045",
@@ -8127,7 +8127,7 @@
         "carry_mission_skill": "",
         "sangvis_chip_id": ""
     },
-    "9100046": {
+    {
         "id": 9100046,
         "name": "mission_buff_config-19100046",
         "description": "mission_buff_config-29100046",
@@ -8159,7 +8159,7 @@
         "carry_mission_skill": "",
         "sangvis_chip_id": ""
     },
-    "9100047": {
+    {
         "id": 9100047,
         "name": "mission_buff_config-19100047",
         "description": "mission_buff_config-29100047",
@@ -8191,7 +8191,7 @@
         "carry_mission_skill": "",
         "sangvis_chip_id": ""
     },
-    "9100048": {
+    {
         "id": 9100048,
         "name": "mission_buff_config-19100048",
         "description": "mission_buff_config-29100048",
@@ -8223,7 +8223,7 @@
         "carry_mission_skill": "",
         "sangvis_chip_id": ""
     },
-    "9100049": {
+    {
         "id": 9100049,
         "name": "mission_buff_config-19100049",
         "description": "mission_buff_config-29100049",
@@ -8255,7 +8255,7 @@
         "carry_mission_skill": "",
         "sangvis_chip_id": ""
     },
-    "9100050": {
+    {
         "id": 9100050,
         "name": "mission_buff_config-19100050",
         "description": "mission_buff_config-29100050",
@@ -8287,7 +8287,7 @@
         "carry_mission_skill": "",
         "sangvis_chip_id": ""
     },
-    "9100051": {
+    {
         "id": 9100051,
         "name": "mission_buff_config-19100051",
         "description": "mission_buff_config-29100051",
@@ -8319,7 +8319,7 @@
         "carry_mission_skill": "",
         "sangvis_chip_id": ""
     },
-    "9100052": {
+    {
         "id": 9100052,
         "name": "mission_buff_config-19100052",
         "description": "mission_buff_config-29100052",
@@ -8351,7 +8351,7 @@
         "carry_mission_skill": "",
         "sangvis_chip_id": ""
     },
-    "9100053": {
+    {
         "id": 9100053,
         "name": "mission_buff_config-19100053",
         "description": "mission_buff_config-29100053",
@@ -8383,7 +8383,7 @@
         "carry_mission_skill": "",
         "sangvis_chip_id": ""
     },
-    "9100054": {
+    {
         "id": 9100054,
         "name": "mission_buff_config-19100054",
         "description": "mission_buff_config-29100054",
@@ -8415,7 +8415,7 @@
         "carry_mission_skill": "",
         "sangvis_chip_id": ""
     },
-    "9100055": {
+    {
         "id": 9100055,
         "name": "mission_buff_config-19100055",
         "description": "mission_buff_config-29100055",
@@ -8447,7 +8447,7 @@
         "carry_mission_skill": "",
         "sangvis_chip_id": ""
     },
-    "9100056": {
+    {
         "id": 9100056,
         "name": "mission_buff_config-19100056",
         "description": "mission_buff_config-29100056",
@@ -8479,7 +8479,7 @@
         "carry_mission_skill": "",
         "sangvis_chip_id": ""
     },
-    "9100057": {
+    {
         "id": 9100057,
         "name": "mission_buff_config-19100057",
         "description": "mission_buff_config-29100057",
@@ -8511,7 +8511,7 @@
         "carry_mission_skill": "",
         "sangvis_chip_id": ""
     },
-    "9100058": {
+    {
         "id": 9100058,
         "name": "mission_buff_config-19100058",
         "description": "mission_buff_config-29100058",
@@ -8543,7 +8543,7 @@
         "carry_mission_skill": "",
         "sangvis_chip_id": ""
     },
-    "9100059": {
+    {
         "id": 9100059,
         "name": "mission_buff_config-19100059",
         "description": "mission_buff_config-29100059",
@@ -8575,7 +8575,7 @@
         "carry_mission_skill": "",
         "sangvis_chip_id": ""
     },
-    "9100060": {
+    {
         "id": 9100060,
         "name": "mission_buff_config-19100060",
         "description": "mission_buff_config-29100060",
@@ -8607,7 +8607,7 @@
         "carry_mission_skill": "",
         "sangvis_chip_id": ""
     },
-    "9130601": {
+    {
         "id": 9130601,
         "name": "mission_buff_config-19130601",
         "description": "mission_buff_config-29130601",
@@ -8639,7 +8639,7 @@
         "carry_mission_skill": "",
         "sangvis_chip_id": ""
     },
-    "9200001": {
+    {
         "id": 9200001,
         "name": "mission_buff_config-19200001",
         "description": "mission_buff_config-29200001",
@@ -8671,7 +8671,7 @@
         "carry_mission_skill": "",
         "sangvis_chip_id": ""
     },
-    "9200002": {
+    {
         "id": 9200002,
         "name": "mission_buff_config-19200002",
         "description": "mission_buff_config-29200002",
@@ -8703,7 +8703,7 @@
         "carry_mission_skill": "",
         "sangvis_chip_id": ""
     },
-    "9410201": {
+    {
         "id": 9410201,
         "name": "mission_buff_config-19410201",
         "description": "mission_buff_config-29410201",
@@ -8735,7 +8735,7 @@
         "carry_mission_skill": "",
         "sangvis_chip_id": ""
     },
-    "9410216": {
+    {
         "id": 9410216,
         "name": "mission_buff_config-19410216",
         "description": "mission_buff_config-29410216",
@@ -8767,7 +8767,7 @@
         "carry_mission_skill": "",
         "sangvis_chip_id": ""
     },
-    "9410331": {
+    {
         "id": 9410331,
         "name": "mission_buff_config-19410331",
         "description": "mission_buff_config-29410331",
@@ -8799,7 +8799,7 @@
         "carry_mission_skill": "",
         "sangvis_chip_id": ""
     },
-    "9410332": {
+    {
         "id": 9410332,
         "name": "mission_buff_config-19410332",
         "description": "mission_buff_config-29410332",
@@ -8831,7 +8831,7 @@
         "carry_mission_skill": "",
         "sangvis_chip_id": ""
     },
-    "9410333": {
+    {
         "id": 9410333,
         "name": "mission_buff_config-19410333",
         "description": "mission_buff_config-29410333",
@@ -8863,7 +8863,7 @@
         "carry_mission_skill": "",
         "sangvis_chip_id": ""
     },
-    "9411870": {
+    {
         "id": 9411870,
         "name": "mission_buff_config-19411870",
         "description": "mission_buff_config-29411870",
@@ -8895,7 +8895,7 @@
         "carry_mission_skill": "",
         "sangvis_chip_id": ""
     },
-    "9490101": {
+    {
         "id": 9490101,
         "name": "mission_buff_config-19490101",
         "description": "mission_buff_config-29490101",
@@ -8927,7 +8927,7 @@
         "carry_mission_skill": "",
         "sangvis_chip_id": ""
     },
-    "9490102": {
+    {
         "id": 9490102,
         "name": "mission_buff_config-19490102",
         "description": "mission_buff_config-29490102",
@@ -8959,7 +8959,7 @@
         "carry_mission_skill": "9490105",
         "sangvis_chip_id": ""
     },
-    "9490103": {
+    {
         "id": 9490103,
         "name": "mission_buff_config-19490103",
         "description": "mission_buff_config-29490103",
@@ -8991,7 +8991,7 @@
         "carry_mission_skill": "9490106",
         "sangvis_chip_id": ""
     },
-    "9490201": {
+    {
         "id": 9490201,
         "name": "mission_buff_config-19490201",
         "description": "mission_buff_config-29490201",
@@ -9023,4 +9023,4 @@
         "carry_mission_skill": "",
         "sangvis_chip_id": ""
     }
-}
+]

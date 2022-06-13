@@ -1,5 +1,5 @@
-{
-    "1": {
+[
+    {
         "id": 1,
         "name": "chess_camp_type-10000001",
         "des": "chess_camp_type-20000001",
@@ -8,7 +8,7 @@
         "color": "#C7E001FF",
         "code": "MiniGameFlightChessCamp1"
     },
-    "2": {
+    {
         "id": 2,
         "name": "chess_camp_type-10000002",
         "des": "chess_camp_type-20000002",
@@ -17,7 +17,7 @@
         "color": "#00D9C1FF",
         "code": "MiniGameFlightChessCamp2"
     },
-    "3": {
+    {
         "id": 3,
         "name": "chess_camp_type-10000003",
         "des": "chess_camp_type-20000003",
@@ -26,7 +26,7 @@
         "color": "#DFB801FF",
         "code": "MiniGameFlightChessCamp3"
     },
-    "4": {
+    {
         "id": 4,
         "name": "chess_camp_type-10000004",
         "des": "chess_camp_type-20000004",
@@ -35,4 +35,4 @@
         "color": "#E04900FF",
         "code": "MiniGameFlightChessCamp4"
     }
-}
+]

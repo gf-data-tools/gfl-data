@@ -1,5 +1,5 @@
-{
-    "1": {
+[
+    {
         "id": 1,
         "name": "手枪",
         "power": 4,
@@ -14,7 +14,7 @@
         "passive_skill": "",
         "ai_passive_skill": ""
     },
-    "2": {
+    {
         "id": 2,
         "name": "冲锋枪",
         "power": 4,
@@ -29,7 +29,7 @@
         "passive_skill": "",
         "ai_passive_skill": "2040102"
     },
-    "3": {
+    {
         "id": 3,
         "name": "步枪",
         "power": 8,
@@ -44,7 +44,7 @@
         "passive_skill": "",
         "ai_passive_skill": "2020102"
     },
-    "4": {
+    {
         "id": 4,
         "name": "突击步枪",
         "power": 6,
@@ -59,4 +59,4 @@
         "passive_skill": "",
         "ai_passive_skill": ""
     }
-}
+]

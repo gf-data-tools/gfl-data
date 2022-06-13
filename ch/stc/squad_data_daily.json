@@ -1,5 +1,5 @@
-{
-    "1": {
+[
+    {
         "id": 1,
         "title": "squad_data_daily-10000001",
         "content": "squad_data_daily-20000001",
@@ -8,7 +8,7 @@
         "rank": 1,
         "prize": "10,3"
     },
-    "2": {
+    {
         "id": 2,
         "title": "squad_data_daily-10000002",
         "content": "squad_data_daily-20000002",
@@ -17,7 +17,7 @@
         "rank": 1,
         "prize": "10,3"
     },
-    "3": {
+    {
         "id": 3,
         "title": "squad_data_daily-10000003",
         "content": "squad_data_daily-20000003",
@@ -26,7 +26,7 @@
         "rank": 2,
         "prize": "10,4"
     },
-    "4": {
+    {
         "id": 4,
         "title": "squad_data_daily-10000004",
         "content": "squad_data_daily-20000004",
@@ -35,7 +35,7 @@
         "rank": 2,
         "prize": "10,4"
     },
-    "5": {
+    {
         "id": 5,
         "title": "squad_data_daily-10000005",
         "content": "squad_data_daily-20000005",
@@ -44,7 +44,7 @@
         "rank": 3,
         "prize": "10,5"
     },
-    "6": {
+    {
         "id": 6,
         "title": "squad_data_daily-10000006",
         "content": "squad_data_daily-20000006",
@@ -53,7 +53,7 @@
         "rank": 3,
         "prize": "10,5"
     },
-    "7": {
+    {
         "id": 7,
         "title": "squad_data_daily-10000007",
         "content": "squad_data_daily-20000007",
@@ -62,7 +62,7 @@
         "rank": 3,
         "prize": "10,5"
     },
-    "8": {
+    {
         "id": 8,
         "title": "squad_data_daily-10000008",
         "content": "squad_data_daily-20000008",
@@ -71,7 +71,7 @@
         "rank": 1,
         "prize": "10,3"
     },
-    "10": {
+    {
         "id": 10,
         "title": "squad_data_daily-10000010",
         "content": "squad_data_daily-20000010",
@@ -80,7 +80,7 @@
         "rank": 1,
         "prize": "10,3"
     },
-    "12": {
+    {
         "id": 12,
         "title": "squad_data_daily-10000012",
         "content": "squad_data_daily-20000012",
@@ -89,7 +89,7 @@
         "rank": 2,
         "prize": "10,4"
     },
-    "13": {
+    {
         "id": 13,
         "title": "squad_data_daily-10000013",
         "content": "squad_data_daily-20000013",
@@ -98,7 +98,7 @@
         "rank": 2,
         "prize": "10,4"
     },
-    "14": {
+    {
         "id": 14,
         "title": "squad_data_daily-10000014",
         "content": "squad_data_daily-20000014",
@@ -107,4 +107,4 @@
         "rank": 2,
         "prize": "10,4"
     }
-}
+]

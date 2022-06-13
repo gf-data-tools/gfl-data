@@ -1,5 +1,5 @@
-{
-    "1": {
+[
+    {
         "id": 1,
         "name": "mission_hurt_config-10000001",
         "target_type": 2,
@@ -15,7 +15,7 @@
         "effect_process_duration": 0,
         "defender_value": "0"
     },
-    "2": {
+    {
         "id": 2,
         "name": "mission_hurt_config-10000002",
         "target_type": 2,
@@ -31,7 +31,7 @@
         "effect_process_duration": 4,
         "defender_value": "0"
     },
-    "8": {
+    {
         "id": 8,
         "name": "mission_hurt_config-10000008",
         "target_type": 1,
@@ -47,7 +47,7 @@
         "effect_process_duration": 0,
         "defender_value": "0"
     },
-    "21": {
+    {
         "id": 21,
         "name": "mission_hurt_config-10000021",
         "target_type": 2,
@@ -63,7 +63,7 @@
         "effect_process_duration": 0,
         "defender_value": "0"
     },
-    "22": {
+    {
         "id": 22,
         "name": "mission_hurt_config-10000022",
         "target_type": 2,
@@ -79,7 +79,7 @@
         "effect_process_duration": 0,
         "defender_value": "0"
     },
-    "1002": {
+    {
         "id": 1002,
         "name": "mission_hurt_config-10001002",
         "target_type": 2,
@@ -95,7 +95,7 @@
         "effect_process_duration": 0,
         "defender_value": "0"
     },
-    "482401": {
+    {
         "id": 482401,
         "name": "mission_hurt_config-10482401",
         "target_type": 2,
@@ -111,7 +111,7 @@
         "effect_process_duration": 0,
         "defender_value": "0"
     },
-    "483901": {
+    {
         "id": 483901,
         "name": "mission_hurt_config-10483901",
         "target_type": 2,
@@ -127,7 +127,7 @@
         "effect_process_duration": 0,
         "defender_value": "0"
     },
-    "483902": {
+    {
         "id": 483902,
         "name": "mission_hurt_config-10483902",
         "target_type": 0,
@@ -143,7 +143,7 @@
         "effect_process_duration": 0,
         "defender_value": "99599"
     },
-    "900003": {
+    {
         "id": 900003,
         "name": "mission_hurt_config-10900003",
         "target_type": 2,
@@ -159,7 +159,7 @@
         "effect_process_duration": 0,
         "defender_value": "0"
     },
-    "900007": {
+    {
         "id": 900007,
         "name": "mission_hurt_config-10900007",
         "target_type": 2,
@@ -175,7 +175,7 @@
         "effect_process_duration": 0,
         "defender_value": "0"
     },
-    "1000004": {
+    {
         "id": 1000004,
         "name": "mission_hurt_config-11000004",
         "target_type": 2,
@@ -191,7 +191,7 @@
         "effect_process_duration": 0,
         "defender_value": "0"
     },
-    "1000005": {
+    {
         "id": 1000005,
         "name": "mission_hurt_config-11000005",
         "target_type": 2,
@@ -207,7 +207,7 @@
         "effect_process_duration": 0,
         "defender_value": "0"
     },
-    "1000006": {
+    {
         "id": 1000006,
         "name": "mission_hurt_config-11000006",
         "target_type": 2,
@@ -223,7 +223,7 @@
         "effect_process_duration": 0,
         "defender_value": "0"
     },
-    "1000010": {
+    {
         "id": 1000010,
         "name": "mission_hurt_config-11000010",
         "target_type": 0,
@@ -239,7 +239,7 @@
         "effect_process_duration": 0,
         "defender_value": "99999"
     },
-    "1000028": {
+    {
         "id": 1000028,
         "name": "mission_hurt_config-11000028",
         "target_type": 2,
@@ -255,7 +255,7 @@
         "effect_process_duration": 0,
         "defender_value": "0"
     },
-    "1000048": {
+    {
         "id": 1000048,
         "name": "mission_hurt_config-11000048",
         "target_type": 2,
@@ -271,7 +271,7 @@
         "effect_process_duration": 0,
         "defender_value": "0"
     },
-    "1000049": {
+    {
         "id": 1000049,
         "name": "mission_hurt_config-11000049",
         "target_type": 0,
@@ -287,7 +287,7 @@
         "effect_process_duration": 0,
         "defender_value": "99599"
     },
-    "1000050": {
+    {
         "id": 1000050,
         "name": "mission_hurt_config-11000050",
         "target_type": 2,
@@ -303,7 +303,7 @@
         "effect_process_duration": 0,
         "defender_value": "0"
     },
-    "1000051": {
+    {
         "id": 1000051,
         "name": "mission_hurt_config-11000051",
         "target_type": 2,
@@ -319,7 +319,7 @@
         "effect_process_duration": 0,
         "defender_value": "0"
     },
-    "1000052": {
+    {
         "id": 1000052,
         "name": "mission_hurt_config-11000052",
         "target_type": 2,
@@ -335,7 +335,7 @@
         "effect_process_duration": 0,
         "defender_value": "0"
     },
-    "1000055": {
+    {
         "id": 1000055,
         "name": "mission_hurt_config-11000055",
         "target_type": 0,
@@ -351,7 +351,7 @@
         "effect_process_duration": 0,
         "defender_value": "5000"
     },
-    "1000064": {
+    {
         "id": 1000064,
         "name": "mission_hurt_config-11000064",
         "target_type": 0,
@@ -367,7 +367,7 @@
         "effect_process_duration": 0,
         "defender_value": "99999"
     },
-    "6430001": {
+    {
         "id": 6430001,
         "name": "mission_hurt_config-16430001",
         "target_type": 2,
@@ -383,7 +383,7 @@
         "effect_process_duration": 0,
         "defender_value": "0"
     },
-    "6430002": {
+    {
         "id": 6430002,
         "name": "mission_hurt_config-16430002",
         "target_type": 2,
@@ -399,7 +399,7 @@
         "effect_process_duration": 0,
         "defender_value": "0"
     },
-    "6430003": {
+    {
         "id": 6430003,
         "name": "mission_hurt_config-16430003",
         "target_type": 2,
@@ -415,7 +415,7 @@
         "effect_process_duration": 0,
         "defender_value": "0"
     },
-    "6430004": {
+    {
         "id": 6430004,
         "name": "mission_hurt_config-16430004",
         "target_type": 2,
@@ -431,7 +431,7 @@
         "effect_process_duration": 0,
         "defender_value": "0"
     },
-    "6430005": {
+    {
         "id": 6430005,
         "name": "mission_hurt_config-16430005",
         "target_type": 2,
@@ -447,7 +447,7 @@
         "effect_process_duration": 0,
         "defender_value": "0"
     },
-    "6430006": {
+    {
         "id": 6430006,
         "name": "mission_hurt_config-16430006",
         "target_type": 2,
@@ -463,7 +463,7 @@
         "effect_process_duration": 0,
         "defender_value": "0"
     },
-    "6430007": {
+    {
         "id": 6430007,
         "name": "mission_hurt_config-16430007",
         "target_type": 2,
@@ -479,7 +479,7 @@
         "effect_process_duration": 0,
         "defender_value": "0"
     },
-    "6430008": {
+    {
         "id": 6430008,
         "name": "mission_hurt_config-16430008",
         "target_type": 2,
@@ -495,7 +495,7 @@
         "effect_process_duration": 0,
         "defender_value": "0"
     },
-    "6430009": {
+    {
         "id": 6430009,
         "name": "mission_hurt_config-16430009",
         "target_type": 2,
@@ -511,7 +511,7 @@
         "effect_process_duration": 0,
         "defender_value": "0"
     },
-    "6430010": {
+    {
         "id": 6430010,
         "name": "mission_hurt_config-16430010",
         "target_type": 2,
@@ -527,7 +527,7 @@
         "effect_process_duration": 0,
         "defender_value": "0"
     },
-    "6440001": {
+    {
         "id": 6440001,
         "name": "mission_hurt_config-16440001",
         "target_type": 2,
@@ -543,7 +543,7 @@
         "effect_process_duration": 0,
         "defender_value": "0"
     },
-    "6440002": {
+    {
         "id": 6440002,
         "name": "mission_hurt_config-16440002",
         "target_type": 2,
@@ -559,7 +559,7 @@
         "effect_process_duration": 1000053,
         "defender_value": "0"
     },
-    "6440003": {
+    {
         "id": 6440003,
         "name": "mission_hurt_config-16440003",
         "target_type": 2,
@@ -575,7 +575,7 @@
         "effect_process_duration": 0,
         "defender_value": "0"
     },
-    "6440004": {
+    {
         "id": 6440004,
         "name": "mission_hurt_config-16440004",
         "target_type": 2,
@@ -591,7 +591,7 @@
         "effect_process_duration": 0,
         "defender_value": "99999"
     },
-    "6480001": {
+    {
         "id": 6480001,
         "name": "mission_hurt_config-16480001",
         "target_type": 2,
@@ -607,7 +607,7 @@
         "effect_process_duration": 0,
         "defender_value": "99999"
     },
-    "6480002": {
+    {
         "id": 6480002,
         "name": "mission_hurt_config-16480002",
         "target_type": 2,
@@ -623,7 +623,7 @@
         "effect_process_duration": 0,
         "defender_value": "0"
     },
-    "6510001": {
+    {
         "id": 6510001,
         "name": "mission_hurt_config-16510001",
         "target_type": 2,
@@ -639,7 +639,7 @@
         "effect_process_duration": 0,
         "defender_value": ""
     },
-    "6510002": {
+    {
         "id": 6510002,
         "name": "mission_hurt_config-16510002",
         "target_type": 2,
@@ -655,7 +655,7 @@
         "effect_process_duration": 0,
         "defender_value": ""
     },
-    "6510003": {
+    {
         "id": 6510003,
         "name": "mission_hurt_config-16510003",
         "target_type": 2,
@@ -671,7 +671,7 @@
         "effect_process_duration": 0,
         "defender_value": ""
     },
-    "6510004": {
+    {
         "id": 6510004,
         "name": "mission_hurt_config-16510004",
         "target_type": 2,
@@ -687,7 +687,7 @@
         "effect_process_duration": 0,
         "defender_value": ""
     },
-    "6510005": {
+    {
         "id": 6510005,
         "name": "mission_hurt_config-16510005",
         "target_type": 2,
@@ -703,7 +703,7 @@
         "effect_process_duration": 0,
         "defender_value": "99999"
     },
-    "8120701": {
+    {
         "id": 8120701,
         "name": "mission_hurt_config-18120701",
         "target_type": 0,
@@ -719,7 +719,7 @@
         "effect_process_duration": 0,
         "defender_value": "8599"
     },
-    "9130610": {
+    {
         "id": 9130610,
         "name": "mission_hurt_config-19130610",
         "target_type": 2,
@@ -735,7 +735,7 @@
         "effect_process_duration": 0,
         "defender_value": "0"
     },
-    "9334951": {
+    {
         "id": 9334951,
         "name": "mission_hurt_config-19334951",
         "target_type": 2,
@@ -751,7 +751,7 @@
         "effect_process_duration": 0,
         "defender_value": "0"
     },
-    "9337202": {
+    {
         "id": 9337202,
         "name": "mission_hurt_config-19337202",
         "target_type": 0,
@@ -767,7 +767,7 @@
         "effect_process_duration": 0,
         "defender_value": "0"
     },
-    "9362003": {
+    {
         "id": 9362003,
         "name": "mission_hurt_config-19362003",
         "target_type": 2,
@@ -783,7 +783,7 @@
         "effect_process_duration": 0,
         "defender_value": "0"
     },
-    "9362015": {
+    {
         "id": 9362015,
         "name": "mission_hurt_config-19362015",
         "target_type": 2,
@@ -799,7 +799,7 @@
         "effect_process_duration": 0,
         "defender_value": "0"
     },
-    "9362024": {
+    {
         "id": 9362024,
         "name": "mission_hurt_config-19362024",
         "target_type": 2,
@@ -815,4 +815,4 @@
         "effect_process_duration": 0,
         "defender_value": "0"
     }
-}
+]

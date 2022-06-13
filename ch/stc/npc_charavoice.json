@@ -1,5 +1,5 @@
-{
-    "1": {
+[
+    {
         "id": 1,
         "name": "npc_charavoice-10000001",
         "code": "_HELLO_JP",
@@ -8,7 +8,7 @@
         "China_data": "",
         "time": ""
     },
-    "2": {
+    {
         "id": 2,
         "name": "npc_charavoice-10000002",
         "code": "_DIALOGUE1_JP",
@@ -17,7 +17,7 @@
         "China_data": "",
         "time": ""
     },
-    "3": {
+    {
         "id": 3,
         "name": "npc_charavoice-10000003",
         "code": "_DIALOGUE2_JP",
@@ -26,7 +26,7 @@
         "China_data": "",
         "time": ""
     },
-    "4": {
+    {
         "id": 4,
         "name": "npc_charavoice-10000004",
         "code": "_DIALOGUE3_JP",
@@ -35,7 +35,7 @@
         "China_data": "",
         "time": ""
     },
-    "5": {
+    {
         "id": 5,
         "name": "npc_charavoice-10000005",
         "code": "_DIALOGUE4_JP",
@@ -44,7 +44,7 @@
         "China_data": "",
         "time": ""
     },
-    "6": {
+    {
         "id": 6,
         "name": "npc_charavoice-10000006",
         "code": "_DIALOGUE5_JP",
@@ -53,7 +53,7 @@
         "China_data": "",
         "time": ""
     },
-    "7": {
+    {
         "id": 7,
         "name": "npc_charavoice-10000007",
         "code": "_DIALOGUE6_JP",
@@ -62,7 +62,7 @@
         "China_data": "",
         "time": ""
     },
-    "8": {
+    {
         "id": 8,
         "name": "npc_charavoice-10000008",
         "code": "_DIALOGUE7_JP",
@@ -71,7 +71,7 @@
         "China_data": "",
         "time": ""
     },
-    "9": {
+    {
         "id": 9,
         "name": "npc_charavoice-10000009",
         "code": "_DIALOGUE8_JP",
@@ -80,7 +80,7 @@
         "China_data": "",
         "time": ""
     },
-    "10": {
+    {
         "id": 10,
         "name": "npc_charavoice-10000010",
         "code": "_DIALOGUE9_JP",
@@ -89,7 +89,7 @@
         "China_data": "",
         "time": ""
     },
-    "11": {
+    {
         "id": 11,
         "name": "npc_charavoice-10000011",
         "code": "_DIALOGUE10_JP",
@@ -98,7 +98,7 @@
         "China_data": "",
         "time": ""
     },
-    "12": {
+    {
         "id": 12,
         "name": "npc_charavoice-10000012",
         "code": "BUILDOVER_JP",
@@ -107,7 +107,7 @@
         "China_data": "",
         "time": ""
     },
-    "13": {
+    {
         "id": 13,
         "name": "npc_charavoice-10000013",
         "code": "_NEWYEAR_JP",
@@ -116,7 +116,7 @@
         "China_data": "01-01|01-02|01-03",
         "time": ""
     },
-    "14": {
+    {
         "id": 14,
         "name": "npc_charavoice-10000014",
         "code": "_VALENTINE_JP",
@@ -125,7 +125,7 @@
         "China_data": "",
         "time": ""
     },
-    "15": {
+    {
         "id": 15,
         "name": "npc_charavoice-10000015",
         "code": "_TANABATA_JP",
@@ -134,7 +134,7 @@
         "China_data": "07-07",
         "time": ""
     },
-    "16": {
+    {
         "id": 16,
         "name": "npc_charavoice-10000016",
         "code": "_ALLHALLOWS_JP",
@@ -143,7 +143,7 @@
         "China_data": "",
         "time": ""
     },
-    "17": {
+    {
         "id": 17,
         "name": "npc_charavoice-10000017",
         "code": "_CHRISTMAS_JP",
@@ -152,7 +152,7 @@
         "China_data": "",
         "time": ""
     },
-    "18": {
+    {
         "id": 18,
         "name": "npc_charavoice-10000018",
         "code": "_MORNING_JP",
@@ -161,7 +161,7 @@
         "China_data": "",
         "time": "06:30:01-08:00:00|09:00:01-09:30:00"
     },
-    "19": {
+    {
         "id": 19,
         "name": "npc_charavoice-10000019",
         "code": "_NOON_JP",
@@ -170,7 +170,7 @@
         "China_data": "",
         "time": "11:00:01-11:30:00|13:00:01-13:30:00"
     },
-    "20": {
+    {
         "id": 20,
         "name": "npc_charavoice-10000020",
         "code": "_AFTERNOON_JP",
@@ -179,7 +179,7 @@
         "China_data": "",
         "time": "14:00:01-16:00:00"
     },
-    "21": {
+    {
         "id": 21,
         "name": "npc_charavoice-10000021",
         "code": "_EVENING_JP",
@@ -188,7 +188,7 @@
         "China_data": "",
         "time": "20:00:01-21:30:00"
     },
-    "22": {
+    {
         "id": 22,
         "name": "npc_charavoice-10000022",
         "code": "_MIDNIGHT_JP",
@@ -197,7 +197,7 @@
         "China_data": "",
         "time": "23:45:01-23:59:59|00:00:00-00:15:00|03:00:01-06:30:00"
     },
-    "23": {
+    {
         "id": 23,
         "name": "npc_charavoice-10000023",
         "code": "_BREAKFAST_JP",
@@ -206,7 +206,7 @@
         "China_data": "",
         "time": "08:00:01-09:00:00"
     },
-    "24": {
+    {
         "id": 24,
         "name": "npc_charavoice-10000024",
         "code": "_LUNCH_JP",
@@ -215,7 +215,7 @@
         "China_data": "",
         "time": "11:30:01-13:00:00"
     },
-    "25": {
+    {
         "id": 25,
         "name": "npc_charavoice-10000025",
         "code": "_DINNRER_JP",
@@ -224,7 +224,7 @@
         "China_data": "",
         "time": "17:30:01-19:00:00"
     },
-    "26": {
+    {
         "id": 26,
         "name": "npc_charavoice-10000026",
         "code": "_SUPPER_JP",
@@ -233,7 +233,7 @@
         "China_data": "",
         "time": "22:30:01-23:45:00|00:15:01-01:15:00"
     },
-    "27": {
+    {
         "id": 27,
         "name": "npc_charavoice-10000027",
         "code": "_AMUSEMENT_JP",
@@ -242,7 +242,7 @@
         "China_data": "",
         "time": "21:30:01-22:30:00|01:15:01-03:00:00"
     },
-    "28": {
+    {
         "id": 28,
         "name": "npc_charavoice-10000028",
         "code": "_CONTRIBUTION1_JP",
@@ -251,7 +251,7 @@
         "China_data": "",
         "time": ""
     },
-    "29": {
+    {
         "id": 29,
         "name": "npc_charavoice-10000029",
         "code": "_CONTRIBUTION2_JP",
@@ -260,7 +260,7 @@
         "China_data": "",
         "time": ""
     },
-    "30": {
+    {
         "id": 30,
         "name": "npc_charavoice-10000030",
         "code": "_CONTRIBUTION3_JP",
@@ -269,7 +269,7 @@
         "China_data": "",
         "time": ""
     },
-    "31": {
+    {
         "id": 31,
         "name": "npc_charavoice-10000031",
         "code": "_CONTRIBUTION4_JP",
@@ -278,7 +278,7 @@
         "China_data": "",
         "time": ""
     },
-    "32": {
+    {
         "id": 32,
         "name": "npc_charavoice-10000032",
         "code": "_CONTRIBUTION5_JP",
@@ -287,7 +287,7 @@
         "China_data": "",
         "time": ""
     },
-    "33": {
+    {
         "id": 33,
         "name": "npc_charavoice-10000033",
         "code": "_CONTRIBUTION6_JP",
@@ -296,7 +296,7 @@
         "China_data": "",
         "time": ""
     },
-    "34": {
+    {
         "id": 34,
         "name": "npc_charavoice-10000034",
         "code": "_CONTRIBUTION7_JP",
@@ -305,7 +305,7 @@
         "China_data": "",
         "time": ""
     },
-    "35": {
+    {
         "id": 35,
         "name": "npc_charavoice-10000035",
         "code": "_CONTRIBUTION8_JP",
@@ -314,7 +314,7 @@
         "China_data": "",
         "time": ""
     },
-    "36": {
+    {
         "id": 36,
         "name": "npc_charavoice-10000036",
         "code": "_CONTRIBUTION9_JP",
@@ -323,7 +323,7 @@
         "China_data": "",
         "time": ""
     },
-    "37": {
+    {
         "id": 37,
         "name": "npc_charavoice-10000037",
         "code": "_CONTRIBUTION10_JP",
@@ -332,7 +332,7 @@
         "China_data": "",
         "time": ""
     },
-    "38": {
+    {
         "id": 38,
         "name": "npc_charavoice-10000038",
         "code": "_CONTRIBUTION11_JP",
@@ -341,7 +341,7 @@
         "China_data": "",
         "time": ""
     },
-    "39": {
+    {
         "id": 39,
         "name": "npc_charavoice-10000039",
         "code": "_CONTRIBUTION12_JP",
@@ -350,7 +350,7 @@
         "China_data": "",
         "time": ""
     },
-    "40": {
+    {
         "id": 40,
         "name": "npc_charavoice-10000040",
         "code": "_CONTRIBUTION13_JP",
@@ -359,7 +359,7 @@
         "China_data": "",
         "time": ""
     },
-    "41": {
+    {
         "id": 41,
         "name": "npc_charavoice-10000041",
         "code": "_CONTRIBUTION14_JP",
@@ -368,7 +368,7 @@
         "China_data": "",
         "time": ""
     },
-    "42": {
+    {
         "id": 42,
         "name": "npc_charavoice-10000042",
         "code": "_CONTRIBUTION15_JP",
@@ -377,4 +377,4 @@
         "China_data": "",
         "time": ""
     }
-}
+]

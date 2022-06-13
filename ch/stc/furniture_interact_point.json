@@ -1,5 +1,5 @@
-{
-    "1": {
+[
+    {
         "id": 1,
         "gun_action": "sit",
         "is_cover": 0,
@@ -12,7 +12,7 @@
         "need_action": "",
         "group": ""
     },
-    "2": {
+    {
         "id": 2,
         "gun_action": "sit",
         "is_cover": 0,
@@ -25,7 +25,7 @@
         "need_action": "",
         "group": ""
     },
-    "3": {
+    {
         "id": 3,
         "gun_action": "sit",
         "is_cover": 0,
@@ -38,7 +38,7 @@
         "need_action": "",
         "group": ""
     },
-    "4": {
+    {
         "id": 4,
         "gun_action": "sleep",
         "is_cover": 0,
@@ -51,7 +51,7 @@
         "need_action": "",
         "group": ""
     },
-    "5": {
+    {
         "id": 5,
         "gun_action": "sleep",
         "is_cover": 0,
@@ -64,7 +64,7 @@
         "need_action": "",
         "group": ""
     },
-    "6": {
+    {
         "id": 6,
         "gun_action": "sleep",
         "is_cover": 0,
@@ -77,7 +77,7 @@
         "need_action": "",
         "group": ""
     },
-    "7": {
+    {
         "id": 7,
         "gun_action": "sleep",
         "is_cover": -1,
@@ -90,7 +90,7 @@
         "need_action": "",
         "group": ""
     },
-    "8": {
+    {
         "id": 8,
         "gun_action": "sleep",
         "is_cover": -1,
@@ -103,7 +103,7 @@
         "need_action": "",
         "group": ""
     },
-    "11": {
+    {
         "id": 11,
         "gun_action": "sleep,sit",
         "is_cover": -1,
@@ -116,7 +116,7 @@
         "need_action": "",
         "group": ""
     },
-    "12": {
+    {
         "id": 12,
         "gun_action": "sit",
         "is_cover": -1,
@@ -129,7 +129,7 @@
         "need_action": "",
         "group": ""
     },
-    "13": {
+    {
         "id": 13,
         "gun_action": "sleep",
         "is_cover": -1,
@@ -142,7 +142,7 @@
         "need_action": "",
         "group": ""
     },
-    "14": {
+    {
         "id": 14,
         "gun_action": "sit",
         "is_cover": -1,
@@ -155,7 +155,7 @@
         "need_action": "",
         "group": ""
     },
-    "15": {
+    {
         "id": 15,
         "gun_action": "sit",
         "is_cover": -1,
@@ -168,7 +168,7 @@
         "need_action": "",
         "group": ""
     },
-    "16": {
+    {
         "id": 16,
         "gun_action": "sit",
         "is_cover": -1,
@@ -181,7 +181,7 @@
         "need_action": "",
         "group": ""
     },
-    "17": {
+    {
         "id": 17,
         "gun_action": "wait",
         "is_cover": -1,
@@ -194,7 +194,7 @@
         "need_action": "",
         "group": ""
     },
-    "18": {
+    {
         "id": 18,
         "gun_action": "sit",
         "is_cover": -1,
@@ -207,7 +207,7 @@
         "need_action": "",
         "group": ""
     },
-    "19": {
+    {
         "id": 19,
         "gun_action": "sit",
         "is_cover": -1,
@@ -220,7 +220,7 @@
         "need_action": "",
         "group": ""
     },
-    "20": {
+    {
         "id": 20,
         "gun_action": "sit",
         "is_cover": -1,
@@ -233,7 +233,7 @@
         "need_action": "",
         "group": ""
     },
-    "21": {
+    {
         "id": 21,
         "gun_action": "hotspring",
         "is_cover": -1,
@@ -246,7 +246,7 @@
         "need_action": "",
         "group": ""
     },
-    "22": {
+    {
         "id": 22,
         "gun_action": "hotspring",
         "is_cover": -1,
@@ -259,7 +259,7 @@
         "need_action": "",
         "group": ""
     },
-    "23": {
+    {
         "id": 23,
         "gun_action": "pick",
         "is_cover": -1,
@@ -272,7 +272,7 @@
         "need_action": "",
         "group": ""
     },
-    "24": {
+    {
         "id": 24,
         "gun_action": "sleep",
         "is_cover": -1,
@@ -285,7 +285,7 @@
         "need_action": "",
         "group": ""
     },
-    "25": {
+    {
         "id": 25,
         "gun_action": "sleep",
         "is_cover": -1,
@@ -298,7 +298,7 @@
         "need_action": "",
         "group": ""
     },
-    "26": {
+    {
         "id": 26,
         "gun_action": "sit",
         "is_cover": -1,
@@ -311,7 +311,7 @@
         "need_action": "",
         "group": ""
     },
-    "27": {
+    {
         "id": 27,
         "gun_action": "wait",
         "is_cover": -1,
@@ -324,7 +324,7 @@
         "need_action": "",
         "group": ""
     },
-    "28": {
+    {
         "id": 28,
         "gun_action": "wait",
         "is_cover": -1,
@@ -337,7 +337,7 @@
         "need_action": "",
         "group": ""
     },
-    "29": {
+    {
         "id": 29,
         "gun_action": "wait",
         "is_cover": -1,
@@ -350,7 +350,7 @@
         "need_action": "",
         "group": ""
     },
-    "30": {
+    {
         "id": 30,
         "gun_action": "wait",
         "is_cover": -1,
@@ -363,7 +363,7 @@
         "need_action": "",
         "group": ""
     },
-    "31": {
+    {
         "id": 31,
         "gun_action": "sit",
         "is_cover": 0,
@@ -376,7 +376,7 @@
         "need_action": "",
         "group": ""
     },
-    "32": {
+    {
         "id": 32,
         "gun_action": "wait",
         "is_cover": -1,
@@ -389,7 +389,7 @@
         "need_action": "",
         "group": ""
     },
-    "33": {
+    {
         "id": 33,
         "gun_action": "wait",
         "is_cover": -1,
@@ -402,7 +402,7 @@
         "need_action": "",
         "group": ""
     },
-    "34": {
+    {
         "id": 34,
         "gun_action": "sit",
         "is_cover": -1,
@@ -415,7 +415,7 @@
         "need_action": "",
         "group": ""
     },
-    "35": {
+    {
         "id": 35,
         "gun_action": "pick",
         "is_cover": -1,
@@ -428,7 +428,7 @@
         "need_action": "",
         "group": ""
     },
-    "36": {
+    {
         "id": 36,
         "gun_action": "wait",
         "is_cover": -1,
@@ -441,7 +441,7 @@
         "need_action": "",
         "group": ""
     },
-    "37": {
+    {
         "id": 37,
         "gun_action": "pick",
         "is_cover": -1,
@@ -454,7 +454,7 @@
         "need_action": "",
         "group": ""
     },
-    "38": {
+    {
         "id": 38,
         "gun_action": "wait",
         "is_cover": -1,
@@ -467,7 +467,7 @@
         "need_action": "",
         "group": ""
     },
-    "39": {
+    {
         "id": 39,
         "gun_action": "wait",
         "is_cover": -1,
@@ -480,7 +480,7 @@
         "need_action": "",
         "group": ""
     },
-    "40": {
+    {
         "id": 40,
         "gun_action": "wait",
         "is_cover": -1,
@@ -493,7 +493,7 @@
         "need_action": "",
         "group": ""
     },
-    "41": {
+    {
         "id": 41,
         "gun_action": "sleep",
         "is_cover": -1,
@@ -506,7 +506,7 @@
         "need_action": "",
         "group": ""
     },
-    "42": {
+    {
         "id": 42,
         "gun_action": "sleep",
         "is_cover": -1,
@@ -519,7 +519,7 @@
         "need_action": "",
         "group": ""
     },
-    "43": {
+    {
         "id": 43,
         "gun_action": "sleep",
         "is_cover": -1,
@@ -532,7 +532,7 @@
         "need_action": "",
         "group": ""
     },
-    "44": {
+    {
         "id": 44,
         "gun_action": "wait",
         "is_cover": -1,
@@ -545,7 +545,7 @@
         "need_action": "",
         "group": ""
     },
-    "45": {
+    {
         "id": 45,
         "gun_action": "sit",
         "is_cover": 0,
@@ -558,7 +558,7 @@
         "need_action": "",
         "group": ""
     },
-    "46": {
+    {
         "id": 46,
         "gun_action": "sit",
         "is_cover": -1,
@@ -571,7 +571,7 @@
         "need_action": "",
         "group": ""
     },
-    "47": {
+    {
         "id": 47,
         "gun_action": "wait",
         "is_cover": -1,
@@ -584,7 +584,7 @@
         "need_action": "",
         "group": ""
     },
-    "48": {
+    {
         "id": 48,
         "gun_action": "wait",
         "is_cover": -1,
@@ -597,7 +597,7 @@
         "need_action": "",
         "group": ""
     },
-    "49": {
+    {
         "id": 49,
         "gun_action": "sleep",
         "is_cover": -1,
@@ -610,7 +610,7 @@
         "need_action": "",
         "group": ""
     },
-    "50": {
+    {
         "id": 50,
         "gun_action": "sit",
         "is_cover": -1,
@@ -623,7 +623,7 @@
         "need_action": "",
         "group": ""
     },
-    "51": {
+    {
         "id": 51,
         "gun_action": "sit",
         "is_cover": -1,
@@ -636,7 +636,7 @@
         "need_action": "",
         "group": ""
     },
-    "52": {
+    {
         "id": 52,
         "gun_action": "sit",
         "is_cover": -1,
@@ -649,7 +649,7 @@
         "need_action": "",
         "group": ""
     },
-    "53": {
+    {
         "id": 53,
         "gun_action": "hotspring",
         "is_cover": -1,
@@ -662,7 +662,7 @@
         "need_action": "",
         "group": ""
     },
-    "54": {
+    {
         "id": 54,
         "gun_action": "wait",
         "is_cover": -1,
@@ -675,7 +675,7 @@
         "need_action": "",
         "group": ""
     },
-    "55": {
+    {
         "id": 55,
         "gun_action": "wait",
         "is_cover": -1,
@@ -688,7 +688,7 @@
         "need_action": "",
         "group": ""
     },
-    "56": {
+    {
         "id": 56,
         "gun_action": "wait",
         "is_cover": 0,
@@ -701,7 +701,7 @@
         "need_action": "",
         "group": ""
     },
-    "57": {
+    {
         "id": 57,
         "gun_action": "wait",
         "is_cover": 0,
@@ -714,7 +714,7 @@
         "need_action": "",
         "group": ""
     },
-    "58": {
+    {
         "id": 58,
         "gun_action": "wait",
         "is_cover": -1,
@@ -727,7 +727,7 @@
         "need_action": "",
         "group": ""
     },
-    "59": {
+    {
         "id": 59,
         "gun_action": "sit",
         "is_cover": -1,
@@ -740,7 +740,7 @@
         "need_action": "",
         "group": ""
     },
-    "60": {
+    {
         "id": 60,
         "gun_action": "wait",
         "is_cover": -1,
@@ -753,7 +753,7 @@
         "need_action": "",
         "group": ""
     },
-    "61": {
+    {
         "id": 61,
         "gun_action": "wait",
         "is_cover": -1,
@@ -766,7 +766,7 @@
         "need_action": "",
         "group": ""
     },
-    "104": {
+    {
         "id": 104,
         "gun_action": "bird_sit",
         "is_cover": -1,
@@ -779,7 +779,7 @@
         "need_action": "",
         "group": ""
     },
-    "105": {
+    {
         "id": 105,
         "gun_action": "bird_sit",
         "is_cover": -1,
@@ -792,7 +792,7 @@
         "need_action": "",
         "group": ""
     },
-    "401": {
+    {
         "id": 401,
         "gun_action": "kalina_write",
         "is_cover": -1,
@@ -805,7 +805,7 @@
         "need_action": "",
         "group": ""
     },
-    "402": {
+    {
         "id": 402,
         "gun_action": "kalina_type",
         "is_cover": -1,
@@ -818,7 +818,7 @@
         "need_action": "",
         "group": ""
     },
-    "403": {
+    {
         "id": 403,
         "gun_action": "isc_work",
         "is_cover": -1,
@@ -831,7 +831,7 @@
         "need_action": "",
         "group": ""
     },
-    "404": {
+    {
         "id": 404,
         "gun_action": "isc_work",
         "is_cover": -1,
@@ -844,7 +844,7 @@
         "need_action": "",
         "group": ""
     },
-    "1001": {
+    {
         "id": 1001,
         "gun_action": "sp1",
         "is_cover": -1,
@@ -857,7 +857,7 @@
         "need_action": "",
         "group": ""
     },
-    "1002": {
+    {
         "id": 1002,
         "gun_action": "sp1",
         "is_cover": -1,
@@ -870,7 +870,7 @@
         "need_action": "",
         "group": ""
     },
-    "82002": {
+    {
         "id": 82002,
         "gun_action": "neet_sleep",
         "is_cover": -1,
@@ -883,7 +883,7 @@
         "need_action": "",
         "group": ""
     },
-    "82009": {
+    {
         "id": 82009,
         "gun_action": "sing",
         "is_cover": 0,
@@ -896,7 +896,7 @@
         "need_action": "",
         "group": ""
     },
-    "82016": {
+    {
         "id": 82016,
         "gun_action": "paly_drum",
         "is_cover": -1,
@@ -909,7 +909,7 @@
         "need_action": "",
         "group": ""
     },
-    "82019": {
+    {
         "id": 82019,
         "gun_action": "ar15_wait",
         "is_cover": -1,
@@ -922,7 +922,7 @@
         "need_action": "",
         "group": ""
     },
-    "82020": {
+    {
         "id": 82020,
         "gun_action": "hk416_wait",
         "is_cover": -1,
@@ -935,7 +935,7 @@
         "need_action": "",
         "group": ""
     },
-    "82021": {
+    {
         "id": 82021,
         "gun_action": "sop_wait",
         "is_cover": -1,
@@ -948,7 +948,7 @@
         "need_action": "",
         "group": ""
     },
-    "82022": {
+    {
         "id": 82022,
         "gun_action": "ump45_wait",
         "is_cover": -1,
@@ -961,7 +961,7 @@
         "need_action": "",
         "group": ""
     },
-    "82023": {
+    {
         "id": 82023,
         "gun_action": "green_beverage",
         "is_cover": -1,
@@ -974,7 +974,7 @@
         "need_action": "",
         "group": ""
     },
-    "82037": {
+    {
         "id": 82037,
         "gun_action": "concert_harp",
         "is_cover": -1,
@@ -987,7 +987,7 @@
         "need_action": "",
         "group": ""
     },
-    "82043": {
+    {
         "id": 82043,
         "gun_action": "ar15_2019wait",
         "is_cover": -1,
@@ -1000,7 +1000,7 @@
         "need_action": "",
         "group": ""
     },
-    "82047": {
+    {
         "id": 82047,
         "gun_action": "sp_2019wait",
         "is_cover": -1,
@@ -1013,7 +1013,7 @@
         "need_action": "",
         "group": ""
     },
-    "82067": {
+    {
         "id": 82067,
         "gun_action": "gunslinger_book",
         "is_cover": -1,
@@ -1026,7 +1026,7 @@
         "need_action": "",
         "group": ""
     },
-    "82068": {
+    {
         "id": 82068,
         "gun_action": "gunslinger_violin",
         "is_cover": -1,
@@ -1039,7 +1039,7 @@
         "need_action": "",
         "group": ""
     },
-    "82069": {
+    {
         "id": 82069,
         "gun_action": "volleyball_wait",
         "is_cover": -1,
@@ -1052,7 +1052,7 @@
         "need_action": "",
         "group": ""
     },
-    "82087": {
+    {
         "id": 82087,
         "gun_action": "agent_wait",
         "is_cover": -1,
@@ -1065,7 +1065,7 @@
         "need_action": "",
         "group": ""
     },
-    "83104": {
+    {
         "id": 83104,
         "gun_action": "taptap",
         "is_cover": 0,
@@ -1078,7 +1078,7 @@
         "need_action": "",
         "group": ""
     },
-    "83105": {
+    {
         "id": 83105,
         "gun_action": "play",
         "is_cover": -1,
@@ -1091,7 +1091,7 @@
         "need_action": "",
         "group": ""
     },
-    "83108": {
+    {
         "id": 83108,
         "gun_action": "wa2000_wait",
         "is_cover": -1,
@@ -1104,7 +1104,7 @@
         "need_action": "",
         "group": ""
     },
-    "83109": {
+    {
         "id": 83109,
         "gun_action": "M1903_wait",
         "is_cover": -1,
@@ -1117,7 +1117,7 @@
         "need_action": "",
         "group": ""
     },
-    "83111": {
+    {
         "id": 83111,
         "gun_action": "HK416_wait",
         "is_cover": -1,
@@ -1130,7 +1130,7 @@
         "need_action": "",
         "group": ""
     },
-    "83115": {
+    {
         "id": 83115,
         "gun_action": "arteam_wait",
         "is_cover": -1,
@@ -1143,7 +1143,7 @@
         "need_action": "",
         "group": ""
     },
-    "83306": {
+    {
         "id": 83306,
         "gun_action": "3306_swim",
         "is_cover": -1,
@@ -1156,7 +1156,7 @@
         "need_action": "",
         "group": ""
     },
-    "83911": {
+    {
         "id": 83911,
         "gun_action": "neet_sit",
         "is_cover": 0,
@@ -1169,7 +1169,7 @@
         "need_action": "",
         "group": ""
     },
-    "85813": {
+    {
         "id": 85813,
         "gun_action": "3306_swim",
         "is_cover": -1,
@@ -1182,7 +1182,7 @@
         "need_action": "",
         "group": ""
     },
-    "85904": {
+    {
         "id": 85904,
         "gun_action": "rock_roll",
         "is_cover": -1,
@@ -1195,7 +1195,7 @@
         "need_action": "",
         "group": ""
     },
-    "86204": {
+    {
         "id": 86204,
         "gun_action": "idol_dance",
         "is_cover": -1,
@@ -1208,7 +1208,7 @@
         "need_action": "",
         "group": ""
     },
-    "86413": {
+    {
         "id": 86413,
         "gun_action": "witch_dance",
         "is_cover": -1,
@@ -1221,7 +1221,7 @@
         "need_action": "",
         "group": ""
     },
-    "86603": {
+    {
         "id": 86603,
         "gun_action": "eat_lover",
         "is_cover": -1,
@@ -1234,7 +1234,7 @@
         "need_action": "",
         "group": ""
     },
-    "86811": {
+    {
         "id": 86811,
         "gun_action": "concert_d",
         "is_cover": -1,
@@ -1247,7 +1247,7 @@
         "need_action": "",
         "group": ""
     },
-    "86814": {
+    {
         "id": 86814,
         "gun_action": "concert_l",
         "is_cover": -1,
@@ -1260,7 +1260,7 @@
         "need_action": "",
         "group": ""
     },
-    "86906": {
+    {
         "id": 86906,
         "gun_action": "anna_sit",
         "is_cover": -1,
@@ -1273,7 +1273,7 @@
         "need_action": "",
         "group": ""
     },
-    "87109": {
+    {
         "id": 87109,
         "gun_action": "children_sit",
         "is_cover": -1,
@@ -1286,7 +1286,7 @@
         "need_action": "",
         "group": ""
     },
-    "87111": {
+    {
         "id": 87111,
         "gun_action": "kalina_saler",
         "is_cover": -1,
@@ -1299,7 +1299,7 @@
         "need_action": "",
         "group": ""
     },
-    "87202": {
+    {
         "id": 87202,
         "gun_action": "Boxer_sp",
         "is_cover": -1,
@@ -1312,7 +1312,7 @@
         "need_action": "",
         "group": ""
     },
-    "87211": {
+    {
         "id": 87211,
         "gun_action": "hotspring",
         "is_cover": -1,
@@ -1325,7 +1325,7 @@
         "need_action": "",
         "group": ""
     },
-    "87215": {
+    {
         "id": 87215,
         "gun_action": "9A91_wait_jp",
         "is_cover": -1,
@@ -1338,7 +1338,7 @@
         "need_action": "",
         "group": ""
     },
-    "87225": {
+    {
         "id": 87225,
         "gun_action": "plane_sit",
         "is_cover": -1,
@@ -1351,7 +1351,7 @@
         "need_action": "",
         "group": ""
     },
-    "87303": {
+    {
         "id": 87303,
         "gun_action": "3306_swim",
         "is_cover": -1,
@@ -1364,7 +1364,7 @@
         "need_action": "",
         "group": ""
     },
-    "87311": {
+    {
         "id": 87311,
         "gun_action": "3306_swim",
         "is_cover": -1,
@@ -1377,7 +1377,7 @@
         "need_action": "",
         "group": ""
     },
-    "87405": {
+    {
         "id": 87405,
         "gun_action": "sleep",
         "is_cover": -1,
@@ -1390,7 +1390,7 @@
         "need_action": "",
         "group": ""
     },
-    "87413": {
+    {
         "id": 87413,
         "gun_action": "sp_architecter",
         "is_cover": -1,
@@ -1403,7 +1403,7 @@
         "need_action": "",
         "group": ""
     },
-    "87507": {
+    {
         "id": 87507,
         "gun_action": "naughtykid",
         "is_cover": -1,
@@ -1416,7 +1416,7 @@
         "need_action": "",
         "group": ""
     },
-    "87509": {
+    {
         "id": 87509,
         "gun_action": "zhiba_wait",
         "is_cover": -1,
@@ -1429,7 +1429,7 @@
         "need_action": "",
         "group": ""
     },
-    "87603": {
+    {
         "id": 87603,
         "gun_action": "sleep",
         "is_cover": -1,
@@ -1442,7 +1442,7 @@
         "need_action": "",
         "group": ""
     },
-    "87605": {
+    {
         "id": 87605,
         "gun_action": "hallo19_wait",
         "is_cover": -1,
@@ -1455,7 +1455,7 @@
         "need_action": "",
         "group": ""
     },
-    "87610": {
+    {
         "id": 87610,
         "gun_action": "wait",
         "is_cover": -1,
@@ -1468,7 +1468,7 @@
         "need_action": "",
         "group": ""
     },
-    "87612": {
+    {
         "id": 87612,
         "gun_action": "sit",
         "is_cover": -1,
@@ -1481,7 +1481,7 @@
         "need_action": "",
         "group": ""
     },
-    "87613": {
+    {
         "id": 87613,
         "gun_action": "sit",
         "is_cover": -1,
@@ -1494,7 +1494,7 @@
         "need_action": "",
         "group": ""
     },
-    "88208": {
+    {
         "id": 88208,
         "gun_action": "nieWV_wait",
         "is_cover": -1,
@@ -1507,7 +1507,7 @@
         "need_action": "",
         "group": ""
     },
-    "88604": {
+    {
         "id": 88604,
         "gun_action": "3306_swim",
         "is_cover": -1,
@@ -1520,7 +1520,7 @@
         "need_action": "",
         "group": ""
     },
-    "88609": {
+    {
         "id": 88609,
         "gun_action": "fishman_dog",
         "is_cover": -1,
@@ -1533,7 +1533,7 @@
         "need_action": "",
         "group": ""
     },
-    "89913": {
+    {
         "id": 89913,
         "gun_action": "eat_dog",
         "is_cover": -1,
@@ -1546,7 +1546,7 @@
         "need_action": "",
         "group": ""
     },
-    "819191": {
+    {
         "id": 819191,
         "gun_action": "chess",
         "is_cover": -1,
@@ -1559,7 +1559,7 @@
         "need_action": "",
         "group": ""
     },
-    "819192": {
+    {
         "id": 819192,
         "gun_action": "chess",
         "is_cover": -1,
@@ -1572,7 +1572,7 @@
         "need_action": "",
         "group": ""
     },
-    "820321": {
+    {
         "id": 820321,
         "gun_action": "wv_sit",
         "is_cover": -1,
@@ -1585,7 +1585,7 @@
         "need_action": "",
         "group": ""
     },
-    "820322": {
+    {
         "id": 820322,
         "gun_action": "wv_sit",
         "is_cover": -1,
@@ -1598,7 +1598,7 @@
         "need_action": "",
         "group": ""
     },
-    "840064": {
+    {
         "id": 840064,
         "gun_action": "squad_stand",
         "is_cover": -1,
@@ -1611,7 +1611,7 @@
         "need_action": "",
         "group": ""
     },
-    "850102": {
+    {
         "id": 850102,
         "gun_action": "russian_sit",
         "is_cover": 0,
@@ -1624,7 +1624,7 @@
         "need_action": "",
         "group": ""
     },
-    "850503": {
+    {
         "id": 850503,
         "gun_action": "wedding_talk",
         "is_cover": -1,
@@ -1637,7 +1637,7 @@
         "need_action": "",
         "group": ""
     },
-    "850901": {
+    {
         "id": 850901,
         "gun_action": "2018_summer",
         "is_cover": -1,
@@ -1650,7 +1650,7 @@
         "need_action": "",
         "group": ""
     },
-    "858131": {
+    {
         "id": 858131,
         "gun_action": "sleep",
         "is_cover": -1,
@@ -1663,7 +1663,7 @@
         "need_action": "",
         "group": ""
     },
-    "859041": {
+    {
         "id": 859041,
         "gun_action": "rock_roll",
         "is_cover": -1,
@@ -1676,7 +1676,7 @@
         "need_action": "",
         "group": ""
     },
-    "859042": {
+    {
         "id": 859042,
         "gun_action": "rock_roll",
         "is_cover": -1,
@@ -1689,7 +1689,7 @@
         "need_action": "",
         "group": ""
     },
-    "859043": {
+    {
         "id": 859043,
         "gun_action": "pet_rock",
         "is_cover": -1,
@@ -1702,7 +1702,7 @@
         "need_action": "",
         "group": ""
     },
-    "859044": {
+    {
         "id": 859044,
         "gun_action": "rock_roll_aud",
         "is_cover": -1,
@@ -1715,7 +1715,7 @@
         "need_action": "",
         "group": ""
     },
-    "859045": {
+    {
         "id": 859045,
         "gun_action": "rock_roll_aud",
         "is_cover": -1,
@@ -1728,7 +1728,7 @@
         "need_action": "",
         "group": ""
     },
-    "859091": {
+    {
         "id": 859091,
         "gun_action": "drink_eat",
         "is_cover": -1,
@@ -1741,7 +1741,7 @@
         "need_action": "",
         "group": ""
     },
-    "859092": {
+    {
         "id": 859092,
         "gun_action": "drink_eat",
         "is_cover": -1,
@@ -1754,7 +1754,7 @@
         "need_action": "",
         "group": ""
     },
-    "867051": {
+    {
         "id": 867051,
         "gun_action": "bonfire_sit",
         "is_cover": -1,
@@ -1767,7 +1767,7 @@
         "need_action": "",
         "group": ""
     },
-    "867052": {
+    {
         "id": 867052,
         "gun_action": "bonfire_sit",
         "is_cover": -1,
@@ -1780,7 +1780,7 @@
         "need_action": "",
         "group": ""
     },
-    "868121": {
+    {
         "id": 868121,
         "gun_action": "concert_v",
         "is_cover": -1,
@@ -1793,7 +1793,7 @@
         "need_action": "",
         "group": ""
     },
-    "868122": {
+    {
         "id": 868122,
         "gun_action": "concert_v",
         "is_cover": -1,
@@ -1806,7 +1806,7 @@
         "need_action": "",
         "group": ""
     },
-    "868131": {
+    {
         "id": 868131,
         "gun_action": "concert_c",
         "is_cover": -1,
@@ -1819,7 +1819,7 @@
         "need_action": "",
         "group": ""
     },
-    "868132": {
+    {
         "id": 868132,
         "gun_action": "concert_h",
         "is_cover": -1,
@@ -1832,7 +1832,7 @@
         "need_action": "",
         "group": ""
     },
-    "872011": {
+    {
         "id": 872011,
         "gun_action": "Stepmania_sps",
         "is_cover": -1,
@@ -1845,7 +1845,7 @@
         "need_action": "",
         "group": ""
     },
-    "872012": {
+    {
         "id": 872012,
         "gun_action": "Stepmania_spq",
         "is_cover": -1,
@@ -1858,7 +1858,7 @@
         "need_action": "",
         "group": ""
     },
-    "872101": {
+    {
         "id": 872101,
         "gun_action": "ar15_20sit",
         "is_cover": -1,
@@ -1871,7 +1871,7 @@
         "need_action": "",
         "group": ""
     },
-    "872102": {
+    {
         "id": 872102,
         "gun_action": "M4_20sit",
         "is_cover": -1,
@@ -1884,7 +1884,7 @@
         "need_action": "",
         "group": ""
     },
-    "872103": {
+    {
         "id": 872103,
         "gun_action": "SOP_20sit",
         "is_cover": -1,
@@ -1897,7 +1897,7 @@
         "need_action": "",
         "group": ""
     },
-    "872104": {
+    {
         "id": 872104,
         "gun_action": "M16_20sit",
         "is_cover": -1,
@@ -1910,7 +1910,7 @@
         "need_action": "",
         "group": ""
     },
-    "872181": {
+    {
         "id": 872181,
         "gun_action": "aa12_wait",
         "is_cover": -1,
@@ -1923,7 +1923,7 @@
         "need_action": "",
         "group": ""
     },
-    "872182": {
+    {
         "id": 872182,
         "gun_action": "other_wait",
         "is_cover": -1,
@@ -1936,7 +1936,7 @@
         "need_action": "",
         "group": ""
     },
-    "872191": {
+    {
         "id": 872191,
         "gun_action": "sangvis_die",
         "is_cover": -1,
@@ -1949,7 +1949,7 @@
         "need_action": "",
         "group": ""
     },
-    "876091": {
+    {
         "id": 876091,
         "gun_action": "wait",
         "is_cover": -1,
@@ -1962,7 +1962,7 @@
         "need_action": "",
         "group": ""
     },
-    "876092": {
+    {
         "id": 876092,
         "gun_action": "wait",
         "is_cover": -1,
@@ -1975,7 +1975,7 @@
         "need_action": "",
         "group": ""
     },
-    "876141": {
+    {
         "id": 876141,
         "gun_action": "wait",
         "is_cover": -1,
@@ -1988,7 +1988,7 @@
         "need_action": "",
         "group": ""
     },
-    "876142": {
+    {
         "id": 876142,
         "gun_action": "sleep",
         "is_cover": -1,
@@ -2001,7 +2001,7 @@
         "need_action": "",
         "group": ""
     },
-    "891121": {
+    {
         "id": 891121,
         "gun_action": "wall_zombie1",
         "is_cover": -1,
@@ -2014,7 +2014,7 @@
         "need_action": "",
         "group": ""
     },
-    "891122": {
+    {
         "id": 891122,
         "gun_action": "wall_zombie2",
         "is_cover": -1,
@@ -2027,7 +2027,7 @@
         "need_action": "",
         "group": ""
     },
-    "897051": {
+    {
         "id": 897051,
         "gun_action": "wait",
         "is_cover": -1,
@@ -2040,7 +2040,7 @@
         "need_action": "",
         "group": ""
     },
-    "897052": {
+    {
         "id": 897052,
         "gun_action": "wait",
         "is_cover": -1,
@@ -2053,4 +2053,4 @@
         "need_action": "",
         "group": ""
     }
-}
+]

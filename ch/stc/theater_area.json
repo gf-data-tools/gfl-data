@@ -1,5 +1,5 @@
-{
-    "411": {
+[
+    {
         "id": 411,
         "name": "theater_area-10000411",
         "fight_type": 1,
@@ -38,7 +38,7 @@
         "area_mission_id": 900411,
         "advantage_sangvis": ""
     },
-    "412": {
+    {
         "id": 412,
         "name": "theater_area-10000412",
         "fight_type": 2,
@@ -77,7 +77,7 @@
         "area_mission_id": 900411,
         "advantage_sangvis": ""
     },
-    "413": {
+    {
         "id": 413,
         "name": "theater_area-10000413",
         "fight_type": 3,
@@ -116,7 +116,7 @@
         "area_mission_id": 900411,
         "advantage_sangvis": ""
     },
-    "414": {
+    {
         "id": 414,
         "name": "theater_area-10000414",
         "fight_type": 3,
@@ -155,7 +155,7 @@
         "area_mission_id": 900411,
         "advantage_sangvis": ""
     },
-    "415": {
+    {
         "id": 415,
         "name": "theater_area-10000415",
         "fight_type": 4,
@@ -194,7 +194,7 @@
         "area_mission_id": 900412,
         "advantage_sangvis": ""
     },
-    "416": {
+    {
         "id": 416,
         "name": "theater_area-10000416",
         "fight_type": 4,
@@ -233,7 +233,7 @@
         "area_mission_id": 900412,
         "advantage_sangvis": ""
     },
-    "417": {
+    {
         "id": 417,
         "name": "theater_area-10000417",
         "fight_type": 4,
@@ -272,7 +272,7 @@
         "area_mission_id": 900412,
         "advantage_sangvis": ""
     },
-    "418": {
+    {
         "id": 418,
         "name": "theater_area-10000418",
         "fight_type": 5,
@@ -311,7 +311,7 @@
         "area_mission_id": 900412,
         "advantage_sangvis": ""
     },
-    "421": {
+    {
         "id": 421,
         "name": "theater_area-10000421",
         "fight_type": 1,
@@ -350,7 +350,7 @@
         "area_mission_id": 900421,
         "advantage_sangvis": ""
     },
-    "422": {
+    {
         "id": 422,
         "name": "theater_area-10000422",
         "fight_type": 2,
@@ -389,7 +389,7 @@
         "area_mission_id": 900421,
         "advantage_sangvis": ""
     },
-    "423": {
+    {
         "id": 423,
         "name": "theater_area-10000423",
         "fight_type": 3,
@@ -428,7 +428,7 @@
         "area_mission_id": 900421,
         "advantage_sangvis": ""
     },
-    "424": {
+    {
         "id": 424,
         "name": "theater_area-10000424",
         "fight_type": 3,
@@ -467,7 +467,7 @@
         "area_mission_id": 900421,
         "advantage_sangvis": ""
     },
-    "425": {
+    {
         "id": 425,
         "name": "theater_area-10000425",
         "fight_type": 4,
@@ -506,7 +506,7 @@
         "area_mission_id": 900422,
         "advantage_sangvis": ""
     },
-    "426": {
+    {
         "id": 426,
         "name": "theater_area-10000426",
         "fight_type": 4,
@@ -545,7 +545,7 @@
         "area_mission_id": 900422,
         "advantage_sangvis": ""
     },
-    "427": {
+    {
         "id": 427,
         "name": "theater_area-10000427",
         "fight_type": 4,
@@ -584,7 +584,7 @@
         "area_mission_id": 900422,
         "advantage_sangvis": ""
     },
-    "428": {
+    {
         "id": 428,
         "name": "theater_area-10000428",
         "fight_type": 5,
@@ -623,7 +623,7 @@
         "area_mission_id": 900422,
         "advantage_sangvis": ""
     },
-    "431": {
+    {
         "id": 431,
         "name": "theater_area-10000431",
         "fight_type": 1,
@@ -662,7 +662,7 @@
         "area_mission_id": 900431,
         "advantage_sangvis": ""
     },
-    "432": {
+    {
         "id": 432,
         "name": "theater_area-10000432",
         "fight_type": 2,
@@ -701,7 +701,7 @@
         "area_mission_id": 900431,
         "advantage_sangvis": ""
     },
-    "433": {
+    {
         "id": 433,
         "name": "theater_area-10000433",
         "fight_type": 3,
@@ -740,7 +740,7 @@
         "area_mission_id": 900431,
         "advantage_sangvis": ""
     },
-    "434": {
+    {
         "id": 434,
         "name": "theater_area-10000434",
         "fight_type": 3,
@@ -779,7 +779,7 @@
         "area_mission_id": 900432,
         "advantage_sangvis": ""
     },
-    "435": {
+    {
         "id": 435,
         "name": "theater_area-10000435",
         "fight_type": 4,
@@ -818,7 +818,7 @@
         "area_mission_id": 900432,
         "advantage_sangvis": ""
     },
-    "436": {
+    {
         "id": 436,
         "name": "theater_area-10000436",
         "fight_type": 4,
@@ -857,7 +857,7 @@
         "area_mission_id": 900432,
         "advantage_sangvis": ""
     },
-    "437": {
+    {
         "id": 437,
         "name": "theater_area-10000437",
         "fight_type": 4,
@@ -896,7 +896,7 @@
         "area_mission_id": 900432,
         "advantage_sangvis": ""
     },
-    "438": {
+    {
         "id": 438,
         "name": "theater_area-10000438",
         "fight_type": 5,
@@ -935,7 +935,7 @@
         "area_mission_id": 900432,
         "advantage_sangvis": ""
     },
-    "441": {
+    {
         "id": 441,
         "name": "theater_area-10000441",
         "fight_type": 1,
@@ -974,7 +974,7 @@
         "area_mission_id": 900441,
         "advantage_sangvis": ""
     },
-    "442": {
+    {
         "id": 442,
         "name": "theater_area-10000442",
         "fight_type": 2,
@@ -1013,7 +1013,7 @@
         "area_mission_id": 900441,
         "advantage_sangvis": ""
     },
-    "443": {
+    {
         "id": 443,
         "name": "theater_area-10000443",
         "fight_type": 3,
@@ -1052,7 +1052,7 @@
         "area_mission_id": 900441,
         "advantage_sangvis": ""
     },
-    "444": {
+    {
         "id": 444,
         "name": "theater_area-10000444",
         "fight_type": 3,
@@ -1091,7 +1091,7 @@
         "area_mission_id": 900442,
         "advantage_sangvis": ""
     },
-    "445": {
+    {
         "id": 445,
         "name": "theater_area-10000445",
         "fight_type": 4,
@@ -1130,7 +1130,7 @@
         "area_mission_id": 900442,
         "advantage_sangvis": ""
     },
-    "446": {
+    {
         "id": 446,
         "name": "theater_area-10000446",
         "fight_type": 4,
@@ -1169,7 +1169,7 @@
         "area_mission_id": 900442,
         "advantage_sangvis": ""
     },
-    "447": {
+    {
         "id": 447,
         "name": "theater_area-10000447",
         "fight_type": 4,
@@ -1208,7 +1208,7 @@
         "area_mission_id": 900443,
         "advantage_sangvis": ""
     },
-    "448": {
+    {
         "id": 448,
         "name": "theater_area-10000448",
         "fight_type": 5,
@@ -1247,7 +1247,7 @@
         "area_mission_id": 900443,
         "advantage_sangvis": ""
     },
-    "511": {
+    {
         "id": 511,
         "name": "theater_area-10000511",
         "fight_type": 1,
@@ -1286,7 +1286,7 @@
         "area_mission_id": 900411,
         "advantage_sangvis": ""
     },
-    "512": {
+    {
         "id": 512,
         "name": "theater_area-10000512",
         "fight_type": 2,
@@ -1325,7 +1325,7 @@
         "area_mission_id": 900411,
         "advantage_sangvis": ""
     },
-    "513": {
+    {
         "id": 513,
         "name": "theater_area-10000513",
         "fight_type": 3,
@@ -1364,7 +1364,7 @@
         "area_mission_id": 900411,
         "advantage_sangvis": ""
     },
-    "514": {
+    {
         "id": 514,
         "name": "theater_area-10000514",
         "fight_type": 3,
@@ -1403,7 +1403,7 @@
         "area_mission_id": 900411,
         "advantage_sangvis": ""
     },
-    "515": {
+    {
         "id": 515,
         "name": "theater_area-10000515",
         "fight_type": 4,
@@ -1442,7 +1442,7 @@
         "area_mission_id": 900412,
         "advantage_sangvis": ""
     },
-    "516": {
+    {
         "id": 516,
         "name": "theater_area-10000516",
         "fight_type": 4,
@@ -1481,7 +1481,7 @@
         "area_mission_id": 900412,
         "advantage_sangvis": ""
     },
-    "517": {
+    {
         "id": 517,
         "name": "theater_area-10000517",
         "fight_type": 4,
@@ -1520,7 +1520,7 @@
         "area_mission_id": 900412,
         "advantage_sangvis": ""
     },
-    "518": {
+    {
         "id": 518,
         "name": "theater_area-10000518",
         "fight_type": 5,
@@ -1559,7 +1559,7 @@
         "area_mission_id": 900412,
         "advantage_sangvis": ""
     },
-    "521": {
+    {
         "id": 521,
         "name": "theater_area-10000521",
         "fight_type": 1,
@@ -1598,7 +1598,7 @@
         "area_mission_id": 900421,
         "advantage_sangvis": ""
     },
-    "522": {
+    {
         "id": 522,
         "name": "theater_area-10000522",
         "fight_type": 2,
@@ -1637,7 +1637,7 @@
         "area_mission_id": 900421,
         "advantage_sangvis": ""
     },
-    "523": {
+    {
         "id": 523,
         "name": "theater_area-10000523",
         "fight_type": 3,
@@ -1676,7 +1676,7 @@
         "area_mission_id": 900421,
         "advantage_sangvis": ""
     },
-    "524": {
+    {
         "id": 524,
         "name": "theater_area-10000524",
         "fight_type": 3,
@@ -1715,7 +1715,7 @@
         "area_mission_id": 900421,
         "advantage_sangvis": ""
     },
-    "525": {
+    {
         "id": 525,
         "name": "theater_area-10000525",
         "fight_type": 4,
@@ -1754,7 +1754,7 @@
         "area_mission_id": 900422,
         "advantage_sangvis": ""
     },
-    "526": {
+    {
         "id": 526,
         "name": "theater_area-10000526",
         "fight_type": 4,
@@ -1793,7 +1793,7 @@
         "area_mission_id": 900422,
         "advantage_sangvis": ""
     },
-    "527": {
+    {
         "id": 527,
         "name": "theater_area-10000527",
         "fight_type": 4,
@@ -1832,7 +1832,7 @@
         "area_mission_id": 900422,
         "advantage_sangvis": ""
     },
-    "528": {
+    {
         "id": 528,
         "name": "theater_area-10000528",
         "fight_type": 5,
@@ -1871,7 +1871,7 @@
         "area_mission_id": 900422,
         "advantage_sangvis": ""
     },
-    "531": {
+    {
         "id": 531,
         "name": "theater_area-10000531",
         "fight_type": 1,
@@ -1910,7 +1910,7 @@
         "area_mission_id": 900431,
         "advantage_sangvis": ""
     },
-    "532": {
+    {
         "id": 532,
         "name": "theater_area-10000532",
         "fight_type": 2,
@@ -1949,7 +1949,7 @@
         "area_mission_id": 900431,
         "advantage_sangvis": ""
     },
-    "533": {
+    {
         "id": 533,
         "name": "theater_area-10000533",
         "fight_type": 3,
@@ -1988,7 +1988,7 @@
         "area_mission_id": 900431,
         "advantage_sangvis": ""
     },
-    "534": {
+    {
         "id": 534,
         "name": "theater_area-10000534",
         "fight_type": 3,
@@ -2027,7 +2027,7 @@
         "area_mission_id": 900432,
         "advantage_sangvis": ""
     },
-    "535": {
+    {
         "id": 535,
         "name": "theater_area-10000535",
         "fight_type": 4,
@@ -2066,7 +2066,7 @@
         "area_mission_id": 900432,
         "advantage_sangvis": ""
     },
-    "536": {
+    {
         "id": 536,
         "name": "theater_area-10000536",
         "fight_type": 4,
@@ -2105,7 +2105,7 @@
         "area_mission_id": 900432,
         "advantage_sangvis": ""
     },
-    "537": {
+    {
         "id": 537,
         "name": "theater_area-10000537",
         "fight_type": 4,
@@ -2144,7 +2144,7 @@
         "area_mission_id": 900432,
         "advantage_sangvis": ""
     },
-    "538": {
+    {
         "id": 538,
         "name": "theater_area-10000538",
         "fight_type": 5,
@@ -2183,7 +2183,7 @@
         "area_mission_id": 900432,
         "advantage_sangvis": ""
     },
-    "541": {
+    {
         "id": 541,
         "name": "theater_area-10000541",
         "fight_type": 1,
@@ -2222,7 +2222,7 @@
         "area_mission_id": 900441,
         "advantage_sangvis": ""
     },
-    "542": {
+    {
         "id": 542,
         "name": "theater_area-10000542",
         "fight_type": 2,
@@ -2261,7 +2261,7 @@
         "area_mission_id": 900441,
         "advantage_sangvis": ""
     },
-    "543": {
+    {
         "id": 543,
         "name": "theater_area-10000543",
         "fight_type": 3,
@@ -2300,7 +2300,7 @@
         "area_mission_id": 900441,
         "advantage_sangvis": ""
     },
-    "544": {
+    {
         "id": 544,
         "name": "theater_area-10000544",
         "fight_type": 3,
@@ -2339,7 +2339,7 @@
         "area_mission_id": 900442,
         "advantage_sangvis": ""
     },
-    "545": {
+    {
         "id": 545,
         "name": "theater_area-10000545",
         "fight_type": 4,
@@ -2378,7 +2378,7 @@
         "area_mission_id": 900442,
         "advantage_sangvis": ""
     },
-    "546": {
+    {
         "id": 546,
         "name": "theater_area-10000546",
         "fight_type": 4,
@@ -2417,7 +2417,7 @@
         "area_mission_id": 900442,
         "advantage_sangvis": ""
     },
-    "547": {
+    {
         "id": 547,
         "name": "theater_area-10000547",
         "fight_type": 4,
@@ -2456,7 +2456,7 @@
         "area_mission_id": 900443,
         "advantage_sangvis": ""
     },
-    "548": {
+    {
         "id": 548,
         "name": "theater_area-10000548",
         "fight_type": 5,
@@ -2495,7 +2495,7 @@
         "area_mission_id": 900443,
         "advantage_sangvis": ""
     },
-    "611": {
+    {
         "id": 611,
         "name": "theater_area-10000611",
         "fight_type": 1,
@@ -2534,7 +2534,7 @@
         "area_mission_id": 900411,
         "advantage_sangvis": ""
     },
-    "612": {
+    {
         "id": 612,
         "name": "theater_area-10000612",
         "fight_type": 2,
@@ -2573,7 +2573,7 @@
         "area_mission_id": 900411,
         "advantage_sangvis": ""
     },
-    "613": {
+    {
         "id": 613,
         "name": "theater_area-10000613",
         "fight_type": 3,
@@ -2612,7 +2612,7 @@
         "area_mission_id": 900411,
         "advantage_sangvis": ""
     },
-    "614": {
+    {
         "id": 614,
         "name": "theater_area-10000614",
         "fight_type": 3,
@@ -2651,7 +2651,7 @@
         "area_mission_id": 900411,
         "advantage_sangvis": ""
     },
-    "615": {
+    {
         "id": 615,
         "name": "theater_area-10000615",
         "fight_type": 4,
@@ -2690,7 +2690,7 @@
         "area_mission_id": 900412,
         "advantage_sangvis": ""
     },
-    "616": {
+    {
         "id": 616,
         "name": "theater_area-10000616",
         "fight_type": 4,
@@ -2729,7 +2729,7 @@
         "area_mission_id": 900412,
         "advantage_sangvis": ""
     },
-    "617": {
+    {
         "id": 617,
         "name": "theater_area-10000617",
         "fight_type": 4,
@@ -2768,7 +2768,7 @@
         "area_mission_id": 900412,
         "advantage_sangvis": ""
     },
-    "618": {
+    {
         "id": 618,
         "name": "theater_area-10000618",
         "fight_type": 5,
@@ -2807,7 +2807,7 @@
         "area_mission_id": 900412,
         "advantage_sangvis": ""
     },
-    "621": {
+    {
         "id": 621,
         "name": "theater_area-10000621",
         "fight_type": 1,
@@ -2846,7 +2846,7 @@
         "area_mission_id": 900421,
         "advantage_sangvis": "1011,1002"
     },
-    "622": {
+    {
         "id": 622,
         "name": "theater_area-10000622",
         "fight_type": 2,
@@ -2885,7 +2885,7 @@
         "area_mission_id": 900421,
         "advantage_sangvis": "1012"
     },
-    "623": {
+    {
         "id": 623,
         "name": "theater_area-10000623",
         "fight_type": 3,
@@ -2924,7 +2924,7 @@
         "area_mission_id": 900421,
         "advantage_sangvis": "1013"
     },
-    "624": {
+    {
         "id": 624,
         "name": "theater_area-10000624",
         "fight_type": 3,
@@ -2963,7 +2963,7 @@
         "area_mission_id": 900421,
         "advantage_sangvis": "1014"
     },
-    "625": {
+    {
         "id": 625,
         "name": "theater_area-10000625",
         "fight_type": 4,
@@ -3002,7 +3002,7 @@
         "area_mission_id": 900422,
         "advantage_sangvis": "2001"
     },
-    "626": {
+    {
         "id": 626,
         "name": "theater_area-10000626",
         "fight_type": 4,
@@ -3041,7 +3041,7 @@
         "area_mission_id": 900422,
         "advantage_sangvis": "2002"
     },
-    "627": {
+    {
         "id": 627,
         "name": "theater_area-10000627",
         "fight_type": 4,
@@ -3080,7 +3080,7 @@
         "area_mission_id": 900422,
         "advantage_sangvis": "2003"
     },
-    "628": {
+    {
         "id": 628,
         "name": "theater_area-10000628",
         "fight_type": 5,
@@ -3119,7 +3119,7 @@
         "area_mission_id": 900422,
         "advantage_sangvis": "2004"
     },
-    "631": {
+    {
         "id": 631,
         "name": "theater_area-10000631",
         "fight_type": 1,
@@ -3158,7 +3158,7 @@
         "area_mission_id": 900431,
         "advantage_sangvis": "1011,1002"
     },
-    "632": {
+    {
         "id": 632,
         "name": "theater_area-10000632",
         "fight_type": 2,
@@ -3197,7 +3197,7 @@
         "area_mission_id": 900431,
         "advantage_sangvis": "1012"
     },
-    "633": {
+    {
         "id": 633,
         "name": "theater_area-10000633",
         "fight_type": 3,
@@ -3236,7 +3236,7 @@
         "area_mission_id": 900431,
         "advantage_sangvis": "1013"
     },
-    "634": {
+    {
         "id": 634,
         "name": "theater_area-10000634",
         "fight_type": 3,
@@ -3275,7 +3275,7 @@
         "area_mission_id": 900432,
         "advantage_sangvis": "1014"
     },
-    "635": {
+    {
         "id": 635,
         "name": "theater_area-10000635",
         "fight_type": 4,
@@ -3314,7 +3314,7 @@
         "area_mission_id": 900432,
         "advantage_sangvis": "2001"
     },
-    "636": {
+    {
         "id": 636,
         "name": "theater_area-10000636",
         "fight_type": 4,
@@ -3353,7 +3353,7 @@
         "area_mission_id": 900432,
         "advantage_sangvis": "2002"
     },
-    "637": {
+    {
         "id": 637,
         "name": "theater_area-10000637",
         "fight_type": 4,
@@ -3392,7 +3392,7 @@
         "area_mission_id": 900432,
         "advantage_sangvis": "2003"
     },
-    "638": {
+    {
         "id": 638,
         "name": "theater_area-10000638",
         "fight_type": 5,
@@ -3431,7 +3431,7 @@
         "area_mission_id": 900432,
         "advantage_sangvis": "2004"
     },
-    "641": {
+    {
         "id": 641,
         "name": "theater_area-10000641",
         "fight_type": 1,
@@ -3470,7 +3470,7 @@
         "area_mission_id": 900441,
         "advantage_sangvis": ""
     },
-    "642": {
+    {
         "id": 642,
         "name": "theater_area-10000642",
         "fight_type": 2,
@@ -3509,7 +3509,7 @@
         "area_mission_id": 900441,
         "advantage_sangvis": ""
     },
-    "643": {
+    {
         "id": 643,
         "name": "theater_area-10000643",
         "fight_type": 3,
@@ -3548,7 +3548,7 @@
         "area_mission_id": 900441,
         "advantage_sangvis": ""
     },
-    "644": {
+    {
         "id": 644,
         "name": "theater_area-10000644",
         "fight_type": 3,
@@ -3587,7 +3587,7 @@
         "area_mission_id": 900442,
         "advantage_sangvis": ""
     },
-    "645": {
+    {
         "id": 645,
         "name": "theater_area-10000645",
         "fight_type": 4,
@@ -3626,7 +3626,7 @@
         "area_mission_id": 900442,
         "advantage_sangvis": ""
     },
-    "646": {
+    {
         "id": 646,
         "name": "theater_area-10000646",
         "fight_type": 4,
@@ -3665,7 +3665,7 @@
         "area_mission_id": 900442,
         "advantage_sangvis": ""
     },
-    "647": {
+    {
         "id": 647,
         "name": "theater_area-10000647",
         "fight_type": 4,
@@ -3704,7 +3704,7 @@
         "area_mission_id": 900443,
         "advantage_sangvis": ""
     },
-    "648": {
+    {
         "id": 648,
         "name": "theater_area-10000648",
         "fight_type": 5,
@@ -3743,7 +3743,7 @@
         "area_mission_id": 900443,
         "advantage_sangvis": ""
     },
-    "711": {
+    {
         "id": 711,
         "name": "theater_area-10000711",
         "fight_type": 1,
@@ -3782,7 +3782,7 @@
         "area_mission_id": 901411,
         "advantage_sangvis": ""
     },
-    "712": {
+    {
         "id": 712,
         "name": "theater_area-10000712",
         "fight_type": 2,
@@ -3821,7 +3821,7 @@
         "area_mission_id": 901411,
         "advantage_sangvis": ""
     },
-    "713": {
+    {
         "id": 713,
         "name": "theater_area-10000713",
         "fight_type": 1,
@@ -3860,7 +3860,7 @@
         "area_mission_id": 901411,
         "advantage_sangvis": ""
     },
-    "714": {
+    {
         "id": 714,
         "name": "theater_area-10000714",
         "fight_type": 2,
@@ -3899,7 +3899,7 @@
         "area_mission_id": 901411,
         "advantage_sangvis": ""
     },
-    "715": {
+    {
         "id": 715,
         "name": "theater_area-10000715",
         "fight_type": 3,
@@ -3938,7 +3938,7 @@
         "area_mission_id": 901412,
         "advantage_sangvis": ""
     },
-    "716": {
+    {
         "id": 716,
         "name": "theater_area-10000716",
         "fight_type": 2,
@@ -3977,7 +3977,7 @@
         "area_mission_id": 901412,
         "advantage_sangvis": ""
     },
-    "717": {
+    {
         "id": 717,
         "name": "theater_area-10000717",
         "fight_type": 1,
@@ -4016,7 +4016,7 @@
         "area_mission_id": 901412,
         "advantage_sangvis": ""
     },
-    "718": {
+    {
         "id": 718,
         "name": "theater_area-10000718",
         "fight_type": 2,
@@ -4055,7 +4055,7 @@
         "area_mission_id": 901412,
         "advantage_sangvis": ""
     },
-    "721": {
+    {
         "id": 721,
         "name": "theater_area-10000721",
         "fight_type": 1,
@@ -4094,7 +4094,7 @@
         "area_mission_id": 901421,
         "advantage_sangvis": ""
     },
-    "722": {
+    {
         "id": 722,
         "name": "theater_area-10000722",
         "fight_type": 2,
@@ -4133,7 +4133,7 @@
         "area_mission_id": 901421,
         "advantage_sangvis": ""
     },
-    "723": {
+    {
         "id": 723,
         "name": "theater_area-10000723",
         "fight_type": 1,
@@ -4172,7 +4172,7 @@
         "area_mission_id": 901421,
         "advantage_sangvis": ""
     },
-    "724": {
+    {
         "id": 724,
         "name": "theater_area-10000724",
         "fight_type": 2,
@@ -4211,7 +4211,7 @@
         "area_mission_id": 901421,
         "advantage_sangvis": ""
     },
-    "725": {
+    {
         "id": 725,
         "name": "theater_area-10000725",
         "fight_type": 3,
@@ -4250,7 +4250,7 @@
         "area_mission_id": 901422,
         "advantage_sangvis": ""
     },
-    "726": {
+    {
         "id": 726,
         "name": "theater_area-10000726",
         "fight_type": 2,
@@ -4289,7 +4289,7 @@
         "area_mission_id": 901422,
         "advantage_sangvis": ""
     },
-    "727": {
+    {
         "id": 727,
         "name": "theater_area-10000727",
         "fight_type": 1,
@@ -4328,7 +4328,7 @@
         "area_mission_id": 901422,
         "advantage_sangvis": ""
     },
-    "728": {
+    {
         "id": 728,
         "name": "theater_area-10000728",
         "fight_type": 2,
@@ -4367,7 +4367,7 @@
         "area_mission_id": 901422,
         "advantage_sangvis": ""
     },
-    "731": {
+    {
         "id": 731,
         "name": "theater_area-10000731",
         "fight_type": 2,
@@ -4406,7 +4406,7 @@
         "area_mission_id": 901431,
         "advantage_sangvis": ""
     },
-    "732": {
+    {
         "id": 732,
         "name": "theater_area-10000732",
         "fight_type": 4,
@@ -4445,7 +4445,7 @@
         "area_mission_id": 901431,
         "advantage_sangvis": ""
     },
-    "733": {
+    {
         "id": 733,
         "name": "theater_area-10000733",
         "fight_type": 2,
@@ -4484,7 +4484,7 @@
         "area_mission_id": 901431,
         "advantage_sangvis": ""
     },
-    "734": {
+    {
         "id": 734,
         "name": "theater_area-10000734",
         "fight_type": 3,
@@ -4523,7 +4523,7 @@
         "area_mission_id": 901432,
         "advantage_sangvis": ""
     },
-    "735": {
+    {
         "id": 735,
         "name": "theater_area-10000735",
         "fight_type": 1,
@@ -4562,7 +4562,7 @@
         "area_mission_id": 901432,
         "advantage_sangvis": ""
     },
-    "736": {
+    {
         "id": 736,
         "name": "theater_area-10000736",
         "fight_type": 2,
@@ -4601,7 +4601,7 @@
         "area_mission_id": 901432,
         "advantage_sangvis": ""
     },
-    "737": {
+    {
         "id": 737,
         "name": "theater_area-10000737",
         "fight_type": 1,
@@ -4640,7 +4640,7 @@
         "area_mission_id": 901433,
         "advantage_sangvis": ""
     },
-    "738": {
+    {
         "id": 738,
         "name": "theater_area-10000738",
         "fight_type": 2,
@@ -4679,7 +4679,7 @@
         "area_mission_id": 901433,
         "advantage_sangvis": ""
     },
-    "741": {
+    {
         "id": 741,
         "name": "theater_area-10000741",
         "fight_type": 2,
@@ -4718,7 +4718,7 @@
         "area_mission_id": 901441,
         "advantage_sangvis": ""
     },
-    "742": {
+    {
         "id": 742,
         "name": "theater_area-10000742",
         "fight_type": 1,
@@ -4757,7 +4757,7 @@
         "area_mission_id": 901441,
         "advantage_sangvis": ""
     },
-    "743": {
+    {
         "id": 743,
         "name": "theater_area-10000743",
         "fight_type": 2,
@@ -4796,7 +4796,7 @@
         "area_mission_id": 901441,
         "advantage_sangvis": ""
     },
-    "744": {
+    {
         "id": 744,
         "name": "theater_area-10000744",
         "fight_type": 3,
@@ -4835,7 +4835,7 @@
         "area_mission_id": 901442,
         "advantage_sangvis": ""
     },
-    "745": {
+    {
         "id": 745,
         "name": "theater_area-10000745",
         "fight_type": 4,
@@ -4874,7 +4874,7 @@
         "area_mission_id": 901442,
         "advantage_sangvis": ""
     },
-    "746": {
+    {
         "id": 746,
         "name": "theater_area-10000746",
         "fight_type": 2,
@@ -4913,7 +4913,7 @@
         "area_mission_id": 901442,
         "advantage_sangvis": ""
     },
-    "747": {
+    {
         "id": 747,
         "name": "theater_area-10000747",
         "fight_type": 4,
@@ -4952,7 +4952,7 @@
         "area_mission_id": 901443,
         "advantage_sangvis": ""
     },
-    "748": {
+    {
         "id": 748,
         "name": "theater_area-10000748",
         "fight_type": 2,
@@ -4991,7 +4991,7 @@
         "area_mission_id": 901443,
         "advantage_sangvis": ""
     },
-    "811": {
+    {
         "id": 811,
         "name": "theater_area-10000811",
         "fight_type": 1,
@@ -5030,7 +5030,7 @@
         "area_mission_id": 901411,
         "advantage_sangvis": ""
     },
-    "812": {
+    {
         "id": 812,
         "name": "theater_area-10000812",
         "fight_type": 2,
@@ -5069,7 +5069,7 @@
         "area_mission_id": 901411,
         "advantage_sangvis": ""
     },
-    "813": {
+    {
         "id": 813,
         "name": "theater_area-10000813",
         "fight_type": 1,
@@ -5108,7 +5108,7 @@
         "area_mission_id": 901411,
         "advantage_sangvis": ""
     },
-    "814": {
+    {
         "id": 814,
         "name": "theater_area-10000814",
         "fight_type": 2,
@@ -5147,7 +5147,7 @@
         "area_mission_id": 901411,
         "advantage_sangvis": ""
     },
-    "815": {
+    {
         "id": 815,
         "name": "theater_area-10000815",
         "fight_type": 3,
@@ -5186,7 +5186,7 @@
         "area_mission_id": 901412,
         "advantage_sangvis": ""
     },
-    "816": {
+    {
         "id": 816,
         "name": "theater_area-10000816",
         "fight_type": 2,
@@ -5225,7 +5225,7 @@
         "area_mission_id": 901412,
         "advantage_sangvis": ""
     },
-    "817": {
+    {
         "id": 817,
         "name": "theater_area-10000817",
         "fight_type": 1,
@@ -5264,7 +5264,7 @@
         "area_mission_id": 901412,
         "advantage_sangvis": ""
     },
-    "818": {
+    {
         "id": 818,
         "name": "theater_area-10000818",
         "fight_type": 2,
@@ -5303,7 +5303,7 @@
         "area_mission_id": 901412,
         "advantage_sangvis": ""
     },
-    "821": {
+    {
         "id": 821,
         "name": "theater_area-10000821",
         "fight_type": 1,
@@ -5342,7 +5342,7 @@
         "area_mission_id": 901421,
         "advantage_sangvis": ""
     },
-    "822": {
+    {
         "id": 822,
         "name": "theater_area-10000822",
         "fight_type": 2,
@@ -5381,7 +5381,7 @@
         "area_mission_id": 901421,
         "advantage_sangvis": ""
     },
-    "823": {
+    {
         "id": 823,
         "name": "theater_area-10000823",
         "fight_type": 1,
@@ -5420,7 +5420,7 @@
         "area_mission_id": 901421,
         "advantage_sangvis": ""
     },
-    "824": {
+    {
         "id": 824,
         "name": "theater_area-10000824",
         "fight_type": 2,
@@ -5459,7 +5459,7 @@
         "area_mission_id": 901421,
         "advantage_sangvis": ""
     },
-    "825": {
+    {
         "id": 825,
         "name": "theater_area-10000825",
         "fight_type": 3,
@@ -5498,7 +5498,7 @@
         "area_mission_id": 901422,
         "advantage_sangvis": ""
     },
-    "826": {
+    {
         "id": 826,
         "name": "theater_area-10000826",
         "fight_type": 2,
@@ -5537,7 +5537,7 @@
         "area_mission_id": 901422,
         "advantage_sangvis": ""
     },
-    "827": {
+    {
         "id": 827,
         "name": "theater_area-10000827",
         "fight_type": 1,
@@ -5576,7 +5576,7 @@
         "area_mission_id": 901422,
         "advantage_sangvis": ""
     },
-    "828": {
+    {
         "id": 828,
         "name": "theater_area-10000828",
         "fight_type": 2,
@@ -5615,7 +5615,7 @@
         "area_mission_id": 901422,
         "advantage_sangvis": ""
     },
-    "831": {
+    {
         "id": 831,
         "name": "theater_area-10000831",
         "fight_type": 2,
@@ -5654,7 +5654,7 @@
         "area_mission_id": 901431,
         "advantage_sangvis": ""
     },
-    "832": {
+    {
         "id": 832,
         "name": "theater_area-10000832",
         "fight_type": 4,
@@ -5693,7 +5693,7 @@
         "area_mission_id": 901431,
         "advantage_sangvis": ""
     },
-    "833": {
+    {
         "id": 833,
         "name": "theater_area-10000833",
         "fight_type": 2,
@@ -5732,7 +5732,7 @@
         "area_mission_id": 901431,
         "advantage_sangvis": ""
     },
-    "834": {
+    {
         "id": 834,
         "name": "theater_area-10000834",
         "fight_type": 3,
@@ -5771,7 +5771,7 @@
         "area_mission_id": 901432,
         "advantage_sangvis": ""
     },
-    "835": {
+    {
         "id": 835,
         "name": "theater_area-10000835",
         "fight_type": 1,
@@ -5810,7 +5810,7 @@
         "area_mission_id": 901432,
         "advantage_sangvis": ""
     },
-    "836": {
+    {
         "id": 836,
         "name": "theater_area-10000836",
         "fight_type": 2,
@@ -5849,7 +5849,7 @@
         "area_mission_id": 901432,
         "advantage_sangvis": ""
     },
-    "837": {
+    {
         "id": 837,
         "name": "theater_area-10000837",
         "fight_type": 1,
@@ -5888,7 +5888,7 @@
         "area_mission_id": 901433,
         "advantage_sangvis": ""
     },
-    "838": {
+    {
         "id": 838,
         "name": "theater_area-10000838",
         "fight_type": 2,
@@ -5927,7 +5927,7 @@
         "area_mission_id": 901433,
         "advantage_sangvis": ""
     },
-    "841": {
+    {
         "id": 841,
         "name": "theater_area-10000841",
         "fight_type": 2,
@@ -5966,7 +5966,7 @@
         "area_mission_id": 901441,
         "advantage_sangvis": ""
     },
-    "842": {
+    {
         "id": 842,
         "name": "theater_area-10000842",
         "fight_type": 1,
@@ -6005,7 +6005,7 @@
         "area_mission_id": 901441,
         "advantage_sangvis": ""
     },
-    "843": {
+    {
         "id": 843,
         "name": "theater_area-10000843",
         "fight_type": 2,
@@ -6044,7 +6044,7 @@
         "area_mission_id": 901441,
         "advantage_sangvis": ""
     },
-    "844": {
+    {
         "id": 844,
         "name": "theater_area-10000844",
         "fight_type": 3,
@@ -6083,7 +6083,7 @@
         "area_mission_id": 901442,
         "advantage_sangvis": ""
     },
-    "845": {
+    {
         "id": 845,
         "name": "theater_area-10000845",
         "fight_type": 4,
@@ -6122,7 +6122,7 @@
         "area_mission_id": 901442,
         "advantage_sangvis": ""
     },
-    "846": {
+    {
         "id": 846,
         "name": "theater_area-10000846",
         "fight_type": 2,
@@ -6161,7 +6161,7 @@
         "area_mission_id": 901442,
         "advantage_sangvis": ""
     },
-    "847": {
+    {
         "id": 847,
         "name": "theater_area-10000847",
         "fight_type": 4,
@@ -6200,7 +6200,7 @@
         "area_mission_id": 901443,
         "advantage_sangvis": ""
     },
-    "848": {
+    {
         "id": 848,
         "name": "theater_area-10000848",
         "fight_type": 2,
@@ -6239,4 +6239,4 @@
         "area_mission_id": 901443,
         "advantage_sangvis": ""
     }
-}
+]

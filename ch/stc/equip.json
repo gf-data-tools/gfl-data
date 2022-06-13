@@ -1,5 +1,5 @@
-{
-    "1": {
+[
+    {
         "id": 1,
         "name": "equip-10000001",
         "description": "equip-20000001",
@@ -53,7 +53,7 @@
         "is_show": 1,
         "obtain_ids": "3001"
     },
-    "2": {
+    {
         "id": 2,
         "name": "equip-10000002",
         "description": "equip-20000002",
@@ -107,7 +107,7 @@
         "is_show": 1,
         "obtain_ids": "3001,3002,3028"
     },
-    "3": {
+    {
         "id": 3,
         "name": "equip-10000003",
         "description": "equip-20000003",
@@ -161,7 +161,7 @@
         "is_show": 1,
         "obtain_ids": "3001,3002,3028"
     },
-    "4": {
+    {
         "id": 4,
         "name": "equip-10000004",
         "description": "equip-20000004",
@@ -215,7 +215,7 @@
         "is_show": 1,
         "obtain_ids": "3001,3002,3028"
     },
-    "5": {
+    {
         "id": 5,
         "name": "equip-10000005",
         "description": "equip-20000005",
@@ -269,7 +269,7 @@
         "is_show": 1,
         "obtain_ids": "3001"
     },
-    "6": {
+    {
         "id": 6,
         "name": "equip-10000006",
         "description": "equip-20000006",
@@ -323,7 +323,7 @@
         "is_show": 1,
         "obtain_ids": "3001,3002,3028"
     },
-    "7": {
+    {
         "id": 7,
         "name": "equip-10000007",
         "description": "equip-20000007",
@@ -377,7 +377,7 @@
         "is_show": 1,
         "obtain_ids": "3001,3002,3028"
     },
-    "8": {
+    {
         "id": 8,
         "name": "equip-10000008",
         "description": "equip-20000008",
@@ -431,7 +431,7 @@
         "is_show": 1,
         "obtain_ids": "3001,3002,3028"
     },
-    "9": {
+    {
         "id": 9,
         "name": "equip-10000009",
         "description": "equip-20000009",
@@ -485,7 +485,7 @@
         "is_show": 1,
         "obtain_ids": "3001"
     },
-    "10": {
+    {
         "id": 10,
         "name": "equip-10000010",
         "description": "equip-20000010",
@@ -539,7 +539,7 @@
         "is_show": 1,
         "obtain_ids": "3001,3002,3028"
     },
-    "11": {
+    {
         "id": 11,
         "name": "equip-10000011",
         "description": "equip-20000011",
@@ -593,7 +593,7 @@
         "is_show": 1,
         "obtain_ids": "3001,3002,3028"
     },
-    "12": {
+    {
         "id": 12,
         "name": "equip-10000012",
         "description": "equip-20000012",
@@ -647,7 +647,7 @@
         "is_show": 1,
         "obtain_ids": "3001,3002,3028"
     },
-    "13": {
+    {
         "id": 13,
         "name": "equip-10000013",
         "description": "equip-20000013",
@@ -701,7 +701,7 @@
         "is_show": 1,
         "obtain_ids": "3001"
     },
-    "14": {
+    {
         "id": 14,
         "name": "equip-10000014",
         "description": "equip-20000014",
@@ -755,7 +755,7 @@
         "is_show": 1,
         "obtain_ids": "3001,3002,3028"
     },
-    "15": {
+    {
         "id": 15,
         "name": "equip-10000015",
         "description": "equip-20000015",
@@ -809,7 +809,7 @@
         "is_show": 1,
         "obtain_ids": "3001,3002,3028"
     },
-    "16": {
+    {
         "id": 16,
         "name": "equip-10000016",
         "description": "equip-20000016",
@@ -863,7 +863,7 @@
         "is_show": 1,
         "obtain_ids": "3001,3002,3028"
     },
-    "17": {
+    {
         "id": 17,
         "name": "equip-10000017",
         "description": "equip-20000017",
@@ -917,7 +917,7 @@
         "is_show": 1,
         "obtain_ids": "3001"
     },
-    "18": {
+    {
         "id": 18,
         "name": "equip-10000018",
         "description": "equip-20000018",
@@ -971,7 +971,7 @@
         "is_show": 1,
         "obtain_ids": "3001,3002,3028"
     },
-    "19": {
+    {
         "id": 19,
         "name": "equip-10000019",
         "description": "equip-20000019",
@@ -1025,7 +1025,7 @@
         "is_show": 1,
         "obtain_ids": "3001,3002,3028"
     },
-    "20": {
+    {
         "id": 20,
         "name": "equip-10000020",
         "description": "equip-20000020",
@@ -1079,7 +1079,7 @@
         "is_show": 1,
         "obtain_ids": "3001,3002,3028"
     },
-    "21": {
+    {
         "id": 21,
         "name": "equip-10000021",
         "description": "equip-20000021",
@@ -1133,7 +1133,7 @@
         "is_show": 0,
         "obtain_ids": "3000"
     },
-    "22": {
+    {
         "id": 22,
         "name": "equip-10000022",
         "description": "equip-20000022",
@@ -1187,7 +1187,7 @@
         "is_show": 0,
         "obtain_ids": "3000"
     },
-    "23": {
+    {
         "id": 23,
         "name": "equip-10000023",
         "description": "equip-20000023",
@@ -1241,7 +1241,7 @@
         "is_show": 0,
         "obtain_ids": "3000"
     },
-    "24": {
+    {
         "id": 24,
         "name": "equip-10000024",
         "description": "equip-20000024",
@@ -1295,7 +1295,7 @@
         "is_show": 0,
         "obtain_ids": "3000"
     },
-    "25": {
+    {
         "id": 25,
         "name": "equip-10000025",
         "description": "equip-20000025",
@@ -1349,7 +1349,7 @@
         "is_show": 0,
         "obtain_ids": "3000"
     },
-    "26": {
+    {
         "id": 26,
         "name": "equip-10000026",
         "description": "equip-20000026",
@@ -1403,7 +1403,7 @@
         "is_show": 0,
         "obtain_ids": "3000"
     },
-    "27": {
+    {
         "id": 27,
         "name": "equip-10000027",
         "description": "equip-20000027",
@@ -1457,7 +1457,7 @@
         "is_show": 0,
         "obtain_ids": "3000"
     },
-    "28": {
+    {
         "id": 28,
         "name": "equip-10000028",
         "description": "equip-20000028",
@@ -1511,7 +1511,7 @@
         "is_show": 0,
         "obtain_ids": "3000"
     },
-    "29": {
+    {
         "id": 29,
         "name": "equip-10000029",
         "description": "equip-20000029",
@@ -1565,7 +1565,7 @@
         "is_show": 1,
         "obtain_ids": "3001"
     },
-    "30": {
+    {
         "id": 30,
         "name": "equip-10000030",
         "description": "equip-20000030",
@@ -1619,7 +1619,7 @@
         "is_show": 1,
         "obtain_ids": "3001,3002,3028"
     },
-    "31": {
+    {
         "id": 31,
         "name": "equip-10000031",
         "description": "equip-20000031",
@@ -1673,7 +1673,7 @@
         "is_show": 1,
         "obtain_ids": "3001,3002,3028"
     },
-    "32": {
+    {
         "id": 32,
         "name": "equip-10000032",
         "description": "equip-20000032",
@@ -1727,7 +1727,7 @@
         "is_show": 1,
         "obtain_ids": "3001,3002,3028"
     },
-    "33": {
+    {
         "id": 33,
         "name": "equip-10000033",
         "description": "equip-20000033",
@@ -1781,7 +1781,7 @@
         "is_show": 0,
         "obtain_ids": "3000"
     },
-    "34": {
+    {
         "id": 34,
         "name": "equip-10000034",
         "description": "equip-20000034",
@@ -1835,7 +1835,7 @@
         "is_show": 0,
         "obtain_ids": "3000"
     },
-    "35": {
+    {
         "id": 35,
         "name": "equip-10000035",
         "description": "equip-20000035",
@@ -1889,7 +1889,7 @@
         "is_show": 0,
         "obtain_ids": "3000"
     },
-    "36": {
+    {
         "id": 36,
         "name": "equip-10000036",
         "description": "equip-20000036",
@@ -1943,7 +1943,7 @@
         "is_show": 0,
         "obtain_ids": "3000"
     },
-    "37": {
+    {
         "id": 37,
         "name": "equip-10000037",
         "description": "equip-20000037",
@@ -1997,7 +1997,7 @@
         "is_show": 1,
         "obtain_ids": "3001"
     },
-    "38": {
+    {
         "id": 38,
         "name": "equip-10000038",
         "description": "equip-20000038",
@@ -2051,7 +2051,7 @@
         "is_show": 1,
         "obtain_ids": "3001,3002,3028"
     },
-    "39": {
+    {
         "id": 39,
         "name": "equip-10000039",
         "description": "equip-20000039",
@@ -2105,7 +2105,7 @@
         "is_show": 1,
         "obtain_ids": "3001,3002,3028"
     },
-    "40": {
+    {
         "id": 40,
         "name": "equip-10000040",
         "description": "equip-20000040",
@@ -2159,7 +2159,7 @@
         "is_show": 1,
         "obtain_ids": "3001,3002,3028"
     },
-    "42": {
+    {
         "id": 42,
         "name": "equip-10000042",
         "description": "equip-20000042",
@@ -2213,7 +2213,7 @@
         "is_show": 1,
         "obtain_ids": "3001,3002,3028"
     },
-    "43": {
+    {
         "id": 43,
         "name": "equip-10000043",
         "description": "equip-20000043",
@@ -2267,7 +2267,7 @@
         "is_show": 1,
         "obtain_ids": "3001,3002,3028"
     },
-    "44": {
+    {
         "id": 44,
         "name": "equip-10000044",
         "description": "equip-20000044",
@@ -2321,7 +2321,7 @@
         "is_show": 1,
         "obtain_ids": "3001,3002,3028"
     },
-    "45": {
+    {
         "id": 45,
         "name": "equip-10000045",
         "description": "equip-20000045",
@@ -2375,7 +2375,7 @@
         "is_show": 0,
         "obtain_ids": "3000"
     },
-    "46": {
+    {
         "id": 46,
         "name": "equip-10000046",
         "description": "equip-20000046",
@@ -2429,7 +2429,7 @@
         "is_show": 0,
         "obtain_ids": "3000"
     },
-    "47": {
+    {
         "id": 47,
         "name": "equip-10000047",
         "description": "equip-20000047",
@@ -2483,7 +2483,7 @@
         "is_show": 0,
         "obtain_ids": "3000"
     },
-    "48": {
+    {
         "id": 48,
         "name": "equip-10000048",
         "description": "equip-20000048",
@@ -2537,7 +2537,7 @@
         "is_show": 0,
         "obtain_ids": "3000"
     },
-    "49": {
+    {
         "id": 49,
         "name": "equip-10000049",
         "description": "equip-20000049",
@@ -2591,7 +2591,7 @@
         "is_show": 1,
         "obtain_ids": "3021"
     },
-    "50": {
+    {
         "id": 50,
         "name": "equip-10000050",
         "description": "equip-20000050",
@@ -2645,7 +2645,7 @@
         "is_show": 1,
         "obtain_ids": "3022"
     },
-    "51": {
+    {
         "id": 51,
         "name": "equip-10000051",
         "description": "equip-20000051",
@@ -2699,7 +2699,7 @@
         "is_show": 0,
         "obtain_ids": "3000"
     },
-    "52": {
+    {
         "id": 52,
         "name": "equip-10000052",
         "description": "equip-20000052",
@@ -2753,7 +2753,7 @@
         "is_show": 0,
         "obtain_ids": "3000"
     },
-    "53": {
+    {
         "id": 53,
         "name": "equip-10000053",
         "description": "equip-20000053",
@@ -2807,7 +2807,7 @@
         "is_show": 0,
         "obtain_ids": "3000"
     },
-    "54": {
+    {
         "id": 54,
         "name": "equip-10000054",
         "description": "equip-20000054",
@@ -2861,7 +2861,7 @@
         "is_show": 0,
         "obtain_ids": "3000"
     },
-    "55": {
+    {
         "id": 55,
         "name": "equip-10000055",
         "description": "equip-20000055",
@@ -2915,7 +2915,7 @@
         "is_show": 1,
         "obtain_ids": "3001"
     },
-    "56": {
+    {
         "id": 56,
         "name": "equip-10000056",
         "description": "equip-20000056",
@@ -2969,7 +2969,7 @@
         "is_show": 1,
         "obtain_ids": "3001,3002,3028"
     },
-    "57": {
+    {
         "id": 57,
         "name": "equip-10000057",
         "description": "equip-20000057",
@@ -3023,7 +3023,7 @@
         "is_show": 1,
         "obtain_ids": "3001,3002,3028"
     },
-    "58": {
+    {
         "id": 58,
         "name": "equip-10000058",
         "description": "equip-20000058",
@@ -3077,7 +3077,7 @@
         "is_show": 1,
         "obtain_ids": "3001,3002,3028"
     },
-    "59": {
+    {
         "id": 59,
         "name": "equip-10000059",
         "description": "equip-20000059",
@@ -3131,7 +3131,7 @@
         "is_show": 1,
         "obtain_ids": "3037"
     },
-    "60": {
+    {
         "id": 60,
         "name": "equip-10000060",
         "description": "equip-20000060",
@@ -3185,7 +3185,7 @@
         "is_show": 1,
         "obtain_ids": "3039"
     },
-    "61": {
+    {
         "id": 61,
         "name": "equip-10000061",
         "description": "equip-20000061",
@@ -3239,7 +3239,7 @@
         "is_show": 1,
         "obtain_ids": "3038"
     },
-    "62": {
+    {
         "id": 62,
         "name": "equip-10000062",
         "description": "equip-20000062",
@@ -3293,7 +3293,7 @@
         "is_show": 1,
         "obtain_ids": "3040"
     },
-    "63": {
+    {
         "id": 63,
         "name": "equip-10000063",
         "description": "equip-20000063",
@@ -3347,7 +3347,7 @@
         "is_show": 1,
         "obtain_ids": "3001"
     },
-    "64": {
+    {
         "id": 64,
         "name": "equip-10000064",
         "description": "equip-20000064",
@@ -3401,7 +3401,7 @@
         "is_show": 1,
         "obtain_ids": "3001,3002,3028"
     },
-    "65": {
+    {
         "id": 65,
         "name": "equip-10000065",
         "description": "equip-20000065",
@@ -3455,7 +3455,7 @@
         "is_show": 1,
         "obtain_ids": "3001,3002,3028"
     },
-    "66": {
+    {
         "id": 66,
         "name": "equip-10000066",
         "description": "equip-20000066",
@@ -3509,7 +3509,7 @@
         "is_show": 1,
         "obtain_ids": "3001,3002,3028"
     },
-    "67": {
+    {
         "id": 67,
         "name": "equip-10000067",
         "description": "equip-20000067",
@@ -3563,7 +3563,7 @@
         "is_show": 1,
         "obtain_ids": "3001,3002,3028"
     },
-    "68": {
+    {
         "id": 68,
         "name": "equip-10000068",
         "description": "equip-20000068",
@@ -3617,7 +3617,7 @@
         "is_show": 1,
         "obtain_ids": "3001,3002,3028"
     },
-    "69": {
+    {
         "id": 69,
         "name": "equip-10000069",
         "description": "equip-20000069",
@@ -3671,7 +3671,7 @@
         "is_show": 1,
         "obtain_ids": "3001"
     },
-    "70": {
+    {
         "id": 70,
         "name": "equip-10000070",
         "description": "equip-20000070",
@@ -3725,7 +3725,7 @@
         "is_show": 1,
         "obtain_ids": "3001,3002,3028"
     },
-    "71": {
+    {
         "id": 71,
         "name": "equip-10000071",
         "description": "equip-20000071",
@@ -3779,7 +3779,7 @@
         "is_show": 1,
         "obtain_ids": "3001,3002,3028"
     },
-    "72": {
+    {
         "id": 72,
         "name": "equip-10000072",
         "description": "equip-20000072",
@@ -3833,7 +3833,7 @@
         "is_show": 1,
         "obtain_ids": "3001,3002,3028"
     },
-    "73": {
+    {
         "id": 73,
         "name": "equip-10000073",
         "description": "equip-20000073",
@@ -3887,7 +3887,7 @@
         "is_show": 1,
         "obtain_ids": "3001"
     },
-    "74": {
+    {
         "id": 74,
         "name": "equip-10000074",
         "description": "equip-20000074",
@@ -3941,7 +3941,7 @@
         "is_show": 1,
         "obtain_ids": "3001,3002,3028"
     },
-    "75": {
+    {
         "id": 75,
         "name": "equip-10000075",
         "description": "equip-20000075",
@@ -3995,7 +3995,7 @@
         "is_show": 1,
         "obtain_ids": "3001,3002,3028"
     },
-    "76": {
+    {
         "id": 76,
         "name": "equip-10000076",
         "description": "equip-20000076",
@@ -4049,7 +4049,7 @@
         "is_show": 1,
         "obtain_ids": "3001,3002,3028"
     },
-    "77": {
+    {
         "id": 77,
         "name": "equip-10000077",
         "description": "equip-20000077",
@@ -4103,7 +4103,7 @@
         "is_show": 1,
         "obtain_ids": "3001"
     },
-    "78": {
+    {
         "id": 78,
         "name": "equip-10000078",
         "description": "equip-20000078",
@@ -4157,7 +4157,7 @@
         "is_show": 1,
         "obtain_ids": "3001,3002,3028"
     },
-    "79": {
+    {
         "id": 79,
         "name": "equip-10000079",
         "description": "equip-20000079",
@@ -4211,7 +4211,7 @@
         "is_show": 1,
         "obtain_ids": "3001,3002,3028"
     },
-    "80": {
+    {
         "id": 80,
         "name": "equip-10000080",
         "description": "equip-20000080",
@@ -4265,7 +4265,7 @@
         "is_show": 1,
         "obtain_ids": "3001,3002,3028"
     },
-    "81": {
+    {
         "id": 81,
         "name": "equip-10000081",
         "description": "equip-20000081",
@@ -4319,7 +4319,7 @@
         "is_show": 1,
         "obtain_ids": "3020"
     },
-    "82": {
+    {
         "id": 82,
         "name": "equip-10000082",
         "description": "equip-20000082",
@@ -4373,7 +4373,7 @@
         "is_show": 1,
         "obtain_ids": "3019"
     },
-    "83": {
+    {
         "id": 83,
         "name": "equip-10000083",
         "description": "equip-20000083",
@@ -4427,7 +4427,7 @@
         "is_show": 1,
         "obtain_ids": "3017"
     },
-    "84": {
+    {
         "id": 84,
         "name": "equip-10000084",
         "description": "equip-20000084",
@@ -4481,7 +4481,7 @@
         "is_show": 1,
         "obtain_ids": "3017"
     },
-    "85": {
+    {
         "id": 85,
         "name": "equip-10000085",
         "description": "equip-20000085",
@@ -4535,7 +4535,7 @@
         "is_show": 1,
         "obtain_ids": "3017"
     },
-    "86": {
+    {
         "id": 86,
         "name": "equip-10000086",
         "description": "equip-20000086",
@@ -4589,7 +4589,7 @@
         "is_show": 1,
         "obtain_ids": "3041"
     },
-    "87": {
+    {
         "id": 87,
         "name": "equip-10000087",
         "description": "equip-20000087",
@@ -4643,7 +4643,7 @@
         "is_show": 1,
         "obtain_ids": "3001"
     },
-    "88": {
+    {
         "id": 88,
         "name": "equip-10000088",
         "description": "equip-20000088",
@@ -4697,7 +4697,7 @@
         "is_show": 1,
         "obtain_ids": "3001,3002,3028"
     },
-    "89": {
+    {
         "id": 89,
         "name": "equip-10000089",
         "description": "equip-20000089",
@@ -4751,7 +4751,7 @@
         "is_show": 1,
         "obtain_ids": "3001,3002,3028"
     },
-    "90": {
+    {
         "id": 90,
         "name": "equip-10000090",
         "description": "equip-20000090",
@@ -4805,7 +4805,7 @@
         "is_show": 1,
         "obtain_ids": "3001,3002,3028"
     },
-    "91": {
+    {
         "id": 91,
         "name": "equip-10000091",
         "description": "equip-20000091",
@@ -4859,7 +4859,7 @@
         "is_show": 1,
         "obtain_ids": "3042"
     },
-    "92": {
+    {
         "id": 92,
         "name": "equip-10000092",
         "description": "equip-20000092",
@@ -4913,7 +4913,7 @@
         "is_show": 1,
         "obtain_ids": "3048"
     },
-    "93": {
+    {
         "id": 93,
         "name": "equip-10000093",
         "description": "equip-20000093",
@@ -4967,7 +4967,7 @@
         "is_show": 1,
         "obtain_ids": "3018"
     },
-    "94": {
+    {
         "id": 94,
         "name": "equip-10000094",
         "description": "equip-20000094",
@@ -5021,7 +5021,7 @@
         "is_show": 1,
         "obtain_ids": "3050"
     },
-    "95": {
+    {
         "id": 95,
         "name": "equip-10000095",
         "description": "equip-20000095",
@@ -5075,7 +5075,7 @@
         "is_show": 1,
         "obtain_ids": "3047"
     },
-    "96": {
+    {
         "id": 96,
         "name": "equip-10000096",
         "description": "equip-20000096",
@@ -5129,7 +5129,7 @@
         "is_show": 1,
         "obtain_ids": "3047"
     },
-    "97": {
+    {
         "id": 97,
         "name": "equip-10000097",
         "description": "equip-20000097",
@@ -5183,7 +5183,7 @@
         "is_show": 0,
         "obtain_ids": "3000"
     },
-    "98": {
+    {
         "id": 98,
         "name": "equip-10000098",
         "description": "equip-20000098",
@@ -5237,7 +5237,7 @@
         "is_show": 0,
         "obtain_ids": "3000"
     },
-    "99": {
+    {
         "id": 99,
         "name": "equip-10000099",
         "description": "equip-20000099",
@@ -5291,7 +5291,7 @@
         "is_show": 1,
         "obtain_ids": "3016"
     },
-    "100": {
+    {
         "id": 100,
         "name": "equip-10000100",
         "description": "equip-20000100",
@@ -5345,7 +5345,7 @@
         "is_show": 1,
         "obtain_ids": "3016"
     },
-    "101": {
+    {
         "id": 101,
         "name": "equip-10000101",
         "description": "equip-20000101",
@@ -5399,7 +5399,7 @@
         "is_show": 1,
         "obtain_ids": "3016"
     },
-    "102": {
+    {
         "id": 102,
         "name": "equip-10000102",
         "description": "equip-20000102",
@@ -5453,7 +5453,7 @@
         "is_show": 1,
         "obtain_ids": "3016"
     },
-    "103": {
+    {
         "id": 103,
         "name": "equip-10000103",
         "description": "equip-20000103",
@@ -5507,7 +5507,7 @@
         "is_show": 1,
         "obtain_ids": "3016"
     },
-    "104": {
+    {
         "id": 104,
         "name": "equip-10000104",
         "description": "equip-20000104",
@@ -5561,7 +5561,7 @@
         "is_show": 1,
         "obtain_ids": "3016"
     },
-    "105": {
+    {
         "id": 105,
         "name": "equip-10000105",
         "description": "equip-20000105",
@@ -5615,7 +5615,7 @@
         "is_show": 1,
         "obtain_ids": "3025"
     },
-    "106": {
+    {
         "id": 106,
         "name": "equip-10000106",
         "description": "equip-20000106",
@@ -5669,7 +5669,7 @@
         "is_show": 1,
         "obtain_ids": "3049"
     },
-    "107": {
+    {
         "id": 107,
         "name": "equip-10000107",
         "description": "equip-20000107",
@@ -5723,7 +5723,7 @@
         "is_show": 1,
         "obtain_ids": "3043"
     },
-    "108": {
+    {
         "id": 108,
         "name": "equip-10000108",
         "description": "equip-20000108",
@@ -5777,7 +5777,7 @@
         "is_show": 1,
         "obtain_ids": "3051"
     },
-    "109": {
+    {
         "id": 109,
         "name": "equip-10000109",
         "description": "equip-20000109",
@@ -5831,7 +5831,7 @@
         "is_show": 1,
         "obtain_ids": "3047"
     },
-    "110": {
+    {
         "id": 110,
         "name": "equip-10000110",
         "description": "equip-20000110",
@@ -5885,7 +5885,7 @@
         "is_show": 1,
         "obtain_ids": "3047"
     },
-    "111": {
+    {
         "id": 111,
         "name": "equip-10000111",
         "description": "equip-20000111",
@@ -5939,7 +5939,7 @@
         "is_show": 1,
         "obtain_ids": "3016"
     },
-    "112": {
+    {
         "id": 112,
         "name": "equip-10000112",
         "description": "equip-20000112",
@@ -5993,7 +5993,7 @@
         "is_show": 1,
         "obtain_ids": "3016"
     },
-    "113": {
+    {
         "id": 113,
         "name": "equip-10000113",
         "description": "equip-20000113",
@@ -6047,7 +6047,7 @@
         "is_show": 1,
         "obtain_ids": "3016"
     },
-    "114": {
+    {
         "id": 114,
         "name": "equip-10000114",
         "description": "equip-20000114",
@@ -6101,7 +6101,7 @@
         "is_show": 1,
         "obtain_ids": "3016"
     },
-    "115": {
+    {
         "id": 115,
         "name": "equip-10000115",
         "description": "equip-20000115",
@@ -6155,7 +6155,7 @@
         "is_show": 1,
         "obtain_ids": "3016"
     },
-    "117": {
+    {
         "id": 117,
         "name": "equip-10000117",
         "description": "equip-20000117",
@@ -6209,7 +6209,7 @@
         "is_show": 1,
         "obtain_ids": "3023"
     },
-    "118": {
+    {
         "id": 118,
         "name": "equip-10000118",
         "description": "equip-20000118",
@@ -6263,7 +6263,7 @@
         "is_show": 1,
         "obtain_ids": "3051"
     },
-    "119": {
+    {
         "id": 119,
         "name": "equip-10000119",
         "description": "equip-20000119",
@@ -6317,7 +6317,7 @@
         "is_show": 1,
         "obtain_ids": "3044"
     },
-    "120": {
+    {
         "id": 120,
         "name": "equip-10000120",
         "description": "equip-20000120",
@@ -6371,7 +6371,7 @@
         "is_show": 1,
         "obtain_ids": "3047"
     },
-    "121": {
+    {
         "id": 121,
         "name": "equip-10000121",
         "description": "equip-20000121",
@@ -6425,7 +6425,7 @@
         "is_show": 1,
         "obtain_ids": "3047"
     },
-    "122": {
+    {
         "id": 122,
         "name": "equip-10000122",
         "description": "equip-20000122",
@@ -6479,7 +6479,7 @@
         "is_show": 1,
         "obtain_ids": "3016"
     },
-    "123": {
+    {
         "id": 123,
         "name": "equip-10000123",
         "description": "equip-20000123",
@@ -6533,7 +6533,7 @@
         "is_show": 1,
         "obtain_ids": "3016"
     },
-    "124": {
+    {
         "id": 124,
         "name": "equip-10000124",
         "description": "equip-20000124",
@@ -6587,7 +6587,7 @@
         "is_show": 1,
         "obtain_ids": "3016"
     },
-    "125": {
+    {
         "id": 125,
         "name": "equip-10000125",
         "description": "equip-20000125",
@@ -6641,7 +6641,7 @@
         "is_show": 1,
         "obtain_ids": "3016"
     },
-    "126": {
+    {
         "id": 126,
         "name": "equip-10000126",
         "description": "equip-20000126",
@@ -6695,7 +6695,7 @@
         "is_show": 1,
         "obtain_ids": "3016"
     },
-    "127": {
+    {
         "id": 127,
         "name": "equip-10000127",
         "description": "equip-20000127",
@@ -6749,7 +6749,7 @@
         "is_show": 1,
         "obtain_ids": "3026,3035"
     },
-    "128": {
+    {
         "id": 128,
         "name": "equip-10000128",
         "description": "equip-20000128",
@@ -6803,7 +6803,7 @@
         "is_show": 1,
         "obtain_ids": "3016"
     },
-    "129": {
+    {
         "id": 129,
         "name": "equip-10000129",
         "description": "equip-20000129",
@@ -6857,7 +6857,7 @@
         "is_show": 1,
         "obtain_ids": "3016"
     },
-    "130": {
+    {
         "id": 130,
         "name": "equip-10000130",
         "description": "equip-20000130",
@@ -6911,7 +6911,7 @@
         "is_show": 1,
         "obtain_ids": "3016"
     },
-    "131": {
+    {
         "id": 131,
         "name": "equip-10000131",
         "description": "equip-20000131",
@@ -6965,7 +6965,7 @@
         "is_show": 1,
         "obtain_ids": "3016"
     },
-    "132": {
+    {
         "id": 132,
         "name": "equip-10000132",
         "description": "equip-20000132",
@@ -7019,7 +7019,7 @@
         "is_show": 1,
         "obtain_ids": "3027"
     },
-    "133": {
+    {
         "id": 133,
         "name": "equip-10000133",
         "description": "equip-20000133",
@@ -7073,7 +7073,7 @@
         "is_show": 1,
         "obtain_ids": "3045"
     },
-    "134": {
+    {
         "id": 134,
         "name": "equip-10000134",
         "description": "equip-20000134",
@@ -7127,7 +7127,7 @@
         "is_show": 1,
         "obtain_ids": "3016"
     },
-    "135": {
+    {
         "id": 135,
         "name": "equip-10000135",
         "description": "equip-20000135",
@@ -7181,7 +7181,7 @@
         "is_show": 1,
         "obtain_ids": "3016"
     },
-    "136": {
+    {
         "id": 136,
         "name": "equip-10000136",
         "description": "equip-20000136",
@@ -7235,7 +7235,7 @@
         "is_show": 1,
         "obtain_ids": "3016"
     },
-    "137": {
+    {
         "id": 137,
         "name": "equip-10000137",
         "description": "equip-20000137",
@@ -7289,7 +7289,7 @@
         "is_show": 1,
         "obtain_ids": "3024"
     },
-    "138": {
+    {
         "id": 138,
         "name": "equip-10000138",
         "description": "equip-20000138",
@@ -7343,7 +7343,7 @@
         "is_show": 1,
         "obtain_ids": "3024"
     },
-    "139": {
+    {
         "id": 139,
         "name": "equip-10000139",
         "description": "equip-20000139",
@@ -7397,7 +7397,7 @@
         "is_show": 1,
         "obtain_ids": "3024"
     },
-    "140": {
+    {
         "id": 140,
         "name": "equip-10000140",
         "description": "equip-20000140",
@@ -7451,7 +7451,7 @@
         "is_show": 1,
         "obtain_ids": "3024"
     },
-    "141": {
+    {
         "id": 141,
         "name": "equip-10000141",
         "description": "equip-20000141",
@@ -7505,7 +7505,7 @@
         "is_show": 1,
         "obtain_ids": "3024"
     },
-    "142": {
+    {
         "id": 142,
         "name": "equip-10000142",
         "description": "equip-20000142",
@@ -7559,7 +7559,7 @@
         "is_show": 1,
         "obtain_ids": "3024"
     },
-    "143": {
+    {
         "id": 143,
         "name": "equip-10000143",
         "description": "equip-20000143",
@@ -7613,7 +7613,7 @@
         "is_show": 1,
         "obtain_ids": "3024"
     },
-    "144": {
+    {
         "id": 144,
         "name": "equip-10000144",
         "description": "equip-20000144",
@@ -7667,7 +7667,7 @@
         "is_show": 1,
         "obtain_ids": "3024"
     },
-    "145": {
+    {
         "id": 145,
         "name": "equip-10000145",
         "description": "equip-20000145",
@@ -7721,7 +7721,7 @@
         "is_show": 1,
         "obtain_ids": "3053"
     },
-    "146": {
+    {
         "id": 146,
         "name": "equip-10000146",
         "description": "equip-20000146",
@@ -7775,7 +7775,7 @@
         "is_show": 1,
         "obtain_ids": "3053"
     },
-    "147": {
+    {
         "id": 147,
         "name": "equip-10000147",
         "description": "equip-20000147",
@@ -7829,7 +7829,7 @@
         "is_show": 1,
         "obtain_ids": "3053"
     },
-    "148": {
+    {
         "id": 148,
         "name": "equip-10000148",
         "description": "equip-20000148",
@@ -7883,7 +7883,7 @@
         "is_show": 1,
         "obtain_ids": "3053"
     },
-    "149": {
+    {
         "id": 149,
         "name": "equip-10000149",
         "description": "equip-20000149",
@@ -7937,7 +7937,7 @@
         "is_show": 1,
         "obtain_ids": "3053"
     },
-    "150": {
+    {
         "id": 150,
         "name": "equip-10000150",
         "description": "equip-20000150",
@@ -7991,7 +7991,7 @@
         "is_show": 1,
         "obtain_ids": "3003"
     },
-    "151": {
+    {
         "id": 151,
         "name": "equip-10000151",
         "description": "equip-20000151",
@@ -8045,7 +8045,7 @@
         "is_show": 1,
         "obtain_ids": "3003"
     },
-    "152": {
+    {
         "id": 152,
         "name": "equip-10000152",
         "description": "equip-20000152",
@@ -8099,7 +8099,7 @@
         "is_show": 1,
         "obtain_ids": "3003"
     },
-    "153": {
+    {
         "id": 153,
         "name": "equip-10000153",
         "description": "equip-20000153",
@@ -8153,7 +8153,7 @@
         "is_show": 1,
         "obtain_ids": "3003"
     },
-    "154": {
+    {
         "id": 154,
         "name": "equip-10000154",
         "description": "equip-20000154",
@@ -8207,7 +8207,7 @@
         "is_show": 1,
         "obtain_ids": "3003"
     },
-    "155": {
+    {
         "id": 155,
         "name": "equip-10000155",
         "description": "equip-20000155",
@@ -8261,7 +8261,7 @@
         "is_show": 1,
         "obtain_ids": "3003"
     },
-    "156": {
+    {
         "id": 156,
         "name": "equip-10000156",
         "description": "equip-20000156",
@@ -8315,7 +8315,7 @@
         "is_show": 1,
         "obtain_ids": "3016"
     },
-    "157": {
+    {
         "id": 157,
         "name": "equip-10000157",
         "description": "equip-20000157",
@@ -8369,7 +8369,7 @@
         "is_show": 1,
         "obtain_ids": "3016"
     },
-    "158": {
+    {
         "id": 158,
         "name": "equip-10000158",
         "description": "equip-20000158",
@@ -8423,7 +8423,7 @@
         "is_show": 1,
         "obtain_ids": "3016"
     },
-    "159": {
+    {
         "id": 159,
         "name": "equip-10000159",
         "description": "equip-20000159",
@@ -8477,7 +8477,7 @@
         "is_show": 1,
         "obtain_ids": "3016"
     },
-    "160": {
+    {
         "id": 160,
         "name": "equip-10000160",
         "description": "equip-20000160",
@@ -8531,7 +8531,7 @@
         "is_show": 1,
         "obtain_ids": "3029"
     },
-    "161": {
+    {
         "id": 161,
         "name": "equip-10000161",
         "description": "equip-20000161",
@@ -8585,7 +8585,7 @@
         "is_show": 1,
         "obtain_ids": "3003"
     },
-    "162": {
+    {
         "id": 162,
         "name": "equip-10000162",
         "description": "equip-20000162",
@@ -8639,7 +8639,7 @@
         "is_show": 1,
         "obtain_ids": "3003"
     },
-    "163": {
+    {
         "id": 163,
         "name": "equip-10000163",
         "description": "equip-20000163",
@@ -8693,7 +8693,7 @@
         "is_show": 1,
         "obtain_ids": "3003"
     },
-    "164": {
+    {
         "id": 164,
         "name": "equip-10000164",
         "description": "equip-20000164",
@@ -8747,7 +8747,7 @@
         "is_show": 1,
         "obtain_ids": "3003"
     },
-    "165": {
+    {
         "id": 165,
         "name": "equip-10000165",
         "description": "equip-20000165",
@@ -8801,7 +8801,7 @@
         "is_show": 1,
         "obtain_ids": "3046"
     },
-    "166": {
+    {
         "id": 166,
         "name": "equip-10000166",
         "description": "equip-20000166",
@@ -8855,7 +8855,7 @@
         "is_show": 1,
         "obtain_ids": "3016"
     },
-    "167": {
+    {
         "id": 167,
         "name": "equip-10000167",
         "description": "equip-20000167",
@@ -8909,7 +8909,7 @@
         "is_show": 1,
         "obtain_ids": "3016"
     },
-    "168": {
+    {
         "id": 168,
         "name": "equip-10000168",
         "description": "equip-20000168",
@@ -8963,7 +8963,7 @@
         "is_show": 1,
         "obtain_ids": "3054"
     },
-    "169": {
+    {
         "id": 169,
         "name": "equip-10000169",
         "description": "equip-20000169",
@@ -9017,7 +9017,7 @@
         "is_show": 1,
         "obtain_ids": "3054"
     },
-    "170": {
+    {
         "id": 170,
         "name": "equip-10000170",
         "description": "equip-20000170",
@@ -9071,7 +9071,7 @@
         "is_show": 1,
         "obtain_ids": "3016"
     },
-    "171": {
+    {
         "id": 171,
         "name": "equip-10000171",
         "description": "equip-20000171",
@@ -9125,7 +9125,7 @@
         "is_show": 1,
         "obtain_ids": "3016"
     },
-    "172": {
+    {
         "id": 172,
         "name": "equip-10000172",
         "description": "equip-20000172",
@@ -9179,7 +9179,7 @@
         "is_show": 1,
         "obtain_ids": "3003"
     },
-    "173": {
+    {
         "id": 173,
         "name": "equip-10000173",
         "description": "equip-20000173",
@@ -9233,7 +9233,7 @@
         "is_show": 1,
         "obtain_ids": "3003"
     },
-    "174": {
+    {
         "id": 174,
         "name": "equip-10000174",
         "description": "equip-20000174",
@@ -9287,7 +9287,7 @@
         "is_show": 1,
         "obtain_ids": "3030"
     },
-    "175": {
+    {
         "id": 175,
         "name": "equip-10000175",
         "description": "equip-20000175",
@@ -9341,7 +9341,7 @@
         "is_show": 1,
         "obtain_ids": "3055"
     },
-    "176": {
+    {
         "id": 176,
         "name": "equip-10000176",
         "description": "equip-20000176",
@@ -9395,7 +9395,7 @@
         "is_show": 1,
         "obtain_ids": "3016"
     },
-    "177": {
+    {
         "id": 177,
         "name": "equip-10000177",
         "description": "equip-20000177",
@@ -9449,7 +9449,7 @@
         "is_show": 1,
         "obtain_ids": "3016"
     },
-    "178": {
+    {
         "id": 178,
         "name": "equip-10000178",
         "description": "equip-20000178",
@@ -9503,7 +9503,7 @@
         "is_show": 1,
         "obtain_ids": "3016"
     },
-    "179": {
+    {
         "id": 179,
         "name": "equip-10000179",
         "description": "equip-20000179",
@@ -9557,7 +9557,7 @@
         "is_show": 1,
         "obtain_ids": "3016"
     },
-    "180": {
+    {
         "id": 180,
         "name": "equip-10000180",
         "description": "equip-20000180",
@@ -9611,7 +9611,7 @@
         "is_show": 1,
         "obtain_ids": "3003"
     },
-    "181": {
+    {
         "id": 181,
         "name": "equip-10000181",
         "description": "equip-20000181",
@@ -9665,7 +9665,7 @@
         "is_show": 1,
         "obtain_ids": "3003"
     },
-    "182": {
+    {
         "id": 182,
         "name": "equip-10000182",
         "description": "equip-20000182",
@@ -9719,7 +9719,7 @@
         "is_show": 1,
         "obtain_ids": "3056"
     },
-    "183": {
+    {
         "id": 183,
         "name": "equip-10000183",
         "description": "equip-20000183",
@@ -9773,7 +9773,7 @@
         "is_show": 1,
         "obtain_ids": "3057"
     },
-    "184": {
+    {
         "id": 184,
         "name": "equip-10000184",
         "description": "equip-20000184",
@@ -9827,7 +9827,7 @@
         "is_show": 1,
         "obtain_ids": "3057"
     },
-    "185": {
+    {
         "id": 185,
         "name": "equip-10000185",
         "description": "equip-20000185",
@@ -9881,7 +9881,7 @@
         "is_show": 1,
         "obtain_ids": "3057"
     },
-    "186": {
+    {
         "id": 186,
         "name": "equip-10000186",
         "description": "equip-20000186",
@@ -9935,7 +9935,7 @@
         "is_show": 1,
         "obtain_ids": "3057"
     },
-    "187": {
+    {
         "id": 187,
         "name": "equip-10000187",
         "description": "equip-20000187",
@@ -9989,7 +9989,7 @@
         "is_show": 1,
         "obtain_ids": "3057"
     },
-    "188": {
+    {
         "id": 188,
         "name": "equip-10000188",
         "description": "equip-20000188",
@@ -10043,7 +10043,7 @@
         "is_show": 1,
         "obtain_ids": "3057"
     },
-    "189": {
+    {
         "id": 189,
         "name": "equip-10000189",
         "description": "equip-20000189",
@@ -10097,7 +10097,7 @@
         "is_show": 1,
         "obtain_ids": "3057"
     },
-    "190": {
+    {
         "id": 190,
         "name": "equip-10000190",
         "description": "equip-20000190",
@@ -10151,7 +10151,7 @@
         "is_show": 1,
         "obtain_ids": "3016"
     },
-    "191": {
+    {
         "id": 191,
         "name": "equip-10000191",
         "description": "equip-20000191",
@@ -10205,7 +10205,7 @@
         "is_show": 1,
         "obtain_ids": "3016"
     },
-    "192": {
+    {
         "id": 192,
         "name": "equip-10000192",
         "description": "equip-20000192",
@@ -10259,7 +10259,7 @@
         "is_show": 1,
         "obtain_ids": "3016"
     },
-    "193": {
+    {
         "id": 193,
         "name": "equip-10000193",
         "description": "equip-20000193",
@@ -10313,7 +10313,7 @@
         "is_show": 1,
         "obtain_ids": "3016"
     },
-    "194": {
+    {
         "id": 194,
         "name": "equip-10000194",
         "description": "equip-20000194",
@@ -10367,7 +10367,7 @@
         "is_show": 1,
         "obtain_ids": "3003"
     },
-    "195": {
+    {
         "id": 195,
         "name": "equip-10000195",
         "description": "equip-20000195",
@@ -10421,7 +10421,7 @@
         "is_show": 1,
         "obtain_ids": "3003"
     },
-    "196": {
+    {
         "id": 196,
         "name": "equip-10000196",
         "description": "equip-20000196",
@@ -10475,7 +10475,7 @@
         "is_show": 1,
         "obtain_ids": "3003"
     },
-    "197": {
+    {
         "id": 197,
         "name": "equip-10000197",
         "description": "equip-20000197",
@@ -10529,7 +10529,7 @@
         "is_show": 1,
         "obtain_ids": "3031"
     },
-    "198": {
+    {
         "id": 198,
         "name": "equip-10000198",
         "description": "equip-20000198",
@@ -10583,7 +10583,7 @@
         "is_show": 1,
         "obtain_ids": "3058"
     },
-    "199": {
+    {
         "id": 199,
         "name": "equip-10000199",
         "description": "equip-20000199",
@@ -10637,7 +10637,7 @@
         "is_show": 1,
         "obtain_ids": "3059"
     },
-    "200": {
+    {
         "id": 200,
         "name": "equip-10000200",
         "description": "equip-20000200",
@@ -10691,7 +10691,7 @@
         "is_show": 1,
         "obtain_ids": "3060"
     },
-    "201": {
+    {
         "id": 201,
         "name": "equip-10000201",
         "description": "equip-20000201",
@@ -10745,7 +10745,7 @@
         "is_show": 1,
         "obtain_ids": "3032"
     },
-    "202": {
+    {
         "id": 202,
         "name": "equip-10000202",
         "description": "equip-20000202",
@@ -10799,7 +10799,7 @@
         "is_show": 1,
         "obtain_ids": "3059"
     },
-    "203": {
+    {
         "id": 203,
         "name": "equip-10000203",
         "description": "equip-20000203",
@@ -10853,7 +10853,7 @@
         "is_show": 1,
         "obtain_ids": "3060"
     },
-    "204": {
+    {
         "id": 204,
         "name": "equip-10000204",
         "description": "equip-20000204",
@@ -10907,7 +10907,7 @@
         "is_show": 1,
         "obtain_ids": "3033"
     },
-    "205": {
+    {
         "id": 205,
         "name": "equip-10000205",
         "description": "equip-20000205",
@@ -10961,7 +10961,7 @@
         "is_show": 1,
         "obtain_ids": "3016"
     },
-    "206": {
+    {
         "id": 206,
         "name": "equip-10000206",
         "description": "equip-20000206",
@@ -11015,7 +11015,7 @@
         "is_show": 1,
         "obtain_ids": "3016"
     },
-    "207": {
+    {
         "id": 207,
         "name": "equip-10000207",
         "description": "equip-20000207",
@@ -11069,7 +11069,7 @@
         "is_show": 1,
         "obtain_ids": "3016"
     },
-    "208": {
+    {
         "id": 208,
         "name": "equip-10000208",
         "description": "equip-20000208",
@@ -11123,7 +11123,7 @@
         "is_show": 1,
         "obtain_ids": "3003"
     },
-    "209": {
+    {
         "id": 209,
         "name": "equip-10000209",
         "description": "equip-20000209",
@@ -11177,7 +11177,7 @@
         "is_show": 1,
         "obtain_ids": "3003"
     },
-    "210": {
+    {
         "id": 210,
         "name": "equip-10000210",
         "description": "equip-20000210",
@@ -11231,7 +11231,7 @@
         "is_show": 1,
         "obtain_ids": "3003"
     },
-    "211": {
+    {
         "id": 211,
         "name": "equip-10000211",
         "description": "equip-20000211",
@@ -11285,7 +11285,7 @@
         "is_show": 1,
         "obtain_ids": "3004"
     },
-    "212": {
+    {
         "id": 212,
         "name": "equip-10000212",
         "description": "equip-20000212",
@@ -11339,7 +11339,7 @@
         "is_show": 1,
         "obtain_ids": "3016"
     },
-    "213": {
+    {
         "id": 213,
         "name": "equip-10000213",
         "description": "equip-20000213",
@@ -11393,7 +11393,7 @@
         "is_show": 1,
         "obtain_ids": "3016"
     },
-    "214": {
+    {
         "id": 214,
         "name": "equip-10000214",
         "description": "equip-20000214",
@@ -11447,7 +11447,7 @@
         "is_show": 1,
         "obtain_ids": "3016"
     },
-    "215": {
+    {
         "id": 215,
         "name": "equip-10000215",
         "description": "equip-20000215",
@@ -11501,7 +11501,7 @@
         "is_show": 1,
         "obtain_ids": "3016"
     },
-    "216": {
+    {
         "id": 216,
         "name": "equip-10000216",
         "description": "equip-20000216",
@@ -11555,7 +11555,7 @@
         "is_show": 1,
         "obtain_ids": "3005"
     },
-    "217": {
+    {
         "id": 217,
         "name": "equip-10000217",
         "description": "equip-20000217",
@@ -11609,7 +11609,7 @@
         "is_show": 1,
         "obtain_ids": "3034"
     },
-    "218": {
+    {
         "id": 218,
         "name": "equip-10000218",
         "description": "equip-20000218",
@@ -11663,7 +11663,7 @@
         "is_show": 1,
         "obtain_ids": "3006"
     },
-    "219": {
+    {
         "id": 219,
         "name": "equip-10000219",
         "description": "equip-20000219",
@@ -11717,7 +11717,7 @@
         "is_show": 1,
         "obtain_ids": "3003"
     },
-    "220": {
+    {
         "id": 220,
         "name": "equip-10000220",
         "description": "equip-20000220",
@@ -11771,7 +11771,7 @@
         "is_show": 1,
         "obtain_ids": "3003"
     },
-    "221": {
+    {
         "id": 221,
         "name": "equip-10000221",
         "description": "equip-20000221",
@@ -11825,7 +11825,7 @@
         "is_show": 1,
         "obtain_ids": "3003"
     },
-    "222": {
+    {
         "id": 222,
         "name": "equip-10000222",
         "description": "equip-20000222",
@@ -11879,7 +11879,7 @@
         "is_show": 1,
         "obtain_ids": "3001,3002,3028"
     },
-    "223": {
+    {
         "id": 223,
         "name": "equip-10000223",
         "description": "equip-20000223",
@@ -11933,7 +11933,7 @@
         "is_show": 1,
         "obtain_ids": "3001,3002,3028"
     },
-    "224": {
+    {
         "id": 224,
         "name": "equip-10000224",
         "description": "equip-20000224",
@@ -11987,7 +11987,7 @@
         "is_show": 1,
         "obtain_ids": "3001,3002,3028"
     },
-    "225": {
+    {
         "id": 225,
         "name": "equip-10000225",
         "description": "equip-20000225",
@@ -12041,7 +12041,7 @@
         "is_show": 1,
         "obtain_ids": "3001,3002,3028"
     },
-    "226": {
+    {
         "id": 226,
         "name": "equip-10000226",
         "description": "equip-20000226",
@@ -12095,7 +12095,7 @@
         "is_show": 1,
         "obtain_ids": "3001,3002,3028"
     },
-    "227": {
+    {
         "id": 227,
         "name": "equip-10000227",
         "description": "equip-20000227",
@@ -12149,7 +12149,7 @@
         "is_show": 1,
         "obtain_ids": "3001,3002,3028"
     },
-    "228": {
+    {
         "id": 228,
         "name": "equip-10000228",
         "description": "equip-20000228",
@@ -12203,7 +12203,7 @@
         "is_show": 1,
         "obtain_ids": "3001,3002,3028"
     },
-    "229": {
+    {
         "id": 229,
         "name": "equip-10000229",
         "description": "equip-20000229",
@@ -12257,7 +12257,7 @@
         "is_show": 1,
         "obtain_ids": "3001,3002,3028"
     },
-    "230": {
+    {
         "id": 230,
         "name": "equip-10000230",
         "description": "equip-20000230",
@@ -12311,7 +12311,7 @@
         "is_show": 1,
         "obtain_ids": "3001,3002,3028"
     },
-    "231": {
+    {
         "id": 231,
         "name": "equip-10000231",
         "description": "equip-20000231",
@@ -12365,7 +12365,7 @@
         "is_show": 1,
         "obtain_ids": "3001,3002,3028"
     },
-    "232": {
+    {
         "id": 232,
         "name": "equip-10000232",
         "description": "equip-20000232",
@@ -12419,7 +12419,7 @@
         "is_show": 1,
         "obtain_ids": "3001,3002,3028"
     },
-    "233": {
+    {
         "id": 233,
         "name": "equip-10000233",
         "description": "equip-20000233",
@@ -12473,7 +12473,7 @@
         "is_show": 1,
         "obtain_ids": "3001,3002,3028"
     },
-    "234": {
+    {
         "id": 234,
         "name": "equip-10000234",
         "description": "equip-20000234",
@@ -12527,7 +12527,7 @@
         "is_show": 1,
         "obtain_ids": "3001,3002,3028"
     },
-    "235": {
+    {
         "id": 235,
         "name": "equip-10000235",
         "description": "equip-20000235",
@@ -12581,7 +12581,7 @@
         "is_show": 1,
         "obtain_ids": "3001,3002,3028"
     },
-    "236": {
+    {
         "id": 236,
         "name": "equip-10000236",
         "description": "equip-20000236",
@@ -12635,7 +12635,7 @@
         "is_show": 1,
         "obtain_ids": "3007"
     },
-    "237": {
+    {
         "id": 237,
         "name": "equip-10000237",
         "description": "equip-20000237",
@@ -12689,7 +12689,7 @@
         "is_show": 1,
         "obtain_ids": "3008"
     },
-    "238": {
+    {
         "id": 238,
         "name": "equip-10000238",
         "description": "equip-20000238",
@@ -12743,7 +12743,7 @@
         "is_show": 1,
         "obtain_ids": "3016"
     },
-    "239": {
+    {
         "id": 239,
         "name": "equip-10000239",
         "description": "equip-20000239",
@@ -12797,7 +12797,7 @@
         "is_show": 1,
         "obtain_ids": "3016"
     },
-    "240": {
+    {
         "id": 240,
         "name": "equip-10000240",
         "description": "equip-20000240",
@@ -12851,7 +12851,7 @@
         "is_show": 1,
         "obtain_ids": "3016"
     },
-    "241": {
+    {
         "id": 241,
         "name": "equip-10000241",
         "description": "equip-20000241",
@@ -12905,7 +12905,7 @@
         "is_show": 1,
         "obtain_ids": "3016"
     },
-    "242": {
+    {
         "id": 242,
         "name": "equip-10000242",
         "description": "equip-20000242",
@@ -12959,7 +12959,7 @@
         "is_show": 1,
         "obtain_ids": "3009"
     },
-    "243": {
+    {
         "id": 243,
         "name": "equip-10000243",
         "description": "equip-20000243",
@@ -13013,7 +13013,7 @@
         "is_show": 1,
         "obtain_ids": "3003"
     },
-    "244": {
+    {
         "id": 244,
         "name": "equip-10000244",
         "description": "equip-20000244",
@@ -13067,7 +13067,7 @@
         "is_show": 1,
         "obtain_ids": "3003"
     },
-    "245": {
+    {
         "id": 245,
         "name": "equip-10000245",
         "description": "equip-20000245",
@@ -13121,7 +13121,7 @@
         "is_show": 1,
         "obtain_ids": "3003"
     },
-    "246": {
+    {
         "id": 246,
         "name": "equip-10000246",
         "description": "equip-20000246",
@@ -13175,7 +13175,7 @@
         "is_show": 1,
         "obtain_ids": "3010"
     },
-    "247": {
+    {
         "id": 247,
         "name": "equip-10000247",
         "description": "equip-20000247",
@@ -13229,7 +13229,7 @@
         "is_show": 1,
         "obtain_ids": "3061"
     },
-    "248": {
+    {
         "id": 248,
         "name": "equip-10000248",
         "description": "equip-20000248",
@@ -13283,7 +13283,7 @@
         "is_show": 1,
         "obtain_ids": "3011"
     },
-    "249": {
+    {
         "id": 249,
         "name": "equip-10000249",
         "description": "equip-20000249",
@@ -13337,7 +13337,7 @@
         "is_show": 1,
         "obtain_ids": "3036"
     },
-    "250": {
+    {
         "id": 250,
         "name": "equip-10000250",
         "description": "equip-20000250",
@@ -13391,7 +13391,7 @@
         "is_show": 1,
         "obtain_ids": "3012"
     },
-    "251": {
+    {
         "id": 251,
         "name": "equip-10000251",
         "description": "equip-20000251",
@@ -13445,7 +13445,7 @@
         "is_show": 1,
         "obtain_ids": "3062"
     },
-    "252": {
+    {
         "id": 252,
         "name": "equip-10000252",
         "description": "equip-20000252",
@@ -13499,7 +13499,7 @@
         "is_show": 1,
         "obtain_ids": "3062"
     },
-    "253": {
+    {
         "id": 253,
         "name": "equip-10000253",
         "description": "equip-20000253",
@@ -13553,7 +13553,7 @@
         "is_show": 1,
         "obtain_ids": "3062"
     },
-    "254": {
+    {
         "id": 254,
         "name": "equip-10000254",
         "description": "equip-20000254",
@@ -13607,7 +13607,7 @@
         "is_show": 1,
         "obtain_ids": "3062"
     },
-    "255": {
+    {
         "id": 255,
         "name": "equip-10000255",
         "description": "equip-20000255",
@@ -13661,7 +13661,7 @@
         "is_show": 1,
         "obtain_ids": "3062"
     },
-    "256": {
+    {
         "id": 256,
         "name": "equip-10000256",
         "description": "equip-20000256",
@@ -13715,7 +13715,7 @@
         "is_show": 1,
         "obtain_ids": "3003"
     },
-    "257": {
+    {
         "id": 257,
         "name": "equip-10000257",
         "description": "equip-20000257",
@@ -13769,7 +13769,7 @@
         "is_show": 1,
         "obtain_ids": "3003"
     },
-    "258": {
+    {
         "id": 258,
         "name": "equip-10000258",
         "description": "equip-20000258",
@@ -13823,7 +13823,7 @@
         "is_show": 1,
         "obtain_ids": "3003"
     },
-    "259": {
+    {
         "id": 259,
         "name": "equip-10000259",
         "description": "equip-20000259",
@@ -13877,7 +13877,7 @@
         "is_show": 1,
         "obtain_ids": "3013"
     },
-    "260": {
+    {
         "id": 260,
         "name": "equip-10000260",
         "description": "equip-20000260",
@@ -13931,7 +13931,7 @@
         "is_show": 1,
         "obtain_ids": "3016"
     },
-    "261": {
+    {
         "id": 261,
         "name": "equip-10000261",
         "description": "equip-20000261",
@@ -13985,7 +13985,7 @@
         "is_show": 1,
         "obtain_ids": "3016"
     },
-    "262": {
+    {
         "id": 262,
         "name": "equip-10000262",
         "description": "equip-20000262",
@@ -14039,7 +14039,7 @@
         "is_show": 1,
         "obtain_ids": "3016"
     },
-    "263": {
+    {
         "id": 263,
         "name": "equip-10000263",
         "description": "equip-20000263",
@@ -14093,7 +14093,7 @@
         "is_show": 1,
         "obtain_ids": "3016"
     },
-    "264": {
+    {
         "id": 264,
         "name": "equip-10000264",
         "description": "equip-20000264",
@@ -14147,7 +14147,7 @@
         "is_show": 1,
         "obtain_ids": "3014"
     },
-    "265": {
+    {
         "id": 265,
         "name": "equip-10000265",
         "description": "equip-20000265",
@@ -14201,7 +14201,7 @@
         "is_show": 1,
         "obtain_ids": "3015"
     },
-    "266": {
+    {
         "id": 266,
         "name": "equip-10000266",
         "description": "equip-20000266",
@@ -14255,7 +14255,7 @@
         "is_show": 1,
         "obtain_ids": "3063"
     },
-    "267": {
+    {
         "id": 267,
         "name": "equip-10000267",
         "description": "equip-20000267",
@@ -14309,7 +14309,7 @@
         "is_show": 1,
         "obtain_ids": "3003"
     },
-    "268": {
+    {
         "id": 268,
         "name": "equip-10000268",
         "description": "equip-20000268",
@@ -14363,7 +14363,7 @@
         "is_show": 1,
         "obtain_ids": "3003"
     },
-    "269": {
+    {
         "id": 269,
         "name": "equip-10000269",
         "description": "equip-20000269",
@@ -14417,7 +14417,7 @@
         "is_show": 1,
         "obtain_ids": "3003"
     },
-    "270": {
+    {
         "id": 270,
         "name": "equip-10000270",
         "description": "equip-20000270",
@@ -14471,7 +14471,7 @@
         "is_show": 1,
         "obtain_ids": "3064"
     },
-    "271": {
+    {
         "id": 271,
         "name": "equip-10000271",
         "description": "equip-20000271",
@@ -14525,7 +14525,7 @@
         "is_show": 1,
         "obtain_ids": "3076"
     },
-    "272": {
+    {
         "id": 272,
         "name": "equip-10000272",
         "description": "equip-20000272",
@@ -14579,7 +14579,7 @@
         "is_show": 1,
         "obtain_ids": "3016"
     },
-    "273": {
+    {
         "id": 273,
         "name": "equip-10000273",
         "description": "equip-20000273",
@@ -14633,7 +14633,7 @@
         "is_show": 1,
         "obtain_ids": "3016"
     },
-    "274": {
+    {
         "id": 274,
         "name": "equip-10000274",
         "description": "equip-20000274",
@@ -14687,7 +14687,7 @@
         "is_show": 1,
         "obtain_ids": "3016"
     },
-    "275": {
+    {
         "id": 275,
         "name": "equip-10000275",
         "description": "equip-20000275",
@@ -14741,7 +14741,7 @@
         "is_show": 1,
         "obtain_ids": "3016"
     },
-    "276": {
+    {
         "id": 276,
         "name": "equip-10000276",
         "description": "equip-20000276",
@@ -14795,7 +14795,7 @@
         "is_show": 1,
         "obtain_ids": "3065"
     },
-    "277": {
+    {
         "id": 277,
         "name": "equip-10000277",
         "description": "equip-20000277",
@@ -14849,7 +14849,7 @@
         "is_show": 1,
         "obtain_ids": "3066"
     },
-    "278": {
+    {
         "id": 278,
         "name": "equip-10000278",
         "description": "equip-20000278",
@@ -14903,7 +14903,7 @@
         "is_show": 1,
         "obtain_ids": "3077"
     },
-    "279": {
+    {
         "id": 279,
         "name": "equip-10000279",
         "description": "equip-20000279",
@@ -14957,7 +14957,7 @@
         "is_show": 1,
         "obtain_ids": "3003"
     },
-    "280": {
+    {
         "id": 280,
         "name": "equip-10000280",
         "description": "equip-20000280",
@@ -15011,7 +15011,7 @@
         "is_show": 1,
         "obtain_ids": "3003"
     },
-    "281": {
+    {
         "id": 281,
         "name": "equip-10000281",
         "description": "equip-20000281",
@@ -15065,7 +15065,7 @@
         "is_show": 1,
         "obtain_ids": "3003"
     },
-    "282": {
+    {
         "id": 282,
         "name": "equip-10000282",
         "description": "equip-20000282",
@@ -15119,7 +15119,7 @@
         "is_show": 1,
         "obtain_ids": "3067"
     },
-    "283": {
+    {
         "id": 283,
         "name": "equip-10000283",
         "description": "equip-20000283",
@@ -15173,7 +15173,7 @@
         "is_show": 1,
         "obtain_ids": "3068"
     },
-    "284": {
+    {
         "id": 284,
         "name": "equip-10000284",
         "description": "equip-20000284",
@@ -15227,7 +15227,7 @@
         "is_show": 1,
         "obtain_ids": "3016"
     },
-    "285": {
+    {
         "id": 285,
         "name": "equip-10000285",
         "description": "equip-20000285",
@@ -15281,7 +15281,7 @@
         "is_show": 1,
         "obtain_ids": "3016"
     },
-    "286": {
+    {
         "id": 286,
         "name": "equip-10000286",
         "description": "equip-20000286",
@@ -15335,7 +15335,7 @@
         "is_show": 1,
         "obtain_ids": "3016"
     },
-    "287": {
+    {
         "id": 287,
         "name": "equip-10000287",
         "description": "equip-20000287",
@@ -15389,7 +15389,7 @@
         "is_show": 1,
         "obtain_ids": "3016"
     },
-    "288": {
+    {
         "id": 288,
         "name": "equip-10000288",
         "description": "equip-20000288",
@@ -15443,4 +15443,4 @@
         "is_show": 1,
         "obtain_ids": "3069"
     }
-}
+]

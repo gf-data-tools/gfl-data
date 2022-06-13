@@ -1,5 +1,5 @@
-{
-    "201": {
+[
+    {
         "id": 201,
         "class_id": 2,
         "title": "commander_ranking_types-10000201",
@@ -7,7 +7,7 @@
         "weight": 0.009999999776482582,
         "page_to_go": 0
     },
-    "202": {
+    {
         "id": 202,
         "class_id": 2,
         "title": "commander_ranking_types-10000202",
@@ -15,7 +15,7 @@
         "weight": 0.5,
         "page_to_go": 0
     },
-    "203": {
+    {
         "id": 203,
         "class_id": 2,
         "title": "commander_ranking_types-10000203",
@@ -23,7 +23,7 @@
         "weight": 0.05000000074505806,
         "page_to_go": 0
     },
-    "204": {
+    {
         "id": 204,
         "class_id": 2,
         "title": "commander_ranking_types-10000204",
@@ -31,7 +31,7 @@
         "weight": 0.019999999552965164,
         "page_to_go": 0
     },
-    "205": {
+    {
         "id": 205,
         "class_id": 2,
         "title": "commander_ranking_types-10000205",
@@ -39,7 +39,7 @@
         "weight": 0.03999999910593033,
         "page_to_go": 0
     },
-    "301": {
+    {
         "id": 301,
         "class_id": 3,
         "title": "commander_ranking_types-10000301",
@@ -47,7 +47,7 @@
         "weight": 1.0,
         "page_to_go": 0
     },
-    "302": {
+    {
         "id": 302,
         "class_id": 3,
         "title": "commander_ranking_types-10000302",
@@ -55,7 +55,7 @@
         "weight": 1.0,
         "page_to_go": 0
     },
-    "303": {
+    {
         "id": 303,
         "class_id": 3,
         "title": "commander_ranking_types-10000303",
@@ -63,7 +63,7 @@
         "weight": 0.5,
         "page_to_go": 0
     },
-    "304": {
+    {
         "id": 304,
         "class_id": 3,
         "title": "commander_ranking_types-10000304",
@@ -71,7 +71,7 @@
         "weight": 0.07999999821186066,
         "page_to_go": 0
     },
-    "401": {
+    {
         "id": 401,
         "class_id": 4,
         "title": "commander_ranking_types-10000401",
@@ -79,7 +79,7 @@
         "weight": 0.009999999776482582,
         "page_to_go": 0
     },
-    "402": {
+    {
         "id": 402,
         "class_id": 4,
         "title": "commander_ranking_types-10000402",
@@ -87,7 +87,7 @@
         "weight": 0.05000000074505806,
         "page_to_go": 0
     },
-    "403": {
+    {
         "id": 403,
         "class_id": 4,
         "title": "commander_ranking_types-10000403",
@@ -95,7 +95,7 @@
         "weight": 0.30000001192092896,
         "page_to_go": 0
     },
-    "404": {
+    {
         "id": 404,
         "class_id": 4,
         "title": "commander_ranking_types-10000404",
@@ -103,7 +103,7 @@
         "weight": 0.019999999552965164,
         "page_to_go": 0
     },
-    "501": {
+    {
         "id": 501,
         "class_id": 5,
         "title": "commander_ranking_types-10000501",
@@ -111,7 +111,7 @@
         "weight": 0.30000001192092896,
         "page_to_go": 0
     },
-    "502": {
+    {
         "id": 502,
         "class_id": 5,
         "title": "commander_ranking_types-10000502",
@@ -119,7 +119,7 @@
         "weight": 1.0,
         "page_to_go": 0
     },
-    "503": {
+    {
         "id": 503,
         "class_id": 5,
         "title": "commander_ranking_types-10000503",
@@ -127,7 +127,7 @@
         "weight": 2.0,
         "page_to_go": 0
     },
-    "504": {
+    {
         "id": 504,
         "class_id": 5,
         "title": "commander_ranking_types-10000504",
@@ -135,7 +135,7 @@
         "weight": 0.8999999761581421,
         "page_to_go": 0
     },
-    "505": {
+    {
         "id": 505,
         "class_id": 5,
         "title": "commander_ranking_types-10000505",
@@ -143,7 +143,7 @@
         "weight": 0.6000000238418579,
         "page_to_go": 0
     },
-    "601": {
+    {
         "id": 601,
         "class_id": 6,
         "title": "commander_ranking_types-10000601",
@@ -151,7 +151,7 @@
         "weight": 0.009999999776482582,
         "page_to_go": 0
     },
-    "602": {
+    {
         "id": 602,
         "class_id": 6,
         "title": "commander_ranking_types-10000602",
@@ -159,7 +159,7 @@
         "weight": 0.4000000059604645,
         "page_to_go": 0
     },
-    "603": {
+    {
         "id": 603,
         "class_id": 6,
         "title": "commander_ranking_types-10000603",
@@ -167,7 +167,7 @@
         "weight": 0.20000000298023224,
         "page_to_go": 0
     },
-    "604": {
+    {
         "id": 604,
         "class_id": 6,
         "title": "commander_ranking_types-10000604",
@@ -175,7 +175,7 @@
         "weight": 0.20000000298023224,
         "page_to_go": 0
     },
-    "605": {
+    {
         "id": 605,
         "class_id": 6,
         "title": "commander_ranking_types-10000605",
@@ -183,7 +183,7 @@
         "weight": 2.0,
         "page_to_go": 0
     },
-    "801": {
+    {
         "id": 801,
         "class_id": 8,
         "title": "commander_ranking_types-10000801",
@@ -191,7 +191,7 @@
         "weight": 1.0,
         "page_to_go": 0
     },
-    "802": {
+    {
         "id": 802,
         "class_id": 8,
         "title": "commander_ranking_types-10000802",
@@ -199,7 +199,7 @@
         "weight": 1.0,
         "page_to_go": 0
     },
-    "803": {
+    {
         "id": 803,
         "class_id": 8,
         "title": "commander_ranking_types-10000803",
@@ -207,7 +207,7 @@
         "weight": 1.0,
         "page_to_go": 0
     },
-    "804": {
+    {
         "id": 804,
         "class_id": 8,
         "title": "commander_ranking_types-10000804",
@@ -215,7 +215,7 @@
         "weight": 1.0,
         "page_to_go": 0
     },
-    "901": {
+    {
         "id": 901,
         "class_id": 9,
         "title": "commander_ranking_types-10000901",
@@ -223,7 +223,7 @@
         "weight": 1.0,
         "page_to_go": 0
     },
-    "902": {
+    {
         "id": 902,
         "class_id": 9,
         "title": "commander_ranking_types-10000902",
@@ -231,7 +231,7 @@
         "weight": 1.0,
         "page_to_go": 0
     },
-    "903": {
+    {
         "id": 903,
         "class_id": 9,
         "title": "commander_ranking_types-10000903",
@@ -239,7 +239,7 @@
         "weight": 1.0,
         "page_to_go": 0
     },
-    "904": {
+    {
         "id": 904,
         "class_id": 9,
         "title": "commander_ranking_types-10000904",
@@ -247,7 +247,7 @@
         "weight": 1.0,
         "page_to_go": 0
     },
-    "1001": {
+    {
         "id": 1001,
         "class_id": 10,
         "title": "commander_ranking_types-10001001",
@@ -255,7 +255,7 @@
         "weight": 1.0,
         "page_to_go": 0
     },
-    "1002": {
+    {
         "id": 1002,
         "class_id": 10,
         "title": "commander_ranking_types-10001002",
@@ -263,7 +263,7 @@
         "weight": 0.009999999776482582,
         "page_to_go": 0
     },
-    "1003": {
+    {
         "id": 1003,
         "class_id": 10,
         "title": "commander_ranking_types-10001003",
@@ -271,7 +271,7 @@
         "weight": 0.009999999776482582,
         "page_to_go": 0
     },
-    "1004": {
+    {
         "id": 1004,
         "class_id": 10,
         "title": "commander_ranking_types-10001004",
@@ -279,7 +279,7 @@
         "weight": 0.05000000074505806,
         "page_to_go": 0
     },
-    "1005": {
+    {
         "id": 1005,
         "class_id": 10,
         "title": "commander_ranking_types-10001005",
@@ -287,7 +287,7 @@
         "weight": 0.10000000149011612,
         "page_to_go": 0
     },
-    "1101": {
+    {
         "id": 1101,
         "class_id": 11,
         "title": "commander_ranking_types-10001101",
@@ -295,7 +295,7 @@
         "weight": 0.30000001192092896,
         "page_to_go": 0
     },
-    "1102": {
+    {
         "id": 1102,
         "class_id": 11,
         "title": "commander_ranking_types-10001102",
@@ -303,7 +303,7 @@
         "weight": 4.0,
         "page_to_go": 0
     },
-    "1103": {
+    {
         "id": 1103,
         "class_id": 11,
         "title": "commander_ranking_types-10001103",
@@ -311,7 +311,7 @@
         "weight": 1.0,
         "page_to_go": 0
     },
-    "1104": {
+    {
         "id": 1104,
         "class_id": 11,
         "title": "commander_ranking_types-10001104",
@@ -319,7 +319,7 @@
         "weight": 5.0,
         "page_to_go": 0
     },
-    "1105": {
+    {
         "id": 1105,
         "class_id": 11,
         "title": "commander_ranking_types-10001105",
@@ -327,7 +327,7 @@
         "weight": 3.0,
         "page_to_go": 0
     },
-    "1106": {
+    {
         "id": 1106,
         "class_id": 11,
         "title": "commander_ranking_types-10001106",
@@ -335,7 +335,7 @@
         "weight": 5.0,
         "page_to_go": 0
     },
-    "1107": {
+    {
         "id": 1107,
         "class_id": 11,
         "title": "commander_ranking_types-10001107",
@@ -343,7 +343,7 @@
         "weight": 1.0,
         "page_to_go": 0
     },
-    "1108": {
+    {
         "id": 1108,
         "class_id": 11,
         "title": "commander_ranking_types-10001108",
@@ -351,4 +351,4 @@
         "weight": 1.0,
         "page_to_go": 0
     }
-}
+]

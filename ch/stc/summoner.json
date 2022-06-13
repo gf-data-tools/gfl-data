@@ -1,5 +1,5 @@
-{
-    "1": {
+[
+    {
         "id": 1,
         "name": "1",
         "code": "Drone",
@@ -37,7 +37,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "2": {
+    {
         "id": 2,
         "name": "1",
         "code": "Drone",
@@ -75,7 +75,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "3": {
+    {
         "id": 3,
         "name": "1",
         "code": "Drone",
@@ -113,7 +113,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "4": {
+    {
         "id": 4,
         "name": "1",
         "code": "Drone",
@@ -151,7 +151,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "5": {
+    {
         "id": 5,
         "name": "1",
         "code": "Drone",
@@ -189,7 +189,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "6": {
+    {
         "id": 6,
         "name": "1",
         "code": "Drone",
@@ -227,7 +227,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "7": {
+    {
         "id": 7,
         "name": "1",
         "code": "Drone",
@@ -265,7 +265,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "8": {
+    {
         "id": 8,
         "name": "1",
         "code": "Drone",
@@ -303,7 +303,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "9": {
+    {
         "id": 9,
         "name": "1",
         "code": "Drone",
@@ -341,7 +341,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "10": {
+    {
         "id": 10,
         "name": "1",
         "code": "Drone",
@@ -379,7 +379,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "11": {
+    {
         "id": 11,
         "name": "柯萝伊",
         "code": "empty",
@@ -417,7 +417,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "12": {
+    {
         "id": 12,
         "name": "柯萝伊",
         "code": "empty",
@@ -455,7 +455,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "13": {
+    {
         "id": 13,
         "name": "柯萝伊",
         "code": "empty",
@@ -493,7 +493,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "14": {
+    {
         "id": 14,
         "name": "柯萝伊",
         "code": "empty",
@@ -531,7 +531,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "15": {
+    {
         "id": 15,
         "name": "柯萝伊",
         "code": "empty",
@@ -569,7 +569,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "16": {
+    {
         "id": 16,
         "name": "柯萝伊",
         "code": "empty",
@@ -607,7 +607,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "17": {
+    {
         "id": 17,
         "name": "柯萝伊",
         "code": "empty",
@@ -645,7 +645,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "18": {
+    {
         "id": 18,
         "name": "柯萝伊",
         "code": "empty",
@@ -683,7 +683,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "19": {
+    {
         "id": 19,
         "name": "柯萝伊",
         "code": "empty",
@@ -721,7 +721,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "20": {
+    {
         "id": 20,
         "name": "柯萝伊",
         "code": "empty",
@@ -759,7 +759,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "21": {
+    {
         "id": 21,
         "name": "柯萝伊",
         "code": "empty",
@@ -797,7 +797,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "22": {
+    {
         "id": 22,
         "name": "柯萝伊",
         "code": "empty",
@@ -835,7 +835,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "23": {
+    {
         "id": 23,
         "name": "柯萝伊",
         "code": "empty",
@@ -873,7 +873,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "24": {
+    {
         "id": 24,
         "name": "柯萝伊",
         "code": "empty",
@@ -911,7 +911,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "25": {
+    {
         "id": 25,
         "name": "柯萝伊",
         "code": "empty",
@@ -949,7 +949,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "26": {
+    {
         "id": 26,
         "name": "柯萝伊",
         "code": "empty",
@@ -987,7 +987,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "27": {
+    {
         "id": 27,
         "name": "柯萝伊",
         "code": "empty",
@@ -1025,7 +1025,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "28": {
+    {
         "id": 28,
         "name": "柯萝伊",
         "code": "empty",
@@ -1063,7 +1063,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "29": {
+    {
         "id": 29,
         "name": "柯萝伊",
         "code": "empty",
@@ -1101,7 +1101,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "30": {
+    {
         "id": 30,
         "name": "柯萝伊",
         "code": "empty",
@@ -1139,7 +1139,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "31": {
+    {
         "id": 31,
         "name": "柯萝伊",
         "code": "empty",
@@ -1177,7 +1177,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "32": {
+    {
         "id": 32,
         "name": "柯萝伊",
         "code": "empty",
@@ -1215,7 +1215,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "33": {
+    {
         "id": 33,
         "name": "柯萝伊",
         "code": "empty",
@@ -1253,7 +1253,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "34": {
+    {
         "id": 34,
         "name": "柯萝伊",
         "code": "empty",
@@ -1291,7 +1291,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "35": {
+    {
         "id": 35,
         "name": "柯萝伊",
         "code": "empty",
@@ -1329,7 +1329,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "36": {
+    {
         "id": 36,
         "name": "柯萝伊",
         "code": "empty",
@@ -1367,7 +1367,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "37": {
+    {
         "id": 37,
         "name": "柯萝伊",
         "code": "empty",
@@ -1405,7 +1405,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "38": {
+    {
         "id": 38,
         "name": "柯萝伊",
         "code": "empty",
@@ -1443,7 +1443,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "39": {
+    {
         "id": 39,
         "name": "柯萝伊",
         "code": "empty",
@@ -1481,7 +1481,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "40": {
+    {
         "id": 40,
         "name": "柯萝伊",
         "code": "empty",
@@ -1519,7 +1519,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "101": {
+    {
         "id": 101,
         "name": "黑洞1-4",
         "code": "empty",
@@ -1557,7 +1557,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "102": {
+    {
         "id": 102,
         "name": "黑洞5-8",
         "code": "empty",
@@ -1595,7 +1595,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "103": {
+    {
         "id": 103,
         "name": "黑洞9-10",
         "code": "empty",
@@ -1633,7 +1633,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "104": {
+    {
         "id": 104,
         "name": "M4A1",
         "code": "empty",
@@ -1671,7 +1671,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "105": {
+    {
         "id": 105,
         "name": "柴犬判定",
         "code": "Drone",
@@ -1709,7 +1709,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "201": {
+    {
         "id": 201,
         "name": "犹大",
         "code": "empty",
@@ -1747,7 +1747,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "202": {
+    {
         "id": 202,
         "name": "掷弹兵定位中",
         "code": "empty",
@@ -1785,7 +1785,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "203": {
+    {
         "id": 203,
         "name": "掷弹兵定位左上",
         "code": "empty",
@@ -1823,7 +1823,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "204": {
+    {
         "id": 204,
         "name": "掷弹兵定位上",
         "code": "empty",
@@ -1861,7 +1861,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "205": {
+    {
         "id": 205,
         "name": "掷弹兵定位右上",
         "code": "empty",
@@ -1899,7 +1899,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "206": {
+    {
         "id": 206,
         "name": "掷弹兵定位左",
         "code": "empty",
@@ -1937,7 +1937,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "207": {
+    {
         "id": 207,
         "name": "掷弹兵定位右",
         "code": "empty",
@@ -1975,7 +1975,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "208": {
+    {
         "id": 208,
         "name": "掷弹兵定位左下",
         "code": "empty",
@@ -2013,7 +2013,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "209": {
+    {
         "id": 209,
         "name": "掷弹兵定位下",
         "code": "empty",
@@ -2051,7 +2051,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "210": {
+    {
         "id": 210,
         "name": "掷弹兵定位右下",
         "code": "empty",
@@ -2089,7 +2089,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "211": {
+    {
         "id": 211,
         "name": "掷弹兵E信标",
         "code": "empty",
@@ -2127,7 +2127,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "212": {
+    {
         "id": 212,
         "name": "掷弹兵E反馈",
         "code": "empty",
@@ -2165,7 +2165,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "213": {
+    {
         "id": 213,
         "name": "掷弹兵E反馈",
         "code": "empty",
@@ -2203,7 +2203,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "214": {
+    {
         "id": 214,
         "name": "掷弹兵E反馈",
         "code": "empty",
@@ -2241,7 +2241,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "215": {
+    {
         "id": 215,
         "name": "掷弹兵E反馈",
         "code": "empty",
@@ -2279,7 +2279,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "216": {
+    {
         "id": 216,
         "name": "掷弹兵E反馈",
         "code": "empty",
@@ -2317,7 +2317,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "217": {
+    {
         "id": 217,
         "name": "掷弹兵E反馈",
         "code": "empty",
@@ -2355,7 +2355,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "218": {
+    {
         "id": 218,
         "name": "集团军分身",
         "code": "Agent",
@@ -2393,7 +2393,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "219": {
+    {
         "id": 219,
         "name": "生存检测靶机",
         "code": "empty",
@@ -2431,7 +2431,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "220": {
+    {
         "id": 220,
         "name": "电磁炮I反馈前",
         "code": "empty",
@@ -2469,7 +2469,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "221": {
+    {
         "id": 221,
         "name": "电磁炮I反馈上",
         "code": "empty",
@@ -2507,7 +2507,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "222": {
+    {
         "id": 222,
         "name": "电磁炮I反馈下",
         "code": "empty",
@@ -2545,7 +2545,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "223": {
+    {
         "id": 223,
         "name": "电磁炮II反馈前",
         "code": "empty",
@@ -2583,7 +2583,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "224": {
+    {
         "id": 224,
         "name": "电磁炮II反馈上",
         "code": "empty",
@@ -2621,7 +2621,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "225": {
+    {
         "id": 225,
         "name": "电磁炮II反馈下",
         "code": "empty",
@@ -2659,7 +2659,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "226": {
+    {
         "id": 226,
         "name": "电磁炮III反馈前",
         "code": "empty",
@@ -2697,7 +2697,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "227": {
+    {
         "id": 227,
         "name": "电磁炮III反馈上",
         "code": "empty",
@@ -2735,7 +2735,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "228": {
+    {
         "id": 228,
         "name": "电磁炮III反馈下",
         "code": "empty",
@@ -2773,7 +2773,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "229": {
+    {
         "id": 229,
         "name": "地雷",
         "code": "mine",
@@ -2811,7 +2811,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "230": {
+    {
         "id": 230,
         "name": "地雷引爆",
         "code": "empty",
@@ -2849,7 +2849,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "231": {
+    {
         "id": 231,
         "name": "生存检测靶机2",
         "code": "empty",
@@ -2887,7 +2887,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "695": {
+    {
         "id": 695,
         "name": "DigitsHolderWarning",
         "code": "empty",
@@ -2925,7 +2925,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "696": {
+    {
         "id": 696,
         "name": "TensHolderWarning",
         "code": "empty",
@@ -2963,7 +2963,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "697": {
+    {
         "id": 697,
         "name": "DigitsHolder",
         "code": "empty",
@@ -3001,7 +3001,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "698": {
+    {
         "id": 698,
         "name": "TensHolder",
         "code": "empty",
@@ -3039,7 +3039,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "699": {
+    {
         "id": 699,
         "name": "BackgroundHolder",
         "code": "empty",
@@ -3077,7 +3077,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "701": {
+    {
         "id": 701,
         "name": "初始判定生成",
         "code": "empty",
@@ -3115,7 +3115,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "702": {
+    {
         "id": 702,
         "name": "P90",
         "code": "empty",
@@ -3153,7 +3153,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "703": {
+    {
         "id": 703,
         "name": "RO635",
         "code": "M4A1_Motor",
@@ -3191,7 +3191,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "704": {
+    {
         "id": 704,
         "name": "ObstacleCreator",
         "code": "empty",
@@ -3229,7 +3229,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "705": {
+    {
         "id": 705,
         "name": "距离指示器宿主",
         "code": "empty",
@@ -3267,7 +3267,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "706": {
+    {
         "id": 706,
         "name": "M4_Profile",
         "code": "empty",
@@ -3305,7 +3305,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "707": {
+    {
         "id": 707,
         "name": "Beak_Profile",
         "code": "empty",
@@ -3343,7 +3343,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "708": {
+    {
         "id": 708,
         "name": "HS2000",
         "code": "empty",
@@ -3381,7 +3381,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "709": {
+    {
         "id": 709,
         "name": "HS2000",
         "code": "empty",
@@ -3419,7 +3419,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "710": {
+    {
         "id": 710,
         "name": "HS2000",
         "code": "empty",
@@ -3457,7 +3457,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "711": {
+    {
         "id": 711,
         "name": "HS2000",
         "code": "empty",
@@ -3495,7 +3495,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "712": {
+    {
         "id": 712,
         "name": "HS2000",
         "code": "empty",
@@ -3533,7 +3533,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "713": {
+    {
         "id": 713,
         "name": "qte测试教学1-1",
         "code": "empty",
@@ -3571,7 +3571,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "714": {
+    {
         "id": 714,
         "name": "qte测试教学1-4",
         "code": "empty",
@@ -3609,7 +3609,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "715": {
+    {
         "id": 715,
         "name": "qte测试常速1",
         "code": "empty",
@@ -3647,7 +3647,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "716": {
+    {
         "id": 716,
         "name": "qte测试常1二连",
         "code": "empty",
@@ -3685,7 +3685,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "717": {
+    {
         "id": 717,
         "name": "qte测试常三连",
         "code": "empty",
@@ -3723,7 +3723,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "718": {
+    {
         "id": 718,
         "name": "qte测试教学1-2",
         "code": "empty",
@@ -3761,7 +3761,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "719": {
+    {
         "id": 719,
         "name": "qte测试教学1-3",
         "code": "empty",
@@ -3799,7 +3799,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "720": {
+    {
         "id": 720,
         "name": "qte测试教学2-2",
         "code": "empty",
@@ -3837,7 +3837,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "721": {
+    {
         "id": 721,
         "name": "qte测试四连点1-1",
         "code": "empty",
@@ -3875,7 +3875,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "722": {
+    {
         "id": 722,
         "name": "qte测试四连点1-2",
         "code": "empty",
@@ -3913,7 +3913,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "723": {
+    {
         "id": 723,
         "name": "qte测试四连点1-3",
         "code": "empty",
@@ -3951,7 +3951,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "724": {
+    {
         "id": 724,
         "name": "qte测试四连点1-4",
         "code": "empty",
@@ -3989,7 +3989,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "725": {
+    {
         "id": 725,
         "name": "qteM4用召唤物",
         "code": "empty",
@@ -4027,7 +4027,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "726": {
+    {
         "id": 726,
         "name": "qte连发导弹召唤-AR15",
         "code": "empty",
@@ -4065,7 +4065,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "727": {
+    {
         "id": 727,
         "name": "qteAN94用召唤物",
         "code": "empty",
@@ -4103,7 +4103,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "728": {
+    {
         "id": 728,
         "name": "qteAK12减速召唤物",
         "code": "empty",
@@ -4141,7 +4141,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "729": {
+    {
         "id": 729,
         "name": "qte激光",
         "code": "Beak_sub",
@@ -4179,7 +4179,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "730": {
+    {
         "id": 730,
         "name": "涅托AR反馈召唤物",
         "code": "empty",
@@ -4217,7 +4217,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "731": {
+    {
         "id": 731,
         "name": "涅托RF反馈召唤物",
         "code": "empty",
@@ -4255,7 +4255,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "732": {
+    {
         "id": 732,
         "name": "qte激光2",
         "code": "Beak_sub",
@@ -4293,7 +4293,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "733": {
+    {
         "id": 733,
         "name": "qte激光3",
         "code": "Beak_sub",
@@ -4331,7 +4331,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "734": {
+    {
         "id": 734,
         "name": "ksvk召唤物",
         "code": "empty",
@@ -4369,7 +4369,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "735": {
+    {
         "id": 735,
         "name": "qte连发导弹召唤-AR15难",
         "code": "empty",
@@ -4407,7 +4407,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "736": {
+    {
         "id": 736,
         "name": "qte多格伤害难",
         "code": "empty",
@@ -4445,7 +4445,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "737": {
+    {
         "id": 737,
         "name": "qteAN94用召唤物困难",
         "code": "empty",
@@ -4483,7 +4483,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "738": {
+    {
         "id": 738,
         "name": "涅托爆炸召唤物",
         "code": "empty",
@@ -4521,7 +4521,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "739": {
+    {
         "id": 739,
         "name": "涅托大招召唤物",
         "code": "empty",
@@ -4559,7 +4559,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "740": {
+    {
         "id": 740,
         "name": "涅托触发爆炸召唤物",
         "code": "empty",
@@ -4597,7 +4597,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "741": {
+    {
         "id": 741,
         "name": "AR-白色普通敌人-70",
         "code": "Strelet",
@@ -4635,7 +4635,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "742": {
+    {
         "id": 742,
         "name": "AR-白色普通敌人-70",
         "code": "Strelet",
@@ -4673,7 +4673,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "743": {
+    {
         "id": 743,
         "name": "AR-白色普通敌人-70",
         "code": "Strelet",
@@ -4711,7 +4711,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "744": {
+    {
         "id": 744,
         "name": "AR-白色普通敌人-70",
         "code": "Strelet",
@@ -4749,7 +4749,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "745": {
+    {
         "id": 745,
         "name": "RF-白色重甲-125",
         "code": "Doppelsoldner",
@@ -4787,7 +4787,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "746": {
+    {
         "id": 746,
         "name": "通用-白色跳跳-125",
         "code": "Rodelero",
@@ -4825,7 +4825,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "747": {
+    {
         "id": 747,
         "name": "通用-白色跳跳-125",
         "code": "Rodelero",
@@ -4863,7 +4863,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "748": {
+    {
         "id": 748,
         "name": "涅托银大招召唤物",
         "code": "empty",
@@ -4901,7 +4901,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "749": {
+    {
         "id": 749,
         "name": "M16支援",
         "code": "Dragoon_NPC",
@@ -4939,7 +4939,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "750": {
+    {
         "id": 750,
         "name": "M16支援",
         "code": "Dragoon_NPC",
@@ -4977,7 +4977,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "751": {
+    {
         "id": 751,
         "name": "M16支援",
         "code": "Dragoon_NPC",
@@ -5015,7 +5015,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "752": {
+    {
         "id": 752,
         "name": "M16支援",
         "code": "Dragoon_NPC",
@@ -5053,7 +5053,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "753": {
+    {
         "id": 753,
         "name": "涅托大招召唤物-125",
         "code": "empty",
@@ -5091,7 +5091,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "754": {
+    {
         "id": 754,
         "name": "涅托大招召唤物-140",
         "code": "empty",
@@ -5129,7 +5129,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "756": {
+    {
         "id": 756,
         "name": "HS2000",
         "code": "empty",
@@ -5167,7 +5167,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "757": {
+    {
         "id": 757,
         "name": "HS2000",
         "code": "empty",
@@ -5205,7 +5205,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "758": {
+    {
         "id": 758,
         "name": "HS2000",
         "code": "empty",
@@ -5243,7 +5243,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "759": {
+    {
         "id": 759,
         "name": "HS2000",
         "code": "empty",
@@ -5281,7 +5281,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "760": {
+    {
         "id": 760,
         "name": "HS2000",
         "code": "empty",
@@ -5319,7 +5319,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "761": {
+    {
         "id": 761,
         "name": "AR-白色普通敌人-125",
         "code": "Strelet",
@@ -5357,7 +5357,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "762": {
+    {
         "id": 762,
         "name": "AR-白色普通敌人-125",
         "code": "Strelet",
@@ -5395,7 +5395,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "763": {
+    {
         "id": 763,
         "name": "AR-白色普通敌人-125",
         "code": "Strelet",
@@ -5433,7 +5433,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "764": {
+    {
         "id": 764,
         "name": "AR-白色普通敌人-125",
         "code": "Strelet",
@@ -5471,7 +5471,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "765": {
+    {
         "id": 765,
         "name": "AR-白色普通敌人-125",
         "code": "Strelet",
@@ -5509,7 +5509,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "766": {
+    {
         "id": 766,
         "name": "AR-白色普通敌人-140",
         "code": "Strelet",
@@ -5547,7 +5547,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "767": {
+    {
         "id": 767,
         "name": "AR-白色普通敌人-140",
         "code": "Strelet",
@@ -5585,7 +5585,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "768": {
+    {
         "id": 768,
         "name": "AR-白色普通敌人-140",
         "code": "Strelet",
@@ -5623,7 +5623,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "769": {
+    {
         "id": 769,
         "name": "AR-白色普通敌人-140",
         "code": "Strelet",
@@ -5661,7 +5661,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "770": {
+    {
         "id": 770,
         "name": "通用-白色跳跳-140",
         "code": "Rodelero",
@@ -5699,7 +5699,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "771": {
+    {
         "id": 771,
         "name": "通用-白色跳跳-140",
         "code": "Rodelero",
@@ -5737,7 +5737,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "772": {
+    {
         "id": 772,
         "name": "RF-白色重甲-140",
         "code": "Doppelsoldner",
@@ -5775,7 +5775,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "773": {
+    {
         "id": 773,
         "name": "AR-白色普通敌人-140",
         "code": "Strelet",
@@ -5813,7 +5813,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "774": {
+    {
         "id": 774,
         "name": "M16支援",
         "code": "Manticore_NPC",
@@ -5851,7 +5851,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "775": {
+    {
         "id": 775,
         "name": "M16支援",
         "code": "Manticore_NPC",
@@ -5889,7 +5889,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "776": {
+    {
         "id": 776,
         "name": "RF-白色重甲-125",
         "code": "Doppelsoldner",
@@ -5927,7 +5927,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "777": {
+    {
         "id": 777,
         "name": "RF-白色重甲-125",
         "code": "Doppelsoldner",
@@ -5965,7 +5965,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "778": {
+    {
         "id": 778,
         "name": "RF-白色重甲-140",
         "code": "Doppelsoldner",
@@ -6003,7 +6003,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "779": {
+    {
         "id": 779,
         "name": "RF-白色重甲-140",
         "code": "Doppelsoldner",
@@ -6041,7 +6041,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "780": {
+    {
         "id": 780,
         "name": "微型乌兹",
         "code": "empty",
@@ -6079,7 +6079,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "781": {
+    {
         "id": 781,
         "name": "88式狙",
         "code": "empty",
@@ -6117,7 +6117,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "782": {
+    {
         "id": 782,
         "name": "88式狙",
         "code": "empty",
@@ -6155,7 +6155,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "783": {
+    {
         "id": 783,
         "name": "MG36",
         "code": "empty",
@@ -6193,7 +6193,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "784": {
+    {
         "id": 784,
         "name": "MG36",
         "code": "empty",
@@ -6231,7 +6231,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "785": {
+    {
         "id": 785,
         "name": "MG36",
         "code": "empty",
@@ -6269,7 +6269,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "786": {
+    {
         "id": 786,
         "name": "PA15统计",
         "code": "empty",
@@ -6307,7 +6307,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "787": {
+    {
         "id": 787,
         "name": "PA15",
         "code": "empty",
@@ -6345,7 +6345,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "788": {
+    {
         "id": 788,
         "name": "Alma",
         "code": "Drone",
@@ -6383,7 +6383,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "789": {
+    {
         "id": 789,
         "name": "Alma",
         "code": "Drone",
@@ -6421,7 +6421,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "790": {
+    {
         "id": 790,
         "name": "Sei",
         "code": "empty",
@@ -6459,7 +6459,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "791": {
+    {
         "id": 791,
         "name": "BleedingJane",
         "code": "empty",
@@ -6497,7 +6497,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "792": {
+    {
         "id": 792,
         "name": "Sei无酒",
         "code": "empty",
@@ -6535,7 +6535,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "793": {
+    {
         "id": 793,
         "name": "Alma",
         "code": "Drone",
@@ -6573,7 +6573,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "794": {
+    {
         "id": 794,
         "name": "Alma",
         "code": "Drone",
@@ -6611,7 +6611,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "795": {
+    {
         "id": 795,
         "name": "PianoWoman",
         "code": "Drone",
@@ -6649,7 +6649,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "796": {
+    {
         "id": 796,
         "name": "Anna",
         "code": "empty",
@@ -6687,7 +6687,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "797": {
+    {
         "id": 797,
         "name": "BeerHolder",
         "code": "empty",
@@ -6725,7 +6725,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "798": {
+    {
         "id": 798,
         "name": "Anna",
         "code": "empty",
@@ -6763,7 +6763,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "799": {
+    {
         "id": 799,
         "name": "Anna",
         "code": "empty",
@@ -6801,7 +6801,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "800": {
+    {
         "id": 800,
         "name": "Anna",
         "code": "empty",
@@ -6839,7 +6839,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "801": {
+    {
         "id": 801,
         "name": "G3反馈召唤物",
         "code": "empty",
@@ -6877,7 +6877,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "802": {
+    {
         "id": 802,
         "name": "Anna",
         "code": "empty",
@@ -6915,7 +6915,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "803": {
+    {
         "id": 803,
         "name": "Anna",
         "code": "empty",
@@ -6953,7 +6953,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "804": {
+    {
         "id": 804,
         "name": "Anna",
         "code": "empty",
@@ -6991,7 +6991,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "805": {
+    {
         "id": 805,
         "name": "Anna",
         "code": "empty",
@@ -7029,7 +7029,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "806": {
+    {
         "id": 806,
         "name": "Anna",
         "code": "empty",
@@ -7067,7 +7067,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "807": {
+    {
         "id": 807,
         "name": "Anna",
         "code": "empty",
@@ -7105,7 +7105,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "808": {
+    {
         "id": 808,
         "name": "Dana白色重甲-125",
         "code": "Doppelsoldner",
@@ -7143,7 +7143,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "809": {
+    {
         "id": 809,
         "name": "Dana白色重甲-125",
         "code": "Doppelsoldner",
@@ -7181,7 +7181,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "810": {
+    {
         "id": 810,
         "name": "Dana白色重甲-140",
         "code": "Doppelsoldner",
@@ -7219,7 +7219,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "811": {
+    {
         "id": 811,
         "name": "Dana白色重甲-140",
         "code": "Doppelsoldner",
@@ -7257,7 +7257,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "812": {
+    {
         "id": 812,
         "name": "涅托大招召唤物-80",
         "code": "empty",
@@ -7295,7 +7295,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "813": {
+    {
         "id": 813,
         "name": "ADS水陆突击步枪",
         "code": "empty",
@@ -7333,7 +7333,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "814": {
+    {
         "id": 814,
         "name": "P30",
         "code": "empty",
@@ -7371,7 +7371,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "815": {
+    {
         "id": 815,
         "name": "尖兵",
         "code": "Pathfinder",
@@ -7409,7 +7409,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "816": {
+    {
         "id": 816,
         "name": "HK416",
         "code": "empty",
@@ -7447,7 +7447,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "817": {
+    {
         "id": 817,
         "name": "汉阳造",
         "code": "empty",
@@ -7485,7 +7485,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "818": {
+    {
         "id": 818,
         "name": "ump9",
         "code": "empty",
@@ -7523,7 +7523,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "819": {
+    {
         "id": 819,
         "name": "异构体-60",
         "code": "Isomer",
@@ -7561,7 +7561,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "820": {
+    {
         "id": 820,
         "name": "异构体-60",
         "code": "Isomer",
@@ -7599,7 +7599,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "821": {
+    {
         "id": 821,
         "name": "MindHolder",
         "code": "empty",
@@ -7637,7 +7637,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "822": {
+    {
         "id": 822,
         "name": "心智链接",
         "code": "empty",
@@ -7675,7 +7675,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "823": {
+    {
         "id": 823,
         "name": "心智融合HG召唤物",
         "code": "Nyto_Isomer_Shadow",
@@ -7713,7 +7713,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "824": {
+    {
         "id": 824,
         "name": "心智融合SMG召唤物",
         "code": "Nyto_Isomer_Shadow",
@@ -7751,7 +7751,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "825": {
+    {
         "id": 825,
         "name": "心智融合RF召唤物",
         "code": "Nyto_Isomer_Shadow",
@@ -7789,7 +7789,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "826": {
+    {
         "id": 826,
         "name": "心智融合AR召唤物",
         "code": "Nyto_Isomer_Shadow",
@@ -7827,7 +7827,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "827": {
+    {
         "id": 827,
         "name": "心智融合MG召唤物",
         "code": "Nyto_Isomer_Shadow",
@@ -7865,7 +7865,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "828": {
+    {
         "id": 828,
         "name": "心智融合SG召唤物",
         "code": "Nyto_Isomer_Shadow",
@@ -7903,7 +7903,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "829": {
+    {
         "id": 829,
         "name": "心智链接HG反馈",
         "code": "empty",
@@ -7941,7 +7941,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "830": {
+    {
         "id": 830,
         "name": "心智链接SMG反馈",
         "code": "empty",
@@ -7979,7 +7979,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "831": {
+    {
         "id": 831,
         "name": "心智链接RF反馈",
         "code": "empty",
@@ -8017,7 +8017,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "832": {
+    {
         "id": 832,
         "name": "心智链接AR反馈",
         "code": "empty",
@@ -8055,7 +8055,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "833": {
+    {
         "id": 833,
         "name": "心智链接MG反馈",
         "code": "empty",
@@ -8093,7 +8093,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "834": {
+    {
         "id": 834,
         "name": "心智链接SG反馈",
         "code": "empty",
@@ -8131,7 +8131,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "835": {
+    {
         "id": 835,
         "name": "心智融合HG监视者",
         "code": "empty",
@@ -8169,7 +8169,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "836": {
+    {
         "id": 836,
         "name": "心智融合SMG监视者",
         "code": "empty",
@@ -8207,7 +8207,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "837": {
+    {
         "id": 837,
         "name": "心智融合RF监视者",
         "code": "empty",
@@ -8245,7 +8245,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "838": {
+    {
         "id": 838,
         "name": "心智融合AR监视者",
         "code": "empty",
@@ -8283,7 +8283,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "839": {
+    {
         "id": 839,
         "name": "心智融合MG监视者",
         "code": "empty",
@@ -8321,7 +8321,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "840": {
+    {
         "id": 840,
         "name": "心智融合SG监视者",
         "code": "empty",
@@ -8359,7 +8359,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "841": {
+    {
         "id": 841,
         "name": "异构体",
         "code": "Isomer",
@@ -8397,7 +8397,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "842": {
+    {
         "id": 842,
         "name": "异构体",
         "code": "Isomer",
@@ -8435,7 +8435,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "843": {
+    {
         "id": 843,
         "name": "异构体",
         "code": "Isomer",
@@ -8473,7 +8473,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "844": {
+    {
         "id": 844,
         "name": "心智链接召唤师",
         "code": "empty",
@@ -8511,7 +8511,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "845": {
+    {
         "id": 845,
         "name": "心智链接HG召唤物",
         "code": "Nyto_Isomer_Shadow",
@@ -8549,7 +8549,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "846": {
+    {
         "id": 846,
         "name": "心智链接SMG召唤物",
         "code": "Nyto_Isomer_Shadow",
@@ -8587,7 +8587,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "847": {
+    {
         "id": 847,
         "name": "心智链接RF召唤物",
         "code": "Nyto_Isomer_Shadow",
@@ -8625,7 +8625,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "848": {
+    {
         "id": 848,
         "name": "心智链接AR召唤物",
         "code": "Nyto_Isomer_Shadow",
@@ -8663,7 +8663,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "849": {
+    {
         "id": 849,
         "name": "心智链接MG召唤物",
         "code": "Nyto_Isomer_Shadow",
@@ -8701,7 +8701,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "850": {
+    {
         "id": 850,
         "name": "心智链接SG召唤物",
         "code": "Nyto_Isomer_Shadow",
@@ -8739,7 +8739,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "851": {
+    {
         "id": 851,
         "name": "心智链接HG监视者",
         "code": "empty",
@@ -8777,7 +8777,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "852": {
+    {
         "id": 852,
         "name": "心智链接SMG监视者",
         "code": "empty",
@@ -8815,7 +8815,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "853": {
+    {
         "id": 853,
         "name": "心智链接RF监视者",
         "code": "empty",
@@ -8853,7 +8853,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "854": {
+    {
         "id": 854,
         "name": "心智链接AR监视者",
         "code": "empty",
@@ -8891,7 +8891,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "855": {
+    {
         "id": 855,
         "name": "心智链接MG监视者",
         "code": "empty",
@@ -8929,7 +8929,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "856": {
+    {
         "id": 856,
         "name": "心智链接SG监视者",
         "code": "empty",
@@ -8967,7 +8967,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "857": {
+    {
         "id": 857,
         "name": "融合目标HG",
         "code": "empty",
@@ -9005,7 +9005,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "858": {
+    {
         "id": 858,
         "name": "融合目标SMG",
         "code": "empty",
@@ -9043,7 +9043,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "859": {
+    {
         "id": 859,
         "name": "融合目标RF",
         "code": "empty",
@@ -9081,7 +9081,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "860": {
+    {
         "id": 860,
         "name": "融合目标AR",
         "code": "empty",
@@ -9119,7 +9119,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "861": {
+    {
         "id": 861,
         "name": "融合目标MG",
         "code": "empty",
@@ -9157,7 +9157,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "862": {
+    {
         "id": 862,
         "name": "僵尸boss反馈前",
         "code": "empty",
@@ -9195,7 +9195,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "863": {
+    {
         "id": 863,
         "name": "近战僵尸",
         "code": "Zombie1",
@@ -9233,7 +9233,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "864": {
+    {
         "id": 864,
         "name": "远程僵尸",
         "code": "Zombie2",
@@ -9271,7 +9271,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "865": {
+    {
         "id": 865,
         "name": "近战僵尸2",
         "code": "Zombie1",
@@ -9309,7 +9309,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "866": {
+    {
         "id": 866,
         "name": "远程僵尸2",
         "code": "Zombie2",
@@ -9347,7 +9347,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "867": {
+    {
         "id": 867,
         "name": "近战僵尸2",
         "code": "Zombie1",
@@ -9385,7 +9385,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "868": {
+    {
         "id": 868,
         "name": "远程僵尸2",
         "code": "Zombie2",
@@ -9423,7 +9423,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "869": {
+    {
         "id": 869,
         "name": "生存检测靶机hei",
         "code": "empty",
@@ -9461,7 +9461,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "870": {
+    {
         "id": 870,
         "name": "生存检测靶机bai",
         "code": "empty",
@@ -9499,7 +9499,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "871": {
+    {
         "id": 871,
         "name": "白色反馈召唤物",
         "code": "empty",
@@ -9537,7 +9537,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "872": {
+    {
         "id": 872,
         "name": "UMP45",
         "code": "empty",
@@ -9575,7 +9575,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "873": {
+    {
         "id": 873,
         "name": "UMP45",
         "code": "empty",
@@ -9613,7 +9613,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "874": {
+    {
         "id": 874,
         "name": "UMP45",
         "code": "empty",
@@ -9651,7 +9651,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "875": {
+    {
         "id": 875,
         "name": "UMP45",
         "code": "empty",
@@ -9689,7 +9689,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "876": {
+    {
         "id": 876,
         "name": "UMP45",
         "code": "empty",
@@ -9727,7 +9727,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "877": {
+    {
         "id": 877,
         "name": "UMP45",
         "code": "empty",
@@ -9765,7 +9765,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "878": {
+    {
         "id": 878,
         "name": "UMP45",
         "code": "empty",
@@ -9803,7 +9803,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "879": {
+    {
         "id": 879,
         "name": "UMP45",
         "code": "empty",
@@ -9841,7 +9841,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "880": {
+    {
         "id": 880,
         "name": "UMP45",
         "code": "empty",
@@ -9879,7 +9879,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "881": {
+    {
         "id": 881,
         "name": "UMP45",
         "code": "empty",
@@ -9917,7 +9917,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "882": {
+    {
         "id": 882,
         "name": "黑色反馈召唤物",
         "code": "empty",
@@ -9955,7 +9955,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "883": {
+    {
         "id": 883,
         "name": "白色反馈召唤物",
         "code": "empty",
@@ -9993,7 +9993,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "884": {
+    {
         "id": 884,
         "name": "白色普通敌人",
         "code": "Strelet",
@@ -10031,7 +10031,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "885": {
+    {
         "id": 885,
         "name": "白色普通敌人",
         "code": "Strelet",
@@ -10069,7 +10069,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "886": {
+    {
         "id": 886,
         "name": "白色普通敌人",
         "code": "Strelet",
@@ -10107,7 +10107,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "887": {
+    {
         "id": 887,
         "name": "白色普通敌人",
         "code": "Strelet",
@@ -10145,7 +10145,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "888": {
+    {
         "id": 888,
         "name": "JS 9mm",
         "code": "empty",
@@ -10183,7 +10183,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "889": {
+    {
         "id": 889,
         "name": "K11",
         "code": "empty",
@@ -10221,7 +10221,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "893": {
+    {
         "id": 893,
         "name": "G36",
         "code": "empty",
@@ -10259,7 +10259,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "894": {
+    {
         "id": 894,
         "name": "融合目标SG",
         "code": "empty",
@@ -10297,7 +10297,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "895": {
+    {
         "id": 895,
         "name": "心智融合召唤师",
         "code": "empty",
@@ -10335,7 +10335,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "896": {
+    {
         "id": 896,
         "name": "心智融合保险",
         "code": "empty",
@@ -10373,7 +10373,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "897": {
+    {
         "id": 897,
         "name": "击杀HG召唤物",
         "code": "Nyto_Isomer_Shadow",
@@ -10411,7 +10411,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "898": {
+    {
         "id": 898,
         "name": "击杀SMG召唤物",
         "code": "Nyto_Isomer_Shadow",
@@ -10449,7 +10449,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "899": {
+    {
         "id": 899,
         "name": "击杀RF召唤物",
         "code": "Nyto_Isomer_Shadow",
@@ -10487,7 +10487,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "900": {
+    {
         "id": 900,
         "name": "击杀AR召唤物",
         "code": "Nyto_Isomer_Shadow",
@@ -10525,7 +10525,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "901": {
+    {
         "id": 901,
         "name": "我方偏移测试",
         "code": "Drone",
@@ -10563,7 +10563,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "902": {
+    {
         "id": 902,
         "name": "敌方偏移测试",
         "code": "Drone",
@@ -10601,7 +10601,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "903": {
+    {
         "id": 903,
         "name": "Neptune召唤物标识",
         "code": "empty",
@@ -10639,7 +10639,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "904": {
+    {
         "id": 904,
         "name": "Blanc召唤物标识",
         "code": "empty",
@@ -10677,7 +10677,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "905": {
+    {
         "id": 905,
         "name": "死亡召唤靶机",
         "code": "Drone",
@@ -10715,7 +10715,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "999": {
+    {
         "id": 999,
         "name": "boss死亡小助手",
         "code": "empty",
@@ -10753,7 +10753,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "1000": {
+    {
         "id": 1000,
         "name": "击杀MG召唤物",
         "code": "Nyto_Isomer_Shadow",
@@ -10791,7 +10791,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "1001": {
+    {
         "id": 1001,
         "name": "击杀SG召唤物",
         "code": "Nyto_Isomer_Shadow",
@@ -10829,7 +10829,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "1002": {
+    {
         "id": 1002,
         "name": "异构体-120",
         "code": "Isomer",
@@ -10867,7 +10867,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "1003": {
+    {
         "id": 1003,
         "name": "异构体-120",
         "code": "Isomer",
@@ -10905,7 +10905,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "1004": {
+    {
         "id": 1004,
         "name": "M4boss失败监视者",
         "code": "empty",
@@ -10943,7 +10943,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "1005": {
+    {
         "id": 1005,
         "name": "M4boss失败",
         "code": "empty",
@@ -10981,7 +10981,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "1006": {
+    {
         "id": 1006,
         "name": "近战僵尸",
         "code": "Zombie1",
@@ -11019,7 +11019,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "1007": {
+    {
         "id": 1007,
         "name": "远程僵尸",
         "code": "Zombie2",
@@ -11057,7 +11057,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "1008": {
+    {
         "id": 1008,
         "name": "近战僵尸2",
         "code": "Zombie1",
@@ -11095,7 +11095,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "1009": {
+    {
         "id": 1009,
         "name": "远程僵尸2",
         "code": "Zombie2",
@@ -11133,7 +11133,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "1010": {
+    {
         "id": 1010,
         "name": "远程僵尸2",
         "code": "Zombie2",
@@ -11171,7 +11171,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "1011": {
+    {
         "id": 1011,
         "name": "sv清",
         "code": "empty",
@@ -11209,7 +11209,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "1012": {
+    {
         "id": 1012,
         "name": "莫辛清",
         "code": "empty",
@@ -11247,7 +11247,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "1013": {
+    {
         "id": 1013,
         "name": "findlocation中反馈",
         "code": "empty",
@@ -11285,7 +11285,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "1014": {
+    {
         "id": 1014,
         "name": "findlocation下反馈",
         "code": "empty",
@@ -11323,7 +11323,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "1015": {
+    {
         "id": 1015,
         "name": "findlocation上反馈",
         "code": "empty",
@@ -11361,7 +11361,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "1016": {
+    {
         "id": 1016,
         "name": "findlocation中反馈2",
         "code": "empty",
@@ -11399,7 +11399,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "1017": {
+    {
         "id": 1017,
         "name": "findlocation下反馈2",
         "code": "empty",
@@ -11437,7 +11437,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "1018": {
+    {
         "id": 1018,
         "name": "findlocation上反馈2",
         "code": "empty",
@@ -11475,7 +11475,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "1019": {
+    {
         "id": 1019,
         "name": "act-skill1M",
         "code": "Nyto_Isomer_Black2",
@@ -11513,7 +11513,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "1020": {
+    {
         "id": 1020,
         "name": "act-skill1R",
         "code": "Nyto_Isomer_Black2",
@@ -11551,7 +11551,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "1021": {
+    {
         "id": 1021,
         "name": "act-skill1L",
         "code": "Nyto_Isomer_Black2",
@@ -11589,7 +11589,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "1022": {
+    {
         "id": 1022,
         "name": "act-skill1M2",
         "code": "Nyto_Isomer_Black2",
@@ -11627,7 +11627,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "1023": {
+    {
         "id": 1023,
         "name": "act-skill1R2",
         "code": "Nyto_Isomer_Black2",
@@ -11665,7 +11665,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "1024": {
+    {
         "id": 1024,
         "name": "act-skill1L2",
         "code": "Nyto_Isomer_Black2",
@@ -11703,7 +11703,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "1025": {
+    {
         "id": 1025,
         "name": "findlocation中反馈move",
         "code": "empty",
@@ -11741,7 +11741,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "1026": {
+    {
         "id": 1026,
         "name": "findlocation下反馈move",
         "code": "empty",
@@ -11779,7 +11779,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "1027": {
+    {
         "id": 1027,
         "name": "findlocation上反馈move",
         "code": "empty",
@@ -11817,7 +11817,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "1028": {
+    {
         "id": 1028,
         "name": "findlocation中反馈2move",
         "code": "empty",
@@ -11855,7 +11855,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "1029": {
+    {
         "id": 1029,
         "name": "findlocation下反馈2move",
         "code": "empty",
@@ -11893,7 +11893,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "1030": {
+    {
         "id": 1030,
         "name": "findlocation上反馈2move",
         "code": "empty",
@@ -11931,7 +11931,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "1031": {
+    {
         "id": 1031,
         "name": "skill1召唤物【方法】",
         "code": "empty",
@@ -11969,7 +11969,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "1032": {
+    {
         "id": 1032,
         "name": "异构体act",
         "code": "Isomer",
@@ -12007,7 +12007,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "1033": {
+    {
         "id": 1033,
         "name": "异构体act",
         "code": "Isomer",
@@ -12045,7 +12045,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "1034": {
+    {
         "id": 1034,
         "name": "异构体act",
         "code": "Isomer",
@@ -12083,7 +12083,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "1035": {
+    {
         "id": 1035,
         "name": "异构体act",
         "code": "Isomer",
@@ -12121,7 +12121,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "1036": {
+    {
         "id": 1036,
         "name": "清凉型",
         "code": "empty",
@@ -12159,7 +12159,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "1037": {
+    {
         "id": 1037,
         "name": "MAT4",
         "code": "empty",
@@ -12197,7 +12197,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "1038": {
+    {
         "id": 1038,
         "name": "逆向坍塌发生器A",
         "code": "empty",
@@ -12235,7 +12235,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "1039": {
+    {
         "id": 1039,
         "name": "逆向坍塌发生器B",
         "code": "empty",
@@ -12273,7 +12273,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "1040": {
+    {
         "id": 1040,
         "name": "逆向坍塌发生器C",
         "code": "empty",
@@ -12311,7 +12311,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "1041": {
+    {
         "id": 1041,
         "name": "逆向坍塌Destroy[A]",
         "code": "empty",
@@ -12349,7 +12349,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "1042": {
+    {
         "id": 1042,
         "name": "逆向坍塌Destroy[B]",
         "code": "empty",
@@ -12387,7 +12387,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "1043": {
+    {
         "id": 1043,
         "name": "逆向坍塌Destroy[C]",
         "code": "empty",
@@ -12425,7 +12425,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "1044": {
+    {
         "id": 1044,
         "name": "耶格尔导弹",
         "code": "empty",
@@ -12463,7 +12463,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "1045": {
+    {
         "id": 1045,
         "name": "耶格尔电磁炮",
         "code": "empty",
@@ -12501,7 +12501,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "1046": {
+    {
         "id": 1046,
         "name": "小伊莱莎逆向坍塌",
         "code": "empty",
@@ -12539,7 +12539,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "1047": {
+    {
         "id": 1047,
         "name": "伊莱莎失控逆向坍塌",
         "code": "empty",
@@ -12577,7 +12577,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "1048": {
+    {
         "id": 1048,
         "name": "伊莱莎失控逆向坍塌",
         "code": "empty",
@@ -12615,7 +12615,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "1049": {
+    {
         "id": 1049,
         "name": "伊莱莎失控逆向坍塌",
         "code": "empty",
@@ -12653,7 +12653,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "1050": {
+    {
         "id": 1050,
         "name": "M500",
         "code": "empty",
@@ -12691,7 +12691,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "1061": {
+    {
         "id": 1061,
         "name": "神枪匀速3s-1",
         "code": "gunslinger_drone",
@@ -12729,7 +12729,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "1062": {
+    {
         "id": 1062,
         "name": "神枪匀速3s-2",
         "code": "gunslinger_drone",
@@ -12767,7 +12767,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "1063": {
+    {
         "id": 1063,
         "name": "神枪匀速3s-3",
         "code": "gunslinger_drone",
@@ -12805,7 +12805,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "1064": {
+    {
         "id": 1064,
         "name": "神枪匀速3s-4",
         "code": "gunslinger_drone",
@@ -12843,7 +12843,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "1065": {
+    {
         "id": 1065,
         "name": "神枪匀速3s-5",
         "code": "gunslinger_drone",
@@ -12881,7 +12881,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "1066": {
+    {
         "id": 1066,
         "name": "神枪匀速3s-6",
         "code": "gunslinger_drone",
@@ -12919,7 +12919,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "1067": {
+    {
         "id": 1067,
         "name": "神枪匀速3s-7",
         "code": "gunslinger_drone",
@@ -12957,7 +12957,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "1068": {
+    {
         "id": 1068,
         "name": "神枪匀速2s-1",
         "code": "gunslinger_drone",
@@ -12995,7 +12995,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "1069": {
+    {
         "id": 1069,
         "name": "神枪匀速2s-2",
         "code": "gunslinger_drone",
@@ -13033,7 +13033,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "1070": {
+    {
         "id": 1070,
         "name": "神枪匀速2s-3",
         "code": "gunslinger_drone",
@@ -13071,7 +13071,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "1071": {
+    {
         "id": 1071,
         "name": "神枪匀速2s-4",
         "code": "gunslinger_drone",
@@ -13109,7 +13109,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "1072": {
+    {
         "id": 1072,
         "name": "神枪匀速2s-5",
         "code": "gunslinger_drone",
@@ -13147,7 +13147,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "1073": {
+    {
         "id": 1073,
         "name": "神枪匀速2s-6",
         "code": "gunslinger_drone",
@@ -13185,7 +13185,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "1074": {
+    {
         "id": 1074,
         "name": "神枪匀速2s-7",
         "code": "gunslinger_drone",
@@ -13223,7 +13223,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "1075": {
+    {
         "id": 1075,
         "name": "神枪-justwait",
         "code": "gunslinger_drone",
@@ -13261,7 +13261,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "1076": {
+    {
         "id": 1076,
         "name": "神枪-justwait",
         "code": "gunslinger_drone",
@@ -13299,7 +13299,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "1077": {
+    {
         "id": 1077,
         "name": "神枪-justwait",
         "code": "gunslinger_drone",
@@ -13337,7 +13337,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "1078": {
+    {
         "id": 1078,
         "name": "神枪-justwait",
         "code": "gunslinger_drone",
@@ -13375,7 +13375,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "1079": {
+    {
         "id": 1079,
         "name": "神枪-3s-a",
         "code": "gunslinger_drone",
@@ -13413,7 +13413,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "1080": {
+    {
         "id": 1080,
         "name": "神枪-2s-a",
         "code": "gunslinger_drone",
@@ -13451,7 +13451,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "1081": {
+    {
         "id": 1081,
         "name": "神枪-3s-b",
         "code": "gunslinger_drone",
@@ -13489,7 +13489,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "1082": {
+    {
         "id": 1082,
         "name": "神枪-2s-b",
         "code": "gunslinger_drone",
@@ -13527,7 +13527,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "1083": {
+    {
         "id": 1083,
         "name": "神枪-3s-c",
         "code": "gunslinger_drone",
@@ -13565,7 +13565,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "1084": {
+    {
         "id": 1084,
         "name": "神枪-2s-c",
         "code": "gunslinger_drone",
@@ -13603,7 +13603,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "1085": {
+    {
         "id": 1085,
         "name": "神枪-3s-d",
         "code": "gunslinger_drone",
@@ -13641,7 +13641,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "1086": {
+    {
         "id": 1086,
         "name": "神枪-2s-d",
         "code": "gunslinger_drone",
@@ -13679,7 +13679,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "1087": {
+    {
         "id": 1087,
         "name": "神枪-1s-a",
         "code": "gunslinger_drone",
@@ -13717,7 +13717,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "1088": {
+    {
         "id": 1088,
         "name": "神枪-1s-b",
         "code": "gunslinger_drone",
@@ -13755,7 +13755,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "1089": {
+    {
         "id": 1089,
         "name": "神枪-1s-c",
         "code": "gunslinger_drone",
@@ -13793,7 +13793,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "1090": {
+    {
         "id": 1090,
         "name": "神枪-1s-d",
         "code": "gunslinger_drone",
@@ -13831,7 +13831,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "1091": {
+    {
         "id": 1091,
         "name": "神枪-变速-a",
         "code": "gunslinger_drone",
@@ -13869,7 +13869,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "1092": {
+    {
         "id": 1092,
         "name": "神枪-变速-b",
         "code": "gunslinger_drone",
@@ -13907,7 +13907,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "1093": {
+    {
         "id": 1093,
         "name": "神枪-变速-c",
         "code": "gunslinger_drone",
@@ -13945,7 +13945,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "1094": {
+    {
         "id": 1094,
         "name": "神枪-变速-d",
         "code": "gunslinger_drone",
@@ -13983,7 +13983,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "1095": {
+    {
         "id": 1095,
         "name": "子弹时间",
         "code": "empty",
@@ -14021,7 +14021,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "1096": {
+    {
         "id": 1096,
         "name": "神枪-2s-b-护盾",
         "code": "gunslinger_drone",
@@ -14059,7 +14059,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "1097": {
+    {
         "id": 1097,
         "name": "神枪-变速-c-护盾",
         "code": "gunslinger_drone",
@@ -14097,7 +14097,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "1098": {
+    {
         "id": 1098,
         "name": "神枪-1s-d-护盾",
         "code": "gunslinger_drone",
@@ -14135,7 +14135,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "1099": {
+    {
         "id": 1099,
         "name": "神枪-随机-a",
         "code": "empty",
@@ -14173,7 +14173,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "1100": {
+    {
         "id": 1100,
         "name": "神枪-随机-b",
         "code": "empty",
@@ -14211,7 +14211,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "1101": {
+    {
         "id": 1101,
         "name": "神枪-随机-c",
         "code": "empty",
@@ -14249,7 +14249,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "1102": {
+    {
         "id": 1102,
         "name": "神枪-随机-d",
         "code": "empty",
@@ -14287,7 +14287,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "1103": {
+    {
         "id": 1103,
         "name": "衔尾蛇浮游炮",
         "code": "weaver_funnel",
@@ -14325,7 +14325,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "1104": {
+    {
         "id": 1104,
         "name": "煤气罐",
         "code": "empty",
@@ -14363,7 +14363,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "1105": {
+    {
         "id": 1105,
         "name": "vector开场掩体",
         "code": "jidongyanti_boss",
@@ -14401,7 +14401,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "1106": {
+    {
         "id": 1106,
         "name": "vector掩体",
         "code": "jidongyanti_boss",
@@ -14439,7 +14439,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "1301": {
+    {
         "id": 1301,
         "name": "双生妖精",
         "code": "empty",
@@ -14477,7 +14477,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "1302": {
+    {
         "id": 1302,
         "name": "双生妖精",
         "code": "empty",
@@ -14515,7 +14515,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "1303": {
+    {
         "id": 1303,
         "name": "转盾小助手",
         "code": "empty",
@@ -14553,7 +14553,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "1304": {
+    {
         "id": 1304,
         "name": "双生妖精",
         "code": "empty",
@@ -14591,7 +14591,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "1305": {
+    {
         "id": 1305,
         "name": "双生妖精",
         "code": "empty",
@@ -14629,7 +14629,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "1306": {
+    {
         "id": 1306,
         "name": "双生妖精",
         "code": "empty",
@@ -14667,7 +14667,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "1307": {
+    {
         "id": 1307,
         "name": "双生妖精",
         "code": "empty",
@@ -14705,7 +14705,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "1308": {
+    {
         "id": 1308,
         "name": "双生妖精",
         "code": "empty",
@@ -14743,7 +14743,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "1309": {
+    {
         "id": 1309,
         "name": "双生妖精",
         "code": "empty",
@@ -14781,7 +14781,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "1310": {
+    {
         "id": 1310,
         "name": "双生妖精",
         "code": "empty",
@@ -14819,7 +14819,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "1311": {
+    {
         "id": 1311,
         "name": "双生妖精",
         "code": "empty",
@@ -14857,7 +14857,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "1312": {
+    {
         "id": 1312,
         "name": "双生妖精",
         "code": "empty",
@@ -14895,7 +14895,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "1313": {
+    {
         "id": 1313,
         "name": "双生妖精",
         "code": "empty",
@@ -14933,7 +14933,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "1314": {
+    {
         "id": 1314,
         "name": "双生妖精",
         "code": "empty",
@@ -14971,7 +14971,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "1315": {
+    {
         "id": 1315,
         "name": "双生妖精",
         "code": "empty",
@@ -15009,7 +15009,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "1316": {
+    {
         "id": 1316,
         "name": "双生妖精",
         "code": "empty",
@@ -15047,7 +15047,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "1317": {
+    {
         "id": 1317,
         "name": "双生妖精",
         "code": "empty",
@@ -15085,7 +15085,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "1318": {
+    {
         "id": 1318,
         "name": "双生妖精",
         "code": "empty",
@@ -15123,7 +15123,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "1319": {
+    {
         "id": 1319,
         "name": "双生妖精",
         "code": "empty",
@@ -15161,7 +15161,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "1320": {
+    {
         "id": 1320,
         "name": "双生妖精",
         "code": "empty",
@@ -15199,7 +15199,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "1321": {
+    {
         "id": 1321,
         "name": "双生妖精",
         "code": "empty",
@@ -15237,7 +15237,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "1322": {
+    {
         "id": 1322,
         "name": "转盾小助手2",
         "code": "empty",
@@ -15275,7 +15275,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "1323": {
+    {
         "id": 1323,
         "name": "转盾小助手3",
         "code": "empty",
@@ -15313,7 +15313,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "1324": {
+    {
         "id": 1324,
         "name": "转盾小助手4",
         "code": "empty",
@@ -15351,7 +15351,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "1325": {
+    {
         "id": 1325,
         "name": "转盾小助手5",
         "code": "empty",
@@ -15389,7 +15389,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "1326": {
+    {
         "id": 1326,
         "name": "转盾小助手6",
         "code": "empty",
@@ -15427,7 +15427,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "1327": {
+    {
         "id": 1327,
         "name": "转盾小助手7",
         "code": "empty",
@@ -15465,7 +15465,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "1328": {
+    {
         "id": 1328,
         "name": "转盾小助手8",
         "code": "empty",
@@ -15503,7 +15503,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "1329": {
+    {
         "id": 1329,
         "name": "转盾小助手9",
         "code": "empty",
@@ -15541,7 +15541,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "1330": {
+    {
         "id": 1330,
         "name": "转盾小助手10",
         "code": "empty",
@@ -15579,7 +15579,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "1331": {
+    {
         "id": 1331,
         "name": "枫清",
         "code": "empty",
@@ -15617,7 +15617,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "1332": {
+    {
         "id": 1332,
         "name": "蝴蝶小助手8",
         "code": "empty",
@@ -15655,7 +15655,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "1333": {
+    {
         "id": 1333,
         "name": "蝴蝶小助手7",
         "code": "empty",
@@ -15693,7 +15693,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "1334": {
+    {
         "id": 1334,
         "name": "蝴蝶小助手6",
         "code": "empty",
@@ -15731,7 +15731,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "1335": {
+    {
         "id": 1335,
         "name": "蝴蝶小助手5",
         "code": "empty",
@@ -15769,7 +15769,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "1336": {
+    {
         "id": 1336,
         "name": "蝴蝶小助手4",
         "code": "empty",
@@ -15807,7 +15807,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "1337": {
+    {
         "id": 1337,
         "name": "蝴蝶小助手3",
         "code": "empty",
@@ -15845,7 +15845,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "1351": {
+    {
         "id": 1351,
         "name": "SI8",
         "code": "empty",
@@ -15883,7 +15883,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "1352": {
+    {
         "id": 1352,
         "name": "SI8",
         "code": "empty",
@@ -15921,7 +15921,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "1353": {
+    {
         "id": 1353,
         "name": "SI8",
         "code": "empty",
@@ -15959,7 +15959,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "1354": {
+    {
         "id": 1354,
         "name": "SI8",
         "code": "empty",
@@ -15997,7 +15997,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "1355": {
+    {
         "id": 1355,
         "name": "SI8",
         "code": "empty",
@@ -16035,7 +16035,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "1356": {
+    {
         "id": 1356,
         "name": "SI8",
         "code": "empty",
@@ -16073,7 +16073,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "1357": {
+    {
         "id": 1357,
         "name": "ak15监视",
         "code": "empty",
@@ -16111,7 +16111,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "1358": {
+    {
         "id": 1358,
         "name": "ak15分身",
         "code": "empty",
@@ -16149,7 +16149,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "1359": {
+    {
         "id": 1359,
         "name": "ak15分身2",
         "code": "empty",
@@ -16187,7 +16187,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "1360": {
+    {
         "id": 1360,
         "name": "ak15分身2一次",
         "code": "empty",
@@ -16225,7 +16225,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "1361": {
+    {
         "id": 1361,
         "name": "M16小弟",
         "code": "Nyto_Isomer_Black",
@@ -16263,7 +16263,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "1362": {
+    {
         "id": 1362,
         "name": "M16持续打击",
         "code": "empty",
@@ -16301,7 +16301,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "1363": {
+    {
         "id": 1363,
         "name": "白色普通敌人1",
         "code": "Strelet",
@@ -16339,7 +16339,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "1364": {
+    {
         "id": 1364,
         "name": "白色普通敌人2",
         "code": "Strelet",
@@ -16377,7 +16377,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "1365": {
+    {
         "id": 1365,
         "name": "干扰者",
         "code": "Dinergate",
@@ -16415,7 +16415,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "1366": {
+    {
         "id": 1366,
         "name": "干扰者",
         "code": "Dinergate",
@@ -16453,7 +16453,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "1367": {
+    {
         "id": 1367,
         "name": "干扰者",
         "code": "Dinergate",
@@ -16491,7 +16491,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "1368": {
+    {
         "id": 1368,
         "name": "干扰者",
         "code": "Dinergate",
@@ -16529,7 +16529,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "1369": {
+    {
         "id": 1369,
         "name": "干扰者",
         "code": "Dinergate",
@@ -16567,7 +16567,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "1370": {
+    {
         "id": 1370,
         "name": "干扰者",
         "code": "Dinergate",
@@ -16605,7 +16605,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "1372": {
+    {
         "id": 1372,
         "name": "兵蚁",
         "code": "Dinergate",
@@ -16643,7 +16643,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "1373": {
+    {
         "id": 1373,
         "name": "支援工具人1",
         "code": "empty",
@@ -16681,7 +16681,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "1374": {
+    {
         "id": 1374,
         "name": "支援工具人2",
         "code": "empty",
@@ -16719,7 +16719,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "1375": {
+    {
         "id": 1375,
         "name": "支援工具人2",
         "code": "empty",
@@ -16757,7 +16757,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "1376": {
+    {
         "id": 1376,
         "name": "支援工具人3",
         "code": "empty",
@@ -16795,7 +16795,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "1377": {
+    {
         "id": 1377,
         "name": "支援工具人3",
         "code": "empty",
@@ -16833,7 +16833,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "1378": {
+    {
         "id": 1378,
         "name": "支援工具人3",
         "code": "empty",
@@ -16871,7 +16871,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "1379": {
+    {
         "id": 1379,
         "name": "支援工具人4",
         "code": "empty",
@@ -16909,7 +16909,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "1380": {
+    {
         "id": 1380,
         "name": "支援工具人4",
         "code": "empty",
@@ -16947,7 +16947,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "1381": {
+    {
         "id": 1381,
         "name": "支援工具人4",
         "code": "empty",
@@ -16985,7 +16985,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "1382": {
+    {
         "id": 1382,
         "name": "支援工具人5",
         "code": "empty",
@@ -17023,7 +17023,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "1383": {
+    {
         "id": 1383,
         "name": "铁壁增援",
         "code": "Dinergate",
@@ -17061,7 +17061,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "1385": {
+    {
         "id": 1385,
         "name": "兵蚁",
         "code": "Dinergate",
@@ -17099,7 +17099,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "1386": {
+    {
         "id": 1386,
         "name": "兵蚁",
         "code": "Dinergate",
@@ -17137,7 +17137,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "1387": {
+    {
         "id": 1387,
         "name": "兵蚁",
         "code": "Dinergate",
@@ -17175,7 +17175,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "1388": {
+    {
         "id": 1388,
         "name": "兵蚁",
         "code": "Dinergate",
@@ -17213,7 +17213,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "1389": {
+    {
         "id": 1389,
         "name": "兵蚁",
         "code": "Dinergate",
@@ -17251,7 +17251,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "1390": {
+    {
         "id": 1390,
         "name": "兵蚁",
         "code": "Dinergate",
@@ -17289,7 +17289,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "1391": {
+    {
         "id": 1391,
         "name": "兵蚁",
         "code": "Dinergate",
@@ -17327,7 +17327,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "1392": {
+    {
         "id": 1392,
         "name": "兵蚁",
         "code": "Dinergate",
@@ -17365,7 +17365,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "1393": {
+    {
         "id": 1393,
         "name": "兵蚁",
         "code": "Dinergate",
@@ -17403,7 +17403,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "1394": {
+    {
         "id": 1394,
         "name": "狼蛛",
         "code": "Tarantula",
@@ -17441,7 +17441,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "1395": {
+    {
         "id": 1395,
         "name": "狼蛛",
         "code": "Tarantula",
@@ -17479,7 +17479,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "1396": {
+    {
         "id": 1396,
         "name": "狼蛛",
         "code": "Tarantula",
@@ -17517,7 +17517,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "1397": {
+    {
         "id": 1397,
         "name": "狼蛛",
         "code": "Tarantula",
@@ -17555,7 +17555,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "1398": {
+    {
         "id": 1398,
         "name": "狼蛛",
         "code": "Tarantula",
@@ -17593,7 +17593,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "1399": {
+    {
         "id": 1399,
         "name": "狼蛛",
         "code": "Tarantula",
@@ -17631,7 +17631,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "1400": {
+    {
         "id": 1400,
         "name": "狼蛛",
         "code": "Tarantula",
@@ -17669,7 +17669,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "1401": {
+    {
         "id": 1401,
         "name": "狼蛛",
         "code": "Tarantula",
@@ -17707,7 +17707,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "1402": {
+    {
         "id": 1402,
         "name": "狼蛛",
         "code": "Tarantula",
@@ -17745,7 +17745,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "1403": {
+    {
         "id": 1403,
         "name": "狼蛛",
         "code": "Tarantula",
@@ -17783,7 +17783,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "1404": {
+    {
         "id": 1404,
         "name": "干扰者",
         "code": "Dinergate",
@@ -17821,7 +17821,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "1405": {
+    {
         "id": 1405,
         "name": "干扰者",
         "code": "Dinergate",
@@ -17859,7 +17859,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "1406": {
+    {
         "id": 1406,
         "name": "干扰者",
         "code": "Dinergate",
@@ -17897,7 +17897,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "1407": {
+    {
         "id": 1407,
         "name": "干扰者",
         "code": "Dinergate",
@@ -17935,7 +17935,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "1408": {
+    {
         "id": 1408,
         "name": "干扰者",
         "code": "Dinergate",
@@ -17973,7 +17973,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "1409": {
+    {
         "id": 1409,
         "name": "干扰者",
         "code": "Dinergate",
@@ -18011,7 +18011,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "1410": {
+    {
         "id": 1410,
         "name": "干扰者",
         "code": "Dinergate",
@@ -18049,7 +18049,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "1411": {
+    {
         "id": 1411,
         "name": "干扰者",
         "code": "Dinergate",
@@ -18087,7 +18087,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "1412": {
+    {
         "id": 1412,
         "name": "干扰者",
         "code": "Dinergate",
@@ -18125,7 +18125,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "1413": {
+    {
         "id": 1413,
         "name": "铁壁增援",
         "code": "Dinergate",
@@ -18163,7 +18163,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "1414": {
+    {
         "id": 1414,
         "name": "铁壁增援",
         "code": "Dinergate",
@@ -18201,7 +18201,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "1415": {
+    {
         "id": 1415,
         "name": "铁壁增援",
         "code": "Dinergate",
@@ -18239,7 +18239,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "1416": {
+    {
         "id": 1416,
         "name": "铁壁增援",
         "code": "Dinergate",
@@ -18277,7 +18277,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "1417": {
+    {
         "id": 1417,
         "name": "铁壁增援",
         "code": "Dinergate",
@@ -18315,7 +18315,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "1418": {
+    {
         "id": 1418,
         "name": "铁壁增援",
         "code": "Dinergate",
@@ -18353,7 +18353,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "1419": {
+    {
         "id": 1419,
         "name": "铁壁增援",
         "code": "Dinergate",
@@ -18391,7 +18391,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "1420": {
+    {
         "id": 1420,
         "name": "铁壁增援",
         "code": "Dinergate",
@@ -18429,7 +18429,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "1421": {
+    {
         "id": 1421,
         "name": "铁壁增援",
         "code": "Dinergate",
@@ -18467,7 +18467,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "1422": {
+    {
         "id": 1422,
         "name": "干扰者大招补充狗",
         "code": "Dinergate",
@@ -18505,7 +18505,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "1423": {
+    {
         "id": 1423,
         "name": "干扰者",
         "code": "Dinergate",
@@ -18543,7 +18543,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "1424": {
+    {
         "id": 1424,
         "name": "干扰者",
         "code": "Dinergate",
@@ -18581,7 +18581,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "1425": {
+    {
         "id": 1425,
         "name": "干扰者",
         "code": "Dinergate",
@@ -18619,7 +18619,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "1426": {
+    {
         "id": 1426,
         "name": "干扰者",
         "code": "Dinergate",
@@ -18657,7 +18657,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "1427": {
+    {
         "id": 1427,
         "name": "干扰者",
         "code": "Dinergate",
@@ -18695,7 +18695,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "1428": {
+    {
         "id": 1428,
         "name": "干扰者",
         "code": "Dinergate",
@@ -18733,7 +18733,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "1429": {
+    {
         "id": 1429,
         "name": "干扰者",
         "code": "Dinergate",
@@ -18771,7 +18771,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "1430": {
+    {
         "id": 1430,
         "name": "干扰者",
         "code": "Dinergate",
@@ -18809,7 +18809,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "1431": {
+    {
         "id": 1431,
         "name": "干扰者",
         "code": "Dinergate",
@@ -18847,7 +18847,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "1432": {
+    {
         "id": 1432,
         "name": "干扰者",
         "code": "Dinergate",
@@ -18885,7 +18885,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "1433": {
+    {
         "id": 1433,
         "name": "护盾工具人",
         "code": "empty",
@@ -18923,7 +18923,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "1434": {
+    {
         "id": 1434,
         "name": "夜视工具人",
         "code": "empty",
@@ -18961,7 +18961,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "1441": {
+    {
         "id": 1441,
         "name": "刘氏步枪",
         "code": "GeneralLiu_Z",
@@ -18999,7 +18999,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "1442": {
+    {
         "id": 1442,
         "name": "刘氏步枪",
         "code": "GeneralLiu_Z",
@@ -19037,7 +19037,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "1443": {
+    {
         "id": 1443,
         "name": "刘氏步枪",
         "code": "GeneralLiu_Z",
@@ -19075,7 +19075,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "1444": {
+    {
         "id": 1444,
         "name": "刘氏步枪",
         "code": "GeneralLiu_Z",
@@ -19113,7 +19113,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "1445": {
+    {
         "id": 1445,
         "name": "刘氏步枪",
         "code": "GeneralLiu_Z",
@@ -19151,7 +19151,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "1446": {
+    {
         "id": 1446,
         "name": "刘氏步枪",
         "code": "GeneralLiu_Z",
@@ -19189,7 +19189,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "1447": {
+    {
         "id": 1447,
         "name": "刘氏步枪",
         "code": "GeneralLiu_Z",
@@ -19227,7 +19227,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "1448": {
+    {
         "id": 1448,
         "name": "刘氏步枪",
         "code": "GeneralLiu_Z",
@@ -19265,7 +19265,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "1449": {
+    {
         "id": 1449,
         "name": "刘氏步枪",
         "code": "GeneralLiu_Z",
@@ -19303,7 +19303,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "1450": {
+    {
         "id": 1450,
         "name": "刘氏步枪",
         "code": "GeneralLiu_Z",
@@ -19341,7 +19341,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "1455": {
+    {
         "id": 1455,
         "name": "花粉区",
         "code": "empty",
@@ -19379,7 +19379,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "1456": {
+    {
         "id": 1456,
         "name": "沙漠妖精10",
         "code": "empty",
@@ -19417,7 +19417,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "1457": {
+    {
         "id": 1457,
         "name": "沙漠妖精1",
         "code": "empty",
@@ -19455,7 +19455,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "1458": {
+    {
         "id": 1458,
         "name": "沙漠妖精2",
         "code": "empty",
@@ -19493,7 +19493,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "1459": {
+    {
         "id": 1459,
         "name": "沙漠妖精3",
         "code": "empty",
@@ -19531,7 +19531,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "1460": {
+    {
         "id": 1460,
         "name": "沙漠妖精4",
         "code": "empty",
@@ -19569,7 +19569,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "1461": {
+    {
         "id": 1461,
         "name": "沙漠妖精5",
         "code": "empty",
@@ -19607,7 +19607,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "1462": {
+    {
         "id": 1462,
         "name": "沙漠妖精6",
         "code": "empty",
@@ -19645,7 +19645,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "1463": {
+    {
         "id": 1463,
         "name": "沙漠妖精7",
         "code": "empty",
@@ -19683,7 +19683,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "1464": {
+    {
         "id": 1464,
         "name": "沙漠妖精8",
         "code": "empty",
@@ -19721,7 +19721,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "1465": {
+    {
         "id": 1465,
         "name": "沙漠妖精9",
         "code": "empty",
@@ -19759,7 +19759,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "1466": {
+    {
         "id": 1466,
         "name": "特工V_增援",
         "code": "Jidongyanti",
@@ -19797,7 +19797,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "1467": {
+    {
         "id": 1467,
         "name": "特工V_亡语增援",
         "code": "Jidongyanti",
@@ -19835,7 +19835,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "1468": {
+    {
         "id": 1468,
         "name": "特工V_同排增援",
         "code": "Jidongyanti",
@@ -19873,7 +19873,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "1469": {
+    {
         "id": 1469,
         "name": "特工V_净化增援",
         "code": "Jidongyanti",
@@ -19911,7 +19911,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "1470": {
+    {
         "id": 1470,
         "name": "黏性炸弹",
         "code": "Nianxingzd",
@@ -19949,7 +19949,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "1471": {
+    {
         "id": 1471,
         "name": "黏性炸弹",
         "code": "Nianxingzd",
@@ -19987,7 +19987,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "1472": {
+    {
         "id": 1472,
         "name": "GLY_Black",
         "code": "Golyat",
@@ -20025,7 +20025,7 @@
         "is_sangvis": 1,
         "phase_duration": 0
     },
-    "1473": {
+    {
         "id": 1473,
         "name": "GLY_Black",
         "code": "Golyat",
@@ -20063,7 +20063,7 @@
         "is_sangvis": 1,
         "phase_duration": 0
     },
-    "1474": {
+    {
         "id": 1474,
         "name": "GLY_Black",
         "code": "Golyat",
@@ -20101,7 +20101,7 @@
         "is_sangvis": 1,
         "phase_duration": 0
     },
-    "1475": {
+    {
         "id": 1475,
         "name": "GLY_Black",
         "code": "Golyat",
@@ -20139,7 +20139,7 @@
         "is_sangvis": 1,
         "phase_duration": 0
     },
-    "1476": {
+    {
         "id": 1476,
         "name": "GLY_Black",
         "code": "Golyat",
@@ -20177,7 +20177,7 @@
         "is_sangvis": 1,
         "phase_duration": 0
     },
-    "1477": {
+    {
         "id": 1477,
         "name": "刘氏步枪",
         "code": "GeneralLiu_5101",
@@ -20215,7 +20215,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "1478": {
+    {
         "id": 1478,
         "name": "刘氏步枪",
         "code": "GeneralLiu_5101",
@@ -20253,7 +20253,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "1479": {
+    {
         "id": 1479,
         "name": "刘氏步枪",
         "code": "GeneralLiu_5101",
@@ -20291,7 +20291,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "1480": {
+    {
         "id": 1480,
         "name": "刘氏步枪",
         "code": "GeneralLiu_5101",
@@ -20329,7 +20329,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "1481": {
+    {
         "id": 1481,
         "name": "刘氏步枪",
         "code": "GeneralLiu_5101",
@@ -20367,7 +20367,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "1482": {
+    {
         "id": 1482,
         "name": "刘氏步枪",
         "code": "GeneralLiu_5101",
@@ -20405,7 +20405,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "1483": {
+    {
         "id": 1483,
         "name": "刘氏步枪",
         "code": "GeneralLiu_5101",
@@ -20443,7 +20443,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "1484": {
+    {
         "id": 1484,
         "name": "刘氏步枪",
         "code": "GeneralLiu_5101",
@@ -20481,7 +20481,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "1485": {
+    {
         "id": 1485,
         "name": "刘氏步枪",
         "code": "GeneralLiu_5101",
@@ -20519,7 +20519,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "1486": {
+    {
         "id": 1486,
         "name": "刘氏步枪",
         "code": "GeneralLiu_5101",
@@ -20557,7 +20557,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "1487": {
+    {
         "id": 1487,
         "name": "喷火器",
         "code": "empty",
@@ -20595,7 +20595,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "1488": {
+    {
         "id": 1488,
         "name": "工程师火炮台",
         "code": "Machine_Gun_Tower",
@@ -20633,7 +20633,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "1489": {
+    {
         "id": 1489,
         "name": "工程师电炮台",
         "code": "Machine_Gun_Tower",
@@ -20671,7 +20671,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "1496": {
+    {
         "id": 1496,
         "name": "416炮台",
         "code": "Machine_Gun_Tower",
@@ -20709,7 +20709,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "1497": {
+    {
         "id": 1497,
         "name": "彩蛋感应弹_416",
         "code": "Nianxingzd",
@@ -20747,7 +20747,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "1498": {
+    {
         "id": 1498,
         "name": "彩蛋感应弹_Vec",
         "code": "Nianxingzd",
@@ -20785,7 +20785,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "1499": {
+    {
         "id": 1499,
         "name": "彩蛋胜利判定",
         "code": "Nianxingzd",
@@ -20823,7 +20823,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "1505": {
+    {
         "id": 1505,
         "name": "格雷女士的增援",
         "code": "Soldier_New",
@@ -20861,7 +20861,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "1506": {
+    {
         "id": 1506,
         "name": "格雷女士的增援",
         "code": "Soldier_New",
@@ -20899,7 +20899,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "1507": {
+    {
         "id": 1507,
         "name": "格雷女士的增援",
         "code": "Soldier_New",
@@ -20937,7 +20937,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "1510": {
+    {
         "id": 1510,
         "name": "飞刀",
         "code": "Narciss_Sw",
@@ -20975,7 +20975,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "1511": {
+    {
         "id": 1511,
         "name": "丹德莱",
         "code": "Dandelion_Sp",
@@ -21013,7 +21013,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "1512": {
+    {
         "id": 1512,
         "name": "丹德莱",
         "code": "empty",
@@ -21051,7 +21051,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "1513": {
+    {
         "id": 1513,
         "name": "声援工具人",
         "code": "empty",
@@ -21089,7 +21089,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "1514": {
+    {
         "id": 1514,
         "name": "声援演出工具人",
         "code": "empty",
@@ -21127,7 +21127,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "1520": {
+    {
         "id": 1520,
         "name": "棕熊",
         "code": "RPK203_bear",
@@ -21165,7 +21165,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "1521": {
+    {
         "id": 1521,
         "name": "TKP408统计HG",
         "code": "empty",
@@ -21203,7 +21203,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "1522": {
+    {
         "id": 1522,
         "name": "TKP408统计SMG",
         "code": "empty",
@@ -21241,7 +21241,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "1523": {
+    {
         "id": 1523,
         "name": "TKP408统计RF",
         "code": "empty",
@@ -21279,7 +21279,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "1524": {
+    {
         "id": 1524,
         "name": "TKP408统计AR",
         "code": "empty",
@@ -21317,7 +21317,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "1525": {
+    {
         "id": 1525,
         "name": "TKP408统计MG",
         "code": "empty",
@@ -21355,7 +21355,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "1526": {
+    {
         "id": 1526,
         "name": "TKP408统计SG",
         "code": "empty",
@@ -21393,7 +21393,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "1527": {
+    {
         "id": 1527,
         "name": "铁血芯片召唤物",
         "code": "empty",
@@ -21431,7 +21431,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "1528": {
+    {
         "id": 1528,
         "name": "mg4弹射1",
         "code": "empty",
@@ -21469,7 +21469,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "1529": {
+    {
         "id": 1529,
         "name": "mg4弹射2",
         "code": "empty",
@@ -21507,7 +21507,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "1530": {
+    {
         "id": 1530,
         "name": "mg4弹射3",
         "code": "empty",
@@ -21545,7 +21545,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "1531": {
+    {
         "id": 1531,
         "name": "灰熊反馈",
         "code": "empty",
@@ -21583,7 +21583,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "1542": {
+    {
         "id": 1542,
         "name": "夹心酱反馈",
         "code": "empty",
@@ -21621,7 +21621,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "1543": {
+    {
         "id": 1543,
         "name": "米诺斯反馈",
         "code": "empty",
@@ -21659,7 +21659,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "1544": {
+    {
         "id": 1544,
         "name": "百合铃反馈召唤物1",
         "code": "empty",
@@ -21697,7 +21697,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "1545": {
+    {
         "id": 1545,
         "name": "百合铃反馈召唤物2",
         "code": "empty",
@@ -21735,7 +21735,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "1546": {
+    {
         "id": 1546,
         "name": "百合铃反馈召唤物3",
         "code": "empty",
@@ -21773,7 +21773,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "1547": {
+    {
         "id": 1547,
         "name": "百合铃反馈召唤物4",
         "code": "empty",
@@ -21811,7 +21811,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "1548": {
+    {
         "id": 1548,
         "name": "百合铃反馈召唤物5",
         "code": "empty",
@@ -21849,7 +21849,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "1549": {
+    {
         "id": 1549,
         "name": "百合铃反馈召唤物6",
         "code": "empty",
@@ -21887,7 +21887,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "1550": {
+    {
         "id": 1550,
         "name": "百合铃反馈召唤物7",
         "code": "empty",
@@ -21925,7 +21925,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "1551": {
+    {
         "id": 1551,
         "name": "百合铃反馈召唤物8",
         "code": "empty",
@@ -21963,7 +21963,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "1552": {
+    {
         "id": 1552,
         "name": "百合铃反馈召唤物9",
         "code": "empty",
@@ -22001,7 +22001,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "1553": {
+    {
         "id": 1553,
         "name": "百合铃反馈召唤物10",
         "code": "empty",
@@ -22039,7 +22039,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "1554": {
+    {
         "id": 1554,
         "name": "尖兵",
         "code": "PathfinderSwim",
@@ -22077,7 +22077,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "1555": {
+    {
         "id": 1555,
         "name": "战区前排用",
         "code": "empty",
@@ -22115,7 +22115,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "1556": {
+    {
         "id": 1556,
         "name": "战区靶机",
         "code": "Drone",
@@ -22153,7 +22153,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "1557": {
+    {
         "id": 1557,
         "name": "随机敌人",
         "code": "Brute_SWAP",
@@ -22191,7 +22191,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "1558": {
+    {
         "id": 1558,
         "name": "每隔15秒对我方输出最低的单位造成999点伤害",
         "code": "empty",
@@ -22229,7 +22229,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "1559": {
+    {
         "id": 1559,
         "name": "每隔10秒随机弱化一个人形单位，大幅降低该人形属性（伤害，射速，命中，回避，护甲）50%",
         "code": "empty",
@@ -22267,7 +22267,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "1560": {
+    {
         "id": 1560,
         "name": "战场效果",
         "code": "empty",
@@ -22305,7 +22305,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "1561": {
+    {
         "id": 1561,
         "name": "每隔10秒召唤1组5编，每编1000血的靶机",
         "code": "empty",
@@ -22343,7 +22343,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "1562": {
+    {
         "id": 1562,
         "name": "每隔6秒在我方随机位置生成1组敌人",
         "code": "empty",
@@ -22381,7 +22381,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "1563": {
+    {
         "id": 1563,
         "name": "SP 9反馈",
         "code": "empty",
@@ -22419,7 +22419,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "1564": {
+    {
         "id": 1564,
         "name": "FARA反馈",
         "code": "empty",
@@ -22457,7 +22457,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "1565": {
+    {
         "id": 1565,
         "name": "FARA记录-1",
         "code": "empty",
@@ -22495,7 +22495,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "1566": {
+    {
         "id": 1566,
         "name": "FARA记录-2",
         "code": "empty",
@@ -22533,7 +22533,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "1567": {
+    {
         "id": 1567,
         "name": "FARA记录-3",
         "code": "empty",
@@ -22571,7 +22571,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "1568": {
+    {
         "id": 1568,
         "name": "FARA记录-4",
         "code": "empty",
@@ -22609,7 +22609,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "1569": {
+    {
         "id": 1569,
         "name": "FARA记录-5",
         "code": "empty",
@@ -22647,7 +22647,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "1570": {
+    {
         "id": 1570,
         "name": "FARA记录-6",
         "code": "empty",
@@ -22685,7 +22685,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "1571": {
+    {
         "id": 1571,
         "name": "FARA记录-7",
         "code": "empty",
@@ -22723,7 +22723,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "1572": {
+    {
         "id": 1572,
         "name": "FARA记录-8",
         "code": "empty",
@@ -22761,7 +22761,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "1573": {
+    {
         "id": 1573,
         "name": "FARA记录-9",
         "code": "empty",
@@ -22799,7 +22799,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "1574": {
+    {
         "id": 1574,
         "name": "FARA记录-10",
         "code": "empty",
@@ -22837,7 +22837,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "1575": {
+    {
         "id": 1575,
         "name": "APC反馈",
         "code": "empty",
@@ -22875,7 +22875,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "1576": {
+    {
         "id": 1576,
         "name": "射击士",
         "code": "Strelet",
@@ -22913,7 +22913,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "1577": {
+    {
         "id": 1577,
         "name": "警备士",
         "code": "Riotguard",
@@ -22951,7 +22951,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "1578": {
+    {
         "id": 1578,
         "name": "机甲士",
         "code": "Metalmax",
@@ -22989,7 +22989,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "1579": {
+    {
         "id": 1579,
         "name": "指挥士",
         "code": "Mastersergeant",
@@ -23027,7 +23027,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "1580": {
+    {
         "id": 1580,
         "name": "心智链接HG反馈",
         "code": "empty",
@@ -23065,7 +23065,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "1581": {
+    {
         "id": 1581,
         "name": "心智链接SMG反馈",
         "code": "empty",
@@ -23103,7 +23103,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "1582": {
+    {
         "id": 1582,
         "name": "心智链接RF反馈",
         "code": "empty",
@@ -23141,7 +23141,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "1583": {
+    {
         "id": 1583,
         "name": "心智链接AR反馈",
         "code": "empty",
@@ -23179,7 +23179,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "1584": {
+    {
         "id": 1584,
         "name": "心智链接MG反馈",
         "code": "empty",
@@ -23217,7 +23217,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "1585": {
+    {
         "id": 1585,
         "name": "心智链接SG反馈",
         "code": "empty",
@@ -23255,7 +23255,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "1586": {
+    {
         "id": 1586,
         "name": "布拉梅德大招伤害",
         "code": "empty",
@@ -23293,7 +23293,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "1587": {
+    {
         "id": 1587,
         "name": "布拉梅德保险",
         "code": "empty",
@@ -23331,7 +23331,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "1588": {
+    {
         "id": 1588,
         "name": "链接成功反馈",
         "code": "empty",
@@ -23369,7 +23369,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "1589": {
+    {
         "id": 1589,
         "name": "Yami",
         "code": "unknown_minigame",
@@ -23407,7 +23407,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "1590": {
+    {
         "id": 1590,
         "name": "Yami",
         "code": "unknown",
@@ -23445,7 +23445,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "1591": {
+    {
         "id": 1591,
         "name": "ぜつぼう1",
         "code": "empty",
@@ -23483,7 +23483,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "1592": {
+    {
         "id": 1592,
         "name": "ぜつぼう2",
         "code": "empty",
@@ -23521,7 +23521,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "1593": {
+    {
         "id": 1593,
         "name": "ぜつぼう3",
         "code": "empty",
@@ -23559,7 +23559,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "1594": {
+    {
         "id": 1594,
         "name": "ぜつぼう4",
         "code": "empty",
@@ -23597,7 +23597,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "1595": {
+    {
         "id": 1595,
         "name": "ぜつぼう5",
         "code": "empty",
@@ -23635,7 +23635,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "1596": {
+    {
         "id": 1596,
         "name": "斯特林反馈",
         "code": "empty",
@@ -23673,7 +23673,7 @@
         "is_sangvis": 0,
         "phase_duration": 60
     },
-    "1597": {
+    {
         "id": 1597,
         "name": "涅托bossHG反馈",
         "code": "empty",
@@ -23711,7 +23711,7 @@
         "is_sangvis": 0,
         "phase_duration": 60
     },
-    "1598": {
+    {
         "id": 1598,
         "name": "涅托bossSMG反馈",
         "code": "empty",
@@ -23749,7 +23749,7 @@
         "is_sangvis": 0,
         "phase_duration": 60
     },
-    "1599": {
+    {
         "id": 1599,
         "name": "涅托bossSG反馈",
         "code": "empty",
@@ -23787,7 +23787,7 @@
         "is_sangvis": 0,
         "phase_duration": 60
     },
-    "1600": {
+    {
         "id": 1600,
         "name": "涅托bossARRFMG反馈",
         "code": "empty",
@@ -23825,7 +23825,7 @@
         "is_sangvis": 0,
         "phase_duration": 60
     },
-    "1601": {
+    {
         "id": 1601,
         "name": "涅托boss铁血反馈",
         "code": "empty",
@@ -23863,7 +23863,7 @@
         "is_sangvis": 0,
         "phase_duration": 60
     },
-    "1602": {
+    {
         "id": 1602,
         "name": "白涅托【HG】",
         "code": "Nyto_White_Commander",
@@ -23901,7 +23901,7 @@
         "is_sangvis": 0,
         "phase_duration": 60
     },
-    "1603": {
+    {
         "id": 1603,
         "name": "黑涅托SMG",
         "code": "Nyto_Black_SMG",
@@ -23939,7 +23939,7 @@
         "is_sangvis": 0,
         "phase_duration": 60
     },
-    "1604": {
+    {
         "id": 1604,
         "name": "黑涅托SG",
         "code": "Nyto_Black_Hammer",
@@ -23977,7 +23977,7 @@
         "is_sangvis": 0,
         "phase_duration": 60
     },
-    "1605": {
+    {
         "id": 1605,
         "name": "黑涅托ARRFMG",
         "code": "Nyto_Black_RF",
@@ -24015,7 +24015,7 @@
         "is_sangvis": 0,
         "phase_duration": 60
     },
-    "1606": {
+    {
         "id": 1606,
         "name": "P90",
         "code": "empty",
@@ -24053,7 +24053,7 @@
         "is_sangvis": 0,
         "phase_duration": 9999
     },
-    "1607": {
+    {
         "id": 1607,
         "name": "P90",
         "code": "empty",
@@ -24091,7 +24091,7 @@
         "is_sangvis": 0,
         "phase_duration": 9999
     },
-    "1841": {
+    {
         "id": 1841,
         "name": "异构体80",
         "code": "Isomer",
@@ -24129,7 +24129,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "1842": {
+    {
         "id": 1842,
         "name": "异构体80",
         "code": "Isomer",
@@ -24167,7 +24167,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "1843": {
+    {
         "id": 1843,
         "name": "异构体80",
         "code": "Isomer",
@@ -24205,7 +24205,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "2841": {
+    {
         "id": 2841,
         "name": "异构体120昼",
         "code": "Isomer",
@@ -24243,7 +24243,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "2842": {
+    {
         "id": 2842,
         "name": "异构体",
         "code": "Isomer",
@@ -24281,7 +24281,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "2843": {
+    {
         "id": 2843,
         "name": "异构体",
         "code": "Isomer",
@@ -24319,7 +24319,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "3700": {
+    {
         "id": 3700,
         "name": "心智化身",
         "code": "Dandelion_Sps",
@@ -24357,7 +24357,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "3701": {
+    {
         "id": 3701,
         "name": "标准",
         "code": "unknown",
@@ -24395,7 +24395,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "3702": {
+    {
         "id": 3702,
         "name": "白色普通敌人3",
         "code": "Strelet",
@@ -24433,7 +24433,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "3703": {
+    {
         "id": 3703,
         "name": "白色近战敌人3",
         "code": "Punish",
@@ -24471,7 +24471,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "3704": {
+    {
         "id": 3704,
         "name": "白色高血单编1",
         "code": "Rodelero",
@@ -24509,7 +24509,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "3705": {
+    {
         "id": 3705,
         "name": "白色预警敌人1",
         "code": "Doppelsoldner",
@@ -24547,7 +24547,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "3706": {
+    {
         "id": 3706,
         "name": "近战杂兵",
         "code": "unknown",
@@ -24585,7 +24585,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "3707": {
+    {
         "id": 3707,
         "name": "玛赫莲",
         "code": "Rogue_M",
@@ -24623,7 +24623,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "3712": {
+    {
         "id": 3712,
         "name": "大白",
         "code": "Gebbennu",
@@ -24661,7 +24661,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "3841": {
+    {
         "id": 3841,
         "name": "异构体120夜",
         "code": "Isomer",
@@ -24699,7 +24699,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "3842": {
+    {
         "id": 3842,
         "name": "异构体",
         "code": "Isomer",
@@ -24737,7 +24737,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "3843": {
+    {
         "id": 3843,
         "name": "异构体",
         "code": "Isomer",
@@ -24775,7 +24775,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "4000": {
+    {
         "id": 4000,
         "name": "撒豆使者上",
         "code": "Dropkick_BeansEmissary",
@@ -24813,7 +24813,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "4001": {
+    {
         "id": 4001,
         "name": "撒豆使者中",
         "code": "Dropkick_BeansEmissary",
@@ -24851,7 +24851,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "4002": {
+    {
         "id": 4002,
         "name": "撒豆使者下",
         "code": "Dropkick_BeansEmissary",
@@ -24889,7 +24889,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "4003": {
+    {
         "id": 4003,
         "name": "狙击妖精替身-1",
         "code": "empty",
@@ -24927,7 +24927,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "4004": {
+    {
         "id": 4004,
         "name": "狙击妖精替身-2",
         "code": "empty",
@@ -24965,7 +24965,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "4005": {
+    {
         "id": 4005,
         "name": "狙击妖精替身-3",
         "code": "empty",
@@ -25003,7 +25003,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "4006": {
+    {
         "id": 4006,
         "name": "狙击妖精替身-4",
         "code": "empty",
@@ -25041,7 +25041,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "4007": {
+    {
         "id": 4007,
         "name": "狙击妖精替身-5",
         "code": "empty",
@@ -25079,7 +25079,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "4008": {
+    {
         "id": 4008,
         "name": "狙击妖精替身-6",
         "code": "empty",
@@ -25117,7 +25117,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "4009": {
+    {
         "id": 4009,
         "name": "狙击妖精替身-7",
         "code": "empty",
@@ -25155,7 +25155,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "4010": {
+    {
         "id": 4010,
         "name": "狙击妖精替身-8",
         "code": "empty",
@@ -25193,7 +25193,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "4011": {
+    {
         "id": 4011,
         "name": "狙击妖精替身-9",
         "code": "empty",
@@ -25231,7 +25231,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "4012": {
+    {
         "id": 4012,
         "name": "狙击妖精替身-10",
         "code": "empty",
@@ -25269,7 +25269,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "4013": {
+    {
         "id": 4013,
         "name": "诅咒妖精替身-1",
         "code": "empty",
@@ -25307,7 +25307,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "4014": {
+    {
         "id": 4014,
         "name": "诅咒妖精替身-2",
         "code": "empty",
@@ -25345,7 +25345,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "4015": {
+    {
         "id": 4015,
         "name": "诅咒妖精替身-3",
         "code": "empty",
@@ -25383,7 +25383,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "4016": {
+    {
         "id": 4016,
         "name": "诅咒妖精替身-4",
         "code": "empty",
@@ -25421,7 +25421,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "4017": {
+    {
         "id": 4017,
         "name": "诅咒妖精替身-5",
         "code": "empty",
@@ -25459,7 +25459,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "4018": {
+    {
         "id": 4018,
         "name": "诅咒妖精替身-6",
         "code": "empty",
@@ -25497,7 +25497,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "4019": {
+    {
         "id": 4019,
         "name": "诅咒妖精替身-7",
         "code": "empty",
@@ -25535,7 +25535,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "4020": {
+    {
         "id": 4020,
         "name": "诅咒妖精替身-8",
         "code": "empty",
@@ -25573,7 +25573,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "4021": {
+    {
         "id": 4021,
         "name": "诅咒妖精替身-9",
         "code": "empty",
@@ -25611,7 +25611,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "4022": {
+    {
         "id": 4022,
         "name": "诅咒妖精替身-10",
         "code": "empty",
@@ -25649,7 +25649,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "4033": {
+    {
         "id": 4033,
         "name": "战区眩晕工具人",
         "code": "empty",
@@ -25687,7 +25687,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "4034": {
+    {
         "id": 4034,
         "name": "战区加buff工具人",
         "code": "empty",
@@ -25725,7 +25725,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "4035": {
+    {
         "id": 4035,
         "name": "战区弱化工具人",
         "code": "empty",
@@ -25763,7 +25763,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "4036": {
+    {
         "id": 4036,
         "name": "KH2002哈巴狗1",
         "code": "KH2002_Herdog",
@@ -25801,7 +25801,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "4037": {
+    {
         "id": 4037,
         "name": "KH2002哈巴狗2",
         "code": "KH2002_Herdog",
@@ -25839,7 +25839,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "4038": {
+    {
         "id": 4038,
         "name": "KH2002哈巴狗3",
         "code": "KH2002_Herdog",
@@ -25877,7 +25877,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "4039": {
+    {
         "id": 4039,
         "name": "KH2002哈巴狗4",
         "code": "KH2002_Herdog",
@@ -25915,7 +25915,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "4040": {
+    {
         "id": 4040,
         "name": "KH2002哈巴狗5",
         "code": "KH2002_Herdog",
@@ -25953,7 +25953,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "4041": {
+    {
         "id": 4041,
         "name": "KH2002哈巴狗6",
         "code": "KH2002_Herdog",
@@ -25991,7 +25991,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "4042": {
+    {
         "id": 4042,
         "name": "KH2002哈巴狗7",
         "code": "KH2002_Herdog",
@@ -26029,7 +26029,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "4043": {
+    {
         "id": 4043,
         "name": "KH2002哈巴狗8",
         "code": "KH2002_Herdog",
@@ -26067,7 +26067,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "4044": {
+    {
         "id": 4044,
         "name": "KH2002哈巴狗9",
         "code": "KH2002_Herdog",
@@ -26105,7 +26105,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "4045": {
+    {
         "id": 4045,
         "name": "KH2002哈巴狗10",
         "code": "KH2002_Herdog",
@@ -26143,7 +26143,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "4046": {
+    {
         "id": 4046,
         "name": "白教指挥士替身",
         "code": "empty",
@@ -26181,7 +26181,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "4047": {
+    {
         "id": 4047,
         "name": "战区枪种工具人",
         "code": "empty",
@@ -26219,7 +26219,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "4048": {
+    {
         "id": 4048,
         "name": "战区清收益工具人",
         "code": "empty",
@@ -26257,7 +26257,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "4085": {
+    {
         "id": 4085,
         "name": "战区清手枪工具人",
         "code": "empty",
@@ -26295,7 +26295,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "4086": {
+    {
         "id": 4086,
         "name": "战区清冲锋枪工具人",
         "code": "empty",
@@ -26333,7 +26333,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "4087": {
+    {
         "id": 4087,
         "name": "战区清步枪工具人",
         "code": "empty",
@@ -26371,7 +26371,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "4088": {
+    {
         "id": 4088,
         "name": "战区清突击步枪工具人",
         "code": "empty",
@@ -26409,7 +26409,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "4089": {
+    {
         "id": 4089,
         "name": "战区清霰弹枪工具人",
         "code": "empty",
@@ -26447,7 +26447,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "4090": {
+    {
         "id": 4090,
         "name": "猎豹工具人",
         "code": "empty",
@@ -26485,7 +26485,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "4091": {
+    {
         "id": 4091,
         "name": "兵蚁-1",
         "code": "Dinergate_2021halloween",
@@ -26523,7 +26523,7 @@
         "is_sangvis": 1,
         "phase_duration": 0
     },
-    "4092": {
+    {
         "id": 4092,
         "name": "兵蚁-2",
         "code": "Dinergate_2021halloween",
@@ -26561,7 +26561,7 @@
         "is_sangvis": 1,
         "phase_duration": 0
     },
-    "4093": {
+    {
         "id": 4093,
         "name": "巡游者",
         "code": "wheelmach2021halloween",
@@ -26599,7 +26599,7 @@
         "is_sangvis": 1,
         "phase_duration": 0
     },
-    "4094": {
+    {
         "id": 4094,
         "name": "巡游者",
         "code": "wheelmach2021halloween",
@@ -26637,7 +26637,7 @@
         "is_sangvis": 1,
         "phase_duration": 0
     },
-    "4095": {
+    {
         "id": 4095,
         "name": "巡游者",
         "code": "wheelmach2021halloween",
@@ -26675,7 +26675,7 @@
         "is_sangvis": 1,
         "phase_duration": 0
     },
-    "4096": {
+    {
         "id": 4096,
         "name": "巡游者",
         "code": "wheelmach2021halloween",
@@ -26713,7 +26713,7 @@
         "is_sangvis": 1,
         "phase_duration": 0
     },
-    "4097": {
+    {
         "id": 4097,
         "name": "巡游者",
         "code": "wheelmach2021halloween",
@@ -26751,7 +26751,7 @@
         "is_sangvis": 1,
         "phase_duration": 0
     },
-    "4098": {
+    {
         "id": 4098,
         "name": "巡游者SWAP",
         "code": "wheelmach_SWAP2021halloween",
@@ -26789,7 +26789,7 @@
         "is_sangvis": 1,
         "phase_duration": 0
     },
-    "4099": {
+    {
         "id": 4099,
         "name": "巡游者SWAP",
         "code": "wheelmach_SWAP2021halloween",
@@ -26827,7 +26827,7 @@
         "is_sangvis": 1,
         "phase_duration": 0
     },
-    "4100": {
+    {
         "id": 4100,
         "name": "巡游者SWAP",
         "code": "wheelmach_SWAP2021halloween",
@@ -26865,7 +26865,7 @@
         "is_sangvis": 1,
         "phase_duration": 0
     },
-    "4101": {
+    {
         "id": 4101,
         "name": "巡游者SWAP",
         "code": "wheelmach_SWAP2021halloween",
@@ -26903,7 +26903,7 @@
         "is_sangvis": 1,
         "phase_duration": 0
     },
-    "4102": {
+    {
         "id": 4102,
         "name": "巡游者SWAP",
         "code": "wheelmach_SWAP2021halloween",
@@ -26941,7 +26941,7 @@
         "is_sangvis": 1,
         "phase_duration": 0
     },
-    "4103": {
+    {
         "id": 4103,
         "name": "兵蚁改-1",
         "code": "Dinergate_2021halloween",
@@ -26979,7 +26979,7 @@
         "is_sangvis": 1,
         "phase_duration": 0
     },
-    "4104": {
+    {
         "id": 4104,
         "name": "兵蚁改-2",
         "code": "Dinergate_2021halloween",
@@ -27017,7 +27017,7 @@
         "is_sangvis": 1,
         "phase_duration": 0
     },
-    "4105": {
+    {
         "id": 4105,
         "name": "万圣剧场工具人",
         "code": "empty",
@@ -27055,7 +27055,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "4106": {
+    {
         "id": 4106,
         "name": "兵蚁",
         "code": "Dinergate_2021halloween",
@@ -27093,7 +27093,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "4107": {
+    {
         "id": 4107,
         "name": "兵蚁",
         "code": "Dinergate_2021halloween",
@@ -27131,7 +27131,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "4128": {
+    {
         "id": 4128,
         "name": "计分板召唤物-1",
         "code": "empty",
@@ -27169,7 +27169,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "4129": {
+    {
         "id": 4129,
         "name": "蓝雪人",
         "code": "SnowbrosBlue",
@@ -27207,7 +27207,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "4130": {
+    {
         "id": 4130,
         "name": "红雪人",
         "code": "SnowbrosRed",
@@ -27245,7 +27245,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "4131": {
+    {
         "id": 4131,
         "name": "PX4辅助召唤物",
         "code": "empty",
@@ -27283,7 +27283,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "4132": {
+    {
         "id": 4132,
         "name": "A545辅助敌召唤物",
         "code": "empty",
@@ -27321,7 +27321,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "4133": {
+    {
         "id": 4133,
         "name": "防御妖精替身-1",
         "code": "empty",
@@ -27359,7 +27359,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "4134": {
+    {
         "id": 4134,
         "name": "防御妖精替身-2",
         "code": "empty",
@@ -27397,7 +27397,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "4135": {
+    {
         "id": 4135,
         "name": "防御妖精替身-3",
         "code": "empty",
@@ -27435,7 +27435,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "4136": {
+    {
         "id": 4136,
         "name": "防御妖精替身-4",
         "code": "empty",
@@ -27473,7 +27473,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "4137": {
+    {
         "id": 4137,
         "name": "防御妖精替身-5",
         "code": "empty",
@@ -27511,7 +27511,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "4138": {
+    {
         "id": 4138,
         "name": "防御妖精替身-6",
         "code": "empty",
@@ -27549,7 +27549,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "4139": {
+    {
         "id": 4139,
         "name": "防御妖精替身-7",
         "code": "empty",
@@ -27587,7 +27587,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "4140": {
+    {
         "id": 4140,
         "name": "防御妖精替身-8",
         "code": "empty",
@@ -27625,7 +27625,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "4141": {
+    {
         "id": 4141,
         "name": "防御妖精替身-9",
         "code": "empty",
@@ -27663,7 +27663,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "4142": {
+    {
         "id": 4142,
         "name": "防御妖精替身-10",
         "code": "empty",
@@ -27701,7 +27701,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "4143": {
+    {
         "id": 4143,
         "name": "火箭妖精",
         "code": "empty",
@@ -27739,7 +27739,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "4144": {
+    {
         "id": 4144,
         "name": "火箭妖精",
         "code": "empty",
@@ -27777,7 +27777,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "4145": {
+    {
         "id": 4145,
         "name": "火箭妖精",
         "code": "empty",
@@ -27815,7 +27815,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "4146": {
+    {
         "id": 4146,
         "name": "火箭妖精",
         "code": "empty",
@@ -27853,7 +27853,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "4147": {
+    {
         "id": 4147,
         "name": "火箭妖精",
         "code": "empty",
@@ -27891,7 +27891,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "4148": {
+    {
         "id": 4148,
         "name": "火箭妖精",
         "code": "empty",
@@ -27929,7 +27929,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "4149": {
+    {
         "id": 4149,
         "name": "火箭妖精",
         "code": "empty",
@@ -27967,7 +27967,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "4150": {
+    {
         "id": 4150,
         "name": "火箭妖精",
         "code": "empty",
@@ -28005,7 +28005,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "4151": {
+    {
         "id": 4151,
         "name": "火箭妖精",
         "code": "empty",
@@ -28043,7 +28043,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "4152": {
+    {
         "id": 4152,
         "name": "火箭妖精",
         "code": "empty",
@@ -28081,7 +28081,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "4153": {
+    {
         "id": 4153,
         "name": "维捏龙替身-1",
         "code": "empty",
@@ -28119,7 +28119,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "4154": {
+    {
         "id": 4154,
         "name": "维捏龙替身-2",
         "code": "empty",
@@ -28157,7 +28157,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "4155": {
+    {
         "id": 4155,
         "name": "维捏龙替身-3",
         "code": "empty",
@@ -28195,7 +28195,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "4156": {
+    {
         "id": 4156,
         "name": "维捏龙替身-4",
         "code": "empty",
@@ -28233,7 +28233,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "4157": {
+    {
         "id": 4157,
         "name": "维捏龙替身-5",
         "code": "empty",
@@ -28271,7 +28271,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "4158": {
+    {
         "id": 4158,
         "name": "维捏龙替身-6",
         "code": "empty",
@@ -28309,7 +28309,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "4159": {
+    {
         "id": 4159,
         "name": "维捏龙替身-7",
         "code": "empty",
@@ -28347,7 +28347,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "4160": {
+    {
         "id": 4160,
         "name": "维捏龙替身-8",
         "code": "empty",
@@ -28385,7 +28385,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "4161": {
+    {
         "id": 4161,
         "name": "维捏龙替身-9",
         "code": "empty",
@@ -28423,7 +28423,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "4162": {
+    {
         "id": 4162,
         "name": "维捏龙替身-10",
         "code": "empty",
@@ -28461,7 +28461,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "4163": {
+    {
         "id": 4163,
         "name": "圣诞雪景工具人",
         "code": "empty",
@@ -28499,7 +28499,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "4164": {
+    {
         "id": 4164,
         "name": "尼梅兰光球",
         "code": "empty",
@@ -28537,7 +28537,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "4165": {
+    {
         "id": 4165,
         "name": "存活召唤物",
         "code": "empty",
@@ -28575,7 +28575,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "4166": {
+    {
         "id": 4166,
         "name": "尼梅兰光球1",
         "code": "empty",
@@ -28613,7 +28613,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "4167": {
+    {
         "id": 4167,
         "name": "尼梅兰光球2",
         "code": "empty",
@@ -28651,7 +28651,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "4168": {
+    {
         "id": 4168,
         "name": "尼梅兰光球3",
         "code": "empty",
@@ -28689,7 +28689,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "4169": {
+    {
         "id": 4169,
         "name": "尼梅兰光球4",
         "code": "empty",
@@ -28727,7 +28727,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "4170": {
+    {
         "id": 4170,
         "name": "尼梅兰光球5",
         "code": "empty",
@@ -28765,7 +28765,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "4171": {
+    {
         "id": 4171,
         "name": "白情教堂工具人",
         "code": "empty",
@@ -28803,7 +28803,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "4172": {
+    {
         "id": 4172,
         "name": "P90二段",
         "code": "empty",
@@ -28841,7 +28841,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "4173": {
+    {
         "id": 4173,
         "name": "战区加buff",
         "code": "empty",
@@ -28879,7 +28879,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "4174": {
+    {
         "id": 4174,
         "name": "战区加buff",
         "code": "empty",
@@ -28917,7 +28917,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "4175": {
+    {
         "id": 4175,
         "name": "战区加buff",
         "code": "empty",
@@ -28955,7 +28955,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "4841": {
+    {
         "id": 4841,
         "name": "异构体150夜",
         "code": "Isomer",
@@ -28993,7 +28993,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "4842": {
+    {
         "id": 4842,
         "name": "异构体",
         "code": "Isomer",
@@ -29031,7 +29031,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "4843": {
+    {
         "id": 4843,
         "name": "异构体",
         "code": "Isomer",
@@ -29069,7 +29069,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "10703": {
+    {
         "id": 10703,
         "name": "RO635",
         "code": "Dana_Car",
@@ -29107,7 +29107,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "10706": {
+    {
         "id": 10706,
         "name": "M4_Profile",
         "code": "empty",
@@ -29145,7 +29145,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "10707": {
+    {
         "id": 10707,
         "name": "Beak_Profile",
         "code": "empty",
@@ -29183,7 +29183,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "14660": {
+    {
         "id": 14660,
         "name": "特工V_增援",
         "code": "Jidongyanti",
@@ -29221,7 +29221,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "14662": {
+    {
         "id": 14662,
         "name": "特工V_增援",
         "code": "Jidongyanti",
@@ -29259,7 +29259,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "14663": {
+    {
         "id": 14663,
         "name": "特工V_增援",
         "code": "Jidongyanti",
@@ -29297,7 +29297,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "14664": {
+    {
         "id": 14664,
         "name": "特工V_增援",
         "code": "Jidongyanti",
@@ -29335,7 +29335,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "14665": {
+    {
         "id": 14665,
         "name": "特工V_增援",
         "code": "Jidongyanti",
@@ -29373,7 +29373,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "14666": {
+    {
         "id": 14666,
         "name": "特工V_增援",
         "code": "Jidongyanti",
@@ -29411,7 +29411,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "14667": {
+    {
         "id": 14667,
         "name": "特工V_增援",
         "code": "Jidongyanti",
@@ -29449,7 +29449,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "14668": {
+    {
         "id": 14668,
         "name": "特工V_增援",
         "code": "Jidongyanti",
@@ -29487,7 +29487,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "14669": {
+    {
         "id": 14669,
         "name": "特工V_增援",
         "code": "Jidongyanti",
@@ -29525,7 +29525,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "14670": {
+    {
         "id": 14670,
         "name": "特工V_亡语增援",
         "code": "Jidongyanti",
@@ -29563,7 +29563,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "14672": {
+    {
         "id": 14672,
         "name": "特工V_亡语增援",
         "code": "Jidongyanti",
@@ -29601,7 +29601,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "14673": {
+    {
         "id": 14673,
         "name": "特工V_亡语增援",
         "code": "Jidongyanti",
@@ -29639,7 +29639,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "14674": {
+    {
         "id": 14674,
         "name": "特工V_亡语增援",
         "code": "Jidongyanti",
@@ -29677,7 +29677,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "14675": {
+    {
         "id": 14675,
         "name": "特工V_亡语增援",
         "code": "Jidongyanti",
@@ -29715,7 +29715,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "14676": {
+    {
         "id": 14676,
         "name": "特工V_亡语增援",
         "code": "Jidongyanti",
@@ -29753,7 +29753,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "14677": {
+    {
         "id": 14677,
         "name": "特工V_亡语增援",
         "code": "Jidongyanti",
@@ -29791,7 +29791,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "14678": {
+    {
         "id": 14678,
         "name": "特工V_亡语增援",
         "code": "Jidongyanti",
@@ -29829,7 +29829,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "14679": {
+    {
         "id": 14679,
         "name": "特工V_亡语增援",
         "code": "Jidongyanti",
@@ -29867,7 +29867,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "14680": {
+    {
         "id": 14680,
         "name": "特工V_同排增援",
         "code": "Jidongyanti",
@@ -29905,7 +29905,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "14682": {
+    {
         "id": 14682,
         "name": "特工V_同排增援",
         "code": "Jidongyanti",
@@ -29943,7 +29943,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "14683": {
+    {
         "id": 14683,
         "name": "特工V_同排增援",
         "code": "Jidongyanti",
@@ -29981,7 +29981,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "14684": {
+    {
         "id": 14684,
         "name": "特工V_同排增援",
         "code": "Jidongyanti",
@@ -30019,7 +30019,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "14685": {
+    {
         "id": 14685,
         "name": "特工V_同排增援",
         "code": "Jidongyanti",
@@ -30057,7 +30057,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "14686": {
+    {
         "id": 14686,
         "name": "特工V_同排增援",
         "code": "Jidongyanti",
@@ -30095,7 +30095,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "14687": {
+    {
         "id": 14687,
         "name": "特工V_同排增援",
         "code": "Jidongyanti",
@@ -30133,7 +30133,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "14688": {
+    {
         "id": 14688,
         "name": "特工V_同排增援",
         "code": "Jidongyanti",
@@ -30171,7 +30171,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "14689": {
+    {
         "id": 14689,
         "name": "特工V_同排增援",
         "code": "Jidongyanti",
@@ -30209,7 +30209,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "14690": {
+    {
         "id": 14690,
         "name": "特工V_净化增援",
         "code": "Jidongyanti",
@@ -30247,7 +30247,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "14692": {
+    {
         "id": 14692,
         "name": "特工V_净化增援",
         "code": "Jidongyanti",
@@ -30285,7 +30285,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "14693": {
+    {
         "id": 14693,
         "name": "特工V_净化增援",
         "code": "Jidongyanti",
@@ -30323,7 +30323,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "14694": {
+    {
         "id": 14694,
         "name": "特工V_净化增援",
         "code": "Jidongyanti",
@@ -30361,7 +30361,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "14695": {
+    {
         "id": 14695,
         "name": "特工V_净化增援",
         "code": "Jidongyanti",
@@ -30399,7 +30399,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "14696": {
+    {
         "id": 14696,
         "name": "特工V_净化增援",
         "code": "Jidongyanti",
@@ -30437,7 +30437,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "14697": {
+    {
         "id": 14697,
         "name": "特工V_净化增援",
         "code": "Jidongyanti",
@@ -30475,7 +30475,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "14698": {
+    {
         "id": 14698,
         "name": "特工V_净化增援",
         "code": "Jidongyanti",
@@ -30513,7 +30513,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "14699": {
+    {
         "id": 14699,
         "name": "特工V_净化增援",
         "code": "Jidongyanti",
@@ -30551,7 +30551,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "15040": {
+    {
         "id": 15040,
         "name": "防爆护盾",
         "code": "Welrod_shield",
@@ -30589,7 +30589,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "15041": {
+    {
         "id": 15041,
         "name": "防爆护盾",
         "code": "Welrod_shield",
@@ -30627,7 +30627,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "15042": {
+    {
         "id": 15042,
         "name": "防爆护盾",
         "code": "Welrod_shield",
@@ -30665,7 +30665,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "15043": {
+    {
         "id": 15043,
         "name": "防爆护盾",
         "code": "Welrod_shield",
@@ -30703,7 +30703,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "15044": {
+    {
         "id": 15044,
         "name": "防爆护盾",
         "code": "Welrod_shield",
@@ -30741,7 +30741,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "15045": {
+    {
         "id": 15045,
         "name": "防爆护盾",
         "code": "Welrod_shield",
@@ -30779,7 +30779,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "15046": {
+    {
         "id": 15046,
         "name": "防爆护盾",
         "code": "Welrod_shield",
@@ -30817,7 +30817,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "15047": {
+    {
         "id": 15047,
         "name": "防爆护盾",
         "code": "Welrod_shield",
@@ -30855,7 +30855,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "15048": {
+    {
         "id": 15048,
         "name": "防爆护盾",
         "code": "Welrod_shield",
@@ -30893,7 +30893,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "15049": {
+    {
         "id": 15049,
         "name": "防爆护盾",
         "code": "Welrod_shield",
@@ -30931,7 +30931,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "22901": {
+    {
         "id": 22901,
         "name": "地雷",
         "code": "mine_beach",
@@ -30969,7 +30969,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "48001": {
+    {
         "id": 48001,
         "name": "关卡火力替身-1",
         "code": "empty",
@@ -31007,7 +31007,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "48002": {
+    {
         "id": 48002,
         "name": "关卡boss护盾替身-1",
         "code": "empty",
@@ -31045,7 +31045,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "81501": {
+    {
         "id": 81501,
         "name": "拟态瓜",
         "code": "Pathfinder_beach",
@@ -31083,7 +31083,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "147701": {
+    {
         "id": 147701,
         "name": "刘氏步枪",
         "code": "GeneralLiu_563",
@@ -31121,7 +31121,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "147801": {
+    {
         "id": 147801,
         "name": "刘氏步枪",
         "code": "GeneralLiu_563",
@@ -31159,7 +31159,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "147901": {
+    {
         "id": 147901,
         "name": "刘氏步枪",
         "code": "GeneralLiu_563",
@@ -31197,7 +31197,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "148001": {
+    {
         "id": 148001,
         "name": "刘氏步枪",
         "code": "GeneralLiu_563",
@@ -31235,7 +31235,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "148101": {
+    {
         "id": 148101,
         "name": "刘氏步枪",
         "code": "GeneralLiu_563",
@@ -31273,7 +31273,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "148201": {
+    {
         "id": 148201,
         "name": "刘氏步枪",
         "code": "GeneralLiu_563",
@@ -31311,7 +31311,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "148301": {
+    {
         "id": 148301,
         "name": "刘氏步枪",
         "code": "GeneralLiu_563",
@@ -31349,7 +31349,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "148401": {
+    {
         "id": 148401,
         "name": "刘氏步枪",
         "code": "GeneralLiu_563",
@@ -31387,7 +31387,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "148501": {
+    {
         "id": 148501,
         "name": "刘氏步枪",
         "code": "GeneralLiu_563",
@@ -31425,7 +31425,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "148601": {
+    {
         "id": 148601,
         "name": "刘氏步枪",
         "code": "GeneralLiu_563",
@@ -31463,7 +31463,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "149101": {
+    {
         "id": 149101,
         "name": "特工V_亡语增援",
         "code": "Jidongyanti",
@@ -31501,7 +31501,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "149102": {
+    {
         "id": 149102,
         "name": "特工V_亡语增援",
         "code": "Jidongyanti",
@@ -31539,7 +31539,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "149103": {
+    {
         "id": 149103,
         "name": "特工V_亡语增援",
         "code": "Jidongyanti",
@@ -31577,7 +31577,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "149104": {
+    {
         "id": 149104,
         "name": "特工V_亡语增援",
         "code": "Jidongyanti",
@@ -31615,7 +31615,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "149105": {
+    {
         "id": 149105,
         "name": "特工V_亡语增援",
         "code": "Jidongyanti",
@@ -31653,7 +31653,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "149106": {
+    {
         "id": 149106,
         "name": "特工V_亡语增援",
         "code": "Jidongyanti",
@@ -31691,7 +31691,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "149107": {
+    {
         "id": 149107,
         "name": "特工V_亡语增援",
         "code": "Jidongyanti",
@@ -31729,7 +31729,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "149108": {
+    {
         "id": 149108,
         "name": "特工V_亡语增援",
         "code": "Jidongyanti",
@@ -31767,7 +31767,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "149109": {
+    {
         "id": 149109,
         "name": "特工V_亡语增援",
         "code": "Jidongyanti",
@@ -31805,7 +31805,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "149110": {
+    {
         "id": 149110,
         "name": "特工V_亡语增援",
         "code": "Jidongyanti",
@@ -31843,7 +31843,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "149201": {
+    {
         "id": 149201,
         "name": "特工V_亡语增援",
         "code": "Jidongyanti",
@@ -31881,7 +31881,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "149202": {
+    {
         "id": 149202,
         "name": "特工V_亡语增援",
         "code": "Jidongyanti",
@@ -31919,7 +31919,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "149203": {
+    {
         "id": 149203,
         "name": "特工V_亡语增援",
         "code": "Jidongyanti",
@@ -31957,7 +31957,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "149204": {
+    {
         "id": 149204,
         "name": "特工V_亡语增援",
         "code": "Jidongyanti",
@@ -31995,7 +31995,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "149205": {
+    {
         "id": 149205,
         "name": "特工V_亡语增援",
         "code": "Jidongyanti",
@@ -32033,7 +32033,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "149206": {
+    {
         "id": 149206,
         "name": "特工V_亡语增援",
         "code": "Jidongyanti",
@@ -32071,7 +32071,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "149207": {
+    {
         "id": 149207,
         "name": "特工V_亡语增援",
         "code": "Jidongyanti",
@@ -32109,7 +32109,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "149208": {
+    {
         "id": 149208,
         "name": "特工V_亡语增援",
         "code": "Jidongyanti",
@@ -32147,7 +32147,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "149209": {
+    {
         "id": 149209,
         "name": "特工V_亡语增援",
         "code": "Jidongyanti",
@@ -32185,7 +32185,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "149210": {
+    {
         "id": 149210,
         "name": "特工V_亡语增援",
         "code": "Jidongyanti",
@@ -32223,7 +32223,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "149301": {
+    {
         "id": 149301,
         "name": "特工V_亡语增援",
         "code": "Jidongyanti",
@@ -32261,7 +32261,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "149302": {
+    {
         "id": 149302,
         "name": "特工V_亡语增援",
         "code": "Jidongyanti",
@@ -32299,7 +32299,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "149303": {
+    {
         "id": 149303,
         "name": "特工V_亡语增援",
         "code": "Jidongyanti",
@@ -32337,7 +32337,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "149304": {
+    {
         "id": 149304,
         "name": "特工V_亡语增援",
         "code": "Jidongyanti",
@@ -32375,7 +32375,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "149305": {
+    {
         "id": 149305,
         "name": "特工V_亡语增援",
         "code": "Jidongyanti",
@@ -32413,7 +32413,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "149306": {
+    {
         "id": 149306,
         "name": "特工V_亡语增援",
         "code": "Jidongyanti",
@@ -32451,7 +32451,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "149307": {
+    {
         "id": 149307,
         "name": "特工V_亡语增援",
         "code": "Jidongyanti",
@@ -32489,7 +32489,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "149308": {
+    {
         "id": 149308,
         "name": "特工V_亡语增援",
         "code": "Jidongyanti",
@@ -32527,7 +32527,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "149309": {
+    {
         "id": 149309,
         "name": "特工V_亡语增援",
         "code": "Jidongyanti",
@@ -32565,7 +32565,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "149310": {
+    {
         "id": 149310,
         "name": "特工V_亡语增援",
         "code": "Jidongyanti",
@@ -32603,7 +32603,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "149401": {
+    {
         "id": 149401,
         "name": "特工V_亡语增援",
         "code": "Jidongyanti",
@@ -32641,7 +32641,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "149402": {
+    {
         "id": 149402,
         "name": "特工V_亡语增援",
         "code": "Jidongyanti",
@@ -32679,7 +32679,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "149403": {
+    {
         "id": 149403,
         "name": "特工V_亡语增援",
         "code": "Jidongyanti",
@@ -32717,7 +32717,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "149404": {
+    {
         "id": 149404,
         "name": "特工V_亡语增援",
         "code": "Jidongyanti",
@@ -32755,7 +32755,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "149405": {
+    {
         "id": 149405,
         "name": "特工V_亡语增援",
         "code": "Jidongyanti",
@@ -32793,7 +32793,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "149406": {
+    {
         "id": 149406,
         "name": "特工V_亡语增援",
         "code": "Jidongyanti",
@@ -32831,7 +32831,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "149407": {
+    {
         "id": 149407,
         "name": "特工V_亡语增援",
         "code": "Jidongyanti",
@@ -32869,7 +32869,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "149408": {
+    {
         "id": 149408,
         "name": "特工V_亡语增援",
         "code": "Jidongyanti",
@@ -32907,7 +32907,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "149409": {
+    {
         "id": 149409,
         "name": "特工V_亡语增援",
         "code": "Jidongyanti",
@@ -32945,7 +32945,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "149410": {
+    {
         "id": 149410,
         "name": "特工V_亡语增援",
         "code": "Jidongyanti",
@@ -32983,7 +32983,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "149701": {
+    {
         "id": 149701,
         "name": "爆炸感应弹_1",
         "code": "Nianxingzd",
@@ -33021,7 +33021,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "149702": {
+    {
         "id": 149702,
         "name": "爆炸感应弹_2",
         "code": "Nianxingzd",
@@ -33059,7 +33059,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "150001": {
+    {
         "id": 150001,
         "name": "法官的电子盾1",
         "code": "empty",
@@ -33097,7 +33097,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "150002": {
+    {
         "id": 150002,
         "name": "法官的电子盾2",
         "code": "empty",
@@ -33135,7 +33135,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "150003": {
+    {
         "id": 150003,
         "name": "法官的电子盾3",
         "code": "empty",
@@ -33173,7 +33173,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "150004": {
+    {
         "id": 150004,
         "name": "法官的电子盾4",
         "code": "empty",
@@ -33211,7 +33211,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "150005": {
+    {
         "id": 150005,
         "name": "法官的电子盾5",
         "code": "empty",
@@ -33249,7 +33249,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "150006": {
+    {
         "id": 150006,
         "name": "法官的电子盾6",
         "code": "empty",
@@ -33287,7 +33287,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "150007": {
+    {
         "id": 150007,
         "name": "法官的电子盾7",
         "code": "empty",
@@ -33325,7 +33325,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "150008": {
+    {
         "id": 150008,
         "name": "法官的电子盾8",
         "code": "empty",
@@ -33363,7 +33363,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "150009": {
+    {
         "id": 150009,
         "name": "法官的电子盾9",
         "code": "empty",
@@ -33401,7 +33401,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "150010": {
+    {
         "id": 150010,
         "name": "法官的电子盾10",
         "code": "empty",
@@ -33439,7 +33439,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "150011": {
+    {
         "id": 150011,
         "name": "法官的电子盾11",
         "code": "empty",
@@ -33477,7 +33477,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "150012": {
+    {
         "id": 150012,
         "name": "法官的电子盾12",
         "code": "empty",
@@ -33515,7 +33515,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "150013": {
+    {
         "id": 150013,
         "name": "法官的电子盾13",
         "code": "empty",
@@ -33553,7 +33553,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "150014": {
+    {
         "id": 150014,
         "name": "法官的电子盾14",
         "code": "empty",
@@ -33591,7 +33591,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "150015": {
+    {
         "id": 150015,
         "name": "法官的电子盾15",
         "code": "empty",
@@ -33629,7 +33629,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "150016": {
+    {
         "id": 150016,
         "name": "法官的电子盾16",
         "code": "empty",
@@ -33667,7 +33667,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "150017": {
+    {
         "id": 150017,
         "name": "法官的电子盾17",
         "code": "empty",
@@ -33705,7 +33705,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "150018": {
+    {
         "id": 150018,
         "name": "法官的电子盾18",
         "code": "empty",
@@ -33743,7 +33743,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "150019": {
+    {
         "id": 150019,
         "name": "法官的电子盾19",
         "code": "empty",
@@ -33781,7 +33781,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "150020": {
+    {
         "id": 150020,
         "name": "法官的电子盾20",
         "code": "empty",
@@ -33819,7 +33819,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "150101": {
+    {
         "id": 150101,
         "name": "法官工具人1",
         "code": "empty",
@@ -33857,7 +33857,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "150102": {
+    {
         "id": 150102,
         "name": "法官工具人2",
         "code": "empty",
@@ -33895,7 +33895,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "150103": {
+    {
         "id": 150103,
         "name": "法官工具人3",
         "code": "empty",
@@ -33933,7 +33933,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "150104": {
+    {
         "id": 150104,
         "name": "法官工具人4",
         "code": "empty",
@@ -33971,7 +33971,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "150105": {
+    {
         "id": 150105,
         "name": "法官工具人5",
         "code": "empty",
@@ -34009,7 +34009,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "150106": {
+    {
         "id": 150106,
         "name": "法官工具人6",
         "code": "empty",
@@ -34047,7 +34047,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "150107": {
+    {
         "id": 150107,
         "name": "法官工具人7",
         "code": "empty",
@@ -34085,7 +34085,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "150108": {
+    {
         "id": 150108,
         "name": "法官工具人8",
         "code": "empty",
@@ -34123,7 +34123,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "150109": {
+    {
         "id": 150109,
         "name": "法官工具人9",
         "code": "empty",
@@ -34161,7 +34161,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "150110": {
+    {
         "id": 150110,
         "name": "法官工具人10",
         "code": "empty",
@@ -34199,7 +34199,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "150201": {
+    {
         "id": 150201,
         "name": "代理人",
         "code": "Agent",
@@ -34237,7 +34237,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "150202": {
+    {
         "id": 150202,
         "name": "代理人",
         "code": "Agent",
@@ -34275,7 +34275,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "150203": {
+    {
         "id": 150203,
         "name": "代理人",
         "code": "Agent",
@@ -34313,7 +34313,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "150204": {
+    {
         "id": 150204,
         "name": "代理人",
         "code": "Agent",
@@ -34351,7 +34351,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "150205": {
+    {
         "id": 150205,
         "name": "代理人",
         "code": "Agent",
@@ -34389,7 +34389,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "150206": {
+    {
         "id": 150206,
         "name": "代理人",
         "code": "Agent",
@@ -34427,7 +34427,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "150207": {
+    {
         "id": 150207,
         "name": "代理人",
         "code": "Agent",
@@ -34465,7 +34465,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "150208": {
+    {
         "id": 150208,
         "name": "代理人",
         "code": "Agent",
@@ -34503,7 +34503,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "150209": {
+    {
         "id": 150209,
         "name": "代理人",
         "code": "Agent",
@@ -34541,7 +34541,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "150210": {
+    {
         "id": 150210,
         "name": "代理人",
         "code": "Agent",
@@ -34579,7 +34579,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "150301": {
+    {
         "id": 150301,
         "name": "代理人",
         "code": "Agent",
@@ -34617,7 +34617,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "150302": {
+    {
         "id": 150302,
         "name": "代理人",
         "code": "Agent",
@@ -34655,7 +34655,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "150303": {
+    {
         "id": 150303,
         "name": "代理人",
         "code": "Agent",
@@ -34693,7 +34693,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "150304": {
+    {
         "id": 150304,
         "name": "代理人",
         "code": "Agent",
@@ -34731,7 +34731,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "150305": {
+    {
         "id": 150305,
         "name": "代理人",
         "code": "Agent",
@@ -34769,7 +34769,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "150306": {
+    {
         "id": 150306,
         "name": "代理人",
         "code": "Agent",
@@ -34807,7 +34807,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "150307": {
+    {
         "id": 150307,
         "name": "代理人",
         "code": "Agent",
@@ -34845,7 +34845,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "150308": {
+    {
         "id": 150308,
         "name": "代理人",
         "code": "Agent",
@@ -34883,7 +34883,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "150309": {
+    {
         "id": 150309,
         "name": "代理人",
         "code": "Agent",
@@ -34921,7 +34921,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "150310": {
+    {
         "id": 150310,
         "name": "代理人",
         "code": "Agent",
@@ -34959,7 +34959,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "370001": {
+    {
         "id": 370001,
         "name": "Savage99",
         "code": "Savage99",
@@ -34997,7 +34997,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "370002": {
+    {
         "id": 370002,
         "name": "蜂鸟",
         "code": "Kolibri",
@@ -35035,7 +35035,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "370003": {
+    {
         "id": 370003,
         "name": "VP1915",
         "code": "VP1915",
@@ -35073,7 +35073,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "370004": {
+    {
         "id": 370004,
         "name": "肉鸽工具人",
         "code": "empty",
@@ -35111,7 +35111,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "370201": {
+    {
         "id": 370201,
         "name": "近战杂兵",
         "code": "unknown",
@@ -35149,7 +35149,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "370202": {
+    {
         "id": 370202,
         "name": "近战杂兵",
         "code": "unknown",
@@ -35187,7 +35187,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "370203": {
+    {
         "id": 370203,
         "name": "近战杂兵",
         "code": "unknown",
@@ -35225,7 +35225,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "370204": {
+    {
         "id": 370204,
         "name": "近战杂兵",
         "code": "unknown",
@@ -35263,7 +35263,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "370205": {
+    {
         "id": 370205,
         "name": "近战杂兵",
         "code": "unknown",
@@ -35301,7 +35301,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "370301": {
+    {
         "id": 370301,
         "name": "近战杂兵",
         "code": "unknown",
@@ -35339,7 +35339,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "370302": {
+    {
         "id": 370302,
         "name": "近战杂兵",
         "code": "unknown",
@@ -35377,7 +35377,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "370303": {
+    {
         "id": 370303,
         "name": "白色普通敌人3",
         "code": "Strelet",
@@ -35415,7 +35415,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "370304": {
+    {
         "id": 370304,
         "name": "白色普通敌人3",
         "code": "Strelet",
@@ -35453,7 +35453,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "370401": {
+    {
         "id": 370401,
         "name": "白色近战敌人3",
         "code": "Punish",
@@ -35491,7 +35491,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "370402": {
+    {
         "id": 370402,
         "name": "白色近战敌人3",
         "code": "Punish",
@@ -35529,7 +35529,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "370403": {
+    {
         "id": 370403,
         "name": "白色近战敌人3",
         "code": "Punish",
@@ -35567,7 +35567,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "370501": {
+    {
         "id": 370501,
         "name": "白色近战敌人3",
         "code": "Punish",
@@ -35605,7 +35605,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "370502": {
+    {
         "id": 370502,
         "name": "白色近战敌人3",
         "code": "Punish",
@@ -35643,7 +35643,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "370503": {
+    {
         "id": 370503,
         "name": "白色普通敌人3",
         "code": "Strelet",
@@ -35681,7 +35681,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "370504": {
+    {
         "id": 370504,
         "name": "白色普通敌人3",
         "code": "Strelet",
@@ -35719,7 +35719,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "370601": {
+    {
         "id": 370601,
         "name": "近战杂兵",
         "code": "unknown",
@@ -35757,7 +35757,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "370602": {
+    {
         "id": 370602,
         "name": "近战杂兵",
         "code": "unknown",
@@ -35795,7 +35795,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "370603": {
+    {
         "id": 370603,
         "name": "近战杂兵",
         "code": "unknown",
@@ -35833,7 +35833,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "370604": {
+    {
         "id": 370604,
         "name": "近战杂兵",
         "code": "unknown",
@@ -35871,7 +35871,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "370605": {
+    {
         "id": 370605,
         "name": "近战杂兵",
         "code": "unknown",
@@ -35909,7 +35909,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "370606": {
+    {
         "id": 370606,
         "name": "白色高血单编1",
         "code": "Rodelero",
@@ -35947,7 +35947,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "370607": {
+    {
         "id": 370607,
         "name": "白色高血单编1",
         "code": "Rodelero",
@@ -35985,7 +35985,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "370701": {
+    {
         "id": 370701,
         "name": "白色预警敌人1",
         "code": "Doppelsoldner",
@@ -36023,7 +36023,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "370702": {
+    {
         "id": 370702,
         "name": "白色预警敌人1",
         "code": "Doppelsoldner",
@@ -36061,7 +36061,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "370703": {
+    {
         "id": 370703,
         "name": "白色近战敌人3",
         "code": "Punish",
@@ -36099,7 +36099,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "370704": {
+    {
         "id": 370704,
         "name": "白色近战敌人3",
         "code": "Punish",
@@ -36137,7 +36137,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "370801": {
+    {
         "id": 370801,
         "name": "近战杂兵",
         "code": "unknown",
@@ -36175,7 +36175,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "370802": {
+    {
         "id": 370802,
         "name": "近战杂兵",
         "code": "unknown",
@@ -36213,7 +36213,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "370803": {
+    {
         "id": 370803,
         "name": "近战杂兵",
         "code": "unknown",
@@ -36251,7 +36251,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "370804": {
+    {
         "id": 370804,
         "name": "近战杂兵",
         "code": "unknown",
@@ -36289,7 +36289,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "370805": {
+    {
         "id": 370805,
         "name": "近战杂兵",
         "code": "unknown",
@@ -36327,7 +36327,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "370806": {
+    {
         "id": 370806,
         "name": "近战杂兵",
         "code": "unknown",
@@ -36365,7 +36365,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "370807": {
+    {
         "id": 370807,
         "name": "近战杂兵",
         "code": "unknown",
@@ -36403,7 +36403,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "370808": {
+    {
         "id": 370808,
         "name": "近战杂兵",
         "code": "unknown",
@@ -36441,7 +36441,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "370809": {
+    {
         "id": 370809,
         "name": "近战杂兵",
         "code": "unknown",
@@ -36479,7 +36479,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "370810": {
+    {
         "id": 370810,
         "name": "近战杂兵",
         "code": "unknown",
@@ -36517,7 +36517,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "370811": {
+    {
         "id": 370811,
         "name": "近战杂兵",
         "code": "unknown",
@@ -36555,7 +36555,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "370812": {
+    {
         "id": 370812,
         "name": "近战杂兵",
         "code": "unknown",
@@ -36593,7 +36593,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "370901": {
+    {
         "id": 370901,
         "name": "白色高血单编1",
         "code": "Rodelero",
@@ -36631,7 +36631,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "370902": {
+    {
         "id": 370902,
         "name": "白色高血单编1",
         "code": "Rodelero",
@@ -36669,7 +36669,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "370903": {
+    {
         "id": 370903,
         "name": "白色预警敌人1",
         "code": "Doppelsoldner",
@@ -36707,7 +36707,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "370904": {
+    {
         "id": 370904,
         "name": "白色预警敌人1",
         "code": "Doppelsoldner",
@@ -36745,7 +36745,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "370905": {
+    {
         "id": 370905,
         "name": "白色高血单编1",
         "code": "Rodelero",
@@ -36783,7 +36783,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "370906": {
+    {
         "id": 370906,
         "name": "白色高血单编1",
         "code": "Rodelero",
@@ -36821,7 +36821,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "370907": {
+    {
         "id": 370907,
         "name": "白色预警敌人1",
         "code": "Doppelsoldner",
@@ -36859,7 +36859,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "371001": {
+    {
         "id": 371001,
         "name": "白色近战敌人3",
         "code": "Punish",
@@ -36897,7 +36897,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "371002": {
+    {
         "id": 371002,
         "name": "白色近战敌人3",
         "code": "Punish",
@@ -36935,7 +36935,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "371003": {
+    {
         "id": 371003,
         "name": "白色近战敌人3",
         "code": "Punish",
@@ -36973,7 +36973,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "371004": {
+    {
         "id": 371004,
         "name": "白色普通敌人3",
         "code": "Strelet",
@@ -37011,7 +37011,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "371005": {
+    {
         "id": 371005,
         "name": "白色普通敌人3",
         "code": "Strelet",
@@ -37049,7 +37049,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "371006": {
+    {
         "id": 371006,
         "name": "白色普通敌人3",
         "code": "Strelet",
@@ -37087,7 +37087,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "371007": {
+    {
         "id": 371007,
         "name": "白色普通敌人3",
         "code": "Strelet",
@@ -37125,7 +37125,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "371008": {
+    {
         "id": 371008,
         "name": "白色普通敌人3",
         "code": "Strelet",
@@ -37163,7 +37163,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "371101": {
+    {
         "id": 371101,
         "name": "白色预警敌人1",
         "code": "Doppelsoldner",
@@ -37201,7 +37201,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "371102": {
+    {
         "id": 371102,
         "name": "白色预警敌人1",
         "code": "Doppelsoldner",
@@ -37239,7 +37239,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "371103": {
+    {
         "id": 371103,
         "name": "白色近战敌人3",
         "code": "Punish",
@@ -37277,7 +37277,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "371104": {
+    {
         "id": 371104,
         "name": "白色近战敌人3",
         "code": "Punish",
@@ -37315,7 +37315,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "371105": {
+    {
         "id": 371105,
         "name": "白色近战敌人3",
         "code": "Punish",
@@ -37353,7 +37353,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "371106": {
+    {
         "id": 371106,
         "name": "白色普通敌人3",
         "code": "Strelet",
@@ -37391,7 +37391,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "371107": {
+    {
         "id": 371107,
         "name": "白色普通敌人3",
         "code": "Strelet",
@@ -37429,7 +37429,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "371108": {
+    {
         "id": 371108,
         "name": "白色普通敌人3",
         "code": "Strelet",
@@ -37467,7 +37467,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "371109": {
+    {
         "id": 371109,
         "name": "白色高血单编1",
         "code": "Rodelero",
@@ -37505,7 +37505,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "371110": {
+    {
         "id": 371110,
         "name": "白色高血单编1",
         "code": "Rodelero",
@@ -37543,7 +37543,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "371111": {
+    {
         "id": 371111,
         "name": "白色高血单编1",
         "code": "Rodelero",
@@ -37581,7 +37581,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "371112": {
+    {
         "id": 371112,
         "name": "白色高血单编1",
         "code": "Rodelero",
@@ -37619,7 +37619,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "371201": {
+    {
         "id": 371201,
         "name": "白色普通敌人3",
         "code": "Strelet",
@@ -37657,7 +37657,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "371202": {
+    {
         "id": 371202,
         "name": "白色普通敌人3",
         "code": "Strelet",
@@ -37695,7 +37695,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "999010": {
+    {
         "id": 999010,
         "name": "伤害产生召唤物测试",
         "code": "Drone",
@@ -37733,7 +37733,7 @@
         "is_sangvis": 0,
         "phase_duration": 0
     },
-    "999011": {
+    {
         "id": 999011,
         "name": "伤害产生召唤物测试",
         "code": "Drone",
@@ -37771,4 +37771,4 @@
         "is_sangvis": 0,
         "phase_duration": 0
     }
-}
+]

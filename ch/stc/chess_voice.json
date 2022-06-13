@@ -1,5 +1,5 @@
-{
-    "1": {
+[
+    {
         "id": 1,
         "situation": "jump",
         "chip_group": 0,
@@ -7,7 +7,7 @@
         "surprise": "",
         "code": "PHRASE"
     },
-    "2": {
+    {
         "id": 2,
         "situation": "fly",
         "chip_group": 0,
@@ -15,7 +15,7 @@
         "surprise": "",
         "code": "OPERATIONBEGIN"
     },
-    "3": {
+    {
         "id": 3,
         "situation": "missPVP",
         "chip_group": 0,
@@ -23,7 +23,7 @@
         "surprise": "",
         "code": "MOOD1"
     },
-    "4": {
+    {
         "id": 4,
         "situation": "hurtLess",
         "chip_group": 0,
@@ -31,7 +31,7 @@
         "surprise": "",
         "code": "MOOD2"
     },
-    "5": {
+    {
         "id": 5,
         "situation": "hurtMore",
         "chip_group": 0,
@@ -39,7 +39,7 @@
         "surprise": "",
         "code": "BREAK"
     },
-    "6": {
+    {
         "id": 6,
         "situation": "enemyDiePVP",
         "chip_group": 0,
@@ -47,7 +47,7 @@
         "surprise": "",
         "code": "WIN"
     },
-    "7": {
+    {
         "id": 7,
         "situation": "enemySurvivePVP",
         "chip_group": 0,
@@ -55,7 +55,7 @@
         "surprise": "",
         "code": "LOWMOOD"
     },
-    "8": {
+    {
         "id": 8,
         "situation": "onboard",
         "chip_group": 0,
@@ -63,7 +63,7 @@
         "surprise": "",
         "code": "GAIN,HELLO"
     },
-    "9": {
+    {
         "id": 9,
         "situation": "die",
         "chip_group": 0,
@@ -71,7 +71,7 @@
         "surprise": "",
         "code": "RETREAT"
     },
-    "10": {
+    {
         "id": 10,
         "situation": "recoverHP",
         "chip_group": 0,
@@ -79,7 +79,7 @@
         "surprise": "",
         "code": "FIX"
     },
-    "11": {
+    {
         "id": 11,
         "situation": "shieldIncrease",
         "chip_group": 0,
@@ -87,7 +87,7 @@
         "surprise": "",
         "code": "APPRECIATE"
     },
-    "12": {
+    {
         "id": 12,
         "situation": "enemyMissPVP",
         "chip_group": 0,
@@ -95,4 +95,4 @@
         "surprise": "",
         "code": "DEFENSE"
     }
-}
+]

@@ -1,5 +1,5 @@
-{
-    "1": {
+[
+    {
         "id": 1,
         "squad_id": 1,
         "squad_level": 90,
@@ -20,7 +20,7 @@
         "skill3": 10,
         "skin": 0
     },
-    "2": {
+    {
         "id": 2,
         "squad_id": 2,
         "squad_level": 100,
@@ -41,7 +41,7 @@
         "skill3": 10,
         "skin": 0
     },
-    "3": {
+    {
         "id": 3,
         "squad_id": 1,
         "squad_level": 90,
@@ -62,7 +62,7 @@
         "skill3": 10,
         "skin": 0
     },
-    "4": {
+    {
         "id": 4,
         "squad_id": 2,
         "squad_level": 100,
@@ -83,7 +83,7 @@
         "skill3": 10,
         "skin": 0
     },
-    "5": {
+    {
         "id": 5,
         "squad_id": 1,
         "squad_level": 90,
@@ -104,7 +104,7 @@
         "skill3": 10,
         "skin": 0
     },
-    "6": {
+    {
         "id": 6,
         "squad_id": 2,
         "squad_level": 100,
@@ -125,4 +125,4 @@
         "skill3": 10,
         "skin": 0
     }
-}
+]

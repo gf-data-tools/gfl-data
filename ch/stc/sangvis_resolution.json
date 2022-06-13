@@ -1,5 +1,5 @@
-{
-    "10000": {
+[
+    {
         "id": 10000,
         "group_id": 100,
         "lv": 0,
@@ -25,7 +25,7 @@
         "skill3": 0,
         "skill_advance": 0
     },
-    "10001": {
+    {
         "id": 10001,
         "group_id": 100,
         "lv": 1,
@@ -51,7 +51,7 @@
         "skill3": 0,
         "skill_advance": 0
     },
-    "10002": {
+    {
         "id": 10002,
         "group_id": 100,
         "lv": 2,
@@ -77,7 +77,7 @@
         "skill3": 0,
         "skill_advance": 0
     },
-    "10003": {
+    {
         "id": 10003,
         "group_id": 100,
         "lv": 3,
@@ -103,7 +103,7 @@
         "skill3": 0,
         "skill_advance": 0
     },
-    "10004": {
+    {
         "id": 10004,
         "group_id": 100,
         "lv": 4,
@@ -129,7 +129,7 @@
         "skill3": 0,
         "skill_advance": 0
     },
-    "10100": {
+    {
         "id": 10100,
         "group_id": 101,
         "lv": 0,
@@ -155,7 +155,7 @@
         "skill3": 0,
         "skill_advance": 0
     },
-    "10101": {
+    {
         "id": 10101,
         "group_id": 101,
         "lv": 1,
@@ -181,7 +181,7 @@
         "skill3": 0,
         "skill_advance": 0
     },
-    "10102": {
+    {
         "id": 10102,
         "group_id": 101,
         "lv": 2,
@@ -207,7 +207,7 @@
         "skill3": 0,
         "skill_advance": 0
     },
-    "10103": {
+    {
         "id": 10103,
         "group_id": 101,
         "lv": 3,
@@ -233,7 +233,7 @@
         "skill3": 0,
         "skill_advance": 0
     },
-    "10104": {
+    {
         "id": 10104,
         "group_id": 101,
         "lv": 4,
@@ -259,7 +259,7 @@
         "skill3": 0,
         "skill_advance": 0
     },
-    "10200": {
+    {
         "id": 10200,
         "group_id": 102,
         "lv": 0,
@@ -285,7 +285,7 @@
         "skill3": 0,
         "skill_advance": 0
     },
-    "10201": {
+    {
         "id": 10201,
         "group_id": 102,
         "lv": 1,
@@ -311,7 +311,7 @@
         "skill3": 0,
         "skill_advance": 0
     },
-    "10202": {
+    {
         "id": 10202,
         "group_id": 102,
         "lv": 2,
@@ -337,7 +337,7 @@
         "skill3": 0,
         "skill_advance": 0
     },
-    "10203": {
+    {
         "id": 10203,
         "group_id": 102,
         "lv": 3,
@@ -363,7 +363,7 @@
         "skill3": 0,
         "skill_advance": 0
     },
-    "10204": {
+    {
         "id": 10204,
         "group_id": 102,
         "lv": 4,
@@ -389,7 +389,7 @@
         "skill3": 0,
         "skill_advance": 0
     },
-    "10300": {
+    {
         "id": 10300,
         "group_id": 103,
         "lv": 0,
@@ -415,7 +415,7 @@
         "skill3": 0,
         "skill_advance": 0
     },
-    "10301": {
+    {
         "id": 10301,
         "group_id": 103,
         "lv": 1,
@@ -441,7 +441,7 @@
         "skill3": 0,
         "skill_advance": 0
     },
-    "10302": {
+    {
         "id": 10302,
         "group_id": 103,
         "lv": 2,
@@ -467,7 +467,7 @@
         "skill3": 0,
         "skill_advance": 0
     },
-    "10303": {
+    {
         "id": 10303,
         "group_id": 103,
         "lv": 3,
@@ -493,7 +493,7 @@
         "skill3": 0,
         "skill_advance": 0
     },
-    "10304": {
+    {
         "id": 10304,
         "group_id": 103,
         "lv": 4,
@@ -519,7 +519,7 @@
         "skill3": 0,
         "skill_advance": 0
     },
-    "10400": {
+    {
         "id": 10400,
         "group_id": 104,
         "lv": 0,
@@ -545,7 +545,7 @@
         "skill3": 0,
         "skill_advance": 0
     },
-    "10401": {
+    {
         "id": 10401,
         "group_id": 104,
         "lv": 1,
@@ -571,7 +571,7 @@
         "skill3": 0,
         "skill_advance": 0
     },
-    "10402": {
+    {
         "id": 10402,
         "group_id": 104,
         "lv": 2,
@@ -597,7 +597,7 @@
         "skill3": 0,
         "skill_advance": 0
     },
-    "10403": {
+    {
         "id": 10403,
         "group_id": 104,
         "lv": 3,
@@ -623,7 +623,7 @@
         "skill3": 0,
         "skill_advance": 0
     },
-    "10404": {
+    {
         "id": 10404,
         "group_id": 104,
         "lv": 4,
@@ -649,7 +649,7 @@
         "skill3": 0,
         "skill_advance": 0
     },
-    "10500": {
+    {
         "id": 10500,
         "group_id": 105,
         "lv": 0,
@@ -675,7 +675,7 @@
         "skill3": 0,
         "skill_advance": 0
     },
-    "10501": {
+    {
         "id": 10501,
         "group_id": 105,
         "lv": 1,
@@ -701,7 +701,7 @@
         "skill3": 0,
         "skill_advance": 0
     },
-    "10502": {
+    {
         "id": 10502,
         "group_id": 105,
         "lv": 2,
@@ -727,7 +727,7 @@
         "skill3": 0,
         "skill_advance": 0
     },
-    "10503": {
+    {
         "id": 10503,
         "group_id": 105,
         "lv": 3,
@@ -753,7 +753,7 @@
         "skill3": 0,
         "skill_advance": 0
     },
-    "10504": {
+    {
         "id": 10504,
         "group_id": 105,
         "lv": 4,
@@ -779,7 +779,7 @@
         "skill3": 0,
         "skill_advance": 0
     },
-    "10600": {
+    {
         "id": 10600,
         "group_id": 106,
         "lv": 0,
@@ -805,7 +805,7 @@
         "skill3": 0,
         "skill_advance": 0
     },
-    "10601": {
+    {
         "id": 10601,
         "group_id": 106,
         "lv": 1,
@@ -831,7 +831,7 @@
         "skill3": 0,
         "skill_advance": 0
     },
-    "10602": {
+    {
         "id": 10602,
         "group_id": 106,
         "lv": 2,
@@ -857,7 +857,7 @@
         "skill3": 0,
         "skill_advance": 0
     },
-    "10603": {
+    {
         "id": 10603,
         "group_id": 106,
         "lv": 3,
@@ -883,7 +883,7 @@
         "skill3": 0,
         "skill_advance": 0
     },
-    "10604": {
+    {
         "id": 10604,
         "group_id": 106,
         "lv": 4,
@@ -909,7 +909,7 @@
         "skill3": 0,
         "skill_advance": 0
     },
-    "10700": {
+    {
         "id": 10700,
         "group_id": 107,
         "lv": 0,
@@ -935,7 +935,7 @@
         "skill3": 0,
         "skill_advance": 0
     },
-    "10701": {
+    {
         "id": 10701,
         "group_id": 107,
         "lv": 1,
@@ -961,7 +961,7 @@
         "skill3": 0,
         "skill_advance": 0
     },
-    "10702": {
+    {
         "id": 10702,
         "group_id": 107,
         "lv": 2,
@@ -987,7 +987,7 @@
         "skill3": 0,
         "skill_advance": 0
     },
-    "10703": {
+    {
         "id": 10703,
         "group_id": 107,
         "lv": 3,
@@ -1013,7 +1013,7 @@
         "skill3": 0,
         "skill_advance": 0
     },
-    "10704": {
+    {
         "id": 10704,
         "group_id": 107,
         "lv": 4,
@@ -1039,7 +1039,7 @@
         "skill3": 0,
         "skill_advance": 0
     },
-    "10800": {
+    {
         "id": 10800,
         "group_id": 108,
         "lv": 0,
@@ -1065,7 +1065,7 @@
         "skill3": 0,
         "skill_advance": 0
     },
-    "10801": {
+    {
         "id": 10801,
         "group_id": 108,
         "lv": 1,
@@ -1091,7 +1091,7 @@
         "skill3": 0,
         "skill_advance": 0
     },
-    "10802": {
+    {
         "id": 10802,
         "group_id": 108,
         "lv": 2,
@@ -1117,7 +1117,7 @@
         "skill3": 0,
         "skill_advance": 0
     },
-    "10803": {
+    {
         "id": 10803,
         "group_id": 108,
         "lv": 3,
@@ -1143,7 +1143,7 @@
         "skill3": 0,
         "skill_advance": 0
     },
-    "10804": {
+    {
         "id": 10804,
         "group_id": 108,
         "lv": 4,
@@ -1169,7 +1169,7 @@
         "skill3": 0,
         "skill_advance": 0
     },
-    "10900": {
+    {
         "id": 10900,
         "group_id": 109,
         "lv": 0,
@@ -1195,7 +1195,7 @@
         "skill3": 0,
         "skill_advance": 0
     },
-    "10901": {
+    {
         "id": 10901,
         "group_id": 109,
         "lv": 1,
@@ -1221,7 +1221,7 @@
         "skill3": 0,
         "skill_advance": 0
     },
-    "10902": {
+    {
         "id": 10902,
         "group_id": 109,
         "lv": 2,
@@ -1247,7 +1247,7 @@
         "skill3": 0,
         "skill_advance": 0
     },
-    "10903": {
+    {
         "id": 10903,
         "group_id": 109,
         "lv": 3,
@@ -1273,7 +1273,7 @@
         "skill3": 0,
         "skill_advance": 0
     },
-    "10904": {
+    {
         "id": 10904,
         "group_id": 109,
         "lv": 4,
@@ -1299,7 +1299,7 @@
         "skill3": 0,
         "skill_advance": 0
     },
-    "11000": {
+    {
         "id": 11000,
         "group_id": 110,
         "lv": 0,
@@ -1325,7 +1325,7 @@
         "skill3": 0,
         "skill_advance": 0
     },
-    "11001": {
+    {
         "id": 11001,
         "group_id": 110,
         "lv": 1,
@@ -1351,7 +1351,7 @@
         "skill3": 0,
         "skill_advance": 0
     },
-    "11002": {
+    {
         "id": 11002,
         "group_id": 110,
         "lv": 2,
@@ -1377,7 +1377,7 @@
         "skill3": 0,
         "skill_advance": 0
     },
-    "11003": {
+    {
         "id": 11003,
         "group_id": 110,
         "lv": 3,
@@ -1403,7 +1403,7 @@
         "skill3": 0,
         "skill_advance": 0
     },
-    "11004": {
+    {
         "id": 11004,
         "group_id": 110,
         "lv": 4,
@@ -1429,7 +1429,7 @@
         "skill3": 0,
         "skill_advance": 0
     },
-    "11100": {
+    {
         "id": 11100,
         "group_id": 111,
         "lv": 0,
@@ -1455,7 +1455,7 @@
         "skill3": 0,
         "skill_advance": 0
     },
-    "11101": {
+    {
         "id": 11101,
         "group_id": 111,
         "lv": 1,
@@ -1481,7 +1481,7 @@
         "skill3": 0,
         "skill_advance": 0
     },
-    "11102": {
+    {
         "id": 11102,
         "group_id": 111,
         "lv": 2,
@@ -1507,7 +1507,7 @@
         "skill3": 0,
         "skill_advance": 0
     },
-    "11103": {
+    {
         "id": 11103,
         "group_id": 111,
         "lv": 3,
@@ -1533,7 +1533,7 @@
         "skill3": 0,
         "skill_advance": 0
     },
-    "11104": {
+    {
         "id": 11104,
         "group_id": 111,
         "lv": 4,
@@ -1559,7 +1559,7 @@
         "skill3": 0,
         "skill_advance": 0
     },
-    "11200": {
+    {
         "id": 11200,
         "group_id": 112,
         "lv": 0,
@@ -1585,7 +1585,7 @@
         "skill3": 0,
         "skill_advance": 0
     },
-    "11201": {
+    {
         "id": 11201,
         "group_id": 112,
         "lv": 1,
@@ -1611,7 +1611,7 @@
         "skill3": 0,
         "skill_advance": 0
     },
-    "11202": {
+    {
         "id": 11202,
         "group_id": 112,
         "lv": 2,
@@ -1637,7 +1637,7 @@
         "skill3": 0,
         "skill_advance": 0
     },
-    "11203": {
+    {
         "id": 11203,
         "group_id": 112,
         "lv": 3,
@@ -1663,7 +1663,7 @@
         "skill3": 0,
         "skill_advance": 0
     },
-    "11204": {
+    {
         "id": 11204,
         "group_id": 112,
         "lv": 4,
@@ -1689,7 +1689,7 @@
         "skill3": 0,
         "skill_advance": 0
     },
-    "11300": {
+    {
         "id": 11300,
         "group_id": 113,
         "lv": 0,
@@ -1715,7 +1715,7 @@
         "skill3": 0,
         "skill_advance": 0
     },
-    "11301": {
+    {
         "id": 11301,
         "group_id": 113,
         "lv": 1,
@@ -1741,7 +1741,7 @@
         "skill3": 0,
         "skill_advance": 0
     },
-    "11302": {
+    {
         "id": 11302,
         "group_id": 113,
         "lv": 2,
@@ -1767,7 +1767,7 @@
         "skill3": 0,
         "skill_advance": 0
     },
-    "11303": {
+    {
         "id": 11303,
         "group_id": 113,
         "lv": 3,
@@ -1793,7 +1793,7 @@
         "skill3": 0,
         "skill_advance": 0
     },
-    "11304": {
+    {
         "id": 11304,
         "group_id": 113,
         "lv": 4,
@@ -1819,7 +1819,7 @@
         "skill3": 0,
         "skill_advance": 0
     },
-    "11400": {
+    {
         "id": 11400,
         "group_id": 114,
         "lv": 0,
@@ -1845,7 +1845,7 @@
         "skill3": 0,
         "skill_advance": 0
     },
-    "11401": {
+    {
         "id": 11401,
         "group_id": 114,
         "lv": 1,
@@ -1871,7 +1871,7 @@
         "skill3": 0,
         "skill_advance": 0
     },
-    "11402": {
+    {
         "id": 11402,
         "group_id": 114,
         "lv": 2,
@@ -1897,7 +1897,7 @@
         "skill3": 0,
         "skill_advance": 0
     },
-    "11403": {
+    {
         "id": 11403,
         "group_id": 114,
         "lv": 3,
@@ -1923,7 +1923,7 @@
         "skill3": 0,
         "skill_advance": 0
     },
-    "11404": {
+    {
         "id": 11404,
         "group_id": 114,
         "lv": 4,
@@ -1949,7 +1949,7 @@
         "skill3": 0,
         "skill_advance": 0
     },
-    "11500": {
+    {
         "id": 11500,
         "group_id": 115,
         "lv": 0,
@@ -1975,7 +1975,7 @@
         "skill3": 0,
         "skill_advance": 0
     },
-    "11501": {
+    {
         "id": 11501,
         "group_id": 115,
         "lv": 1,
@@ -2001,7 +2001,7 @@
         "skill3": 0,
         "skill_advance": 0
     },
-    "11502": {
+    {
         "id": 11502,
         "group_id": 115,
         "lv": 2,
@@ -2027,7 +2027,7 @@
         "skill3": 0,
         "skill_advance": 0
     },
-    "11503": {
+    {
         "id": 11503,
         "group_id": 115,
         "lv": 3,
@@ -2053,7 +2053,7 @@
         "skill3": 0,
         "skill_advance": 0
     },
-    "11504": {
+    {
         "id": 11504,
         "group_id": 115,
         "lv": 4,
@@ -2079,7 +2079,7 @@
         "skill3": 0,
         "skill_advance": 0
     },
-    "11600": {
+    {
         "id": 11600,
         "group_id": 116,
         "lv": 0,
@@ -2105,7 +2105,7 @@
         "skill3": 0,
         "skill_advance": 0
     },
-    "11601": {
+    {
         "id": 11601,
         "group_id": 116,
         "lv": 1,
@@ -2131,7 +2131,7 @@
         "skill3": 0,
         "skill_advance": 0
     },
-    "11602": {
+    {
         "id": 11602,
         "group_id": 116,
         "lv": 2,
@@ -2157,7 +2157,7 @@
         "skill3": 0,
         "skill_advance": 0
     },
-    "11603": {
+    {
         "id": 11603,
         "group_id": 116,
         "lv": 3,
@@ -2183,7 +2183,7 @@
         "skill3": 0,
         "skill_advance": 0
     },
-    "11604": {
+    {
         "id": 11604,
         "group_id": 116,
         "lv": 4,
@@ -2209,7 +2209,7 @@
         "skill3": 0,
         "skill_advance": 0
     },
-    "11700": {
+    {
         "id": 11700,
         "group_id": 117,
         "lv": 0,
@@ -2235,7 +2235,7 @@
         "skill3": 0,
         "skill_advance": 0
     },
-    "11701": {
+    {
         "id": 11701,
         "group_id": 117,
         "lv": 1,
@@ -2261,7 +2261,7 @@
         "skill3": 0,
         "skill_advance": 0
     },
-    "11702": {
+    {
         "id": 11702,
         "group_id": 117,
         "lv": 2,
@@ -2287,7 +2287,7 @@
         "skill3": 0,
         "skill_advance": 0
     },
-    "11703": {
+    {
         "id": 11703,
         "group_id": 117,
         "lv": 3,
@@ -2313,7 +2313,7 @@
         "skill3": 0,
         "skill_advance": 0
     },
-    "11704": {
+    {
         "id": 11704,
         "group_id": 117,
         "lv": 4,
@@ -2339,7 +2339,7 @@
         "skill3": 0,
         "skill_advance": 0
     },
-    "11800": {
+    {
         "id": 11800,
         "group_id": 118,
         "lv": 0,
@@ -2365,7 +2365,7 @@
         "skill3": 0,
         "skill_advance": 0
     },
-    "11801": {
+    {
         "id": 11801,
         "group_id": 118,
         "lv": 1,
@@ -2391,7 +2391,7 @@
         "skill3": 0,
         "skill_advance": 0
     },
-    "11802": {
+    {
         "id": 11802,
         "group_id": 118,
         "lv": 2,
@@ -2417,7 +2417,7 @@
         "skill3": 0,
         "skill_advance": 0
     },
-    "11803": {
+    {
         "id": 11803,
         "group_id": 118,
         "lv": 3,
@@ -2443,7 +2443,7 @@
         "skill3": 0,
         "skill_advance": 0
     },
-    "11804": {
+    {
         "id": 11804,
         "group_id": 118,
         "lv": 4,
@@ -2469,7 +2469,7 @@
         "skill3": 0,
         "skill_advance": 0
     },
-    "11900": {
+    {
         "id": 11900,
         "group_id": 119,
         "lv": 0,
@@ -2495,7 +2495,7 @@
         "skill3": 0,
         "skill_advance": 0
     },
-    "11901": {
+    {
         "id": 11901,
         "group_id": 119,
         "lv": 1,
@@ -2521,7 +2521,7 @@
         "skill3": 0,
         "skill_advance": 0
     },
-    "11902": {
+    {
         "id": 11902,
         "group_id": 119,
         "lv": 2,
@@ -2547,7 +2547,7 @@
         "skill3": 0,
         "skill_advance": 0
     },
-    "11903": {
+    {
         "id": 11903,
         "group_id": 119,
         "lv": 3,
@@ -2573,7 +2573,7 @@
         "skill3": 0,
         "skill_advance": 0
     },
-    "11904": {
+    {
         "id": 11904,
         "group_id": 119,
         "lv": 4,
@@ -2599,7 +2599,7 @@
         "skill3": 0,
         "skill_advance": 0
     },
-    "20100": {
+    {
         "id": 20100,
         "group_id": 201,
         "lv": 0,
@@ -2625,7 +2625,7 @@
         "skill3": 0,
         "skill_advance": 0
     },
-    "20101": {
+    {
         "id": 20101,
         "group_id": 201,
         "lv": 1,
@@ -2651,7 +2651,7 @@
         "skill3": 0,
         "skill_advance": 0
     },
-    "20102": {
+    {
         "id": 20102,
         "group_id": 201,
         "lv": 2,
@@ -2677,7 +2677,7 @@
         "skill3": 0,
         "skill_advance": 0
     },
-    "20103": {
+    {
         "id": 20103,
         "group_id": 201,
         "lv": 3,
@@ -2703,7 +2703,7 @@
         "skill3": 0,
         "skill_advance": 0
     },
-    "20104": {
+    {
         "id": 20104,
         "group_id": 201,
         "lv": 4,
@@ -2729,7 +2729,7 @@
         "skill3": 0,
         "skill_advance": 0
     },
-    "20200": {
+    {
         "id": 20200,
         "group_id": 202,
         "lv": 0,
@@ -2755,7 +2755,7 @@
         "skill3": 0,
         "skill_advance": 0
     },
-    "20201": {
+    {
         "id": 20201,
         "group_id": 202,
         "lv": 1,
@@ -2781,7 +2781,7 @@
         "skill3": 0,
         "skill_advance": 0
     },
-    "20202": {
+    {
         "id": 20202,
         "group_id": 202,
         "lv": 2,
@@ -2807,7 +2807,7 @@
         "skill3": 0,
         "skill_advance": 0
     },
-    "20203": {
+    {
         "id": 20203,
         "group_id": 202,
         "lv": 3,
@@ -2833,7 +2833,7 @@
         "skill3": 0,
         "skill_advance": 0
     },
-    "20204": {
+    {
         "id": 20204,
         "group_id": 202,
         "lv": 4,
@@ -2859,7 +2859,7 @@
         "skill3": 0,
         "skill_advance": 0
     },
-    "20300": {
+    {
         "id": 20300,
         "group_id": 203,
         "lv": 0,
@@ -2885,7 +2885,7 @@
         "skill3": 0,
         "skill_advance": 0
     },
-    "20301": {
+    {
         "id": 20301,
         "group_id": 203,
         "lv": 1,
@@ -2911,7 +2911,7 @@
         "skill3": 0,
         "skill_advance": 0
     },
-    "20302": {
+    {
         "id": 20302,
         "group_id": 203,
         "lv": 2,
@@ -2937,7 +2937,7 @@
         "skill3": 0,
         "skill_advance": 0
     },
-    "20303": {
+    {
         "id": 20303,
         "group_id": 203,
         "lv": 3,
@@ -2963,7 +2963,7 @@
         "skill3": 0,
         "skill_advance": 0
     },
-    "20304": {
+    {
         "id": 20304,
         "group_id": 203,
         "lv": 4,
@@ -2989,7 +2989,7 @@
         "skill3": 0,
         "skill_advance": 0
     },
-    "20400": {
+    {
         "id": 20400,
         "group_id": 204,
         "lv": 0,
@@ -3015,7 +3015,7 @@
         "skill3": 0,
         "skill_advance": 0
     },
-    "20401": {
+    {
         "id": 20401,
         "group_id": 204,
         "lv": 1,
@@ -3041,7 +3041,7 @@
         "skill3": 0,
         "skill_advance": 0
     },
-    "20402": {
+    {
         "id": 20402,
         "group_id": 204,
         "lv": 2,
@@ -3067,7 +3067,7 @@
         "skill3": 0,
         "skill_advance": 0
     },
-    "20403": {
+    {
         "id": 20403,
         "group_id": 204,
         "lv": 3,
@@ -3093,7 +3093,7 @@
         "skill3": 0,
         "skill_advance": 0
     },
-    "20404": {
+    {
         "id": 20404,
         "group_id": 204,
         "lv": 4,
@@ -3119,7 +3119,7 @@
         "skill3": 0,
         "skill_advance": 0
     },
-    "20500": {
+    {
         "id": 20500,
         "group_id": 205,
         "lv": 0,
@@ -3145,7 +3145,7 @@
         "skill3": 0,
         "skill_advance": 0
     },
-    "20501": {
+    {
         "id": 20501,
         "group_id": 205,
         "lv": 1,
@@ -3171,7 +3171,7 @@
         "skill3": 0,
         "skill_advance": 0
     },
-    "20502": {
+    {
         "id": 20502,
         "group_id": 205,
         "lv": 2,
@@ -3197,7 +3197,7 @@
         "skill3": 0,
         "skill_advance": 0
     },
-    "20503": {
+    {
         "id": 20503,
         "group_id": 205,
         "lv": 3,
@@ -3223,7 +3223,7 @@
         "skill3": 0,
         "skill_advance": 0
     },
-    "20504": {
+    {
         "id": 20504,
         "group_id": 205,
         "lv": 4,
@@ -3249,7 +3249,7 @@
         "skill3": 0,
         "skill_advance": 0
     },
-    "20600": {
+    {
         "id": 20600,
         "group_id": 206,
         "lv": 0,
@@ -3275,7 +3275,7 @@
         "skill3": 0,
         "skill_advance": 0
     },
-    "20601": {
+    {
         "id": 20601,
         "group_id": 206,
         "lv": 1,
@@ -3301,7 +3301,7 @@
         "skill3": 0,
         "skill_advance": 0
     },
-    "20602": {
+    {
         "id": 20602,
         "group_id": 206,
         "lv": 2,
@@ -3327,7 +3327,7 @@
         "skill3": 0,
         "skill_advance": 0
     },
-    "20603": {
+    {
         "id": 20603,
         "group_id": 206,
         "lv": 3,
@@ -3353,7 +3353,7 @@
         "skill3": 0,
         "skill_advance": 0
     },
-    "20604": {
+    {
         "id": 20604,
         "group_id": 206,
         "lv": 4,
@@ -3379,7 +3379,7 @@
         "skill3": 0,
         "skill_advance": 0
     },
-    "20800": {
+    {
         "id": 20800,
         "group_id": 208,
         "lv": 0,
@@ -3405,7 +3405,7 @@
         "skill3": 0,
         "skill_advance": 0
     },
-    "20801": {
+    {
         "id": 20801,
         "group_id": 208,
         "lv": 1,
@@ -3431,7 +3431,7 @@
         "skill3": 0,
         "skill_advance": 0
     },
-    "20802": {
+    {
         "id": 20802,
         "group_id": 208,
         "lv": 2,
@@ -3457,7 +3457,7 @@
         "skill3": 0,
         "skill_advance": 0
     },
-    "20803": {
+    {
         "id": 20803,
         "group_id": 208,
         "lv": 3,
@@ -3483,7 +3483,7 @@
         "skill3": 0,
         "skill_advance": 0
     },
-    "20804": {
+    {
         "id": 20804,
         "group_id": 208,
         "lv": 4,
@@ -3509,7 +3509,7 @@
         "skill3": 0,
         "skill_advance": 0
     },
-    "20900": {
+    {
         "id": 20900,
         "group_id": 209,
         "lv": 0,
@@ -3535,7 +3535,7 @@
         "skill3": 0,
         "skill_advance": 0
     },
-    "20901": {
+    {
         "id": 20901,
         "group_id": 209,
         "lv": 1,
@@ -3561,7 +3561,7 @@
         "skill3": 0,
         "skill_advance": 0
     },
-    "20902": {
+    {
         "id": 20902,
         "group_id": 209,
         "lv": 2,
@@ -3587,7 +3587,7 @@
         "skill3": 0,
         "skill_advance": 0
     },
-    "20903": {
+    {
         "id": 20903,
         "group_id": 209,
         "lv": 3,
@@ -3613,7 +3613,7 @@
         "skill3": 0,
         "skill_advance": 0
     },
-    "20904": {
+    {
         "id": 20904,
         "group_id": 209,
         "lv": 4,
@@ -3639,7 +3639,7 @@
         "skill3": 0,
         "skill_advance": 0
     },
-    "21000": {
+    {
         "id": 21000,
         "group_id": 210,
         "lv": 0,
@@ -3665,7 +3665,7 @@
         "skill3": 0,
         "skill_advance": 0
     },
-    "21001": {
+    {
         "id": 21001,
         "group_id": 210,
         "lv": 1,
@@ -3691,7 +3691,7 @@
         "skill3": 0,
         "skill_advance": 0
     },
-    "21002": {
+    {
         "id": 21002,
         "group_id": 210,
         "lv": 2,
@@ -3717,7 +3717,7 @@
         "skill3": 0,
         "skill_advance": 0
     },
-    "21003": {
+    {
         "id": 21003,
         "group_id": 210,
         "lv": 3,
@@ -3743,7 +3743,7 @@
         "skill3": 0,
         "skill_advance": 0
     },
-    "21004": {
+    {
         "id": 21004,
         "group_id": 210,
         "lv": 4,
@@ -3769,7 +3769,7 @@
         "skill3": 0,
         "skill_advance": 0
     },
-    "21100": {
+    {
         "id": 21100,
         "group_id": 211,
         "lv": 0,
@@ -3795,7 +3795,7 @@
         "skill3": 0,
         "skill_advance": 0
     },
-    "21101": {
+    {
         "id": 21101,
         "group_id": 211,
         "lv": 1,
@@ -3821,7 +3821,7 @@
         "skill3": 0,
         "skill_advance": 0
     },
-    "21102": {
+    {
         "id": 21102,
         "group_id": 211,
         "lv": 2,
@@ -3847,7 +3847,7 @@
         "skill3": 0,
         "skill_advance": 0
     },
-    "21103": {
+    {
         "id": 21103,
         "group_id": 211,
         "lv": 3,
@@ -3873,7 +3873,7 @@
         "skill3": 0,
         "skill_advance": 0
     },
-    "21104": {
+    {
         "id": 21104,
         "group_id": 211,
         "lv": 4,
@@ -3899,7 +3899,7 @@
         "skill3": 0,
         "skill_advance": 0
     },
-    "21200": {
+    {
         "id": 21200,
         "group_id": 212,
         "lv": 0,
@@ -3925,7 +3925,7 @@
         "skill3": 0,
         "skill_advance": 0
     },
-    "21201": {
+    {
         "id": 21201,
         "group_id": 212,
         "lv": 1,
@@ -3951,7 +3951,7 @@
         "skill3": 0,
         "skill_advance": 0
     },
-    "21202": {
+    {
         "id": 21202,
         "group_id": 212,
         "lv": 2,
@@ -3977,7 +3977,7 @@
         "skill3": 0,
         "skill_advance": 0
     },
-    "21203": {
+    {
         "id": 21203,
         "group_id": 212,
         "lv": 3,
@@ -4003,7 +4003,7 @@
         "skill3": 0,
         "skill_advance": 0
     },
-    "21204": {
+    {
         "id": 21204,
         "group_id": 212,
         "lv": 4,
@@ -4029,7 +4029,7 @@
         "skill3": 0,
         "skill_advance": 0
     },
-    "21300": {
+    {
         "id": 21300,
         "group_id": 213,
         "lv": 0,
@@ -4055,7 +4055,7 @@
         "skill3": 0,
         "skill_advance": 0
     },
-    "21301": {
+    {
         "id": 21301,
         "group_id": 213,
         "lv": 1,
@@ -4081,7 +4081,7 @@
         "skill3": 0,
         "skill_advance": 0
     },
-    "21302": {
+    {
         "id": 21302,
         "group_id": 213,
         "lv": 2,
@@ -4107,7 +4107,7 @@
         "skill3": 0,
         "skill_advance": 0
     },
-    "21303": {
+    {
         "id": 21303,
         "group_id": 213,
         "lv": 3,
@@ -4133,7 +4133,7 @@
         "skill3": 0,
         "skill_advance": 0
     },
-    "21304": {
+    {
         "id": 21304,
         "group_id": 213,
         "lv": 4,
@@ -4159,7 +4159,7 @@
         "skill3": 0,
         "skill_advance": 0
     },
-    "21400": {
+    {
         "id": 21400,
         "group_id": 214,
         "lv": 0,
@@ -4185,7 +4185,7 @@
         "skill3": 0,
         "skill_advance": 0
     },
-    "21401": {
+    {
         "id": 21401,
         "group_id": 214,
         "lv": 1,
@@ -4211,7 +4211,7 @@
         "skill3": 0,
         "skill_advance": 0
     },
-    "21402": {
+    {
         "id": 21402,
         "group_id": 214,
         "lv": 2,
@@ -4237,7 +4237,7 @@
         "skill3": 0,
         "skill_advance": 0
     },
-    "21403": {
+    {
         "id": 21403,
         "group_id": 214,
         "lv": 3,
@@ -4263,7 +4263,7 @@
         "skill3": 0,
         "skill_advance": 0
     },
-    "21404": {
+    {
         "id": 21404,
         "group_id": 214,
         "lv": 4,
@@ -4289,7 +4289,7 @@
         "skill3": 0,
         "skill_advance": 0
     },
-    "21500": {
+    {
         "id": 21500,
         "group_id": 215,
         "lv": 0,
@@ -4315,7 +4315,7 @@
         "skill3": 0,
         "skill_advance": 0
     },
-    "21501": {
+    {
         "id": 21501,
         "group_id": 215,
         "lv": 1,
@@ -4341,7 +4341,7 @@
         "skill3": 0,
         "skill_advance": 0
     },
-    "21502": {
+    {
         "id": 21502,
         "group_id": 215,
         "lv": 2,
@@ -4367,7 +4367,7 @@
         "skill3": 0,
         "skill_advance": 0
     },
-    "21503": {
+    {
         "id": 21503,
         "group_id": 215,
         "lv": 3,
@@ -4393,7 +4393,7 @@
         "skill3": 0,
         "skill_advance": 0
     },
-    "21504": {
+    {
         "id": 21504,
         "group_id": 215,
         "lv": 4,
@@ -4419,7 +4419,7 @@
         "skill3": 0,
         "skill_advance": 0
     },
-    "21600": {
+    {
         "id": 21600,
         "group_id": 216,
         "lv": 0,
@@ -4445,7 +4445,7 @@
         "skill3": 0,
         "skill_advance": 0
     },
-    "21601": {
+    {
         "id": 21601,
         "group_id": 216,
         "lv": 1,
@@ -4471,7 +4471,7 @@
         "skill3": 0,
         "skill_advance": 0
     },
-    "21602": {
+    {
         "id": 21602,
         "group_id": 216,
         "lv": 2,
@@ -4497,7 +4497,7 @@
         "skill3": 0,
         "skill_advance": 0
     },
-    "21603": {
+    {
         "id": 21603,
         "group_id": 216,
         "lv": 3,
@@ -4523,7 +4523,7 @@
         "skill3": 0,
         "skill_advance": 0
     },
-    "21604": {
+    {
         "id": 21604,
         "group_id": 216,
         "lv": 4,
@@ -4549,7 +4549,7 @@
         "skill3": 0,
         "skill_advance": 0
     },
-    "21700": {
+    {
         "id": 21700,
         "group_id": 217,
         "lv": 0,
@@ -4575,7 +4575,7 @@
         "skill3": 0,
         "skill_advance": 0
     },
-    "21701": {
+    {
         "id": 21701,
         "group_id": 217,
         "lv": 1,
@@ -4601,7 +4601,7 @@
         "skill3": 0,
         "skill_advance": 0
     },
-    "21702": {
+    {
         "id": 21702,
         "group_id": 217,
         "lv": 2,
@@ -4627,7 +4627,7 @@
         "skill3": 0,
         "skill_advance": 0
     },
-    "21703": {
+    {
         "id": 21703,
         "group_id": 217,
         "lv": 3,
@@ -4653,7 +4653,7 @@
         "skill3": 0,
         "skill_advance": 0
     },
-    "21704": {
+    {
         "id": 21704,
         "group_id": 217,
         "lv": 4,
@@ -4679,7 +4679,7 @@
         "skill3": 0,
         "skill_advance": 0
     },
-    "30100": {
+    {
         "id": 30100,
         "group_id": 301,
         "lv": 0,
@@ -4705,7 +4705,7 @@
         "skill3": 0,
         "skill_advance": 0
     },
-    "30101": {
+    {
         "id": 30101,
         "group_id": 301,
         "lv": 1,
@@ -4731,7 +4731,7 @@
         "skill3": 0,
         "skill_advance": 0
     },
-    "30102": {
+    {
         "id": 30102,
         "group_id": 301,
         "lv": 2,
@@ -4757,7 +4757,7 @@
         "skill3": 0,
         "skill_advance": 0
     },
-    "30103": {
+    {
         "id": 30103,
         "group_id": 301,
         "lv": 3,
@@ -4783,7 +4783,7 @@
         "skill3": 0,
         "skill_advance": 0
     },
-    "30104": {
+    {
         "id": 30104,
         "group_id": 301,
         "lv": 4,
@@ -4809,7 +4809,7 @@
         "skill3": 0,
         "skill_advance": 0
     },
-    "30200": {
+    {
         "id": 30200,
         "group_id": 302,
         "lv": 0,
@@ -4835,7 +4835,7 @@
         "skill3": 0,
         "skill_advance": 0
     },
-    "30201": {
+    {
         "id": 30201,
         "group_id": 302,
         "lv": 1,
@@ -4861,7 +4861,7 @@
         "skill3": 0,
         "skill_advance": 0
     },
-    "30202": {
+    {
         "id": 30202,
         "group_id": 302,
         "lv": 2,
@@ -4887,7 +4887,7 @@
         "skill3": 0,
         "skill_advance": 0
     },
-    "30203": {
+    {
         "id": 30203,
         "group_id": 302,
         "lv": 3,
@@ -4913,7 +4913,7 @@
         "skill3": 0,
         "skill_advance": 0
     },
-    "30204": {
+    {
         "id": 30204,
         "group_id": 302,
         "lv": 4,
@@ -4939,7 +4939,7 @@
         "skill3": 0,
         "skill_advance": 0
     },
-    "30300": {
+    {
         "id": 30300,
         "group_id": 303,
         "lv": 0,
@@ -4965,7 +4965,7 @@
         "skill3": 0,
         "skill_advance": 0
     },
-    "30301": {
+    {
         "id": 30301,
         "group_id": 303,
         "lv": 1,
@@ -4991,7 +4991,7 @@
         "skill3": 0,
         "skill_advance": 0
     },
-    "30302": {
+    {
         "id": 30302,
         "group_id": 303,
         "lv": 2,
@@ -5017,7 +5017,7 @@
         "skill3": 0,
         "skill_advance": 0
     },
-    "30303": {
+    {
         "id": 30303,
         "group_id": 303,
         "lv": 3,
@@ -5043,7 +5043,7 @@
         "skill3": 0,
         "skill_advance": 0
     },
-    "30304": {
+    {
         "id": 30304,
         "group_id": 303,
         "lv": 4,
@@ -5069,7 +5069,7 @@
         "skill3": 0,
         "skill_advance": 0
     },
-    "30400": {
+    {
         "id": 30400,
         "group_id": 304,
         "lv": 0,
@@ -5095,7 +5095,7 @@
         "skill3": 0,
         "skill_advance": 0
     },
-    "30401": {
+    {
         "id": 30401,
         "group_id": 304,
         "lv": 1,
@@ -5121,7 +5121,7 @@
         "skill3": 0,
         "skill_advance": 0
     },
-    "30402": {
+    {
         "id": 30402,
         "group_id": 304,
         "lv": 2,
@@ -5147,7 +5147,7 @@
         "skill3": 0,
         "skill_advance": 0
     },
-    "30403": {
+    {
         "id": 30403,
         "group_id": 304,
         "lv": 3,
@@ -5173,7 +5173,7 @@
         "skill3": 0,
         "skill_advance": 0
     },
-    "30404": {
+    {
         "id": 30404,
         "group_id": 304,
         "lv": 4,
@@ -5199,7 +5199,7 @@
         "skill3": 0,
         "skill_advance": 0
     },
-    "30500": {
+    {
         "id": 30500,
         "group_id": 305,
         "lv": 0,
@@ -5225,7 +5225,7 @@
         "skill3": 0,
         "skill_advance": 0
     },
-    "30501": {
+    {
         "id": 30501,
         "group_id": 305,
         "lv": 1,
@@ -5251,7 +5251,7 @@
         "skill3": 0,
         "skill_advance": 0
     },
-    "30502": {
+    {
         "id": 30502,
         "group_id": 305,
         "lv": 2,
@@ -5277,7 +5277,7 @@
         "skill3": 0,
         "skill_advance": 0
     },
-    "30503": {
+    {
         "id": 30503,
         "group_id": 305,
         "lv": 3,
@@ -5303,7 +5303,7 @@
         "skill3": 0,
         "skill_advance": 0
     },
-    "30504": {
+    {
         "id": 30504,
         "group_id": 305,
         "lv": 4,
@@ -5329,7 +5329,7 @@
         "skill3": 0,
         "skill_advance": 0
     },
-    "30600": {
+    {
         "id": 30600,
         "group_id": 306,
         "lv": 0,
@@ -5355,7 +5355,7 @@
         "skill3": 0,
         "skill_advance": 0
     },
-    "30601": {
+    {
         "id": 30601,
         "group_id": 306,
         "lv": 1,
@@ -5381,7 +5381,7 @@
         "skill3": 0,
         "skill_advance": 0
     },
-    "30602": {
+    {
         "id": 30602,
         "group_id": 306,
         "lv": 2,
@@ -5407,7 +5407,7 @@
         "skill3": 0,
         "skill_advance": 0
     },
-    "30603": {
+    {
         "id": 30603,
         "group_id": 306,
         "lv": 3,
@@ -5433,7 +5433,7 @@
         "skill3": 0,
         "skill_advance": 0
     },
-    "30604": {
+    {
         "id": 30604,
         "group_id": 306,
         "lv": 4,
@@ -5459,7 +5459,7 @@
         "skill3": 0,
         "skill_advance": 0
     },
-    "30700": {
+    {
         "id": 30700,
         "group_id": 307,
         "lv": 0,
@@ -5485,7 +5485,7 @@
         "skill3": 0,
         "skill_advance": 0
     },
-    "30701": {
+    {
         "id": 30701,
         "group_id": 307,
         "lv": 1,
@@ -5511,7 +5511,7 @@
         "skill3": 0,
         "skill_advance": 0
     },
-    "30702": {
+    {
         "id": 30702,
         "group_id": 307,
         "lv": 2,
@@ -5537,7 +5537,7 @@
         "skill3": 0,
         "skill_advance": 0
     },
-    "30703": {
+    {
         "id": 30703,
         "group_id": 307,
         "lv": 3,
@@ -5563,7 +5563,7 @@
         "skill3": 0,
         "skill_advance": 0
     },
-    "30704": {
+    {
         "id": 30704,
         "group_id": 307,
         "lv": 4,
@@ -5589,7 +5589,7 @@
         "skill3": 0,
         "skill_advance": 0
     },
-    "30800": {
+    {
         "id": 30800,
         "group_id": 308,
         "lv": 0,
@@ -5615,7 +5615,7 @@
         "skill3": 0,
         "skill_advance": 0
     },
-    "30801": {
+    {
         "id": 30801,
         "group_id": 308,
         "lv": 1,
@@ -5641,7 +5641,7 @@
         "skill3": 0,
         "skill_advance": 0
     },
-    "30802": {
+    {
         "id": 30802,
         "group_id": 308,
         "lv": 2,
@@ -5667,7 +5667,7 @@
         "skill3": 0,
         "skill_advance": 0
     },
-    "30803": {
+    {
         "id": 30803,
         "group_id": 308,
         "lv": 3,
@@ -5693,7 +5693,7 @@
         "skill3": 0,
         "skill_advance": 0
     },
-    "30804": {
+    {
         "id": 30804,
         "group_id": 308,
         "lv": 4,
@@ -5719,7 +5719,7 @@
         "skill3": 0,
         "skill_advance": 0
     },
-    "30900": {
+    {
         "id": 30900,
         "group_id": 309,
         "lv": 0,
@@ -5745,7 +5745,7 @@
         "skill3": 0,
         "skill_advance": 0
     },
-    "30901": {
+    {
         "id": 30901,
         "group_id": 309,
         "lv": 1,
@@ -5771,7 +5771,7 @@
         "skill3": 0,
         "skill_advance": 0
     },
-    "30902": {
+    {
         "id": 30902,
         "group_id": 309,
         "lv": 2,
@@ -5797,7 +5797,7 @@
         "skill3": 0,
         "skill_advance": 0
     },
-    "30903": {
+    {
         "id": 30903,
         "group_id": 309,
         "lv": 3,
@@ -5823,7 +5823,7 @@
         "skill3": 0,
         "skill_advance": 0
     },
-    "30904": {
+    {
         "id": 30904,
         "group_id": 309,
         "lv": 4,
@@ -5849,7 +5849,7 @@
         "skill3": 0,
         "skill_advance": 0
     },
-    "31000": {
+    {
         "id": 31000,
         "group_id": 310,
         "lv": 0,
@@ -5875,7 +5875,7 @@
         "skill3": 0,
         "skill_advance": 0
     },
-    "31001": {
+    {
         "id": 31001,
         "group_id": 310,
         "lv": 1,
@@ -5901,7 +5901,7 @@
         "skill3": 0,
         "skill_advance": 0
     },
-    "31002": {
+    {
         "id": 31002,
         "group_id": 310,
         "lv": 2,
@@ -5927,7 +5927,7 @@
         "skill3": 0,
         "skill_advance": 0
     },
-    "31003": {
+    {
         "id": 31003,
         "group_id": 310,
         "lv": 3,
@@ -5953,7 +5953,7 @@
         "skill3": 0,
         "skill_advance": 0
     },
-    "31004": {
+    {
         "id": 31004,
         "group_id": 310,
         "lv": 4,
@@ -5979,7 +5979,7 @@
         "skill3": 0,
         "skill_advance": 0
     },
-    "80100": {
+    {
         "id": 80100,
         "group_id": 801,
         "lv": 0,
@@ -6005,7 +6005,7 @@
         "skill3": 0,
         "skill_advance": 0
     },
-    "80101": {
+    {
         "id": 80101,
         "group_id": 801,
         "lv": 1,
@@ -6031,7 +6031,7 @@
         "skill3": 0,
         "skill_advance": 0
     },
-    "80102": {
+    {
         "id": 80102,
         "group_id": 801,
         "lv": 2,
@@ -6057,7 +6057,7 @@
         "skill3": 0,
         "skill_advance": 0
     },
-    "80103": {
+    {
         "id": 80103,
         "group_id": 801,
         "lv": 3,
@@ -6083,7 +6083,7 @@
         "skill3": 0,
         "skill_advance": 0
     },
-    "80104": {
+    {
         "id": 80104,
         "group_id": 801,
         "lv": 4,
@@ -6109,7 +6109,7 @@
         "skill3": 0,
         "skill_advance": 0
     },
-    "80200": {
+    {
         "id": 80200,
         "group_id": 802,
         "lv": 0,
@@ -6135,7 +6135,7 @@
         "skill3": 0,
         "skill_advance": 0
     },
-    "80201": {
+    {
         "id": 80201,
         "group_id": 802,
         "lv": 1,
@@ -6161,7 +6161,7 @@
         "skill3": 0,
         "skill_advance": 0
     },
-    "80202": {
+    {
         "id": 80202,
         "group_id": 802,
         "lv": 2,
@@ -6187,7 +6187,7 @@
         "skill3": 0,
         "skill_advance": 0
     },
-    "80203": {
+    {
         "id": 80203,
         "group_id": 802,
         "lv": 3,
@@ -6213,7 +6213,7 @@
         "skill3": 0,
         "skill_advance": 0
     },
-    "80204": {
+    {
         "id": 80204,
         "group_id": 802,
         "lv": 4,
@@ -6239,7 +6239,7 @@
         "skill3": 600308,
         "skill_advance": 0
     },
-    "80300": {
+    {
         "id": 80300,
         "group_id": 803,
         "lv": 0,
@@ -6265,7 +6265,7 @@
         "skill3": 0,
         "skill_advance": 0
     },
-    "80301": {
+    {
         "id": 80301,
         "group_id": 803,
         "lv": 1,
@@ -6291,7 +6291,7 @@
         "skill3": 0,
         "skill_advance": 0
     },
-    "80302": {
+    {
         "id": 80302,
         "group_id": 803,
         "lv": 2,
@@ -6317,7 +6317,7 @@
         "skill3": 0,
         "skill_advance": 0
     },
-    "80303": {
+    {
         "id": 80303,
         "group_id": 803,
         "lv": 3,
@@ -6343,7 +6343,7 @@
         "skill3": 0,
         "skill_advance": 0
     },
-    "80304": {
+    {
         "id": 80304,
         "group_id": 803,
         "lv": 4,
@@ -6369,7 +6369,7 @@
         "skill3": 0,
         "skill_advance": 900598
     },
-    "80400": {
+    {
         "id": 80400,
         "group_id": 804,
         "lv": 0,
@@ -6395,7 +6395,7 @@
         "skill3": 0,
         "skill_advance": 0
     },
-    "80401": {
+    {
         "id": 80401,
         "group_id": 804,
         "lv": 1,
@@ -6421,7 +6421,7 @@
         "skill3": 0,
         "skill_advance": 0
     },
-    "80402": {
+    {
         "id": 80402,
         "group_id": 804,
         "lv": 2,
@@ -6447,7 +6447,7 @@
         "skill3": 0,
         "skill_advance": 0
     },
-    "80403": {
+    {
         "id": 80403,
         "group_id": 804,
         "lv": 3,
@@ -6473,7 +6473,7 @@
         "skill3": 900526,
         "skill_advance": 0
     },
-    "80404": {
+    {
         "id": 80404,
         "group_id": 804,
         "lv": 4,
@@ -6499,7 +6499,7 @@
         "skill3": 900526,
         "skill_advance": 900598
     },
-    "80500": {
+    {
         "id": 80500,
         "group_id": 805,
         "lv": 0,
@@ -6525,7 +6525,7 @@
         "skill3": 0,
         "skill_advance": 0
     },
-    "80501": {
+    {
         "id": 80501,
         "group_id": 805,
         "lv": 1,
@@ -6551,7 +6551,7 @@
         "skill3": 0,
         "skill_advance": 0
     },
-    "80502": {
+    {
         "id": 80502,
         "group_id": 805,
         "lv": 2,
@@ -6577,7 +6577,7 @@
         "skill3": 0,
         "skill_advance": 0
     },
-    "80503": {
+    {
         "id": 80503,
         "group_id": 805,
         "lv": 3,
@@ -6603,7 +6603,7 @@
         "skill3": 0,
         "skill_advance": 0
     },
-    "80504": {
+    {
         "id": 80504,
         "group_id": 805,
         "lv": 4,
@@ -6629,7 +6629,7 @@
         "skill3": 0,
         "skill_advance": 600308
     },
-    "80600": {
+    {
         "id": 80600,
         "group_id": 806,
         "lv": 0,
@@ -6655,7 +6655,7 @@
         "skill3": 0,
         "skill_advance": 0
     },
-    "80601": {
+    {
         "id": 80601,
         "group_id": 806,
         "lv": 1,
@@ -6681,7 +6681,7 @@
         "skill3": 0,
         "skill_advance": 0
     },
-    "80602": {
+    {
         "id": 80602,
         "group_id": 806,
         "lv": 2,
@@ -6707,7 +6707,7 @@
         "skill3": 0,
         "skill_advance": 0
     },
-    "80603": {
+    {
         "id": 80603,
         "group_id": 806,
         "lv": 3,
@@ -6733,7 +6733,7 @@
         "skill3": 0,
         "skill_advance": 0
     },
-    "80604": {
+    {
         "id": 80604,
         "group_id": 806,
         "lv": 4,
@@ -6759,7 +6759,7 @@
         "skill3": 0,
         "skill_advance": 0
     },
-    "80700": {
+    {
         "id": 80700,
         "group_id": 807,
         "lv": 0,
@@ -6785,7 +6785,7 @@
         "skill3": 0,
         "skill_advance": 0
     },
-    "80701": {
+    {
         "id": 80701,
         "group_id": 807,
         "lv": 1,
@@ -6811,7 +6811,7 @@
         "skill3": 0,
         "skill_advance": 0
     },
-    "80702": {
+    {
         "id": 80702,
         "group_id": 807,
         "lv": 2,
@@ -6837,7 +6837,7 @@
         "skill3": 0,
         "skill_advance": 0
     },
-    "80703": {
+    {
         "id": 80703,
         "group_id": 807,
         "lv": 3,
@@ -6863,7 +6863,7 @@
         "skill3": 0,
         "skill_advance": 0
     },
-    "80704": {
+    {
         "id": 80704,
         "group_id": 807,
         "lv": 4,
@@ -6889,7 +6889,7 @@
         "skill3": 0,
         "skill_advance": 0
     },
-    "80800": {
+    {
         "id": 80800,
         "group_id": 808,
         "lv": 0,
@@ -6915,7 +6915,7 @@
         "skill3": 0,
         "skill_advance": 0
     },
-    "80801": {
+    {
         "id": 80801,
         "group_id": 808,
         "lv": 1,
@@ -6941,7 +6941,7 @@
         "skill3": 0,
         "skill_advance": 0
     },
-    "80802": {
+    {
         "id": 80802,
         "group_id": 808,
         "lv": 2,
@@ -6967,7 +6967,7 @@
         "skill3": 0,
         "skill_advance": 0
     },
-    "80803": {
+    {
         "id": 80803,
         "group_id": 808,
         "lv": 3,
@@ -6993,7 +6993,7 @@
         "skill3": 0,
         "skill_advance": 0
     },
-    "80804": {
+    {
         "id": 80804,
         "group_id": 808,
         "lv": 4,
@@ -7019,4 +7019,4 @@
         "skill3": 0,
         "skill_advance": 0
     }
-}
+]

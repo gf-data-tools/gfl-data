@@ -1,5 +1,5 @@
-{
-    "1": {
+[
+    {
         "id": 1,
         "name": "fight_environment_skill-10000001",
         "desc": "fight_environment_skill-20000001",
@@ -7,7 +7,7 @@
         "code": "shield",
         "skill_group": "900101"
     },
-    "2": {
+    {
         "id": 2,
         "name": "fight_environment_skill-10000002",
         "desc": "fight_environment_skill-20000002",
@@ -15,7 +15,7 @@
         "code": "sniper",
         "skill_group": "900102"
     },
-    "3": {
+    {
         "id": 3,
         "name": "fight_environment_skill-10000003",
         "desc": "fight_environment_skill-20000003",
@@ -23,7 +23,7 @@
         "code": "armor",
         "skill_group": "900103"
     },
-    "4": {
+    {
         "id": 4,
         "name": "fight_environment_skill-10000004",
         "desc": "fight_environment_skill-20000004",
@@ -31,7 +31,7 @@
         "code": "target",
         "skill_group": "900104"
     },
-    "5": {
+    {
         "id": 5,
         "name": "fight_environment_skill-10000005",
         "desc": "fight_environment_skill-20000005",
@@ -39,7 +39,7 @@
         "code": "bombard",
         "skill_group": "900108"
     },
-    "6": {
+    {
         "id": 6,
         "name": "fight_environment_skill-10000006",
         "desc": "fight_environment_skill-20000006",
@@ -47,7 +47,7 @@
         "code": "air_attack",
         "skill_group": "900109"
     },
-    "7": {
+    {
         "id": 7,
         "name": "fight_environment_skill-10000007",
         "desc": "fight_environment_skill-20000007",
@@ -55,7 +55,7 @@
         "code": "fighting",
         "skill_group": "900110"
     },
-    "8": {
+    {
         "id": 8,
         "name": "fight_environment_skill-10000008",
         "desc": "fight_environment_skill-20000008",
@@ -63,7 +63,7 @@
         "code": "crit",
         "skill_group": "900111"
     },
-    "701": {
+    {
         "id": 701,
         "name": "fight_environment_skill-10000701",
         "desc": "fight_environment_skill-20000701",
@@ -71,7 +71,7 @@
         "code": "fight_skill_buff106",
         "skill_group": "756071"
     },
-    "702": {
+    {
         "id": 702,
         "name": "fight_environment_skill-10000702",
         "desc": "fight_environment_skill-20000702",
@@ -79,7 +79,7 @@
         "code": "fight_skill_buff101",
         "skill_group": "756072"
     },
-    "703": {
+    {
         "id": 703,
         "name": "fight_environment_skill-10000703",
         "desc": "fight_environment_skill-20000703",
@@ -87,7 +87,7 @@
         "code": "fight_skill_buff102",
         "skill_group": "756082"
     },
-    "704": {
+    {
         "id": 704,
         "name": "fight_environment_skill-10000704",
         "desc": "fight_environment_skill-20000704",
@@ -95,7 +95,7 @@
         "code": "fight_skill_buff105",
         "skill_group": "756076"
     },
-    "705": {
+    {
         "id": 705,
         "name": "fight_environment_skill-10000705",
         "desc": "fight_environment_skill-20000705",
@@ -103,7 +103,7 @@
         "code": "fight_skill_buff104",
         "skill_group": "756077"
     },
-    "706": {
+    {
         "id": 706,
         "name": "fight_environment_skill-10000706",
         "desc": "fight_environment_skill-20000706",
@@ -111,7 +111,7 @@
         "code": "fight_skill_buff203",
         "skill_group": "756078"
     },
-    "707": {
+    {
         "id": 707,
         "name": "fight_environment_skill-10000707",
         "desc": "fight_environment_skill-20000707",
@@ -119,7 +119,7 @@
         "code": "fight_skill_buff201",
         "skill_group": "756079"
     },
-    "708": {
+    {
         "id": 708,
         "name": "fight_environment_skill-10000708",
         "desc": "fight_environment_skill-20000708",
@@ -127,7 +127,7 @@
         "code": "fight_skill_hurt102",
         "skill_group": "756084"
     },
-    "709": {
+    {
         "id": 709,
         "name": "fight_environment_skill-10000709",
         "desc": "fight_environment_skill-20000709",
@@ -135,7 +135,7 @@
         "code": "fight_skill_buff204",
         "skill_group": "756081"
     },
-    "710": {
+    {
         "id": 710,
         "name": "fight_environment_skill-10000710",
         "desc": "fight_environment_skill-20000710",
@@ -143,7 +143,7 @@
         "code": "fight_skill_buff204",
         "skill_group": "756086"
     },
-    "711": {
+    {
         "id": 711,
         "name": "fight_environment_skill-10000711",
         "desc": "fight_environment_skill-20000711",
@@ -151,7 +151,7 @@
         "code": "fight_skill_hurt202",
         "skill_group": "756085"
     },
-    "712": {
+    {
         "id": 712,
         "name": "fight_environment_skill-10000712",
         "desc": "fight_environment_skill-20000712",
@@ -159,7 +159,7 @@
         "code": "fight_skill_hurt202",
         "skill_group": "990003"
     },
-    "713": {
+    {
         "id": 713,
         "name": "fight_environment_skill-10000713",
         "desc": "fight_environment_skill-20000713",
@@ -167,7 +167,7 @@
         "code": "fight_skill_buff202",
         "skill_group": "990004"
     },
-    "714": {
+    {
         "id": 714,
         "name": "fight_environment_skill-10000714",
         "desc": "fight_environment_skill-20000714",
@@ -175,7 +175,7 @@
         "code": "fight_skill_hurt201",
         "skill_group": "990006"
     },
-    "715": {
+    {
         "id": 715,
         "name": "fight_environment_skill-10000715",
         "desc": "fight_environment_skill-20000715",
@@ -183,7 +183,7 @@
         "code": "fight_skill_buff104",
         "skill_group": "990007"
     },
-    "716": {
+    {
         "id": 716,
         "name": "fight_environment_skill-10000716",
         "desc": "fight_environment_skill-20000716",
@@ -191,7 +191,7 @@
         "code": "fight_skill_buff204",
         "skill_group": "990009"
     },
-    "717": {
+    {
         "id": 717,
         "name": "fight_environment_skill-10000717",
         "desc": "fight_environment_skill-20000717",
@@ -199,7 +199,7 @@
         "code": "fight_skill_hurt102",
         "skill_group": "990011"
     },
-    "718": {
+    {
         "id": 718,
         "name": "fight_environment_skill-10000718",
         "desc": "fight_environment_skill-20000718",
@@ -207,7 +207,7 @@
         "code": "fight_skill_buff103",
         "skill_group": "990013"
     },
-    "719": {
+    {
         "id": 719,
         "name": "fight_environment_skill-10000719",
         "desc": "fight_environment_skill-20000719",
@@ -215,7 +215,7 @@
         "code": "fight_skill_buff203",
         "skill_group": "990014"
     },
-    "720": {
+    {
         "id": 720,
         "name": "fight_environment_skill-10000720",
         "desc": "fight_environment_skill-20000720",
@@ -223,7 +223,7 @@
         "code": "fight_skill_hurt103",
         "skill_group": "990017"
     },
-    "721": {
+    {
         "id": 721,
         "name": "fight_environment_skill-10000721",
         "desc": "fight_environment_skill-20000721",
@@ -231,7 +231,7 @@
         "code": "fight_skill_hurt203",
         "skill_group": "990019"
     },
-    "722": {
+    {
         "id": 722,
         "name": "fight_environment_skill-10000722",
         "desc": "fight_environment_skill-20000722",
@@ -239,7 +239,7 @@
         "code": "fight_skill_buff105",
         "skill_group": "756087"
     },
-    "723": {
+    {
         "id": 723,
         "name": "fight_environment_skill-10000723",
         "desc": "fight_environment_skill-20000723",
@@ -247,7 +247,7 @@
         "code": "fight_skill_buff102",
         "skill_group": "756088"
     },
-    "724": {
+    {
         "id": 724,
         "name": "fight_environment_skill-10000724",
         "desc": "fight_environment_skill-20000724",
@@ -255,7 +255,7 @@
         "code": "fight_skill_buff104",
         "skill_group": "756089"
     },
-    "725": {
+    {
         "id": 725,
         "name": "fight_environment_skill-10000725",
         "desc": "fight_environment_skill-20000725",
@@ -263,7 +263,7 @@
         "code": "fight_skill_hurt101",
         "skill_group": "756093"
     },
-    "726": {
+    {
         "id": 726,
         "name": "fight_environment_skill-10000726",
         "desc": "fight_environment_skill-20000726",
@@ -271,7 +271,7 @@
         "code": "fight_skill_hurt202",
         "skill_group": "756091"
     },
-    "727": {
+    {
         "id": 727,
         "name": "fight_environment_skill-10000727",
         "desc": "fight_environment_skill-20000727",
@@ -279,7 +279,7 @@
         "code": "fight_skill_buff101",
         "skill_group": "756114"
     },
-    "728": {
+    {
         "id": 728,
         "name": "fight_environment_skill-10000728",
         "desc": "fight_environment_skill-20000728",
@@ -287,7 +287,7 @@
         "code": "fight_skill_buff103",
         "skill_group": "756115"
     },
-    "729": {
+    {
         "id": 729,
         "name": "fight_environment_skill-10000729",
         "desc": "fight_environment_skill-20000729",
@@ -295,7 +295,7 @@
         "code": "fight_skill_buff104",
         "skill_group": "756089"
     },
-    "730": {
+    {
         "id": 730,
         "name": "fight_environment_skill-10000730",
         "desc": "fight_environment_skill-20000730",
@@ -303,7 +303,7 @@
         "code": "fight_skill_buff101",
         "skill_group": "756126"
     },
-    "731": {
+    {
         "id": 731,
         "name": "fight_environment_skill-10000731",
         "desc": "fight_environment_skill-20000731",
@@ -311,7 +311,7 @@
         "code": "fight_skill_buff101",
         "skill_group": "756127"
     },
-    "732": {
+    {
         "id": 732,
         "name": "fight_environment_skill-10000732",
         "desc": "fight_environment_skill-20000732",
@@ -319,7 +319,7 @@
         "code": "fight_skill_buff101",
         "skill_group": "756128"
     },
-    "733": {
+    {
         "id": 733,
         "name": "fight_environment_skill-10000733",
         "desc": "fight_environment_skill-20000733",
@@ -327,7 +327,7 @@
         "code": "fight_skill_buff101",
         "skill_group": "756129"
     },
-    "734": {
+    {
         "id": 734,
         "name": "fight_environment_skill-10000734",
         "desc": "fight_environment_skill-20000734",
@@ -335,7 +335,7 @@
         "code": "fight_skill_buff101",
         "skill_group": "756130"
     },
-    "735": {
+    {
         "id": 735,
         "name": "fight_environment_skill-10000735",
         "desc": "fight_environment_skill-20000735",
@@ -343,7 +343,7 @@
         "code": "fight_skill_buff101",
         "skill_group": "756131"
     },
-    "736": {
+    {
         "id": 736,
         "name": "fight_environment_skill-10000736",
         "desc": "fight_environment_skill-20000736",
@@ -351,7 +351,7 @@
         "code": "fight_skill_buff102",
         "skill_group": "756124"
     },
-    "737": {
+    {
         "id": 737,
         "name": "fight_environment_skill-10000737",
         "desc": "fight_environment_skill-20000737",
@@ -359,7 +359,7 @@
         "code": "fight_skill_buff101",
         "skill_group": "756133"
     },
-    "738": {
+    {
         "id": 738,
         "name": "fight_environment_skill-10000738",
         "desc": "fight_environment_skill-20000738",
@@ -367,7 +367,7 @@
         "code": "fight_skill_buff101",
         "skill_group": "756134"
     },
-    "739": {
+    {
         "id": 739,
         "name": "fight_environment_skill-10000739",
         "desc": "fight_environment_skill-20000739",
@@ -375,7 +375,7 @@
         "code": "fight_skill_buff102",
         "skill_group": "756135"
     },
-    "740": {
+    {
         "id": 740,
         "name": "fight_environment_skill-10000740",
         "desc": "fight_environment_skill-20000740",
@@ -383,7 +383,7 @@
         "code": "fight_skill_buff103",
         "skill_group": "756136"
     },
-    "741": {
+    {
         "id": 741,
         "name": "fight_environment_skill-10000741",
         "desc": "fight_environment_skill-20000741",
@@ -391,7 +391,7 @@
         "code": "fight_skill_hurt201",
         "skill_group": "756144"
     },
-    "742": {
+    {
         "id": 742,
         "name": "fight_environment_skill-10000742",
         "desc": "fight_environment_skill-20000742",
@@ -399,7 +399,7 @@
         "code": "fight_skill_buff201",
         "skill_group": "756146"
     },
-    "743": {
+    {
         "id": 743,
         "name": "fight_environment_skill-10000743",
         "desc": "fight_environment_skill-20000743",
@@ -407,4 +407,4 @@
         "code": "fight_skill_buff202",
         "skill_group": "756147"
     }
-}
+]

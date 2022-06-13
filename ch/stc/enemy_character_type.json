@@ -1,5 +1,5 @@
-{
-    "9999": {
+[
+    {
         "id": 9999,
         "type": 0,
         "name": "enemy_character_type-20009999",
@@ -38,7 +38,7 @@
         "enemy_illustration_id": 0,
         "location_offset": ""
     },
-    "10000": {
+    {
         "id": 10000,
         "type": 2,
         "name": "enemy_character_type-20010000",
@@ -77,7 +77,7 @@
         "enemy_illustration_id": 0,
         "location_offset": ""
     },
-    "10001": {
+    {
         "id": 10001,
         "type": 2,
         "name": "enemy_character_type-20010001",
@@ -116,7 +116,7 @@
         "enemy_illustration_id": 2,
         "location_offset": ""
     },
-    "10002": {
+    {
         "id": 10002,
         "type": 2,
         "name": "enemy_character_type-20010002",
@@ -155,7 +155,7 @@
         "enemy_illustration_id": 3,
         "location_offset": ""
     },
-    "10003": {
+    {
         "id": 10003,
         "type": 2,
         "name": "enemy_character_type-20010003",
@@ -194,7 +194,7 @@
         "enemy_illustration_id": 6,
         "location_offset": ""
     },
-    "10004": {
+    {
         "id": 10004,
         "type": 3,
         "name": "enemy_character_type-20010004",
@@ -233,7 +233,7 @@
         "enemy_illustration_id": 4,
         "location_offset": ""
     },
-    "10005": {
+    {
         "id": 10005,
         "type": 3,
         "name": "enemy_character_type-20010005",
@@ -272,7 +272,7 @@
         "enemy_illustration_id": 7,
         "location_offset": ""
     },
-    "10006": {
+    {
         "id": 10006,
         "type": 3,
         "name": "enemy_character_type-20010006",
@@ -311,7 +311,7 @@
         "enemy_illustration_id": 9,
         "location_offset": ""
     },
-    "10007": {
+    {
         "id": 10007,
         "type": 3,
         "name": "enemy_character_type-20010007",
@@ -350,7 +350,7 @@
         "enemy_illustration_id": 10,
         "location_offset": ""
     },
-    "10008": {
+    {
         "id": 10008,
         "type": 3,
         "name": "enemy_character_type-20010008",
@@ -389,7 +389,7 @@
         "enemy_illustration_id": 12,
         "location_offset": ""
     },
-    "10009": {
+    {
         "id": 10009,
         "type": 2,
         "name": "enemy_character_type-20010009",
@@ -428,7 +428,7 @@
         "enemy_illustration_id": 13,
         "location_offset": ""
     },
-    "10011": {
+    {
         "id": 10011,
         "type": 5,
         "name": "enemy_character_type-20010011",
@@ -467,7 +467,7 @@
         "enemy_illustration_id": 15,
         "location_offset": ""
     },
-    "10012": {
+    {
         "id": 10012,
         "type": 3,
         "name": "enemy_character_type-20010012",
@@ -506,7 +506,7 @@
         "enemy_illustration_id": 29,
         "location_offset": ""
     },
-    "10014": {
+    {
         "id": 10014,
         "type": 4,
         "name": "enemy_character_type-20010014",
@@ -545,7 +545,7 @@
         "enemy_illustration_id": 14,
         "location_offset": ""
     },
-    "10015": {
+    {
         "id": 10015,
         "type": 5,
         "name": "enemy_character_type-20010015",
@@ -584,7 +584,7 @@
         "enemy_illustration_id": 15,
         "location_offset": ""
     },
-    "10016": {
+    {
         "id": 10016,
         "type": 4,
         "name": "enemy_character_type-20010016",
@@ -623,7 +623,7 @@
         "enemy_illustration_id": 14,
         "location_offset": ""
     },
-    "10017": {
+    {
         "id": 10017,
         "type": 3,
         "name": "enemy_character_type-20010017",
@@ -662,7 +662,7 @@
         "enemy_illustration_id": 28,
         "location_offset": ""
     },
-    "10018": {
+    {
         "id": 10018,
         "type": 4,
         "name": "enemy_character_type-20010018",
@@ -701,7 +701,7 @@
         "enemy_illustration_id": 30,
         "location_offset": ""
     },
-    "10019": {
+    {
         "id": 10019,
         "type": 3,
         "name": "enemy_character_type-20010019",
@@ -740,7 +740,7 @@
         "enemy_illustration_id": 9,
         "location_offset": ""
     },
-    "10020": {
+    {
         "id": 10020,
         "type": 4,
         "name": "enemy_character_type-20010020",
@@ -779,7 +779,7 @@
         "enemy_illustration_id": 14,
         "location_offset": ""
     },
-    "10021": {
+    {
         "id": 10021,
         "type": 2,
         "name": "enemy_character_type-20010021",
@@ -818,7 +818,7 @@
         "enemy_illustration_id": 31,
         "location_offset": ""
     },
-    "10022": {
+    {
         "id": 10022,
         "type": 2,
         "name": "enemy_character_type-20010022",
@@ -857,7 +857,7 @@
         "enemy_illustration_id": 32,
         "location_offset": ""
     },
-    "10023": {
+    {
         "id": 10023,
         "type": 2,
         "name": "enemy_character_type-20010023",
@@ -896,7 +896,7 @@
         "enemy_illustration_id": 31,
         "location_offset": ""
     },
-    "10024": {
+    {
         "id": 10024,
         "type": 3,
         "name": "enemy_character_type-20010024",
@@ -935,7 +935,7 @@
         "enemy_illustration_id": 37,
         "location_offset": ""
     },
-    "10025": {
+    {
         "id": 10025,
         "type": 5,
         "name": "enemy_character_type-20010025",
@@ -974,7 +974,7 @@
         "enemy_illustration_id": 38,
         "location_offset": ""
     },
-    "10026": {
+    {
         "id": 10026,
         "type": 4,
         "name": "enemy_character_type-20010026",
@@ -1013,7 +1013,7 @@
         "enemy_illustration_id": 41,
         "location_offset": ""
     },
-    "10027": {
+    {
         "id": 10027,
         "type": 4,
         "name": "enemy_character_type-20010027",
@@ -1052,7 +1052,7 @@
         "enemy_illustration_id": 39,
         "location_offset": ""
     },
-    "10028": {
+    {
         "id": 10028,
         "type": 5,
         "name": "enemy_character_type-20010028",
@@ -1091,7 +1091,7 @@
         "enemy_illustration_id": 40,
         "location_offset": ""
     },
-    "10029": {
+    {
         "id": 10029,
         "type": 3,
         "name": "enemy_character_type-20010029",
@@ -1130,7 +1130,7 @@
         "enemy_illustration_id": 36,
         "location_offset": ""
     },
-    "10030": {
+    {
         "id": 10030,
         "type": 4,
         "name": "enemy_character_type-20010030",
@@ -1169,7 +1169,7 @@
         "enemy_illustration_id": 43,
         "location_offset": ""
     },
-    "10031": {
+    {
         "id": 10031,
         "type": 4,
         "name": "enemy_character_type-20010031",
@@ -1208,7 +1208,7 @@
         "enemy_illustration_id": 43,
         "location_offset": ""
     },
-    "10032": {
+    {
         "id": 10032,
         "type": 4,
         "name": "enemy_character_type-20010032",
@@ -1247,7 +1247,7 @@
         "enemy_illustration_id": 43,
         "location_offset": ""
     },
-    "10033": {
+    {
         "id": 10033,
         "type": 4,
         "name": "enemy_character_type-20010033",
@@ -1286,7 +1286,7 @@
         "enemy_illustration_id": 42,
         "location_offset": ""
     },
-    "10034": {
+    {
         "id": 10034,
         "type": 3,
         "name": "enemy_character_type-20010034",
@@ -1325,7 +1325,7 @@
         "enemy_illustration_id": 46,
         "location_offset": ""
     },
-    "10035": {
+    {
         "id": 10035,
         "type": 3,
         "name": "enemy_character_type-20010035",
@@ -1364,7 +1364,7 @@
         "enemy_illustration_id": 47,
         "location_offset": ""
     },
-    "10036": {
+    {
         "id": 10036,
         "type": 3,
         "name": "enemy_character_type-20010036",
@@ -1403,7 +1403,7 @@
         "enemy_illustration_id": 48,
         "location_offset": ""
     },
-    "10037": {
+    {
         "id": 10037,
         "type": 3,
         "name": "enemy_character_type-20010037",
@@ -1442,7 +1442,7 @@
         "enemy_illustration_id": 52,
         "location_offset": ""
     },
-    "10038": {
+    {
         "id": 10038,
         "type": 3,
         "name": "enemy_character_type-20010038",
@@ -1481,7 +1481,7 @@
         "enemy_illustration_id": 53,
         "location_offset": ""
     },
-    "10039": {
+    {
         "id": 10039,
         "type": 4,
         "name": "enemy_character_type-20010039",
@@ -1520,7 +1520,7 @@
         "enemy_illustration_id": 49,
         "location_offset": ""
     },
-    "10040": {
+    {
         "id": 10040,
         "type": 3,
         "name": "enemy_character_type-20010040",
@@ -1559,7 +1559,7 @@
         "enemy_illustration_id": 47,
         "location_offset": ""
     },
-    "10041": {
+    {
         "id": 10041,
         "type": 3,
         "name": "enemy_character_type-20010041",
@@ -1598,7 +1598,7 @@
         "enemy_illustration_id": 48,
         "location_offset": ""
     },
-    "10042": {
+    {
         "id": 10042,
         "type": 4,
         "name": "enemy_character_type-20010042",
@@ -1637,7 +1637,7 @@
         "enemy_illustration_id": 49,
         "location_offset": ""
     },
-    "10043": {
+    {
         "id": 10043,
         "type": 3,
         "name": "enemy_character_type-20010043",
@@ -1676,7 +1676,7 @@
         "enemy_illustration_id": 46,
         "location_offset": ""
     },
-    "10044": {
+    {
         "id": 10044,
         "type": 3,
         "name": "enemy_character_type-20010044",
@@ -1715,7 +1715,7 @@
         "enemy_illustration_id": 58,
         "location_offset": ""
     },
-    "10045": {
+    {
         "id": 10045,
         "type": 3,
         "name": "enemy_character_type-20010045",
@@ -1754,7 +1754,7 @@
         "enemy_illustration_id": 48,
         "location_offset": ""
     },
-    "10046": {
+    {
         "id": 10046,
         "type": 4,
         "name": "enemy_character_type-20010046",
@@ -1793,7 +1793,7 @@
         "enemy_illustration_id": 16,
         "location_offset": ""
     },
-    "10047": {
+    {
         "id": 10047,
         "type": 4,
         "name": "enemy_character_type-20010047",
@@ -1832,7 +1832,7 @@
         "enemy_illustration_id": 39,
         "location_offset": ""
     },
-    "10048": {
+    {
         "id": 10048,
         "type": 3,
         "name": "enemy_character_type-20010048",
@@ -1871,7 +1871,7 @@
         "enemy_illustration_id": 48,
         "location_offset": ""
     },
-    "10049": {
+    {
         "id": 10049,
         "type": 4,
         "name": "enemy_character_type-20010049",
@@ -1910,7 +1910,7 @@
         "enemy_illustration_id": 49,
         "location_offset": ""
     },
-    "10050": {
+    {
         "id": 10050,
         "type": 5,
         "name": "enemy_character_type-20010050",
@@ -1949,7 +1949,7 @@
         "enemy_illustration_id": 73,
         "location_offset": ""
     },
-    "10051": {
+    {
         "id": 10051,
         "type": 2,
         "name": "enemy_character_type-20010051",
@@ -1988,7 +1988,7 @@
         "enemy_illustration_id": 72,
         "location_offset": ""
     },
-    "10052": {
+    {
         "id": 10052,
         "type": 3,
         "name": "enemy_character_type-20010052",
@@ -2027,7 +2027,7 @@
         "enemy_illustration_id": 71,
         "location_offset": ""
     },
-    "10053": {
+    {
         "id": 10053,
         "type": 2,
         "name": "enemy_character_type-20010053",
@@ -2066,7 +2066,7 @@
         "enemy_illustration_id": 69,
         "location_offset": ""
     },
-    "10054": {
+    {
         "id": 10054,
         "type": 2,
         "name": "enemy_character_type-20010054",
@@ -2105,7 +2105,7 @@
         "enemy_illustration_id": 70,
         "location_offset": ""
     },
-    "10055": {
+    {
         "id": 10055,
         "type": 3,
         "name": "enemy_character_type-20010055",
@@ -2144,7 +2144,7 @@
         "enemy_illustration_id": 63,
         "location_offset": ""
     },
-    "10056": {
+    {
         "id": 10056,
         "type": 4,
         "name": "enemy_character_type-20010056",
@@ -2183,7 +2183,7 @@
         "enemy_illustration_id": 64,
         "location_offset": ""
     },
-    "10057": {
+    {
         "id": 10057,
         "type": 3,
         "name": "enemy_character_type-20010057",
@@ -2222,7 +2222,7 @@
         "enemy_illustration_id": 65,
         "location_offset": ""
     },
-    "10058": {
+    {
         "id": 10058,
         "type": 3,
         "name": "enemy_character_type-20010058",
@@ -2261,7 +2261,7 @@
         "enemy_illustration_id": 66,
         "location_offset": ""
     },
-    "10059": {
+    {
         "id": 10059,
         "type": 2,
         "name": "enemy_character_type-20010059",
@@ -2300,7 +2300,7 @@
         "enemy_illustration_id": 74,
         "location_offset": "0.9,-1.2,3.32"
     },
-    "10061": {
+    {
         "id": 10061,
         "type": 2,
         "name": "enemy_character_type-20010061",
@@ -2339,7 +2339,7 @@
         "enemy_illustration_id": 0,
         "location_offset": "0.4,-1.2,2.24"
     },
-    "10062": {
+    {
         "id": 10062,
         "type": 2,
         "name": "enemy_character_type-20010062",
@@ -2378,7 +2378,7 @@
         "enemy_illustration_id": 75,
         "location_offset": "-0.59,0,-0.36"
     },
-    "10063": {
+    {
         "id": 10063,
         "type": 2,
         "name": "enemy_character_type-20010063",
@@ -2417,7 +2417,7 @@
         "enemy_illustration_id": 0,
         "location_offset": "0.12,0, 0.79"
     },
-    "10064": {
+    {
         "id": 10064,
         "type": 2,
         "name": "enemy_character_type-20010064",
@@ -2456,7 +2456,7 @@
         "enemy_illustration_id": 76,
         "location_offset": "0.54,0,0"
     },
-    "10065": {
+    {
         "id": 10065,
         "type": 2,
         "name": "enemy_character_type-20010065",
@@ -2495,7 +2495,7 @@
         "enemy_illustration_id": 0,
         "location_offset": "0.23,0,0.58"
     },
-    "10066": {
+    {
         "id": 10066,
         "type": 2,
         "name": "enemy_character_type-20010066",
@@ -2534,7 +2534,7 @@
         "enemy_illustration_id": 67,
         "location_offset": ""
     },
-    "10067": {
+    {
         "id": 10067,
         "type": 3,
         "name": "enemy_character_type-20010067",
@@ -2573,7 +2573,7 @@
         "enemy_illustration_id": 52,
         "location_offset": ""
     },
-    "10068": {
+    {
         "id": 10068,
         "type": 3,
         "name": "enemy_character_type-20010068",
@@ -2612,7 +2612,7 @@
         "enemy_illustration_id": 53,
         "location_offset": ""
     },
-    "10070": {
+    {
         "id": 10070,
         "type": 2,
         "name": "enemy_character_type-20010070",
@@ -2651,7 +2651,7 @@
         "enemy_illustration_id": 106,
         "location_offset": ""
     },
-    "10071": {
+    {
         "id": 10071,
         "type": 3,
         "name": "enemy_character_type-20010071",
@@ -2690,7 +2690,7 @@
         "enemy_illustration_id": 77,
         "location_offset": ""
     },
-    "10072": {
+    {
         "id": 10072,
         "type": 2,
         "name": "enemy_character_type-20010072",
@@ -2729,7 +2729,7 @@
         "enemy_illustration_id": 78,
         "location_offset": ""
     },
-    "10073": {
+    {
         "id": 10073,
         "type": 2,
         "name": "enemy_character_type-20010073",
@@ -2768,7 +2768,7 @@
         "enemy_illustration_id": 79,
         "location_offset": ""
     },
-    "10074": {
+    {
         "id": 10074,
         "type": 3,
         "name": "enemy_character_type-20010074",
@@ -2807,7 +2807,7 @@
         "enemy_illustration_id": 114,
         "location_offset": ""
     },
-    "10075": {
+    {
         "id": 10075,
         "type": 3,
         "name": "enemy_character_type-20010075",
@@ -2846,7 +2846,7 @@
         "enemy_illustration_id": 113,
         "location_offset": ""
     },
-    "10076": {
+    {
         "id": 10076,
         "type": 3,
         "name": "enemy_character_type-20010076",
@@ -2885,7 +2885,7 @@
         "enemy_illustration_id": 115,
         "location_offset": ""
     },
-    "10077": {
+    {
         "id": 10077,
         "type": 2,
         "name": "enemy_character_type-20010077",
@@ -2924,7 +2924,7 @@
         "enemy_illustration_id": 117,
         "location_offset": ""
     },
-    "10078": {
+    {
         "id": 10078,
         "type": 2,
         "name": "enemy_character_type-20010078",
@@ -2963,7 +2963,7 @@
         "enemy_illustration_id": 116,
         "location_offset": ""
     },
-    "10079": {
+    {
         "id": 10079,
         "type": 3,
         "name": "enemy_character_type-20010079",
@@ -3002,7 +3002,7 @@
         "enemy_illustration_id": 118,
         "location_offset": ""
     },
-    "10080": {
+    {
         "id": 10080,
         "type": 4,
         "name": "enemy_character_type-20010080",
@@ -3041,7 +3041,7 @@
         "enemy_illustration_id": 119,
         "location_offset": ""
     },
-    "10081": {
+    {
         "id": 10081,
         "type": 3,
         "name": "enemy_character_type-20010081",
@@ -3080,7 +3080,7 @@
         "enemy_illustration_id": 120,
         "location_offset": ""
     },
-    "10082": {
+    {
         "id": 10082,
         "type": 3,
         "name": "enemy_character_type-20010082",
@@ -3119,7 +3119,7 @@
         "enemy_illustration_id": 127,
         "location_offset": ""
     },
-    "10083": {
+    {
         "id": 10083,
         "type": 3,
         "name": "enemy_character_type-20010083",
@@ -3158,7 +3158,7 @@
         "enemy_illustration_id": 128,
         "location_offset": ""
     },
-    "10084": {
+    {
         "id": 10084,
         "type": 3,
         "name": "enemy_character_type-20010084",
@@ -3197,7 +3197,7 @@
         "enemy_illustration_id": 129,
         "location_offset": ""
     },
-    "10085": {
+    {
         "id": 10085,
         "type": 2,
         "name": "enemy_character_type-20010085",
@@ -3236,7 +3236,7 @@
         "enemy_illustration_id": 130,
         "location_offset": ""
     },
-    "10086": {
+    {
         "id": 10086,
         "type": 3,
         "name": "enemy_character_type-20010086",
@@ -3275,7 +3275,7 @@
         "enemy_illustration_id": 131,
         "location_offset": ""
     },
-    "10087": {
+    {
         "id": 10087,
         "type": 5,
         "name": "enemy_character_type-20010087",
@@ -3314,7 +3314,7 @@
         "enemy_illustration_id": 132,
         "location_offset": ""
     },
-    "10088": {
+    {
         "id": 10088,
         "type": 5,
         "name": "enemy_character_type-20010088",
@@ -3353,7 +3353,7 @@
         "enemy_illustration_id": 133,
         "location_offset": ""
     },
-    "10089": {
+    {
         "id": 10089,
         "type": 3,
         "name": "enemy_character_type-20010089",
@@ -3392,7 +3392,7 @@
         "enemy_illustration_id": 134,
         "location_offset": ""
     },
-    "10090": {
+    {
         "id": 10090,
         "type": 5,
         "name": "enemy_character_type-20010090",
@@ -3431,7 +3431,7 @@
         "enemy_illustration_id": 135,
         "location_offset": ""
     },
-    "10091": {
+    {
         "id": 10091,
         "type": 3,
         "name": "enemy_character_type-20010091",
@@ -3470,7 +3470,7 @@
         "enemy_illustration_id": 148,
         "location_offset": ""
     },
-    "10092": {
+    {
         "id": 10092,
         "type": 2,
         "name": "enemy_character_type-20010092",
@@ -3509,7 +3509,7 @@
         "enemy_illustration_id": 149,
         "location_offset": ""
     },
-    "10093": {
+    {
         "id": 10093,
         "type": 2,
         "name": "enemy_character_type-20010093",
@@ -3548,7 +3548,7 @@
         "enemy_illustration_id": 150,
         "location_offset": ""
     },
-    "10094": {
+    {
         "id": 10094,
         "type": 2,
         "name": "enemy_character_type-20010094",
@@ -3587,7 +3587,7 @@
         "enemy_illustration_id": 151,
         "location_offset": ""
     },
-    "10095": {
+    {
         "id": 10095,
         "type": 5,
         "name": "enemy_character_type-20010095",
@@ -3626,7 +3626,7 @@
         "enemy_illustration_id": 152,
         "location_offset": ""
     },
-    "10096": {
+    {
         "id": 10096,
         "type": 3,
         "name": "enemy_character_type-20010096",
@@ -3665,7 +3665,7 @@
         "enemy_illustration_id": 153,
         "location_offset": ""
     },
-    "11001": {
+    {
         "id": 11001,
         "type": 2,
         "name": "enemy_character_type-20011001",
@@ -3704,7 +3704,7 @@
         "enemy_illustration_id": 55,
         "location_offset": ""
     },
-    "11002": {
+    {
         "id": 11002,
         "type": 2,
         "name": "enemy_character_type-20011002",
@@ -3743,7 +3743,7 @@
         "enemy_illustration_id": 3,
         "location_offset": ""
     },
-    "11003": {
+    {
         "id": 11003,
         "type": 2,
         "name": "enemy_character_type-20011003",
@@ -3782,7 +3782,7 @@
         "enemy_illustration_id": 6,
         "location_offset": ""
     },
-    "11004": {
+    {
         "id": 11004,
         "type": 3,
         "name": "enemy_character_type-20011004",
@@ -3821,7 +3821,7 @@
         "enemy_illustration_id": 4,
         "location_offset": ""
     },
-    "11005": {
+    {
         "id": 11005,
         "type": 3,
         "name": "enemy_character_type-20011005",
@@ -3860,7 +3860,7 @@
         "enemy_illustration_id": 7,
         "location_offset": ""
     },
-    "11006": {
+    {
         "id": 11006,
         "type": 3,
         "name": "enemy_character_type-20011006",
@@ -3899,7 +3899,7 @@
         "enemy_illustration_id": 56,
         "location_offset": ""
     },
-    "11007": {
+    {
         "id": 11007,
         "type": 3,
         "name": "enemy_character_type-20011007",
@@ -3938,7 +3938,7 @@
         "enemy_illustration_id": 57,
         "location_offset": ""
     },
-    "11008": {
+    {
         "id": 11008,
         "type": 3,
         "name": "enemy_character_type-20011008",
@@ -3977,7 +3977,7 @@
         "enemy_illustration_id": 58,
         "location_offset": ""
     },
-    "11011": {
+    {
         "id": 11011,
         "type": 5,
         "name": "enemy_character_type-20011011",
@@ -4016,7 +4016,7 @@
         "enemy_illustration_id": 60,
         "location_offset": ""
     },
-    "11012": {
+    {
         "id": 11012,
         "type": 3,
         "name": "enemy_character_type-20011012",
@@ -4055,7 +4055,7 @@
         "enemy_illustration_id": 59,
         "location_offset": ""
     },
-    "11014": {
+    {
         "id": 11014,
         "type": 4,
         "name": "enemy_character_type-20011014",
@@ -4094,7 +4094,7 @@
         "enemy_illustration_id": 14,
         "location_offset": ""
     },
-    "11015": {
+    {
         "id": 11015,
         "type": 5,
         "name": "enemy_character_type-20011015",
@@ -4133,7 +4133,7 @@
         "enemy_illustration_id": 15,
         "location_offset": ""
     },
-    "11016": {
+    {
         "id": 11016,
         "type": 4,
         "name": "enemy_character_type-20011016",
@@ -4172,7 +4172,7 @@
         "enemy_illustration_id": 14,
         "location_offset": ""
     },
-    "11017": {
+    {
         "id": 11017,
         "type": 3,
         "name": "enemy_character_type-20011017",
@@ -4211,7 +4211,7 @@
         "enemy_illustration_id": 28,
         "location_offset": ""
     },
-    "11018": {
+    {
         "id": 11018,
         "type": 4,
         "name": "enemy_character_type-20011018",
@@ -4250,7 +4250,7 @@
         "enemy_illustration_id": 30,
         "location_offset": ""
     },
-    "11024": {
+    {
         "id": 11024,
         "type": 3,
         "name": "enemy_character_type-20011024",
@@ -4289,7 +4289,7 @@
         "enemy_illustration_id": 37,
         "location_offset": ""
     },
-    "11025": {
+    {
         "id": 11025,
         "type": 5,
         "name": "enemy_character_type-20011025",
@@ -4328,7 +4328,7 @@
         "enemy_illustration_id": 38,
         "location_offset": ""
     },
-    "11026": {
+    {
         "id": 11026,
         "type": 4,
         "name": "enemy_character_type-20011026",
@@ -4367,7 +4367,7 @@
         "enemy_illustration_id": 41,
         "location_offset": ""
     },
-    "11028": {
+    {
         "id": 11028,
         "type": 5,
         "name": "enemy_character_type-20011028",
@@ -4406,7 +4406,7 @@
         "enemy_illustration_id": 40,
         "location_offset": ""
     },
-    "11029": {
+    {
         "id": 11029,
         "type": 3,
         "name": "enemy_character_type-20011029",
@@ -4445,7 +4445,7 @@
         "enemy_illustration_id": 36,
         "location_offset": ""
     },
-    "11030": {
+    {
         "id": 11030,
         "type": 3,
         "name": "enemy_character_type-20011030",
@@ -4484,7 +4484,7 @@
         "enemy_illustration_id": 95,
         "location_offset": ""
     },
-    "11031": {
+    {
         "id": 11031,
         "type": 4,
         "name": "enemy_character_type-20011031",
@@ -4523,7 +4523,7 @@
         "enemy_illustration_id": 96,
         "location_offset": ""
     },
-    "11032": {
+    {
         "id": 11032,
         "type": 3,
         "name": "enemy_character_type-20011032",
@@ -4562,7 +4562,7 @@
         "enemy_illustration_id": 97,
         "location_offset": ""
     },
-    "11033": {
+    {
         "id": 11033,
         "type": 3,
         "name": "enemy_character_type-20011033",
@@ -4601,7 +4601,7 @@
         "enemy_illustration_id": 98,
         "location_offset": ""
     },
-    "11034": {
+    {
         "id": 11034,
         "type": 3,
         "name": "enemy_character_type-20011034",
@@ -4640,7 +4640,7 @@
         "enemy_illustration_id": 12,
         "location_offset": ""
     },
-    "11104": {
+    {
         "id": 11104,
         "type": 3,
         "name": "enemy_character_type-20011104",
@@ -4679,7 +4679,7 @@
         "enemy_illustration_id": 86,
         "location_offset": ""
     },
-    "11105": {
+    {
         "id": 11105,
         "type": 3,
         "name": "enemy_character_type-20011105",
@@ -4718,7 +4718,7 @@
         "enemy_illustration_id": 94,
         "location_offset": ""
     },
-    "12050": {
+    {
         "id": 12050,
         "type": 5,
         "name": "enemy_character_type-20012050",
@@ -4757,7 +4757,7 @@
         "enemy_illustration_id": 73,
         "location_offset": ""
     },
-    "12051": {
+    {
         "id": 12051,
         "type": 2,
         "name": "enemy_character_type-20012051",
@@ -4796,7 +4796,7 @@
         "enemy_illustration_id": 72,
         "location_offset": ""
     },
-    "12052": {
+    {
         "id": 12052,
         "type": 3,
         "name": "enemy_character_type-20012052",
@@ -4835,7 +4835,7 @@
         "enemy_illustration_id": 71,
         "location_offset": ""
     },
-    "12053": {
+    {
         "id": 12053,
         "type": 2,
         "name": "enemy_character_type-20012053",
@@ -4874,7 +4874,7 @@
         "enemy_illustration_id": 69,
         "location_offset": ""
     },
-    "12054": {
+    {
         "id": 12054,
         "type": 2,
         "name": "enemy_character_type-20012054",
@@ -4913,7 +4913,7 @@
         "enemy_illustration_id": 70,
         "location_offset": ""
     },
-    "12055": {
+    {
         "id": 12055,
         "type": 3,
         "name": "enemy_character_type-20012055",
@@ -4952,7 +4952,7 @@
         "enemy_illustration_id": 63,
         "location_offset": ""
     },
-    "12056": {
+    {
         "id": 12056,
         "type": 4,
         "name": "enemy_character_type-20012056",
@@ -4991,7 +4991,7 @@
         "enemy_illustration_id": 64,
         "location_offset": ""
     },
-    "12057": {
+    {
         "id": 12057,
         "type": 3,
         "name": "enemy_character_type-20012057",
@@ -5030,7 +5030,7 @@
         "enemy_illustration_id": 65,
         "location_offset": ""
     },
-    "12058": {
+    {
         "id": 12058,
         "type": 3,
         "name": "enemy_character_type-20012058",
@@ -5069,7 +5069,7 @@
         "enemy_illustration_id": 66,
         "location_offset": ""
     },
-    "12059": {
+    {
         "id": 12059,
         "type": 2,
         "name": "enemy_character_type-20012059",
@@ -5108,7 +5108,7 @@
         "enemy_illustration_id": 74,
         "location_offset": "0.4,-1.2,2.24"
     },
-    "12061": {
+    {
         "id": 12061,
         "type": 2,
         "name": "enemy_character_type-20012061",
@@ -5147,7 +5147,7 @@
         "enemy_illustration_id": 0,
         "location_offset": "-0.59,0,-0.36"
     },
-    "12062": {
+    {
         "id": 12062,
         "type": 2,
         "name": "enemy_character_type-20012062",
@@ -5186,7 +5186,7 @@
         "enemy_illustration_id": 75,
         "location_offset": "0.12,0, 0.79"
     },
-    "12063": {
+    {
         "id": 12063,
         "type": 2,
         "name": "enemy_character_type-20012063",
@@ -5225,7 +5225,7 @@
         "enemy_illustration_id": 0,
         "location_offset": "0.54,0,0"
     },
-    "12064": {
+    {
         "id": 12064,
         "type": 2,
         "name": "enemy_character_type-20012064",
@@ -5264,7 +5264,7 @@
         "enemy_illustration_id": 76,
         "location_offset": "0.23,0,0.58"
     },
-    "12065": {
+    {
         "id": 12065,
         "type": 2,
         "name": "enemy_character_type-20012065",
@@ -5303,7 +5303,7 @@
         "enemy_illustration_id": 0,
         "location_offset": ""
     },
-    "12066": {
+    {
         "id": 12066,
         "type": 2,
         "name": "enemy_character_type-20012066",
@@ -5342,7 +5342,7 @@
         "enemy_illustration_id": 67,
         "location_offset": ""
     },
-    "12067": {
+    {
         "id": 12067,
         "type": 3,
         "name": "enemy_character_type-20012067",
@@ -5381,7 +5381,7 @@
         "enemy_illustration_id": 118,
         "location_offset": ""
     },
-    "12068": {
+    {
         "id": 12068,
         "type": 4,
         "name": "enemy_character_type-20012068",
@@ -5420,7 +5420,7 @@
         "enemy_illustration_id": 119,
         "location_offset": ""
     },
-    "12069": {
+    {
         "id": 12069,
         "type": 3,
         "name": "enemy_character_type-20012069",
@@ -5459,7 +5459,7 @@
         "enemy_illustration_id": 120,
         "location_offset": ""
     },
-    "12070": {
+    {
         "id": 12070,
         "type": 3,
         "name": "enemy_character_type-20012070",
@@ -5498,7 +5498,7 @@
         "enemy_illustration_id": 115,
         "location_offset": ""
     },
-    "12071": {
+    {
         "id": 12071,
         "type": 2,
         "name": "enemy_character_type-20012071",
@@ -5537,7 +5537,7 @@
         "enemy_illustration_id": 117,
         "location_offset": ""
     },
-    "12072": {
+    {
         "id": 12072,
         "type": 2,
         "name": "enemy_character_type-20012072",
@@ -5576,7 +5576,7 @@
         "enemy_illustration_id": 116,
         "location_offset": ""
     },
-    "12073": {
+    {
         "id": 12073,
         "type": 3,
         "name": "enemy_character_type-20012073",
@@ -5615,7 +5615,7 @@
         "enemy_illustration_id": 129,
         "location_offset": ""
     },
-    "12074": {
+    {
         "id": 12074,
         "type": 2,
         "name": "enemy_character_type-20012074",
@@ -5654,7 +5654,7 @@
         "enemy_illustration_id": 130,
         "location_offset": ""
     },
-    "12075": {
+    {
         "id": 12075,
         "type": 3,
         "name": "enemy_character_type-20012075",
@@ -5693,7 +5693,7 @@
         "enemy_illustration_id": 131,
         "location_offset": ""
     },
-    "12076": {
+    {
         "id": 12076,
         "type": 5,
         "name": "enemy_character_type-20012076",
@@ -5732,7 +5732,7 @@
         "enemy_illustration_id": 132,
         "location_offset": ""
     },
-    "12077": {
+    {
         "id": 12077,
         "type": 5,
         "name": "enemy_character_type-20012077",
@@ -5771,7 +5771,7 @@
         "enemy_illustration_id": 133,
         "location_offset": ""
     },
-    "12078": {
+    {
         "id": 12078,
         "type": 3,
         "name": "enemy_character_type-20012078",
@@ -5810,7 +5810,7 @@
         "enemy_illustration_id": 134,
         "location_offset": ""
     },
-    "12079": {
+    {
         "id": 12079,
         "type": 5,
         "name": "enemy_character_type-20012079",
@@ -5849,7 +5849,7 @@
         "enemy_illustration_id": 135,
         "location_offset": ""
     },
-    "13001": {
+    {
         "id": 13001,
         "type": 3,
         "name": "enemy_character_type-20013001",
@@ -5888,7 +5888,7 @@
         "enemy_illustration_id": 121,
         "location_offset": ""
     },
-    "13002": {
+    {
         "id": 13002,
         "type": 3,
         "name": "enemy_character_type-20013002",
@@ -5927,7 +5927,7 @@
         "enemy_illustration_id": 122,
         "location_offset": ""
     },
-    "13003": {
+    {
         "id": 13003,
         "type": 4,
         "name": "enemy_character_type-20013003",
@@ -5966,7 +5966,7 @@
         "enemy_illustration_id": 82,
         "location_offset": ""
     },
-    "13004": {
+    {
         "id": 13004,
         "type": 4,
         "name": "enemy_character_type-20013004",
@@ -6005,7 +6005,7 @@
         "enemy_illustration_id": 83,
         "location_offset": ""
     },
-    "13005": {
+    {
         "id": 13005,
         "type": 2,
         "name": "enemy_character_type-20013005",
@@ -6044,7 +6044,7 @@
         "enemy_illustration_id": 84,
         "location_offset": ""
     },
-    "13006": {
+    {
         "id": 13006,
         "type": 2,
         "name": "enemy_character_type-20013006",
@@ -6083,7 +6083,7 @@
         "enemy_illustration_id": 85,
         "location_offset": ""
     },
-    "13101": {
+    {
         "id": 13101,
         "type": 3,
         "name": "enemy_character_type-20013101",
@@ -6122,7 +6122,7 @@
         "enemy_illustration_id": 87,
         "location_offset": ""
     },
-    "13102": {
+    {
         "id": 13102,
         "type": 3,
         "name": "enemy_character_type-20013102",
@@ -6161,7 +6161,7 @@
         "enemy_illustration_id": 88,
         "location_offset": ""
     },
-    "13103": {
+    {
         "id": 13103,
         "type": 3,
         "name": "enemy_character_type-20013103",
@@ -6200,7 +6200,7 @@
         "enemy_illustration_id": 89,
         "location_offset": ""
     },
-    "13104": {
+    {
         "id": 13104,
         "type": 3,
         "name": "enemy_character_type-20013104",
@@ -6239,7 +6239,7 @@
         "enemy_illustration_id": 90,
         "location_offset": ""
     },
-    "13105": {
+    {
         "id": 13105,
         "type": 2,
         "name": "enemy_character_type-20013105",
@@ -6278,7 +6278,7 @@
         "enemy_illustration_id": 0,
         "location_offset": ""
     },
-    "13106": {
+    {
         "id": 13106,
         "type": 2,
         "name": "enemy_character_type-20013106",
@@ -6317,7 +6317,7 @@
         "enemy_illustration_id": 1,
         "location_offset": ""
     },
-    "13107": {
+    {
         "id": 13107,
         "type": 2,
         "name": "enemy_character_type-20013107",
@@ -6356,7 +6356,7 @@
         "enemy_illustration_id": 1,
         "location_offset": ""
     },
-    "13108": {
+    {
         "id": 13108,
         "type": 2,
         "name": "enemy_character_type-20013108",
@@ -6395,7 +6395,7 @@
         "enemy_illustration_id": 1,
         "location_offset": ""
     },
-    "13109": {
+    {
         "id": 13109,
         "type": 2,
         "name": "enemy_character_type-20013109",
@@ -6434,7 +6434,7 @@
         "enemy_illustration_id": 1,
         "location_offset": ""
     },
-    "13110": {
+    {
         "id": 13110,
         "type": 2,
         "name": "enemy_character_type-20013110",
@@ -6473,7 +6473,7 @@
         "enemy_illustration_id": 1,
         "location_offset": ""
     },
-    "13111": {
+    {
         "id": 13111,
         "type": 5,
         "name": "enemy_character_type-20013111",
@@ -6512,7 +6512,7 @@
         "enemy_illustration_id": 104,
         "location_offset": ""
     },
-    "13112": {
+    {
         "id": 13112,
         "type": 4,
         "name": "enemy_character_type-20013112",
@@ -6551,7 +6551,7 @@
         "enemy_illustration_id": 105,
         "location_offset": ""
     },
-    "13113": {
+    {
         "id": 13113,
         "type": 2,
         "name": "enemy_character_type-20013113",
@@ -6590,7 +6590,7 @@
         "enemy_illustration_id": 1,
         "location_offset": ""
     },
-    "13114": {
+    {
         "id": 13114,
         "type": 2,
         "name": "enemy_character_type-20013114",
@@ -6629,7 +6629,7 @@
         "enemy_illustration_id": 1,
         "location_offset": ""
     },
-    "13115": {
+    {
         "id": 13115,
         "type": 2,
         "name": "enemy_character_type-20013115",
@@ -6668,7 +6668,7 @@
         "enemy_illustration_id": 1,
         "location_offset": ""
     },
-    "13116": {
+    {
         "id": 13116,
         "type": 2,
         "name": "enemy_character_type-20013116",
@@ -6707,7 +6707,7 @@
         "enemy_illustration_id": 1,
         "location_offset": ""
     },
-    "13117": {
+    {
         "id": 13117,
         "type": 3,
         "name": "enemy_character_type-20013117",
@@ -6746,7 +6746,7 @@
         "enemy_illustration_id": 101,
         "location_offset": ""
     },
-    "13118": {
+    {
         "id": 13118,
         "type": 3,
         "name": "enemy_character_type-20013118",
@@ -6785,7 +6785,7 @@
         "enemy_illustration_id": 102,
         "location_offset": ""
     },
-    "13119": {
+    {
         "id": 13119,
         "type": 3,
         "name": "enemy_character_type-20013119",
@@ -6824,7 +6824,7 @@
         "enemy_illustration_id": 103,
         "location_offset": ""
     },
-    "13120": {
+    {
         "id": 13120,
         "type": 3,
         "name": "enemy_character_type-20013120",
@@ -6863,7 +6863,7 @@
         "enemy_illustration_id": 101,
         "location_offset": ""
     },
-    "13121": {
+    {
         "id": 13121,
         "type": 3,
         "name": "enemy_character_type-20013121",
@@ -6902,7 +6902,7 @@
         "enemy_illustration_id": 102,
         "location_offset": ""
     },
-    "13122": {
+    {
         "id": 13122,
         "type": 3,
         "name": "enemy_character_type-20013122",
@@ -6941,7 +6941,7 @@
         "enemy_illustration_id": 103,
         "location_offset": ""
     },
-    "13123": {
+    {
         "id": 13123,
         "type": 3,
         "name": "enemy_character_type-20013123",
@@ -6980,7 +6980,7 @@
         "enemy_illustration_id": 107,
         "location_offset": ""
     },
-    "13124": {
+    {
         "id": 13124,
         "type": 3,
         "name": "enemy_character_type-20013124",
@@ -7019,7 +7019,7 @@
         "enemy_illustration_id": 108,
         "location_offset": ""
     },
-    "13201": {
+    {
         "id": 13201,
         "type": 3,
         "name": "enemy_character_type-20013201",
@@ -7058,7 +7058,7 @@
         "enemy_illustration_id": 100011,
         "location_offset": ""
     },
-    "13202": {
+    {
         "id": 13202,
         "type": 3,
         "name": "enemy_character_type-20013202",
@@ -7097,7 +7097,7 @@
         "enemy_illustration_id": 100012,
         "location_offset": ""
     },
-    "13203": {
+    {
         "id": 13203,
         "type": 3,
         "name": "enemy_character_type-20013203",
@@ -7136,7 +7136,7 @@
         "enemy_illustration_id": 100013,
         "location_offset": ""
     },
-    "13204": {
+    {
         "id": 13204,
         "type": 3,
         "name": "enemy_character_type-20013204",
@@ -7175,7 +7175,7 @@
         "enemy_illustration_id": 100014,
         "location_offset": ""
     },
-    "13205": {
+    {
         "id": 13205,
         "type": 3,
         "name": "enemy_character_type-20013205",
@@ -7214,7 +7214,7 @@
         "enemy_illustration_id": 100015,
         "location_offset": ""
     },
-    "13206": {
+    {
         "id": 13206,
         "type": 3,
         "name": "enemy_character_type-20013206",
@@ -7253,7 +7253,7 @@
         "enemy_illustration_id": 100016,
         "location_offset": ""
     },
-    "13207": {
+    {
         "id": 13207,
         "type": 3,
         "name": "enemy_character_type-20013207",
@@ -7292,7 +7292,7 @@
         "enemy_illustration_id": 100017,
         "location_offset": ""
     },
-    "13208": {
+    {
         "id": 13208,
         "type": 3,
         "name": "enemy_character_type-20013208",
@@ -7331,7 +7331,7 @@
         "enemy_illustration_id": 100018,
         "location_offset": ""
     },
-    "13209": {
+    {
         "id": 13209,
         "type": 3,
         "name": "enemy_character_type-20013209",
@@ -7370,7 +7370,7 @@
         "enemy_illustration_id": 100019,
         "location_offset": ""
     },
-    "13210": {
+    {
         "id": 13210,
         "type": 3,
         "name": "enemy_character_type-20013210",
@@ -7409,7 +7409,7 @@
         "enemy_illustration_id": 100020,
         "location_offset": ""
     },
-    "13211": {
+    {
         "id": 13211,
         "type": 5,
         "name": "enemy_character_type-20013211",
@@ -7448,7 +7448,7 @@
         "enemy_illustration_id": 100028,
         "location_offset": ""
     },
-    "13212": {
+    {
         "id": 13212,
         "type": 4,
         "name": "enemy_character_type-20013212",
@@ -7487,7 +7487,7 @@
         "enemy_illustration_id": 100029,
         "location_offset": ""
     },
-    "13213": {
+    {
         "id": 13213,
         "type": 3,
         "name": "enemy_character_type-20013213",
@@ -7526,7 +7526,7 @@
         "enemy_illustration_id": 100030,
         "location_offset": ""
     },
-    "13214": {
+    {
         "id": 13214,
         "type": 3,
         "name": "enemy_character_type-20013214",
@@ -7565,7 +7565,7 @@
         "enemy_illustration_id": 100031,
         "location_offset": ""
     },
-    "13215": {
+    {
         "id": 13215,
         "type": 3,
         "name": "enemy_character_type-20013215",
@@ -7604,7 +7604,7 @@
         "enemy_illustration_id": 100032,
         "location_offset": ""
     },
-    "13216": {
+    {
         "id": 13216,
         "type": 2,
         "name": "enemy_character_type-20013216",
@@ -7643,7 +7643,7 @@
         "enemy_illustration_id": 100033,
         "location_offset": ""
     },
-    "13217": {
+    {
         "id": 13217,
         "type": 2,
         "name": "enemy_character_type-20013217",
@@ -7682,7 +7682,7 @@
         "enemy_illustration_id": 123,
         "location_offset": ""
     },
-    "13218": {
+    {
         "id": 13218,
         "type": 2,
         "name": "enemy_character_type-20013218",
@@ -7721,7 +7721,7 @@
         "enemy_illustration_id": 124,
         "location_offset": ""
     },
-    "13219": {
+    {
         "id": 13219,
         "type": 5,
         "name": "enemy_character_type-20013219",
@@ -7760,7 +7760,7 @@
         "enemy_illustration_id": 125,
         "location_offset": ""
     },
-    "13220": {
+    {
         "id": 13220,
         "type": 3,
         "name": "enemy_character_type-20013220",
@@ -7799,7 +7799,7 @@
         "enemy_illustration_id": 141,
         "location_offset": ""
     },
-    "13221": {
+    {
         "id": 13221,
         "type": 2,
         "name": "enemy_character_type-20013221",
@@ -7838,7 +7838,7 @@
         "enemy_illustration_id": 142,
         "location_offset": ""
     },
-    "13222": {
+    {
         "id": 13222,
         "type": 2,
         "name": "enemy_character_type-20013222",
@@ -7877,7 +7877,7 @@
         "enemy_illustration_id": 143,
         "location_offset": ""
     },
-    "13223": {
+    {
         "id": 13223,
         "type": 2,
         "name": "enemy_character_type-20013223",
@@ -7916,7 +7916,7 @@
         "enemy_illustration_id": 144,
         "location_offset": ""
     },
-    "13224": {
+    {
         "id": 13224,
         "type": 5,
         "name": "enemy_character_type-20013224",
@@ -7955,7 +7955,7 @@
         "enemy_illustration_id": 145,
         "location_offset": ""
     },
-    "13225": {
+    {
         "id": 13225,
         "type": 2,
         "name": "enemy_character_type-20013225",
@@ -7994,7 +7994,7 @@
         "enemy_illustration_id": 158,
         "location_offset": ""
     },
-    "13226": {
+    {
         "id": 13226,
         "type": 2,
         "name": "enemy_character_type-20013226",
@@ -8033,7 +8033,7 @@
         "enemy_illustration_id": 159,
         "location_offset": ""
     },
-    "13227": {
+    {
         "id": 13227,
         "type": 2,
         "name": "enemy_character_type-20013227",
@@ -8072,7 +8072,7 @@
         "enemy_illustration_id": 160,
         "location_offset": ""
     },
-    "13228": {
+    {
         "id": 13228,
         "type": 2,
         "name": "enemy_character_type-20013228",
@@ -8111,7 +8111,7 @@
         "enemy_illustration_id": 161,
         "location_offset": ""
     },
-    "13229": {
+    {
         "id": 13229,
         "type": 2,
         "name": "enemy_character_type-20013229",
@@ -8150,7 +8150,7 @@
         "enemy_illustration_id": 159,
         "location_offset": ""
     },
-    "13230": {
+    {
         "id": 13230,
         "type": 2,
         "name": "enemy_character_type-20013230",
@@ -8189,7 +8189,7 @@
         "enemy_illustration_id": 160,
         "location_offset": ""
     },
-    "13231": {
+    {
         "id": 13231,
         "type": 2,
         "name": "enemy_character_type-20013231",
@@ -8228,7 +8228,7 @@
         "enemy_illustration_id": 161,
         "location_offset": ""
     },
-    "15001": {
+    {
         "id": 15001,
         "type": 5,
         "name": "enemy_character_type-20015001",
@@ -8267,7 +8267,7 @@
         "enemy_illustration_id": 60,
         "location_offset": ""
     },
-    "15002": {
+    {
         "id": 15002,
         "type": 4,
         "name": "enemy_character_type-20015002",
@@ -8306,7 +8306,7 @@
         "enemy_illustration_id": 14,
         "location_offset": ""
     },
-    "15003": {
+    {
         "id": 15003,
         "type": 2,
         "name": "enemy_character_type-20015003",
@@ -8345,7 +8345,7 @@
         "enemy_illustration_id": 6,
         "location_offset": ""
     },
-    "15004": {
+    {
         "id": 15004,
         "type": 4,
         "name": "enemy_character_type-20015004",
@@ -8384,7 +8384,7 @@
         "enemy_illustration_id": 30,
         "location_offset": ""
     },
-    "15005": {
+    {
         "id": 15005,
         "type": 4,
         "name": "enemy_character_type-20015005",
@@ -8423,7 +8423,7 @@
         "enemy_illustration_id": 30,
         "location_offset": ""
     },
-    "15006": {
+    {
         "id": 15006,
         "type": 1,
         "name": "enemy_character_type-20015006",
@@ -8462,7 +8462,7 @@
         "enemy_illustration_id": 35,
         "location_offset": ""
     },
-    "15007": {
+    {
         "id": 15007,
         "type": 2,
         "name": "enemy_character_type-20015007",
@@ -8501,7 +8501,7 @@
         "enemy_illustration_id": 32,
         "location_offset": ""
     },
-    "15008": {
+    {
         "id": 15008,
         "type": 3,
         "name": "enemy_character_type-20015008",
@@ -8540,7 +8540,7 @@
         "enemy_illustration_id": 58,
         "location_offset": ""
     },
-    "15009": {
+    {
         "id": 15009,
         "type": 3,
         "name": "enemy_character_type-20015009",
@@ -8579,7 +8579,7 @@
         "enemy_illustration_id": 4,
         "location_offset": ""
     },
-    "15010": {
+    {
         "id": 15010,
         "type": 3,
         "name": "enemy_character_type-20015010",
@@ -8618,7 +8618,7 @@
         "enemy_illustration_id": 9,
         "location_offset": ""
     },
-    "15011": {
+    {
         "id": 15011,
         "type": 4,
         "name": "enemy_character_type-20015011",
@@ -8657,7 +8657,7 @@
         "enemy_illustration_id": 16,
         "location_offset": ""
     },
-    "15012": {
+    {
         "id": 15012,
         "type": 2,
         "name": "enemy_character_type-20015012",
@@ -8696,7 +8696,7 @@
         "enemy_illustration_id": 72,
         "location_offset": ""
     },
-    "15013": {
+    {
         "id": 15013,
         "type": 3,
         "name": "enemy_character_type-20015013",
@@ -8735,7 +8735,7 @@
         "enemy_illustration_id": 71,
         "location_offset": ""
     },
-    "15014": {
+    {
         "id": 15014,
         "type": 3,
         "name": "enemy_character_type-20015014",
@@ -8774,7 +8774,7 @@
         "enemy_illustration_id": 48,
         "location_offset": ""
     },
-    "15015": {
+    {
         "id": 15015,
         "type": 3,
         "name": "enemy_character_type-20015015",
@@ -8813,7 +8813,7 @@
         "enemy_illustration_id": 48,
         "location_offset": ""
     },
-    "15016": {
+    {
         "id": 15016,
         "type": 3,
         "name": "enemy_character_type-20015016",
@@ -8852,7 +8852,7 @@
         "enemy_illustration_id": 46,
         "location_offset": ""
     },
-    "15017": {
+    {
         "id": 15017,
         "type": 3,
         "name": "enemy_character_type-20015017",
@@ -8891,7 +8891,7 @@
         "enemy_illustration_id": 47,
         "location_offset": ""
     },
-    "15018": {
+    {
         "id": 15018,
         "type": 4,
         "name": "enemy_character_type-20015018",
@@ -8930,7 +8930,7 @@
         "enemy_illustration_id": 64,
         "location_offset": ""
     },
-    "15019": {
+    {
         "id": 15019,
         "type": 3,
         "name": "enemy_character_type-20015019",
@@ -8969,7 +8969,7 @@
         "enemy_illustration_id": 7,
         "location_offset": ""
     },
-    "15020": {
+    {
         "id": 15020,
         "type": 3,
         "name": "enemy_character_type-20015020",
@@ -9008,7 +9008,7 @@
         "enemy_illustration_id": 10,
         "location_offset": ""
     },
-    "16001": {
+    {
         "id": 16001,
         "type": 5,
         "name": "enemy_character_type-20016001",
@@ -9047,7 +9047,7 @@
         "enemy_illustration_id": 60,
         "location_offset": ""
     },
-    "16002": {
+    {
         "id": 16002,
         "type": 4,
         "name": "enemy_character_type-20016002",
@@ -9086,7 +9086,7 @@
         "enemy_illustration_id": 14,
         "location_offset": ""
     },
-    "16003": {
+    {
         "id": 16003,
         "type": 3,
         "name": "enemy_character_type-20016003",
@@ -9125,7 +9125,7 @@
         "enemy_illustration_id": 4,
         "location_offset": ""
     },
-    "16004": {
+    {
         "id": 16004,
         "type": 3,
         "name": "enemy_character_type-20016004",
@@ -9164,7 +9164,7 @@
         "enemy_illustration_id": 9,
         "location_offset": ""
     },
-    "16005": {
+    {
         "id": 16005,
         "type": 3,
         "name": "enemy_character_type-20016005",
@@ -9203,7 +9203,7 @@
         "enemy_illustration_id": 58,
         "location_offset": ""
     },
-    "16006": {
+    {
         "id": 16006,
         "type": 4,
         "name": "enemy_character_type-20016006",
@@ -9242,7 +9242,7 @@
         "enemy_illustration_id": 39,
         "location_offset": ""
     },
-    "16007": {
+    {
         "id": 16007,
         "type": 2,
         "name": "enemy_character_type-20016007",
@@ -9281,7 +9281,7 @@
         "enemy_illustration_id": 3,
         "location_offset": ""
     },
-    "20000": {
+    {
         "id": 20000,
         "type": 2,
         "name": "enemy_character_type-20020000",
@@ -9320,7 +9320,7 @@
         "enemy_illustration_id": 0,
         "location_offset": ""
     },
-    "20001": {
+    {
         "id": 20001,
         "type": 2,
         "name": "enemy_character_type-20020001",
@@ -9359,7 +9359,7 @@
         "enemy_illustration_id": 2,
         "location_offset": ""
     },
-    "20002": {
+    {
         "id": 20002,
         "type": 2,
         "name": "enemy_character_type-20020002",
@@ -9398,7 +9398,7 @@
         "enemy_illustration_id": 3,
         "location_offset": ""
     },
-    "20003": {
+    {
         "id": 20003,
         "type": 2,
         "name": "enemy_character_type-20020003",
@@ -9437,7 +9437,7 @@
         "enemy_illustration_id": 6,
         "location_offset": ""
     },
-    "20004": {
+    {
         "id": 20004,
         "type": 3,
         "name": "enemy_character_type-20020004",
@@ -9476,7 +9476,7 @@
         "enemy_illustration_id": 4,
         "location_offset": ""
     },
-    "20005": {
+    {
         "id": 20005,
         "type": 3,
         "name": "enemy_character_type-20020005",
@@ -9515,7 +9515,7 @@
         "enemy_illustration_id": 7,
         "location_offset": ""
     },
-    "20006": {
+    {
         "id": 20006,
         "type": 3,
         "name": "enemy_character_type-20020006",
@@ -9554,7 +9554,7 @@
         "enemy_illustration_id": 9,
         "location_offset": ""
     },
-    "20007": {
+    {
         "id": 20007,
         "type": 3,
         "name": "enemy_character_type-20020007",
@@ -9593,7 +9593,7 @@
         "enemy_illustration_id": 10,
         "location_offset": ""
     },
-    "20008": {
+    {
         "id": 20008,
         "type": 3,
         "name": "enemy_character_type-20020008",
@@ -9632,7 +9632,7 @@
         "enemy_illustration_id": 12,
         "location_offset": ""
     },
-    "20009": {
+    {
         "id": 20009,
         "type": 2,
         "name": "enemy_character_type-20020009",
@@ -9671,7 +9671,7 @@
         "enemy_illustration_id": 13,
         "location_offset": "0.9,-1.2,3.32"
     },
-    "80001": {
+    {
         "id": 80001,
         "type": 3,
         "name": "enemy_character_type-20080001",
@@ -9710,7 +9710,7 @@
         "enemy_illustration_id": 0,
         "location_offset": ""
     },
-    "80002": {
+    {
         "id": 80002,
         "type": 3,
         "name": "enemy_character_type-20080002",
@@ -9749,7 +9749,7 @@
         "enemy_illustration_id": 0,
         "location_offset": ""
     },
-    "80003": {
+    {
         "id": 80003,
         "type": 3,
         "name": "enemy_character_type-20080003",
@@ -9788,7 +9788,7 @@
         "enemy_illustration_id": 0,
         "location_offset": ""
     },
-    "80004": {
+    {
         "id": 80004,
         "type": 3,
         "name": "enemy_character_type-20080004",
@@ -9827,7 +9827,7 @@
         "enemy_illustration_id": 0,
         "location_offset": ""
     },
-    "80005": {
+    {
         "id": 80005,
         "type": 3,
         "name": "enemy_character_type-20080005",
@@ -9866,7 +9866,7 @@
         "enemy_illustration_id": 0,
         "location_offset": ""
     },
-    "88888": {
+    {
         "id": 88888,
         "type": 3,
         "name": "enemy_character_type-20088888",
@@ -9905,7 +9905,7 @@
         "enemy_illustration_id": 37,
         "location_offset": ""
     },
-    "88889": {
+    {
         "id": 88889,
         "type": 3,
         "name": "enemy_character_type-20088889",
@@ -9944,7 +9944,7 @@
         "enemy_illustration_id": 37,
         "location_offset": ""
     },
-    "88890": {
+    {
         "id": 88890,
         "type": 3,
         "name": "enemy_character_type-20088890",
@@ -9983,7 +9983,7 @@
         "enemy_illustration_id": 37,
         "location_offset": ""
     },
-    "90001": {
+    {
         "id": 90001,
         "type": 2,
         "name": "enemy_character_type-20090001",
@@ -10022,7 +10022,7 @@
         "enemy_illustration_id": 1,
         "location_offset": ""
     },
-    "90002": {
+    {
         "id": 90002,
         "type": 1,
         "name": "enemy_character_type-20090002",
@@ -10061,7 +10061,7 @@
         "enemy_illustration_id": 5,
         "location_offset": ""
     },
-    "90003": {
+    {
         "id": 90003,
         "type": 1,
         "name": "enemy_character_type-20090003",
@@ -10100,7 +10100,7 @@
         "enemy_illustration_id": 5,
         "location_offset": ""
     },
-    "90004": {
+    {
         "id": 90004,
         "type": 1,
         "name": "enemy_character_type-20090004",
@@ -10139,7 +10139,7 @@
         "enemy_illustration_id": 8,
         "location_offset": ""
     },
-    "90005": {
+    {
         "id": 90005,
         "type": 1,
         "name": "enemy_character_type-20090005",
@@ -10178,7 +10178,7 @@
         "enemy_illustration_id": 8,
         "location_offset": ""
     },
-    "90006": {
+    {
         "id": 90006,
         "type": 1,
         "name": "enemy_character_type-20090006",
@@ -10217,7 +10217,7 @@
         "enemy_illustration_id": 11,
         "location_offset": ""
     },
-    "90007": {
+    {
         "id": 90007,
         "type": 1,
         "name": "enemy_character_type-20090007",
@@ -10256,7 +10256,7 @@
         "enemy_illustration_id": 11,
         "location_offset": ""
     },
-    "90008": {
+    {
         "id": 90008,
         "type": 1,
         "name": "enemy_character_type-20090008",
@@ -10295,7 +10295,7 @@
         "enemy_illustration_id": 17,
         "location_offset": ""
     },
-    "90009": {
+    {
         "id": 90009,
         "type": 1,
         "name": "enemy_character_type-20090009",
@@ -10334,7 +10334,7 @@
         "enemy_illustration_id": 5,
         "location_offset": ""
     },
-    "700001": {
+    {
         "id": 700001,
         "type": 1,
         "name": "enemy_character_type-20700001",
@@ -10373,7 +10373,7 @@
         "enemy_illustration_id": 18,
         "location_offset": ""
     },
-    "700002": {
+    {
         "id": 700002,
         "type": 1,
         "name": "enemy_character_type-20700002",
@@ -10412,7 +10412,7 @@
         "enemy_illustration_id": 26,
         "location_offset": ""
     },
-    "700003": {
+    {
         "id": 700003,
         "type": 1,
         "name": "enemy_character_type-20700003",
@@ -10451,7 +10451,7 @@
         "enemy_illustration_id": 20,
         "location_offset": ""
     },
-    "700004": {
+    {
         "id": 700004,
         "type": 1,
         "name": "enemy_character_type-20700004",
@@ -10490,7 +10490,7 @@
         "enemy_illustration_id": 19,
         "location_offset": ""
     },
-    "700005": {
+    {
         "id": 700005,
         "type": 1,
         "name": "enemy_character_type-20700005",
@@ -10529,7 +10529,7 @@
         "enemy_illustration_id": 35,
         "location_offset": ""
     },
-    "700006": {
+    {
         "id": 700006,
         "type": 1,
         "name": "enemy_character_type-20700006",
@@ -10568,7 +10568,7 @@
         "enemy_illustration_id": 100001,
         "location_offset": ""
     },
-    "700007": {
+    {
         "id": 700007,
         "type": 1,
         "name": "enemy_character_type-20700007",
@@ -10607,7 +10607,7 @@
         "enemy_illustration_id": 80,
         "location_offset": ""
     },
-    "800001": {
+    {
         "id": 800001,
         "type": 2,
         "name": "enemy_character_type-20800001",
@@ -10646,7 +10646,7 @@
         "enemy_illustration_id": 21,
         "location_offset": ""
     },
-    "800002": {
+    {
         "id": 800002,
         "type": 2,
         "name": "enemy_character_type-20800002",
@@ -10685,7 +10685,7 @@
         "enemy_illustration_id": 35,
         "location_offset": ""
     },
-    "800003": {
+    {
         "id": 800003,
         "type": 2,
         "name": "enemy_character_type-20800003",
@@ -10724,7 +10724,7 @@
         "enemy_illustration_id": 44,
         "location_offset": ""
     },
-    "800004": {
+    {
         "id": 800004,
         "type": 2,
         "name": "enemy_character_type-20800004",
@@ -10763,7 +10763,7 @@
         "enemy_illustration_id": 62,
         "location_offset": ""
     },
-    "800005": {
+    {
         "id": 800005,
         "type": 2,
         "name": "enemy_character_type-20800005",
@@ -10802,7 +10802,7 @@
         "enemy_illustration_id": 26,
         "location_offset": ""
     },
-    "800006": {
+    {
         "id": 800006,
         "type": 2,
         "name": "enemy_character_type-20800006",
@@ -10841,7 +10841,7 @@
         "enemy_illustration_id": 110,
         "location_offset": ""
     },
-    "800007": {
+    {
         "id": 800007,
         "type": 2,
         "name": "enemy_character_type-20800007",
@@ -10880,7 +10880,7 @@
         "enemy_illustration_id": 33,
         "location_offset": ""
     },
-    "800008": {
+    {
         "id": 800008,
         "type": 2,
         "name": "enemy_character_type-20800008",
@@ -10919,7 +10919,7 @@
         "enemy_illustration_id": 156,
         "location_offset": ""
     },
-    "900010": {
+    {
         "id": 900010,
         "type": 1,
         "name": "enemy_character_type-20900010",
@@ -10958,7 +10958,7 @@
         "enemy_illustration_id": 8,
         "location_offset": ""
     },
-    "900011": {
+    {
         "id": 900011,
         "type": 1,
         "name": "enemy_character_type-20900011",
@@ -10997,7 +10997,7 @@
         "enemy_illustration_id": 11,
         "location_offset": ""
     },
-    "900012": {
+    {
         "id": 900012,
         "type": 1,
         "name": "enemy_character_type-20900012",
@@ -11036,7 +11036,7 @@
         "enemy_illustration_id": 17,
         "location_offset": ""
     },
-    "900013": {
+    {
         "id": 900013,
         "type": 1,
         "name": "enemy_character_type-20900013",
@@ -11075,7 +11075,7 @@
         "enemy_illustration_id": 5,
         "location_offset": ""
     },
-    "900014": {
+    {
         "id": 900014,
         "type": 1,
         "name": "enemy_character_type-20900014",
@@ -11114,7 +11114,7 @@
         "enemy_illustration_id": 1,
         "location_offset": ""
     },
-    "900015": {
+    {
         "id": 900015,
         "type": 1,
         "name": "enemy_character_type-20900015",
@@ -11153,7 +11153,7 @@
         "enemy_illustration_id": 5,
         "location_offset": ""
     },
-    "900016": {
+    {
         "id": 900016,
         "type": 2,
         "name": "enemy_character_type-20900016",
@@ -11192,7 +11192,7 @@
         "enemy_illustration_id": 1,
         "location_offset": ""
     },
-    "900017": {
+    {
         "id": 900017,
         "type": 1,
         "name": "enemy_character_type-20900017",
@@ -11231,7 +11231,7 @@
         "enemy_illustration_id": 18,
         "location_offset": ""
     },
-    "900018": {
+    {
         "id": 900018,
         "type": 1,
         "name": "enemy_character_type-20900018",
@@ -11270,7 +11270,7 @@
         "enemy_illustration_id": 18,
         "location_offset": ""
     },
-    "900020": {
+    {
         "id": 900020,
         "type": 1,
         "name": "enemy_character_type-20900020",
@@ -11309,7 +11309,7 @@
         "enemy_illustration_id": 21,
         "location_offset": ""
     },
-    "900021": {
+    {
         "id": 900021,
         "type": 1,
         "name": "enemy_character_type-20900021",
@@ -11348,7 +11348,7 @@
         "enemy_illustration_id": 19,
         "location_offset": ""
     },
-    "900022": {
+    {
         "id": 900022,
         "type": 1,
         "name": "enemy_character_type-20900022",
@@ -11387,7 +11387,7 @@
         "enemy_illustration_id": 20,
         "location_offset": ""
     },
-    "900023": {
+    {
         "id": 900023,
         "type": 1,
         "name": "enemy_character_type-20900023",
@@ -11426,7 +11426,7 @@
         "enemy_illustration_id": 21,
         "location_offset": ""
     },
-    "900024": {
+    {
         "id": 900024,
         "type": 1,
         "name": "enemy_character_type-20900024",
@@ -11465,7 +11465,7 @@
         "enemy_illustration_id": 21,
         "location_offset": ""
     },
-    "900025": {
+    {
         "id": 900025,
         "type": 4,
         "name": "enemy_character_type-20900025",
@@ -11504,7 +11504,7 @@
         "enemy_illustration_id": 16,
         "location_offset": ""
     },
-    "900026": {
+    {
         "id": 900026,
         "type": 4,
         "name": "enemy_character_type-20900026",
@@ -11543,7 +11543,7 @@
         "enemy_illustration_id": 16,
         "location_offset": ""
     },
-    "900027": {
+    {
         "id": 900027,
         "type": 4,
         "name": "enemy_character_type-20900027",
@@ -11582,7 +11582,7 @@
         "enemy_illustration_id": 16,
         "location_offset": ""
     },
-    "900028": {
+    {
         "id": 900028,
         "type": 4,
         "name": "enemy_character_type-20900028",
@@ -11621,7 +11621,7 @@
         "enemy_illustration_id": 16,
         "location_offset": ""
     },
-    "900029": {
+    {
         "id": 900029,
         "type": 2,
         "name": "enemy_character_type-20900029",
@@ -11660,7 +11660,7 @@
         "enemy_illustration_id": 1,
         "location_offset": ""
     },
-    "900030": {
+    {
         "id": 900030,
         "type": 2,
         "name": "enemy_character_type-20900030",
@@ -11699,7 +11699,7 @@
         "enemy_illustration_id": 1,
         "location_offset": ""
     },
-    "900031": {
+    {
         "id": 900031,
         "type": 2,
         "name": "enemy_character_type-20900031",
@@ -11738,7 +11738,7 @@
         "enemy_illustration_id": 1,
         "location_offset": ""
     },
-    "900032": {
+    {
         "id": 900032,
         "type": 4,
         "name": "enemy_character_type-20900032",
@@ -11777,7 +11777,7 @@
         "enemy_illustration_id": 16,
         "location_offset": ""
     },
-    "900033": {
+    {
         "id": 900033,
         "type": 1,
         "name": "enemy_character_type-20900033",
@@ -11816,7 +11816,7 @@
         "enemy_illustration_id": 23,
         "location_offset": ""
     },
-    "900034": {
+    {
         "id": 900034,
         "type": 1,
         "name": "enemy_character_type-20900034",
@@ -11855,7 +11855,7 @@
         "enemy_illustration_id": 23,
         "location_offset": ""
     },
-    "900035": {
+    {
         "id": 900035,
         "type": 2,
         "name": "enemy_character_type-20900035",
@@ -11894,7 +11894,7 @@
         "enemy_illustration_id": 12,
         "location_offset": ""
     },
-    "900036": {
+    {
         "id": 900036,
         "type": 4,
         "name": "enemy_character_type-20900036",
@@ -11933,7 +11933,7 @@
         "enemy_illustration_id": 16,
         "location_offset": ""
     },
-    "900037": {
+    {
         "id": 900037,
         "type": 1,
         "name": "enemy_character_type-20900037",
@@ -11972,7 +11972,7 @@
         "enemy_illustration_id": 26,
         "location_offset": ""
     },
-    "900038": {
+    {
         "id": 900038,
         "type": 1,
         "name": "enemy_character_type-20900038",
@@ -12011,7 +12011,7 @@
         "enemy_illustration_id": 27,
         "location_offset": ""
     },
-    "900039": {
+    {
         "id": 900039,
         "type": 1,
         "name": "enemy_character_type-20900039",
@@ -12050,7 +12050,7 @@
         "enemy_illustration_id": 24,
         "location_offset": ""
     },
-    "900040": {
+    {
         "id": 900040,
         "type": 1,
         "name": "enemy_character_type-20900040",
@@ -12089,7 +12089,7 @@
         "enemy_illustration_id": 5,
         "location_offset": ""
     },
-    "900041": {
+    {
         "id": 900041,
         "type": 1,
         "name": "enemy_character_type-20900041",
@@ -12128,7 +12128,7 @@
         "enemy_illustration_id": 8,
         "location_offset": ""
     },
-    "900042": {
+    {
         "id": 900042,
         "type": 1,
         "name": "enemy_character_type-20900042",
@@ -12167,7 +12167,7 @@
         "enemy_illustration_id": 8,
         "location_offset": ""
     },
-    "900043": {
+    {
         "id": 900043,
         "type": 1,
         "name": "enemy_character_type-20900043",
@@ -12206,7 +12206,7 @@
         "enemy_illustration_id": 11,
         "location_offset": ""
     },
-    "900044": {
+    {
         "id": 900044,
         "type": 1,
         "name": "enemy_character_type-20900044",
@@ -12245,7 +12245,7 @@
         "enemy_illustration_id": 11,
         "location_offset": ""
     },
-    "900045": {
+    {
         "id": 900045,
         "type": 1,
         "name": "enemy_character_type-20900045",
@@ -12284,7 +12284,7 @@
         "enemy_illustration_id": 17,
         "location_offset": ""
     },
-    "900046": {
+    {
         "id": 900046,
         "type": 1,
         "name": "enemy_character_type-20900046",
@@ -12323,7 +12323,7 @@
         "enemy_illustration_id": 18,
         "location_offset": ""
     },
-    "900047": {
+    {
         "id": 900047,
         "type": 1,
         "name": "enemy_character_type-20900047",
@@ -12362,7 +12362,7 @@
         "enemy_illustration_id": 18,
         "location_offset": ""
     },
-    "900048": {
+    {
         "id": 900048,
         "type": 1,
         "name": "enemy_character_type-20900048",
@@ -12401,7 +12401,7 @@
         "enemy_illustration_id": 23,
         "location_offset": ""
     },
-    "900049": {
+    {
         "id": 900049,
         "type": 1,
         "name": "enemy_character_type-20900049",
@@ -12440,7 +12440,7 @@
         "enemy_illustration_id": 23,
         "location_offset": ""
     },
-    "900050": {
+    {
         "id": 900050,
         "type": 1,
         "name": "enemy_character_type-20900050",
@@ -12479,7 +12479,7 @@
         "enemy_illustration_id": 24,
         "location_offset": ""
     },
-    "900051": {
+    {
         "id": 900051,
         "type": 2,
         "name": "enemy_character_type-20900051",
@@ -12518,7 +12518,7 @@
         "enemy_illustration_id": 25,
         "location_offset": ""
     },
-    "900052": {
+    {
         "id": 900052,
         "type": 1,
         "name": "enemy_character_type-20900052",
@@ -12557,7 +12557,7 @@
         "enemy_illustration_id": 26,
         "location_offset": ""
     },
-    "900053": {
+    {
         "id": 900053,
         "type": 1,
         "name": "enemy_character_type-20900053",
@@ -12596,7 +12596,7 @@
         "enemy_illustration_id": 27,
         "location_offset": ""
     },
-    "900054": {
+    {
         "id": 900054,
         "type": 1,
         "name": "enemy_character_type-20900054",
@@ -12635,7 +12635,7 @@
         "enemy_illustration_id": 26,
         "location_offset": ""
     },
-    "900055": {
+    {
         "id": 900055,
         "type": 1,
         "name": "enemy_character_type-20900055",
@@ -12674,7 +12674,7 @@
         "enemy_illustration_id": 27,
         "location_offset": ""
     },
-    "900056": {
+    {
         "id": 900056,
         "type": 1,
         "name": "enemy_character_type-20900056",
@@ -12713,7 +12713,7 @@
         "enemy_illustration_id": 5,
         "location_offset": ""
     },
-    "900057": {
+    {
         "id": 900057,
         "type": 1,
         "name": "enemy_character_type-20900057",
@@ -12752,7 +12752,7 @@
         "enemy_illustration_id": 8,
         "location_offset": ""
     },
-    "900058": {
+    {
         "id": 900058,
         "type": 1,
         "name": "enemy_character_type-20900058",
@@ -12791,7 +12791,7 @@
         "enemy_illustration_id": 11,
         "location_offset": ""
     },
-    "900059": {
+    {
         "id": 900059,
         "type": 1,
         "name": "enemy_character_type-20900059",
@@ -12830,7 +12830,7 @@
         "enemy_illustration_id": 17,
         "location_offset": ""
     },
-    "900060": {
+    {
         "id": 900060,
         "type": 1,
         "name": "enemy_character_type-20900060",
@@ -12869,7 +12869,7 @@
         "enemy_illustration_id": 23,
         "location_offset": ""
     },
-    "900061": {
+    {
         "id": 900061,
         "type": 1,
         "name": "enemy_character_type-20900061",
@@ -12908,7 +12908,7 @@
         "enemy_illustration_id": 26,
         "location_offset": ""
     },
-    "900062": {
+    {
         "id": 900062,
         "type": 1,
         "name": "enemy_character_type-20900062",
@@ -12947,7 +12947,7 @@
         "enemy_illustration_id": 27,
         "location_offset": ""
     },
-    "900063": {
+    {
         "id": 900063,
         "type": 1,
         "name": "enemy_character_type-20900063",
@@ -12986,7 +12986,7 @@
         "enemy_illustration_id": 19,
         "location_offset": ""
     },
-    "900064": {
+    {
         "id": 900064,
         "type": 1,
         "name": "enemy_character_type-20900064",
@@ -13025,7 +13025,7 @@
         "enemy_illustration_id": 20,
         "location_offset": ""
     },
-    "900065": {
+    {
         "id": 900065,
         "type": 1,
         "name": "enemy_character_type-20900065",
@@ -13064,7 +13064,7 @@
         "enemy_illustration_id": 27,
         "location_offset": ""
     },
-    "900066": {
+    {
         "id": 900066,
         "type": 1,
         "name": "enemy_character_type-20900066",
@@ -13103,7 +13103,7 @@
         "enemy_illustration_id": 22,
         "location_offset": ""
     },
-    "900067": {
+    {
         "id": 900067,
         "type": 2,
         "name": "enemy_character_type-20900067",
@@ -13142,7 +13142,7 @@
         "enemy_illustration_id": 19,
         "location_offset": ""
     },
-    "900068": {
+    {
         "id": 900068,
         "type": 2,
         "name": "enemy_character_type-20900068",
@@ -13181,7 +13181,7 @@
         "enemy_illustration_id": 20,
         "location_offset": ""
     },
-    "900069": {
+    {
         "id": 900069,
         "type": 2,
         "name": "enemy_character_type-20900069",
@@ -13220,7 +13220,7 @@
         "enemy_illustration_id": 27,
         "location_offset": ""
     },
-    "900070": {
+    {
         "id": 900070,
         "type": 1,
         "name": "enemy_character_type-20900070",
@@ -13259,7 +13259,7 @@
         "enemy_illustration_id": 18,
         "location_offset": ""
     },
-    "900071": {
+    {
         "id": 900071,
         "type": 1,
         "name": "enemy_character_type-20900071",
@@ -13298,7 +13298,7 @@
         "enemy_illustration_id": 24,
         "location_offset": ""
     },
-    "900072": {
+    {
         "id": 900072,
         "type": 1,
         "name": "enemy_character_type-20900072",
@@ -13337,7 +13337,7 @@
         "enemy_illustration_id": 18,
         "location_offset": ""
     },
-    "900073": {
+    {
         "id": 900073,
         "type": 1,
         "name": "enemy_character_type-20900073",
@@ -13376,7 +13376,7 @@
         "enemy_illustration_id": 24,
         "location_offset": ""
     },
-    "900074": {
+    {
         "id": 900074,
         "type": 2,
         "name": "enemy_character_type-20900074",
@@ -13415,7 +13415,7 @@
         "enemy_illustration_id": 1,
         "location_offset": ""
     },
-    "900075": {
+    {
         "id": 900075,
         "type": 1,
         "name": "enemy_character_type-20900075",
@@ -13454,7 +13454,7 @@
         "enemy_illustration_id": 17,
         "location_offset": ""
     },
-    "900076": {
+    {
         "id": 900076,
         "type": 1,
         "name": "enemy_character_type-20900076",
@@ -13493,7 +13493,7 @@
         "enemy_illustration_id": 0,
         "location_offset": ""
     },
-    "900077": {
+    {
         "id": 900077,
         "type": 1,
         "name": "enemy_character_type-20900077",
@@ -13532,7 +13532,7 @@
         "enemy_illustration_id": 34,
         "location_offset": ""
     },
-    "900078": {
+    {
         "id": 900078,
         "type": 1,
         "name": "enemy_character_type-20900078",
@@ -13571,7 +13571,7 @@
         "enemy_illustration_id": 34,
         "location_offset": ""
     },
-    "900079": {
+    {
         "id": 900079,
         "type": 1,
         "name": "enemy_character_type-20900079",
@@ -13610,7 +13610,7 @@
         "enemy_illustration_id": 33,
         "location_offset": ""
     },
-    "900080": {
+    {
         "id": 900080,
         "type": 1,
         "name": "enemy_character_type-20900080",
@@ -13649,7 +13649,7 @@
         "enemy_illustration_id": 33,
         "location_offset": ""
     },
-    "900081": {
+    {
         "id": 900081,
         "type": 1,
         "name": "enemy_character_type-20900081",
@@ -13688,7 +13688,7 @@
         "enemy_illustration_id": 35,
         "location_offset": ""
     },
-    "900082": {
+    {
         "id": 900082,
         "type": 1,
         "name": "enemy_character_type-20900082",
@@ -13727,7 +13727,7 @@
         "enemy_illustration_id": 35,
         "location_offset": ""
     },
-    "900083": {
+    {
         "id": 900083,
         "type": 1,
         "name": "enemy_character_type-20900083",
@@ -13766,7 +13766,7 @@
         "enemy_illustration_id": 0,
         "location_offset": ""
     },
-    "900084": {
+    {
         "id": 900084,
         "type": 1,
         "name": "enemy_character_type-20900084",
@@ -13805,7 +13805,7 @@
         "enemy_illustration_id": 0,
         "location_offset": ""
     },
-    "900085": {
+    {
         "id": 900085,
         "type": 1,
         "name": "enemy_character_type-20900085",
@@ -13844,7 +13844,7 @@
         "enemy_illustration_id": 34,
         "location_offset": ""
     },
-    "900086": {
+    {
         "id": 900086,
         "type": 1,
         "name": "enemy_character_type-20900086",
@@ -13883,7 +13883,7 @@
         "enemy_illustration_id": 35,
         "location_offset": ""
     },
-    "900087": {
+    {
         "id": 900087,
         "type": 1,
         "name": "enemy_character_type-20900087",
@@ -13922,7 +13922,7 @@
         "enemy_illustration_id": 35,
         "location_offset": ""
     },
-    "900088": {
+    {
         "id": 900088,
         "type": 1,
         "name": "enemy_character_type-20900088",
@@ -13961,7 +13961,7 @@
         "enemy_illustration_id": 20,
         "location_offset": ""
     },
-    "900089": {
+    {
         "id": 900089,
         "type": 1,
         "name": "enemy_character_type-20900089",
@@ -14000,7 +14000,7 @@
         "enemy_illustration_id": 26,
         "location_offset": ""
     },
-    "900090": {
+    {
         "id": 900090,
         "type": 1,
         "name": "enemy_character_type-20900090",
@@ -14039,7 +14039,7 @@
         "enemy_illustration_id": 45,
         "location_offset": ""
     },
-    "900091": {
+    {
         "id": 900091,
         "type": 2,
         "name": "enemy_character_type-20900091",
@@ -14078,7 +14078,7 @@
         "enemy_illustration_id": 17,
         "location_offset": ""
     },
-    "900092": {
+    {
         "id": 900092,
         "type": 1,
         "name": "enemy_character_type-20900092",
@@ -14117,7 +14117,7 @@
         "enemy_illustration_id": 44,
         "location_offset": ""
     },
-    "900093": {
+    {
         "id": 900093,
         "type": 1,
         "name": "enemy_character_type-20900093",
@@ -14156,7 +14156,7 @@
         "enemy_illustration_id": 45,
         "location_offset": ""
     },
-    "900094": {
+    {
         "id": 900094,
         "type": 1,
         "name": "enemy_character_type-20900094",
@@ -14195,7 +14195,7 @@
         "enemy_illustration_id": 44,
         "location_offset": ""
     },
-    "900095": {
+    {
         "id": 900095,
         "type": 2,
         "name": "enemy_character_type-20900095",
@@ -14234,7 +14234,7 @@
         "enemy_illustration_id": 5,
         "location_offset": ""
     },
-    "900096": {
+    {
         "id": 900096,
         "type": 2,
         "name": "enemy_character_type-20900096",
@@ -14273,7 +14273,7 @@
         "enemy_illustration_id": 8,
         "location_offset": ""
     },
-    "900097": {
+    {
         "id": 900097,
         "type": 2,
         "name": "enemy_character_type-20900097",
@@ -14312,7 +14312,7 @@
         "enemy_illustration_id": 11,
         "location_offset": ""
     },
-    "900098": {
+    {
         "id": 900098,
         "type": 1,
         "name": "enemy_character_type-20900098",
@@ -14351,7 +14351,7 @@
         "enemy_illustration_id": 35,
         "location_offset": ""
     },
-    "900099": {
+    {
         "id": 900099,
         "type": 1,
         "name": "enemy_character_type-20900099",
@@ -14390,7 +14390,7 @@
         "enemy_illustration_id": 24,
         "location_offset": ""
     },
-    "900100": {
+    {
         "id": 900100,
         "type": 2,
         "name": "enemy_character_type-20900100",
@@ -14429,7 +14429,7 @@
         "enemy_illustration_id": 35,
         "location_offset": ""
     },
-    "900101": {
+    {
         "id": 900101,
         "type": 1,
         "name": "enemy_character_type-20900101",
@@ -14468,7 +14468,7 @@
         "enemy_illustration_id": 44,
         "location_offset": ""
     },
-    "900102": {
+    {
         "id": 900102,
         "type": 1,
         "name": "enemy_character_type-20900102",
@@ -14507,7 +14507,7 @@
         "enemy_illustration_id": 24,
         "location_offset": ""
     },
-    "900103": {
+    {
         "id": 900103,
         "type": 1,
         "name": "enemy_character_type-20900103",
@@ -14546,7 +14546,7 @@
         "enemy_illustration_id": 0,
         "location_offset": ""
     },
-    "900104": {
+    {
         "id": 900104,
         "type": 1,
         "name": "enemy_character_type-20900104",
@@ -14585,7 +14585,7 @@
         "enemy_illustration_id": 0,
         "location_offset": ""
     },
-    "900105": {
+    {
         "id": 900105,
         "type": 1,
         "name": "enemy_character_type-20900105",
@@ -14624,7 +14624,7 @@
         "enemy_illustration_id": 24,
         "location_offset": ""
     },
-    "900106": {
+    {
         "id": 900106,
         "type": 1,
         "name": "enemy_character_type-20900106",
@@ -14663,7 +14663,7 @@
         "enemy_illustration_id": 24,
         "location_offset": ""
     },
-    "900107": {
+    {
         "id": 900107,
         "type": 1,
         "name": "enemy_character_type-20900107",
@@ -14702,7 +14702,7 @@
         "enemy_illustration_id": 5,
         "location_offset": ""
     },
-    "900108": {
+    {
         "id": 900108,
         "type": 1,
         "name": "enemy_character_type-20900108",
@@ -14741,7 +14741,7 @@
         "enemy_illustration_id": 8,
         "location_offset": ""
     },
-    "900109": {
+    {
         "id": 900109,
         "type": 1,
         "name": "enemy_character_type-20900109",
@@ -14780,7 +14780,7 @@
         "enemy_illustration_id": 11,
         "location_offset": ""
     },
-    "900110": {
+    {
         "id": 900110,
         "type": 1,
         "name": "enemy_character_type-20900110",
@@ -14819,7 +14819,7 @@
         "enemy_illustration_id": 17,
         "location_offset": ""
     },
-    "900111": {
+    {
         "id": 900111,
         "type": 1,
         "name": "enemy_character_type-20900111",
@@ -14858,7 +14858,7 @@
         "enemy_illustration_id": 17,
         "location_offset": ""
     },
-    "900112": {
+    {
         "id": 900112,
         "type": 3,
         "name": "enemy_character_type-20900112",
@@ -14897,7 +14897,7 @@
         "enemy_illustration_id": 10,
         "location_offset": ""
     },
-    "900113": {
+    {
         "id": 900113,
         "type": 1,
         "name": "enemy_character_type-20900113",
@@ -14936,7 +14936,7 @@
         "enemy_illustration_id": 24,
         "location_offset": ""
     },
-    "900114": {
+    {
         "id": 900114,
         "type": 3,
         "name": "enemy_character_type-20900114",
@@ -14975,7 +14975,7 @@
         "enemy_illustration_id": 12,
         "location_offset": ""
     },
-    "900115": {
+    {
         "id": 900115,
         "type": 2,
         "name": "enemy_character_type-20900115",
@@ -15014,7 +15014,7 @@
         "enemy_illustration_id": 51,
         "location_offset": ""
     },
-    "900116": {
+    {
         "id": 900116,
         "type": 2,
         "name": "enemy_character_type-20900116",
@@ -15053,7 +15053,7 @@
         "enemy_illustration_id": 50,
         "location_offset": ""
     },
-    "900117": {
+    {
         "id": 900117,
         "type": 1,
         "name": "enemy_character_type-20900117",
@@ -15092,7 +15092,7 @@
         "enemy_illustration_id": 54,
         "location_offset": ""
     },
-    "900118": {
+    {
         "id": 900118,
         "type": 1,
         "name": "enemy_character_type-20900118",
@@ -15131,7 +15131,7 @@
         "enemy_illustration_id": 5,
         "location_offset": ""
     },
-    "900119": {
+    {
         "id": 900119,
         "type": 1,
         "name": "enemy_character_type-20900119",
@@ -15170,7 +15170,7 @@
         "enemy_illustration_id": 0,
         "location_offset": ""
     },
-    "900120": {
+    {
         "id": 900120,
         "type": 2,
         "name": "enemy_character_type-20900120",
@@ -15209,7 +15209,7 @@
         "enemy_illustration_id": 51,
         "location_offset": ""
     },
-    "900121": {
+    {
         "id": 900121,
         "type": 2,
         "name": "enemy_character_type-20900121",
@@ -15248,7 +15248,7 @@
         "enemy_illustration_id": 50,
         "location_offset": ""
     },
-    "900122": {
+    {
         "id": 900122,
         "type": 1,
         "name": "enemy_character_type-20900122",
@@ -15287,7 +15287,7 @@
         "enemy_illustration_id": 50,
         "location_offset": ""
     },
-    "900123": {
+    {
         "id": 900123,
         "type": 1,
         "name": "enemy_character_type-20900123",
@@ -15326,7 +15326,7 @@
         "enemy_illustration_id": 0,
         "location_offset": ""
     },
-    "900124": {
+    {
         "id": 900124,
         "type": 2,
         "name": "enemy_character_type-20900124",
@@ -15365,7 +15365,7 @@
         "enemy_illustration_id": 51,
         "location_offset": ""
     },
-    "900125": {
+    {
         "id": 900125,
         "type": 2,
         "name": "enemy_character_type-20900125",
@@ -15404,7 +15404,7 @@
         "enemy_illustration_id": 50,
         "location_offset": ""
     },
-    "900126": {
+    {
         "id": 900126,
         "type": 1,
         "name": "enemy_character_type-20900126",
@@ -15443,7 +15443,7 @@
         "enemy_illustration_id": 0,
         "location_offset": ""
     },
-    "900127": {
+    {
         "id": 900127,
         "type": 1,
         "name": "enemy_character_type-20900127",
@@ -15482,7 +15482,7 @@
         "enemy_illustration_id": 50,
         "location_offset": ""
     },
-    "900128": {
+    {
         "id": 900128,
         "type": 1,
         "name": "enemy_character_type-20900128",
@@ -15521,7 +15521,7 @@
         "enemy_illustration_id": 5,
         "location_offset": ""
     },
-    "900129": {
+    {
         "id": 900129,
         "type": 1,
         "name": "enemy_character_type-20900129",
@@ -15560,7 +15560,7 @@
         "enemy_illustration_id": 26,
         "location_offset": ""
     },
-    "900130": {
+    {
         "id": 900130,
         "type": 1,
         "name": "enemy_character_type-20900130",
@@ -15599,7 +15599,7 @@
         "enemy_illustration_id": 8,
         "location_offset": ""
     },
-    "900131": {
+    {
         "id": 900131,
         "type": 1,
         "name": "enemy_character_type-20900131",
@@ -15638,7 +15638,7 @@
         "enemy_illustration_id": 11,
         "location_offset": ""
     },
-    "900132": {
+    {
         "id": 900132,
         "type": 1,
         "name": "enemy_character_type-20900132",
@@ -15677,7 +15677,7 @@
         "enemy_illustration_id": 17,
         "location_offset": ""
     },
-    "900133": {
+    {
         "id": 900133,
         "type": 1,
         "name": "enemy_character_type-20900133",
@@ -15716,7 +15716,7 @@
         "enemy_illustration_id": 23,
         "location_offset": ""
     },
-    "900134": {
+    {
         "id": 900134,
         "type": 1,
         "name": "enemy_character_type-20900134",
@@ -15755,7 +15755,7 @@
         "enemy_illustration_id": 24,
         "location_offset": ""
     },
-    "900135": {
+    {
         "id": 900135,
         "type": 1,
         "name": "enemy_character_type-20900135",
@@ -15794,7 +15794,7 @@
         "enemy_illustration_id": 34,
         "location_offset": ""
     },
-    "900136": {
+    {
         "id": 900136,
         "type": 1,
         "name": "enemy_character_type-20900136",
@@ -15833,7 +15833,7 @@
         "enemy_illustration_id": 33,
         "location_offset": ""
     },
-    "900137": {
+    {
         "id": 900137,
         "type": 1,
         "name": "enemy_character_type-20900137",
@@ -15872,7 +15872,7 @@
         "enemy_illustration_id": 0,
         "location_offset": ""
     },
-    "900138": {
+    {
         "id": 900138,
         "type": 1,
         "name": "enemy_character_type-20900138",
@@ -15911,7 +15911,7 @@
         "enemy_illustration_id": 17,
         "location_offset": ""
     },
-    "900139": {
+    {
         "id": 900139,
         "type": 1,
         "name": "enemy_character_type-20900139",
@@ -15950,7 +15950,7 @@
         "enemy_illustration_id": 0,
         "location_offset": ""
     },
-    "900140": {
+    {
         "id": 900140,
         "type": 1,
         "name": "enemy_character_type-20900140",
@@ -15989,7 +15989,7 @@
         "enemy_illustration_id": 0,
         "location_offset": ""
     },
-    "900141": {
+    {
         "id": 900141,
         "type": 2,
         "name": "enemy_character_type-20900141",
@@ -16028,7 +16028,7 @@
         "enemy_illustration_id": 62,
         "location_offset": ""
     },
-    "900142": {
+    {
         "id": 900142,
         "type": 2,
         "name": "enemy_character_type-20900142",
@@ -16067,7 +16067,7 @@
         "enemy_illustration_id": 61,
         "location_offset": ""
     },
-    "900143": {
+    {
         "id": 900143,
         "type": 1,
         "name": "enemy_character_type-20900143",
@@ -16106,7 +16106,7 @@
         "enemy_illustration_id": 44,
         "location_offset": ""
     },
-    "900144": {
+    {
         "id": 900144,
         "type": 2,
         "name": "enemy_character_type-20900144",
@@ -16145,7 +16145,7 @@
         "enemy_illustration_id": 62,
         "location_offset": ""
     },
-    "900145": {
+    {
         "id": 900145,
         "type": 2,
         "name": "enemy_character_type-20900145",
@@ -16184,7 +16184,7 @@
         "enemy_illustration_id": 61,
         "location_offset": ""
     },
-    "900146": {
+    {
         "id": 900146,
         "type": 1,
         "name": "enemy_character_type-20900146",
@@ -16223,7 +16223,7 @@
         "enemy_illustration_id": 44,
         "location_offset": ""
     },
-    "900147": {
+    {
         "id": 900147,
         "type": 2,
         "name": "enemy_character_type-20900147",
@@ -16262,7 +16262,7 @@
         "enemy_illustration_id": 62,
         "location_offset": ""
     },
-    "900148": {
+    {
         "id": 900148,
         "type": 2,
         "name": "enemy_character_type-20900148",
@@ -16301,7 +16301,7 @@
         "enemy_illustration_id": 61,
         "location_offset": ""
     },
-    "900149": {
+    {
         "id": 900149,
         "type": 1,
         "name": "enemy_character_type-20900149",
@@ -16340,7 +16340,7 @@
         "enemy_illustration_id": 44,
         "location_offset": ""
     },
-    "900150": {
+    {
         "id": 900150,
         "type": 1,
         "name": "enemy_character_type-20900150",
@@ -16379,7 +16379,7 @@
         "enemy_illustration_id": 0,
         "location_offset": ""
     },
-    "900151": {
+    {
         "id": 900151,
         "type": 1,
         "name": "enemy_character_type-20900151",
@@ -16418,7 +16418,7 @@
         "enemy_illustration_id": 0,
         "location_offset": ""
     },
-    "900152": {
+    {
         "id": 900152,
         "type": 1,
         "name": "enemy_character_type-20900152",
@@ -16457,7 +16457,7 @@
         "enemy_illustration_id": 0,
         "location_offset": ""
     },
-    "900153": {
+    {
         "id": 900153,
         "type": 1,
         "name": "enemy_character_type-20900153",
@@ -16496,7 +16496,7 @@
         "enemy_illustration_id": 35,
         "location_offset": ""
     },
-    "900154": {
+    {
         "id": 900154,
         "type": 1,
         "name": "enemy_character_type-20900154",
@@ -16535,7 +16535,7 @@
         "enemy_illustration_id": 35,
         "location_offset": ""
     },
-    "900155": {
+    {
         "id": 900155,
         "type": 1,
         "name": "enemy_character_type-20900155",
@@ -16574,7 +16574,7 @@
         "enemy_illustration_id": 0,
         "location_offset": ""
     },
-    "900156": {
+    {
         "id": 900156,
         "type": 1,
         "name": "enemy_character_type-20900156",
@@ -16613,7 +16613,7 @@
         "enemy_illustration_id": 62,
         "location_offset": ""
     },
-    "900157": {
+    {
         "id": 900157,
         "type": 1,
         "name": "enemy_character_type-20900157",
@@ -16652,7 +16652,7 @@
         "enemy_illustration_id": 62,
         "location_offset": ""
     },
-    "900158": {
+    {
         "id": 900158,
         "type": 1,
         "name": "enemy_character_type-20900158",
@@ -16691,7 +16691,7 @@
         "enemy_illustration_id": 18,
         "location_offset": ""
     },
-    "900159": {
+    {
         "id": 900159,
         "type": 1,
         "name": "enemy_character_type-20900159",
@@ -16730,7 +16730,7 @@
         "enemy_illustration_id": 27,
         "location_offset": ""
     },
-    "900160": {
+    {
         "id": 900160,
         "type": 1,
         "name": "enemy_character_type-20900160",
@@ -16769,7 +16769,7 @@
         "enemy_illustration_id": 0,
         "location_offset": ""
     },
-    "900161": {
+    {
         "id": 900161,
         "type": 1,
         "name": "enemy_character_type-20900161",
@@ -16808,7 +16808,7 @@
         "enemy_illustration_id": 62,
         "location_offset": ""
     },
-    "900162": {
+    {
         "id": 900162,
         "type": 1,
         "name": "enemy_character_type-20900162",
@@ -16847,7 +16847,7 @@
         "enemy_illustration_id": 62,
         "location_offset": ""
     },
-    "900163": {
+    {
         "id": 900163,
         "type": 1,
         "name": "enemy_character_type-20900163",
@@ -16886,7 +16886,7 @@
         "enemy_illustration_id": 27,
         "location_offset": ""
     },
-    "900164": {
+    {
         "id": 900164,
         "type": 1,
         "name": "enemy_character_type-20900164",
@@ -16925,7 +16925,7 @@
         "enemy_illustration_id": 0,
         "location_offset": ""
     },
-    "900165": {
+    {
         "id": 900165,
         "type": 1,
         "name": "enemy_character_type-20900165",
@@ -16964,7 +16964,7 @@
         "enemy_illustration_id": 0,
         "location_offset": ""
     },
-    "900166": {
+    {
         "id": 900166,
         "type": 1,
         "name": "enemy_character_type-20900166",
@@ -17003,7 +17003,7 @@
         "enemy_illustration_id": 54,
         "location_offset": ""
     },
-    "900167": {
+    {
         "id": 900167,
         "type": 1,
         "name": "enemy_character_type-20900167",
@@ -17042,7 +17042,7 @@
         "enemy_illustration_id": 54,
         "location_offset": ""
     },
-    "900168": {
+    {
         "id": 900168,
         "type": 1,
         "name": "enemy_character_type-20900168",
@@ -17081,7 +17081,7 @@
         "enemy_illustration_id": 68,
         "location_offset": ""
     },
-    "900169": {
+    {
         "id": 900169,
         "type": 1,
         "name": "enemy_character_type-20900169",
@@ -17120,7 +17120,7 @@
         "enemy_illustration_id": 68,
         "location_offset": ""
     },
-    "900170": {
+    {
         "id": 900170,
         "type": 1,
         "name": "enemy_character_type-20900170",
@@ -17159,7 +17159,7 @@
         "enemy_illustration_id": 68,
         "location_offset": ""
     },
-    "900171": {
+    {
         "id": 900171,
         "type": 1,
         "name": "enemy_character_type-20900171",
@@ -17198,7 +17198,7 @@
         "enemy_illustration_id": 62,
         "location_offset": ""
     },
-    "900172": {
+    {
         "id": 900172,
         "type": 1,
         "name": "enemy_character_type-20900172",
@@ -17237,7 +17237,7 @@
         "enemy_illustration_id": 62,
         "location_offset": "3.82,0.01,1.41"
     },
-    "900173": {
+    {
         "id": 900173,
         "type": 1,
         "name": "enemy_character_type-20900173",
@@ -17276,7 +17276,7 @@
         "enemy_illustration_id": 0,
         "location_offset": "2.12,0, 0.24"
     },
-    "900174": {
+    {
         "id": 900174,
         "type": 1,
         "name": "enemy_character_type-20900174",
@@ -17315,7 +17315,7 @@
         "enemy_illustration_id": 0,
         "location_offset": "2.85,0.43,0.23"
     },
-    "900175": {
+    {
         "id": 900175,
         "type": 1,
         "name": "enemy_character_type-20900175",
@@ -17354,7 +17354,7 @@
         "enemy_illustration_id": 0,
         "location_offset": "3.82,0.01,1.41"
     },
-    "900176": {
+    {
         "id": 900176,
         "type": 1,
         "name": "enemy_character_type-20900176",
@@ -17393,7 +17393,7 @@
         "enemy_illustration_id": 0,
         "location_offset": "2.12,0, 0.24"
     },
-    "900177": {
+    {
         "id": 900177,
         "type": 1,
         "name": "enemy_character_type-20900177",
@@ -17432,7 +17432,7 @@
         "enemy_illustration_id": 0,
         "location_offset": "2.85,0.43,0.23"
     },
-    "900178": {
+    {
         "id": 900178,
         "type": 1,
         "name": "enemy_character_type-20900178",
@@ -17471,7 +17471,7 @@
         "enemy_illustration_id": 0,
         "location_offset": ""
     },
-    "900179": {
+    {
         "id": 900179,
         "type": 1,
         "name": "enemy_character_type-20900179",
@@ -17510,7 +17510,7 @@
         "enemy_illustration_id": 54,
         "location_offset": ""
     },
-    "900180": {
+    {
         "id": 900180,
         "type": 1,
         "name": "enemy_character_type-20900180",
@@ -17549,7 +17549,7 @@
         "enemy_illustration_id": 68,
         "location_offset": ""
     },
-    "900181": {
+    {
         "id": 900181,
         "type": 1,
         "name": "enemy_character_type-20900181",
@@ -17588,7 +17588,7 @@
         "enemy_illustration_id": 0,
         "location_offset": ""
     },
-    "900182": {
+    {
         "id": 900182,
         "type": 1,
         "name": "enemy_character_type-20900182",
@@ -17627,7 +17627,7 @@
         "enemy_illustration_id": 0,
         "location_offset": ""
     },
-    "900183": {
+    {
         "id": 900183,
         "type": 1,
         "name": "enemy_character_type-20900183",
@@ -17666,7 +17666,7 @@
         "enemy_illustration_id": 0,
         "location_offset": ""
     },
-    "900184": {
+    {
         "id": 900184,
         "type": 1,
         "name": "enemy_character_type-20900184",
@@ -17705,7 +17705,7 @@
         "enemy_illustration_id": 0,
         "location_offset": ""
     },
-    "900185": {
+    {
         "id": 900185,
         "type": 1,
         "name": "enemy_character_type-20900185",
@@ -17744,7 +17744,7 @@
         "enemy_illustration_id": 0,
         "location_offset": ""
     },
-    "900186": {
+    {
         "id": 900186,
         "type": 1,
         "name": "enemy_character_type-20900186",
@@ -17783,7 +17783,7 @@
         "enemy_illustration_id": 0,
         "location_offset": "3.82,0.01,1.41"
     },
-    "900187": {
+    {
         "id": 900187,
         "type": 4,
         "name": "enemy_character_type-20900187",
@@ -17822,7 +17822,7 @@
         "enemy_illustration_id": 0,
         "location_offset": "2.12,0, 0.24"
     },
-    "900188": {
+    {
         "id": 900188,
         "type": 4,
         "name": "enemy_character_type-20900188",
@@ -17861,7 +17861,7 @@
         "enemy_illustration_id": 0,
         "location_offset": "2.85,0.43,0.23"
     },
-    "900189": {
+    {
         "id": 900189,
         "type": 4,
         "name": "enemy_character_type-20900189",
@@ -17900,7 +17900,7 @@
         "enemy_illustration_id": 0,
         "location_offset": "3.82,0.01,1.41"
     },
-    "900190": {
+    {
         "id": 900190,
         "type": 4,
         "name": "enemy_character_type-20900190",
@@ -17939,7 +17939,7 @@
         "enemy_illustration_id": 0,
         "location_offset": "2.12,0, 0.24"
     },
-    "900191": {
+    {
         "id": 900191,
         "type": 4,
         "name": "enemy_character_type-20900191",
@@ -17978,7 +17978,7 @@
         "enemy_illustration_id": 0,
         "location_offset": "2.85,0.43,0.23"
     },
-    "900192": {
+    {
         "id": 900192,
         "type": 4,
         "name": "enemy_character_type-20900192",
@@ -18017,7 +18017,7 @@
         "enemy_illustration_id": 0,
         "location_offset": ""
     },
-    "900193": {
+    {
         "id": 900193,
         "type": 1,
         "name": "enemy_character_type-20900193",
@@ -18056,7 +18056,7 @@
         "enemy_illustration_id": 0,
         "location_offset": ""
     },
-    "900194": {
+    {
         "id": 900194,
         "type": 1,
         "name": "enemy_character_type-20900194",
@@ -18095,7 +18095,7 @@
         "enemy_illustration_id": 0,
         "location_offset": ""
     },
-    "900195": {
+    {
         "id": 900195,
         "type": 1,
         "name": "enemy_character_type-20900195",
@@ -18134,7 +18134,7 @@
         "enemy_illustration_id": 54,
         "location_offset": ""
     },
-    "900196": {
+    {
         "id": 900196,
         "type": 1,
         "name": "enemy_character_type-20900196",
@@ -18173,7 +18173,7 @@
         "enemy_illustration_id": 26,
         "location_offset": ""
     },
-    "900197": {
+    {
         "id": 900197,
         "type": 1,
         "name": "enemy_character_type-20900197",
@@ -18212,7 +18212,7 @@
         "enemy_illustration_id": 26,
         "location_offset": ""
     },
-    "900198": {
+    {
         "id": 900198,
         "type": 1,
         "name": "enemy_character_type-20900198",
@@ -18251,7 +18251,7 @@
         "enemy_illustration_id": 18,
         "location_offset": ""
     },
-    "900199": {
+    {
         "id": 900199,
         "type": 1,
         "name": "enemy_character_type-20900199",
@@ -18290,7 +18290,7 @@
         "enemy_illustration_id": 44,
         "location_offset": ""
     },
-    "900200": {
+    {
         "id": 900200,
         "type": 1,
         "name": "enemy_character_type-20900200",
@@ -18329,7 +18329,7 @@
         "enemy_illustration_id": 44,
         "location_offset": ""
     },
-    "900201": {
+    {
         "id": 900201,
         "type": 1,
         "name": "enemy_character_type-20900201",
@@ -18368,7 +18368,7 @@
         "enemy_illustration_id": 81,
         "location_offset": "0,2.5,0"
     },
-    "900202": {
+    {
         "id": 900202,
         "type": 1,
         "name": "enemy_character_type-20900202",
@@ -18407,7 +18407,7 @@
         "enemy_illustration_id": 81,
         "location_offset": ""
     },
-    "900203": {
+    {
         "id": 900203,
         "type": 1,
         "name": "enemy_character_type-20900203",
@@ -18446,7 +18446,7 @@
         "enemy_illustration_id": 80,
         "location_offset": ""
     },
-    "900204": {
+    {
         "id": 900204,
         "type": 1,
         "name": "enemy_character_type-20900204",
@@ -18485,7 +18485,7 @@
         "enemy_illustration_id": 80,
         "location_offset": ""
     },
-    "900205": {
+    {
         "id": 900205,
         "type": 1,
         "name": "enemy_character_type-20900205",
@@ -18524,7 +18524,7 @@
         "enemy_illustration_id": 50,
         "location_offset": ""
     },
-    "900206": {
+    {
         "id": 900206,
         "type": 1,
         "name": "enemy_character_type-20900206",
@@ -18563,7 +18563,7 @@
         "enemy_illustration_id": 50,
         "location_offset": ""
     },
-    "900207": {
+    {
         "id": 900207,
         "type": 1,
         "name": "enemy_character_type-20900207",
@@ -18602,7 +18602,7 @@
         "enemy_illustration_id": 50,
         "location_offset": ""
     },
-    "900208": {
+    {
         "id": 900208,
         "type": 3,
         "name": "enemy_character_type-20900208",
@@ -18641,7 +18641,7 @@
         "enemy_illustration_id": 50,
         "location_offset": ""
     },
-    "900209": {
+    {
         "id": 900209,
         "type": 3,
         "name": "enemy_character_type-20900209",
@@ -18680,7 +18680,7 @@
         "enemy_illustration_id": 50,
         "location_offset": "0,2.5,0"
     },
-    "900210": {
+    {
         "id": 900210,
         "type": 1,
         "name": "enemy_character_type-20900210",
@@ -18719,7 +18719,7 @@
         "enemy_illustration_id": 44,
         "location_offset": ""
     },
-    "900211": {
+    {
         "id": 900211,
         "type": 1,
         "name": "enemy_character_type-20900211",
@@ -18758,7 +18758,7 @@
         "enemy_illustration_id": 44,
         "location_offset": ""
     },
-    "900212": {
+    {
         "id": 900212,
         "type": 4,
         "name": "enemy_character_type-20900212",
@@ -18797,7 +18797,7 @@
         "enemy_illustration_id": 80,
         "location_offset": ""
     },
-    "900213": {
+    {
         "id": 900213,
         "type": 4,
         "name": "enemy_character_type-20900213",
@@ -18836,7 +18836,7 @@
         "enemy_illustration_id": 80,
         "location_offset": ""
     },
-    "900214": {
+    {
         "id": 900214,
         "type": 4,
         "name": "enemy_character_type-20900214",
@@ -18875,7 +18875,7 @@
         "enemy_illustration_id": 80,
         "location_offset": ""
     },
-    "900215": {
+    {
         "id": 900215,
         "type": 4,
         "name": "enemy_character_type-20900215",
@@ -18914,7 +18914,7 @@
         "enemy_illustration_id": 80,
         "location_offset": ""
     },
-    "900216": {
+    {
         "id": 900216,
         "type": 4,
         "name": "enemy_character_type-20900216",
@@ -18953,7 +18953,7 @@
         "enemy_illustration_id": 80,
         "location_offset": ""
     },
-    "900217": {
+    {
         "id": 900217,
         "type": 1,
         "name": "enemy_character_type-20900217",
@@ -18992,7 +18992,7 @@
         "enemy_illustration_id": 44,
         "location_offset": ""
     },
-    "900218": {
+    {
         "id": 900218,
         "type": 1,
         "name": "enemy_character_type-20900218",
@@ -19031,7 +19031,7 @@
         "enemy_illustration_id": 81,
         "location_offset": ""
     },
-    "900219": {
+    {
         "id": 900219,
         "type": 1,
         "name": "enemy_character_type-20900219",
@@ -19070,7 +19070,7 @@
         "enemy_illustration_id": 80,
         "location_offset": ""
     },
-    "900220": {
+    {
         "id": 900220,
         "type": 1,
         "name": "enemy_character_type-20900220",
@@ -19109,7 +19109,7 @@
         "enemy_illustration_id": 92,
         "location_offset": ""
     },
-    "900221": {
+    {
         "id": 900221,
         "type": 1,
         "name": "enemy_character_type-20900221",
@@ -19148,7 +19148,7 @@
         "enemy_illustration_id": 91,
         "location_offset": ""
     },
-    "900222": {
+    {
         "id": 900222,
         "type": 1,
         "name": "enemy_character_type-20900222",
@@ -19187,7 +19187,7 @@
         "enemy_illustration_id": 91,
         "location_offset": ""
     },
-    "900223": {
+    {
         "id": 900223,
         "type": 1,
         "name": "enemy_character_type-20900223",
@@ -19226,7 +19226,7 @@
         "enemy_illustration_id": 93,
         "location_offset": ""
     },
-    "900224": {
+    {
         "id": 900224,
         "type": 1,
         "name": "enemy_character_type-20900224",
@@ -19265,7 +19265,7 @@
         "enemy_illustration_id": 24,
         "location_offset": ""
     },
-    "900225": {
+    {
         "id": 900225,
         "type": 1,
         "name": "enemy_character_type-20900225",
@@ -19304,7 +19304,7 @@
         "enemy_illustration_id": 34,
         "location_offset": ""
     },
-    "900226": {
+    {
         "id": 900226,
         "type": 1,
         "name": "enemy_character_type-20900226",
@@ -19343,7 +19343,7 @@
         "enemy_illustration_id": 54,
         "location_offset": ""
     },
-    "900227": {
+    {
         "id": 900227,
         "type": 1,
         "name": "enemy_character_type-20900227",
@@ -19382,7 +19382,7 @@
         "enemy_illustration_id": 26,
         "location_offset": ""
     },
-    "900228": {
+    {
         "id": 900228,
         "type": 2,
         "name": "enemy_character_type-20900228",
@@ -19421,7 +19421,7 @@
         "enemy_illustration_id": 21,
         "location_offset": ""
     },
-    "900229": {
+    {
         "id": 900229,
         "type": 1,
         "name": "enemy_character_type-20900229",
@@ -19460,7 +19460,7 @@
         "enemy_illustration_id": 21,
         "location_offset": ""
     },
-    "900230": {
+    {
         "id": 900230,
         "type": 1,
         "name": "enemy_character_type-20900230",
@@ -19499,7 +19499,7 @@
         "enemy_illustration_id": 34,
         "location_offset": ""
     },
-    "900231": {
+    {
         "id": 900231,
         "type": 1,
         "name": "enemy_character_type-20900231",
@@ -19538,7 +19538,7 @@
         "enemy_illustration_id": 24,
         "location_offset": ""
     },
-    "900232": {
+    {
         "id": 900232,
         "type": 1,
         "name": "enemy_character_type-20900232",
@@ -19577,7 +19577,7 @@
         "enemy_illustration_id": 21,
         "location_offset": ""
     },
-    "900233": {
+    {
         "id": 900233,
         "type": 2,
         "name": "enemy_character_type-20900233",
@@ -19616,7 +19616,7 @@
         "enemy_illustration_id": 21,
         "location_offset": ""
     },
-    "900234": {
+    {
         "id": 900234,
         "type": 2,
         "name": "enemy_character_type-20900234",
@@ -19655,7 +19655,7 @@
         "enemy_illustration_id": 100024,
         "location_offset": ""
     },
-    "900235": {
+    {
         "id": 900235,
         "type": 2,
         "name": "enemy_character_type-20900235",
@@ -19694,7 +19694,7 @@
         "enemy_illustration_id": 100023,
         "location_offset": ""
     },
-    "900236": {
+    {
         "id": 900236,
         "type": 2,
         "name": "enemy_character_type-20900236",
@@ -19733,7 +19733,7 @@
         "enemy_illustration_id": 100022,
         "location_offset": ""
     },
-    "900237": {
+    {
         "id": 900237,
         "type": 2,
         "name": "enemy_character_type-20900237",
@@ -19772,7 +19772,7 @@
         "enemy_illustration_id": 100027,
         "location_offset": ""
     },
-    "900238": {
+    {
         "id": 900238,
         "type": 2,
         "name": "enemy_character_type-20900238",
@@ -19811,7 +19811,7 @@
         "enemy_illustration_id": 100021,
         "location_offset": ""
     },
-    "900239": {
+    {
         "id": 900239,
         "type": 2,
         "name": "enemy_character_type-20900239",
@@ -19850,7 +19850,7 @@
         "enemy_illustration_id": 100023,
         "location_offset": ""
     },
-    "900240": {
+    {
         "id": 900240,
         "type": 2,
         "name": "enemy_character_type-20900240",
@@ -19889,7 +19889,7 @@
         "enemy_illustration_id": 100024,
         "location_offset": ""
     },
-    "900241": {
+    {
         "id": 900241,
         "type": 2,
         "name": "enemy_character_type-20900241",
@@ -19928,7 +19928,7 @@
         "enemy_illustration_id": 100023,
         "location_offset": ""
     },
-    "900242": {
+    {
         "id": 900242,
         "type": 2,
         "name": "enemy_character_type-20900242",
@@ -19967,7 +19967,7 @@
         "enemy_illustration_id": 100022,
         "location_offset": ""
     },
-    "900243": {
+    {
         "id": 900243,
         "type": 2,
         "name": "enemy_character_type-20900243",
@@ -20006,7 +20006,7 @@
         "enemy_illustration_id": 100027,
         "location_offset": ""
     },
-    "900244": {
+    {
         "id": 900244,
         "type": 2,
         "name": "enemy_character_type-20900244",
@@ -20045,7 +20045,7 @@
         "enemy_illustration_id": 100021,
         "location_offset": ""
     },
-    "900245": {
+    {
         "id": 900245,
         "type": 2,
         "name": "enemy_character_type-20900245",
@@ -20084,7 +20084,7 @@
         "enemy_illustration_id": 100023,
         "location_offset": ""
     },
-    "900246": {
+    {
         "id": 900246,
         "type": 2,
         "name": "enemy_character_type-20900246",
@@ -20123,7 +20123,7 @@
         "enemy_illustration_id": 100021,
         "location_offset": ""
     },
-    "900247": {
+    {
         "id": 900247,
         "type": 2,
         "name": "enemy_character_type-20900247",
@@ -20162,7 +20162,7 @@
         "enemy_illustration_id": 100021,
         "location_offset": ""
     },
-    "900248": {
+    {
         "id": 900248,
         "type": 2,
         "name": "enemy_character_type-20900248",
@@ -20201,7 +20201,7 @@
         "enemy_illustration_id": 100021,
         "location_offset": ""
     },
-    "900249": {
+    {
         "id": 900249,
         "type": 2,
         "name": "enemy_character_type-20900249",
@@ -20240,7 +20240,7 @@
         "enemy_illustration_id": 100021,
         "location_offset": ""
     },
-    "900250": {
+    {
         "id": 900250,
         "type": 2,
         "name": "enemy_character_type-20900250",
@@ -20279,7 +20279,7 @@
         "enemy_illustration_id": 100021,
         "location_offset": ""
     },
-    "900251": {
+    {
         "id": 900251,
         "type": 1,
         "name": "enemy_character_type-20900251",
@@ -20318,7 +20318,7 @@
         "enemy_illustration_id": 0,
         "location_offset": ""
     },
-    "900252": {
+    {
         "id": 900252,
         "type": 2,
         "name": "enemy_character_type-20900252",
@@ -20357,7 +20357,7 @@
         "enemy_illustration_id": 0,
         "location_offset": ""
     },
-    "900253": {
+    {
         "id": 900253,
         "type": 1,
         "name": "enemy_character_type-20900253",
@@ -20396,7 +20396,7 @@
         "enemy_illustration_id": 109,
         "location_offset": ""
     },
-    "900254": {
+    {
         "id": 900254,
         "type": 1,
         "name": "enemy_character_type-20900254",
@@ -20435,7 +20435,7 @@
         "enemy_illustration_id": 109,
         "location_offset": ""
     },
-    "900255": {
+    {
         "id": 900255,
         "type": 1,
         "name": "enemy_character_type-20900255",
@@ -20474,7 +20474,7 @@
         "enemy_illustration_id": 112,
         "location_offset": ""
     },
-    "900256": {
+    {
         "id": 900256,
         "type": 1,
         "name": "enemy_character_type-20900256",
@@ -20513,7 +20513,7 @@
         "enemy_illustration_id": 110,
         "location_offset": ""
     },
-    "900257": {
+    {
         "id": 900257,
         "type": 1,
         "name": "enemy_character_type-20900257",
@@ -20552,7 +20552,7 @@
         "enemy_illustration_id": 110,
         "location_offset": ""
     },
-    "900258": {
+    {
         "id": 900258,
         "type": 1,
         "name": "enemy_character_type-20900258",
@@ -20591,7 +20591,7 @@
         "enemy_illustration_id": 109,
         "location_offset": ""
     },
-    "900259": {
+    {
         "id": 900259,
         "type": 1,
         "name": "enemy_character_type-20900259",
@@ -20630,7 +20630,7 @@
         "enemy_illustration_id": 109,
         "location_offset": ""
     },
-    "900260": {
+    {
         "id": 900260,
         "type": 1,
         "name": "enemy_character_type-20900260",
@@ -20669,7 +20669,7 @@
         "enemy_illustration_id": 112,
         "location_offset": ""
     },
-    "900261": {
+    {
         "id": 900261,
         "type": 1,
         "name": "enemy_character_type-20900261",
@@ -20708,7 +20708,7 @@
         "enemy_illustration_id": 109,
         "location_offset": ""
     },
-    "900262": {
+    {
         "id": 900262,
         "type": 1,
         "name": "enemy_character_type-20900262",
@@ -20747,7 +20747,7 @@
         "enemy_illustration_id": 109,
         "location_offset": ""
     },
-    "900263": {
+    {
         "id": 900263,
         "type": 1,
         "name": "enemy_character_type-20900263",
@@ -20786,7 +20786,7 @@
         "enemy_illustration_id": 109,
         "location_offset": ""
     },
-    "900264": {
+    {
         "id": 900264,
         "type": 1,
         "name": "enemy_character_type-20900264",
@@ -20825,7 +20825,7 @@
         "enemy_illustration_id": 112,
         "location_offset": ""
     },
-    "900265": {
+    {
         "id": 900265,
         "type": 1,
         "name": "enemy_character_type-20900265",
@@ -20864,7 +20864,7 @@
         "enemy_illustration_id": 109,
         "location_offset": ""
     },
-    "900266": {
+    {
         "id": 900266,
         "type": 1,
         "name": "enemy_character_type-20900266",
@@ -20903,7 +20903,7 @@
         "enemy_illustration_id": 111,
         "location_offset": ""
     },
-    "900267": {
+    {
         "id": 900267,
         "type": 1,
         "name": "enemy_character_type-20900267",
@@ -20942,7 +20942,7 @@
         "enemy_illustration_id": 111,
         "location_offset": ""
     },
-    "900268": {
+    {
         "id": 900268,
         "type": 2,
         "name": "enemy_character_type-20900268",
@@ -20981,7 +20981,7 @@
         "enemy_illustration_id": 51,
         "location_offset": ""
     },
-    "900269": {
+    {
         "id": 900269,
         "type": 2,
         "name": "enemy_character_type-20900269",
@@ -21020,7 +21020,7 @@
         "enemy_illustration_id": 50,
         "location_offset": ""
     },
-    "900270": {
+    {
         "id": 900270,
         "type": 2,
         "name": "enemy_character_type-20900270",
@@ -21059,7 +21059,7 @@
         "enemy_illustration_id": 51,
         "location_offset": ""
     },
-    "900271": {
+    {
         "id": 900271,
         "type": 2,
         "name": "enemy_character_type-20900271",
@@ -21098,7 +21098,7 @@
         "enemy_illustration_id": 50,
         "location_offset": ""
     },
-    "900272": {
+    {
         "id": 900272,
         "type": 2,
         "name": "enemy_character_type-20900272",
@@ -21137,7 +21137,7 @@
         "enemy_illustration_id": 0,
         "location_offset": ""
     },
-    "900273": {
+    {
         "id": 900273,
         "type": 2,
         "name": "enemy_character_type-20900273",
@@ -21176,7 +21176,7 @@
         "enemy_illustration_id": 0,
         "location_offset": ""
     },
-    "900274": {
+    {
         "id": 900274,
         "type": 2,
         "name": "enemy_character_type-20900274",
@@ -21215,7 +21215,7 @@
         "enemy_illustration_id": 0,
         "location_offset": ""
     },
-    "900275": {
+    {
         "id": 900275,
         "type": 2,
         "name": "enemy_character_type-20900275",
@@ -21254,7 +21254,7 @@
         "enemy_illustration_id": 0,
         "location_offset": ""
     },
-    "900276": {
+    {
         "id": 900276,
         "type": 2,
         "name": "enemy_character_type-20900276",
@@ -21293,7 +21293,7 @@
         "enemy_illustration_id": 0,
         "location_offset": ""
     },
-    "900277": {
+    {
         "id": 900277,
         "type": 1,
         "name": "enemy_character_type-20900277",
@@ -21332,7 +21332,7 @@
         "enemy_illustration_id": 109,
         "location_offset": ""
     },
-    "900278": {
+    {
         "id": 900278,
         "type": 1,
         "name": "enemy_character_type-20900278",
@@ -21371,7 +21371,7 @@
         "enemy_illustration_id": 54,
         "location_offset": ""
     },
-    "900279": {
+    {
         "id": 900279,
         "type": 1,
         "name": "enemy_character_type-20900279",
@@ -21410,7 +21410,7 @@
         "enemy_illustration_id": 110,
         "location_offset": ""
     },
-    "900280": {
+    {
         "id": 900280,
         "type": 1,
         "name": "enemy_character_type-20900280",
@@ -21449,7 +21449,7 @@
         "enemy_illustration_id": 110,
         "location_offset": ""
     },
-    "900281": {
+    {
         "id": 900281,
         "type": 1,
         "name": "enemy_character_type-20900281",
@@ -21488,7 +21488,7 @@
         "enemy_illustration_id": 50,
         "location_offset": ""
     },
-    "900282": {
+    {
         "id": 900282,
         "type": 2,
         "name": "enemy_character_type-20900282",
@@ -21527,7 +21527,7 @@
         "enemy_illustration_id": 51,
         "location_offset": ""
     },
-    "900283": {
+    {
         "id": 900283,
         "type": 1,
         "name": "enemy_character_type-20900283",
@@ -21566,7 +21566,7 @@
         "enemy_illustration_id": 80,
         "location_offset": ""
     },
-    "900284": {
+    {
         "id": 900284,
         "type": 1,
         "name": "enemy_character_type-20900284",
@@ -21605,7 +21605,7 @@
         "enemy_illustration_id": 80,
         "location_offset": ""
     },
-    "900285": {
+    {
         "id": 900285,
         "type": 1,
         "name": "enemy_character_type-20900285",
@@ -21644,7 +21644,7 @@
         "enemy_illustration_id": 100034,
         "location_offset": ""
     },
-    "900286": {
+    {
         "id": 900286,
         "type": 1,
         "name": "enemy_character_type-20900286",
@@ -21683,7 +21683,7 @@
         "enemy_illustration_id": 100034,
         "location_offset": ""
     },
-    "900287": {
+    {
         "id": 900287,
         "type": 1,
         "name": "enemy_character_type-20900287",
@@ -21722,7 +21722,7 @@
         "enemy_illustration_id": 100035,
         "location_offset": ""
     },
-    "900288": {
+    {
         "id": 900288,
         "type": 1,
         "name": "enemy_character_type-20900288",
@@ -21761,7 +21761,7 @@
         "enemy_illustration_id": 126,
         "location_offset": ""
     },
-    "900289": {
+    {
         "id": 900289,
         "type": 2,
         "name": "enemy_character_type-20900289",
@@ -21800,7 +21800,7 @@
         "enemy_illustration_id": 136,
         "location_offset": ""
     },
-    "900290": {
+    {
         "id": 900290,
         "type": 1,
         "name": "enemy_character_type-20900290",
@@ -21839,7 +21839,7 @@
         "enemy_illustration_id": 112,
         "location_offset": ""
     },
-    "900291": {
+    {
         "id": 900291,
         "type": 1,
         "name": "enemy_character_type-20900291",
@@ -21878,7 +21878,7 @@
         "enemy_illustration_id": 112,
         "location_offset": ""
     },
-    "900292": {
+    {
         "id": 900292,
         "type": 1,
         "name": "enemy_character_type-20900292",
@@ -21917,7 +21917,7 @@
         "enemy_illustration_id": 138,
         "location_offset": ""
     },
-    "900293": {
+    {
         "id": 900293,
         "type": 1,
         "name": "enemy_character_type-20900293",
@@ -21956,7 +21956,7 @@
         "enemy_illustration_id": 138,
         "location_offset": ""
     },
-    "900294": {
+    {
         "id": 900294,
         "type": 1,
         "name": "enemy_character_type-20900294",
@@ -21995,7 +21995,7 @@
         "enemy_illustration_id": 137,
         "location_offset": ""
     },
-    "900295": {
+    {
         "id": 900295,
         "type": 1,
         "name": "enemy_character_type-20900295",
@@ -22034,7 +22034,7 @@
         "enemy_illustration_id": 137,
         "location_offset": ""
     },
-    "900296": {
+    {
         "id": 900296,
         "type": 1,
         "name": "enemy_character_type-20900296",
@@ -22073,7 +22073,7 @@
         "enemy_illustration_id": 137,
         "location_offset": ""
     },
-    "900297": {
+    {
         "id": 900297,
         "type": 1,
         "name": "enemy_character_type-20900297",
@@ -22112,7 +22112,7 @@
         "enemy_illustration_id": 137,
         "location_offset": ""
     },
-    "900298": {
+    {
         "id": 900298,
         "type": 1,
         "name": "enemy_character_type-20900298",
@@ -22151,7 +22151,7 @@
         "enemy_illustration_id": 137,
         "location_offset": ""
     },
-    "900299": {
+    {
         "id": 900299,
         "type": 1,
         "name": "enemy_character_type-20900299",
@@ -22190,7 +22190,7 @@
         "enemy_illustration_id": 137,
         "location_offset": ""
     },
-    "900300": {
+    {
         "id": 900300,
         "type": 1,
         "name": "enemy_character_type-20900300",
@@ -22229,7 +22229,7 @@
         "enemy_illustration_id": 138,
         "location_offset": ""
     },
-    "900301": {
+    {
         "id": 900301,
         "type": 1,
         "name": "enemy_character_type-20900301",
@@ -22268,7 +22268,7 @@
         "enemy_illustration_id": 138,
         "location_offset": ""
     },
-    "900302": {
+    {
         "id": 900302,
         "type": 1,
         "name": "enemy_character_type-20900302",
@@ -22307,7 +22307,7 @@
         "enemy_illustration_id": 138,
         "location_offset": ""
     },
-    "900303": {
+    {
         "id": 900303,
         "type": 1,
         "name": "enemy_character_type-20900303",
@@ -22346,7 +22346,7 @@
         "enemy_illustration_id": 138,
         "location_offset": ""
     },
-    "900304": {
+    {
         "id": 900304,
         "type": 1,
         "name": "enemy_character_type-20900304",
@@ -22385,7 +22385,7 @@
         "enemy_illustration_id": 138,
         "location_offset": ""
     },
-    "900305": {
+    {
         "id": 900305,
         "type": 1,
         "name": "enemy_character_type-20900305",
@@ -22424,7 +22424,7 @@
         "enemy_illustration_id": 138,
         "location_offset": ""
     },
-    "900306": {
+    {
         "id": 900306,
         "type": 2,
         "name": "enemy_character_type-20900306",
@@ -22463,7 +22463,7 @@
         "enemy_illustration_id": 80,
         "location_offset": ""
     },
-    "900307": {
+    {
         "id": 900307,
         "type": 2,
         "name": "enemy_character_type-20900307",
@@ -22502,7 +22502,7 @@
         "enemy_illustration_id": 80,
         "location_offset": ""
     },
-    "900308": {
+    {
         "id": 900308,
         "type": 1,
         "name": "enemy_character_type-20900308",
@@ -22541,7 +22541,7 @@
         "enemy_illustration_id": 139,
         "location_offset": ""
     },
-    "900309": {
+    {
         "id": 900309,
         "type": 1,
         "name": "enemy_character_type-20900309",
@@ -22580,7 +22580,7 @@
         "enemy_illustration_id": 139,
         "location_offset": ""
     },
-    "900310": {
+    {
         "id": 900310,
         "type": 1,
         "name": "enemy_character_type-20900310",
@@ -22619,7 +22619,7 @@
         "enemy_illustration_id": 139,
         "location_offset": ""
     },
-    "900311": {
+    {
         "id": 900311,
         "type": 1,
         "name": "enemy_character_type-20900311",
@@ -22658,7 +22658,7 @@
         "enemy_illustration_id": 139,
         "location_offset": ""
     },
-    "900312": {
+    {
         "id": 900312,
         "type": 1,
         "name": "enemy_character_type-20900312",
@@ -22697,7 +22697,7 @@
         "enemy_illustration_id": 138,
         "location_offset": ""
     },
-    "900313": {
+    {
         "id": 900313,
         "type": 1,
         "name": "enemy_character_type-20900313",
@@ -22736,7 +22736,7 @@
         "enemy_illustration_id": 139,
         "location_offset": ""
     },
-    "900314": {
+    {
         "id": 900314,
         "type": 2,
         "name": "enemy_character_type-20900314",
@@ -22775,7 +22775,7 @@
         "enemy_illustration_id": 80,
         "location_offset": ""
     },
-    "900315": {
+    {
         "id": 900315,
         "type": 1,
         "name": "enemy_character_type-20900315",
@@ -22814,7 +22814,7 @@
         "enemy_illustration_id": 140,
         "location_offset": ""
     },
-    "900316": {
+    {
         "id": 900316,
         "type": 1,
         "name": "enemy_character_type-20900316",
@@ -22853,7 +22853,7 @@
         "enemy_illustration_id": 146,
         "location_offset": ""
     },
-    "900317": {
+    {
         "id": 900317,
         "type": 1,
         "name": "enemy_character_type-20900317",
@@ -22892,7 +22892,7 @@
         "enemy_illustration_id": 146,
         "location_offset": ""
     },
-    "900318": {
+    {
         "id": 900318,
         "type": 1,
         "name": "enemy_character_type-20900318",
@@ -22931,7 +22931,7 @@
         "enemy_illustration_id": 147,
         "location_offset": ""
     },
-    "900319": {
+    {
         "id": 900319,
         "type": 1,
         "name": "enemy_character_type-20900319",
@@ -22970,7 +22970,7 @@
         "enemy_illustration_id": 139,
         "location_offset": ""
     },
-    "900320": {
+    {
         "id": 900320,
         "type": 2,
         "name": "enemy_character_type-20900320",
@@ -23009,7 +23009,7 @@
         "enemy_illustration_id": 110,
         "location_offset": ""
     },
-    "900321": {
+    {
         "id": 900321,
         "type": 2,
         "name": "enemy_character_type-20900321",
@@ -23048,7 +23048,7 @@
         "enemy_illustration_id": 110,
         "location_offset": ""
     },
-    "900322": {
+    {
         "id": 900322,
         "type": 2,
         "name": "enemy_character_type-20900322",
@@ -23087,7 +23087,7 @@
         "enemy_illustration_id": 110,
         "location_offset": ""
     },
-    "900323": {
+    {
         "id": 900323,
         "type": 1,
         "name": "enemy_character_type-20900323",
@@ -23126,7 +23126,7 @@
         "enemy_illustration_id": 155,
         "location_offset": ""
     },
-    "900324": {
+    {
         "id": 900324,
         "type": 1,
         "name": "enemy_character_type-20900324",
@@ -23165,7 +23165,7 @@
         "enemy_illustration_id": 155,
         "location_offset": ""
     },
-    "900325": {
+    {
         "id": 900325,
         "type": 1,
         "name": "enemy_character_type-20900325",
@@ -23204,7 +23204,7 @@
         "enemy_illustration_id": 155,
         "location_offset": ""
     },
-    "900326": {
+    {
         "id": 900326,
         "type": 1,
         "name": "enemy_character_type-20900326",
@@ -23243,7 +23243,7 @@
         "enemy_illustration_id": 155,
         "location_offset": ""
     },
-    "900327": {
+    {
         "id": 900327,
         "type": 1,
         "name": "enemy_character_type-20900327",
@@ -23282,7 +23282,7 @@
         "enemy_illustration_id": 154,
         "location_offset": ""
     },
-    "900328": {
+    {
         "id": 900328,
         "type": 1,
         "name": "enemy_character_type-20900328",
@@ -23321,7 +23321,7 @@
         "enemy_illustration_id": 154,
         "location_offset": ""
     },
-    "900329": {
+    {
         "id": 900329,
         "type": 1,
         "name": "enemy_character_type-20900329",
@@ -23360,7 +23360,7 @@
         "enemy_illustration_id": 154,
         "location_offset": ""
     },
-    "900330": {
+    {
         "id": 900330,
         "type": 1,
         "name": "enemy_character_type-20900330",
@@ -23399,7 +23399,7 @@
         "enemy_illustration_id": 154,
         "location_offset": ""
     },
-    "900331": {
+    {
         "id": 900331,
         "type": 1,
         "name": "enemy_character_type-20900331",
@@ -23438,7 +23438,7 @@
         "enemy_illustration_id": 155,
         "location_offset": ""
     },
-    "900332": {
+    {
         "id": 900332,
         "type": 1,
         "name": "enemy_character_type-20900332",
@@ -23477,7 +23477,7 @@
         "enemy_illustration_id": 156,
         "location_offset": ""
     },
-    "900333": {
+    {
         "id": 900333,
         "type": 1,
         "name": "enemy_character_type-20900333",
@@ -23516,7 +23516,7 @@
         "enemy_illustration_id": 154,
         "location_offset": ""
     },
-    "900334": {
+    {
         "id": 900334,
         "type": 1,
         "name": "enemy_character_type-20900334",
@@ -23555,7 +23555,7 @@
         "enemy_illustration_id": 155,
         "location_offset": ""
     },
-    "900335": {
+    {
         "id": 900335,
         "type": 1,
         "name": "enemy_character_type-20900335",
@@ -23594,7 +23594,7 @@
         "enemy_illustration_id": 156,
         "location_offset": ""
     },
-    "900336": {
+    {
         "id": 900336,
         "type": 1,
         "name": "enemy_character_type-20900336",
@@ -23633,7 +23633,7 @@
         "enemy_illustration_id": 155,
         "location_offset": ""
     },
-    "900337": {
+    {
         "id": 900337,
         "type": 1,
         "name": "enemy_character_type-20900337",
@@ -23672,7 +23672,7 @@
         "enemy_illustration_id": 110,
         "location_offset": ""
     },
-    "900338": {
+    {
         "id": 900338,
         "type": 1,
         "name": "enemy_character_type-20900338",
@@ -23711,7 +23711,7 @@
         "enemy_illustration_id": 110,
         "location_offset": ""
     },
-    "900339": {
+    {
         "id": 900339,
         "type": 1,
         "name": "enemy_character_type-20900339",
@@ -23750,7 +23750,7 @@
         "enemy_illustration_id": 110,
         "location_offset": ""
     },
-    "900340": {
+    {
         "id": 900340,
         "type": 1,
         "name": "enemy_character_type-20900340",
@@ -23789,7 +23789,7 @@
         "enemy_illustration_id": 138,
         "location_offset": ""
     },
-    "900341": {
+    {
         "id": 900341,
         "type": 1,
         "name": "enemy_character_type-20900341",
@@ -23828,7 +23828,7 @@
         "enemy_illustration_id": 138,
         "location_offset": ""
     },
-    "900342": {
+    {
         "id": 900342,
         "type": 1,
         "name": "enemy_character_type-20900342",
@@ -23867,7 +23867,7 @@
         "enemy_illustration_id": 138,
         "location_offset": ""
     },
-    "900343": {
+    {
         "id": 900343,
         "type": 1,
         "name": "enemy_character_type-20900343",
@@ -23906,7 +23906,7 @@
         "enemy_illustration_id": 109,
         "location_offset": ""
     },
-    "900344": {
+    {
         "id": 900344,
         "type": 1,
         "name": "enemy_character_type-20900344",
@@ -23945,7 +23945,7 @@
         "enemy_illustration_id": 157,
         "location_offset": ""
     },
-    "900345": {
+    {
         "id": 900345,
         "type": 4,
         "name": "enemy_character_type-20900345",
@@ -23984,7 +23984,7 @@
         "enemy_illustration_id": 0,
         "location_offset": ""
     },
-    "900346": {
+    {
         "id": 900346,
         "type": 4,
         "name": "enemy_character_type-20900346",
@@ -24023,7 +24023,7 @@
         "enemy_illustration_id": 0,
         "location_offset": ""
     },
-    "900347": {
+    {
         "id": 900347,
         "type": 4,
         "name": "enemy_character_type-20900347",
@@ -24062,7 +24062,7 @@
         "enemy_illustration_id": 0,
         "location_offset": ""
     },
-    "900348": {
+    {
         "id": 900348,
         "type": 4,
         "name": "enemy_character_type-20900348",
@@ -24101,7 +24101,7 @@
         "enemy_illustration_id": 0,
         "location_offset": ""
     },
-    "900349": {
+    {
         "id": 900349,
         "type": 4,
         "name": "enemy_character_type-20900349",
@@ -24140,7 +24140,7 @@
         "enemy_illustration_id": 0,
         "location_offset": ""
     },
-    "900350": {
+    {
         "id": 900350,
         "type": 4,
         "name": "enemy_character_type-20900350",
@@ -24179,7 +24179,7 @@
         "enemy_illustration_id": 0,
         "location_offset": "3.82,0.01,1.41"
     },
-    "900351": {
+    {
         "id": 900351,
         "type": 1,
         "name": "enemy_character_type-20900351",
@@ -24218,7 +24218,7 @@
         "enemy_illustration_id": 162,
         "location_offset": ""
     },
-    "900352": {
+    {
         "id": 900352,
         "type": 1,
         "name": "enemy_character_type-20900352",
@@ -24257,7 +24257,7 @@
         "enemy_illustration_id": 162,
         "location_offset": ""
     },
-    "910101": {
+    {
         "id": 910101,
         "type": 1,
         "name": "enemy_character_type-20910101",
@@ -24296,7 +24296,7 @@
         "enemy_illustration_id": 0,
         "location_offset": ""
     },
-    "910102": {
+    {
         "id": 910102,
         "type": 1,
         "name": "enemy_character_type-20910102",
@@ -24335,7 +24335,7 @@
         "enemy_illustration_id": 0,
         "location_offset": ""
     },
-    "910103": {
+    {
         "id": 910103,
         "type": 1,
         "name": "enemy_character_type-20910103",
@@ -24374,7 +24374,7 @@
         "enemy_illustration_id": 0,
         "location_offset": ""
     },
-    "910104": {
+    {
         "id": 910104,
         "type": 1,
         "name": "enemy_character_type-20910104",
@@ -24413,7 +24413,7 @@
         "enemy_illustration_id": 0,
         "location_offset": ""
     },
-    "910105": {
+    {
         "id": 910105,
         "type": 1,
         "name": "enemy_character_type-20910105",
@@ -24452,7 +24452,7 @@
         "enemy_illustration_id": 0,
         "location_offset": ""
     },
-    "910106": {
+    {
         "id": 910106,
         "type": 1,
         "name": "enemy_character_type-20910106",
@@ -24491,7 +24491,7 @@
         "enemy_illustration_id": 0,
         "location_offset": ""
     },
-    "910107": {
+    {
         "id": 910107,
         "type": 1,
         "name": "enemy_character_type-20910107",
@@ -24530,7 +24530,7 @@
         "enemy_illustration_id": 0,
         "location_offset": ""
     },
-    "910108": {
+    {
         "id": 910108,
         "type": 1,
         "name": "enemy_character_type-20910108",
@@ -24569,7 +24569,7 @@
         "enemy_illustration_id": 0,
         "location_offset": ""
     },
-    "910109": {
+    {
         "id": 910109,
         "type": 1,
         "name": "enemy_character_type-20910109",
@@ -24608,7 +24608,7 @@
         "enemy_illustration_id": 0,
         "location_offset": ""
     },
-    "910110": {
+    {
         "id": 910110,
         "type": 1,
         "name": "enemy_character_type-20910110",
@@ -24647,7 +24647,7 @@
         "enemy_illustration_id": 0,
         "location_offset": ""
     },
-    "910111": {
+    {
         "id": 910111,
         "type": 1,
         "name": "enemy_character_type-20910111",
@@ -24686,7 +24686,7 @@
         "enemy_illustration_id": 0,
         "location_offset": ""
     },
-    "910112": {
+    {
         "id": 910112,
         "type": 1,
         "name": "enemy_character_type-20910112",
@@ -24725,7 +24725,7 @@
         "enemy_illustration_id": 0,
         "location_offset": ""
     },
-    "910113": {
+    {
         "id": 910113,
         "type": 1,
         "name": "enemy_character_type-20910113",
@@ -24764,7 +24764,7 @@
         "enemy_illustration_id": 0,
         "location_offset": ""
     },
-    "910114": {
+    {
         "id": 910114,
         "type": 1,
         "name": "enemy_character_type-20910114",
@@ -24803,7 +24803,7 @@
         "enemy_illustration_id": 0,
         "location_offset": ""
     },
-    "910115": {
+    {
         "id": 910115,
         "type": 1,
         "name": "enemy_character_type-20910115",
@@ -24842,7 +24842,7 @@
         "enemy_illustration_id": 0,
         "location_offset": ""
     },
-    "910116": {
+    {
         "id": 910116,
         "type": 1,
         "name": "enemy_character_type-20910116",
@@ -24881,7 +24881,7 @@
         "enemy_illustration_id": 0,
         "location_offset": ""
     },
-    "910117": {
+    {
         "id": 910117,
         "type": 1,
         "name": "enemy_character_type-20910117",
@@ -24920,7 +24920,7 @@
         "enemy_illustration_id": 0,
         "location_offset": ""
     },
-    "910118": {
+    {
         "id": 910118,
         "type": 1,
         "name": "enemy_character_type-20910118",
@@ -24959,7 +24959,7 @@
         "enemy_illustration_id": 0,
         "location_offset": ""
     },
-    "910119": {
+    {
         "id": 910119,
         "type": 1,
         "name": "enemy_character_type-20910119",
@@ -24998,7 +24998,7 @@
         "enemy_illustration_id": 0,
         "location_offset": ""
     },
-    "910120": {
+    {
         "id": 910120,
         "type": 1,
         "name": "enemy_character_type-20910120",
@@ -25037,7 +25037,7 @@
         "enemy_illustration_id": 0,
         "location_offset": ""
     },
-    "910121": {
+    {
         "id": 910121,
         "type": 1,
         "name": "enemy_character_type-20910121",
@@ -25076,7 +25076,7 @@
         "enemy_illustration_id": 0,
         "location_offset": ""
     },
-    "910122": {
+    {
         "id": 910122,
         "type": 1,
         "name": "enemy_character_type-20910122",
@@ -25115,7 +25115,7 @@
         "enemy_illustration_id": 0,
         "location_offset": ""
     },
-    "910123": {
+    {
         "id": 910123,
         "type": 1,
         "name": "enemy_character_type-20910123",
@@ -25154,7 +25154,7 @@
         "enemy_illustration_id": 0,
         "location_offset": ""
     },
-    "910124": {
+    {
         "id": 910124,
         "type": 1,
         "name": "enemy_character_type-20910124",
@@ -25193,7 +25193,7 @@
         "enemy_illustration_id": 0,
         "location_offset": ""
     },
-    "910125": {
+    {
         "id": 910125,
         "type": 1,
         "name": "enemy_character_type-20910125",
@@ -25232,7 +25232,7 @@
         "enemy_illustration_id": 0,
         "location_offset": ""
     },
-    "910126": {
+    {
         "id": 910126,
         "type": 1,
         "name": "enemy_character_type-20910126",
@@ -25271,7 +25271,7 @@
         "enemy_illustration_id": 0,
         "location_offset": ""
     },
-    "910127": {
+    {
         "id": 910127,
         "type": 2,
         "name": "enemy_character_type-20910127",
@@ -25310,7 +25310,7 @@
         "enemy_illustration_id": 1,
         "location_offset": ""
     },
-    "910128": {
+    {
         "id": 910128,
         "type": 2,
         "name": "enemy_character_type-20910128",
@@ -25349,7 +25349,7 @@
         "enemy_illustration_id": 1,
         "location_offset": ""
     },
-    "910129": {
+    {
         "id": 910129,
         "type": 2,
         "name": "enemy_character_type-20910129",
@@ -25388,7 +25388,7 @@
         "enemy_illustration_id": 1,
         "location_offset": ""
     },
-    "910130": {
+    {
         "id": 910130,
         "type": 2,
         "name": "enemy_character_type-20910130",
@@ -25427,7 +25427,7 @@
         "enemy_illustration_id": 1,
         "location_offset": ""
     },
-    "910131": {
+    {
         "id": 910131,
         "type": 2,
         "name": "enemy_character_type-20910131",
@@ -25466,7 +25466,7 @@
         "enemy_illustration_id": 1,
         "location_offset": ""
     },
-    "910132": {
+    {
         "id": 910132,
         "type": 1,
         "name": "enemy_character_type-20910132",
@@ -25505,7 +25505,7 @@
         "enemy_illustration_id": 0,
         "location_offset": ""
     },
-    "910133": {
+    {
         "id": 910133,
         "type": 1,
         "name": "enemy_character_type-20910133",
@@ -25544,7 +25544,7 @@
         "enemy_illustration_id": 0,
         "location_offset": ""
     },
-    "910134": {
+    {
         "id": 910134,
         "type": 3,
         "name": "enemy_character_type-20910134",
@@ -25583,7 +25583,7 @@
         "enemy_illustration_id": 46,
         "location_offset": ""
     },
-    "910135": {
+    {
         "id": 910135,
         "type": 4,
         "name": "enemy_character_type-20910135",
@@ -25622,7 +25622,7 @@
         "enemy_illustration_id": 49,
         "location_offset": ""
     },
-    "910136": {
+    {
         "id": 910136,
         "type": 3,
         "name": "enemy_character_type-20910136",
@@ -25661,7 +25661,7 @@
         "enemy_illustration_id": 47,
         "location_offset": ""
     },
-    "910137": {
+    {
         "id": 910137,
         "type": 3,
         "name": "enemy_character_type-20910137",
@@ -25700,7 +25700,7 @@
         "enemy_illustration_id": 46,
         "location_offset": ""
     },
-    "910138": {
+    {
         "id": 910138,
         "type": 2,
         "name": "enemy_character_type-20910138",
@@ -25739,7 +25739,7 @@
         "enemy_illustration_id": 143,
         "location_offset": ""
     },
-    "910139": {
+    {
         "id": 910139,
         "type": 2,
         "name": "enemy_character_type-20910139",
@@ -25778,7 +25778,7 @@
         "enemy_illustration_id": 151,
         "location_offset": ""
     },
-    "910140": {
+    {
         "id": 910140,
         "type": 3,
         "name": "enemy_character_type-20910140",
@@ -25817,7 +25817,7 @@
         "enemy_illustration_id": 134,
         "location_offset": ""
     },
-    "910141": {
+    {
         "id": 910141,
         "type": 3,
         "name": "enemy_character_type-20910141",
@@ -25856,7 +25856,7 @@
         "enemy_illustration_id": 46,
         "location_offset": ""
     },
-    "990037": {
+    {
         "id": 990037,
         "type": 1,
         "name": "enemy_character_type-20990037",
@@ -25895,7 +25895,7 @@
         "enemy_illustration_id": 100026,
         "location_offset": ""
     },
-    "990038": {
+    {
         "id": 990038,
         "type": 1,
         "name": "enemy_character_type-20990038",
@@ -25934,7 +25934,7 @@
         "enemy_illustration_id": 100025,
         "location_offset": ""
     },
-    "993701": {
+    {
         "id": 993701,
         "type": 2,
         "name": "enemy_character_type-20993701",
@@ -25973,4 +25973,4 @@
         "enemy_illustration_id": 1,
         "location_offset": ""
     }
-}
+]

@@ -1,5 +1,5 @@
-{
-    "-12": {
+[
+    {
         "id": -12,
         "name": "npc-9999988",
         "code": "NPC_Maid",
@@ -12,7 +12,7 @@
         "skin_code": "",
         "voice_code": ""
     },
-    "-11": {
+    {
         "id": -11,
         "name": "npc-9999989",
         "code": "NPC_Jason",
@@ -25,7 +25,7 @@
         "skin_code": "",
         "voice_code": ""
     },
-    "-10": {
+    {
         "id": -10,
         "name": "npc-9999990",
         "code": "NPC_Ange",
@@ -38,7 +38,7 @@
         "skin_code": "",
         "voice_code": ""
     },
-    "-9": {
+    {
         "id": -9,
         "name": "npc-9999991",
         "code": "NPC_Havel",
@@ -51,7 +51,7 @@
         "skin_code": "",
         "voice_code": ""
     },
-    "-8": {
+    {
         "id": -8,
         "name": "npc-9999992",
         "code": "NPC_Seele",
@@ -64,7 +64,7 @@
         "skin_code": "",
         "voice_code": ""
     },
-    "-7": {
+    {
         "id": -7,
         "name": "npc-9999993",
         "code": "NPC_Deele",
@@ -77,7 +77,7 @@
         "skin_code": "",
         "voice_code": ""
     },
-    "-6": {
+    {
         "id": -6,
         "name": "npc-9999994",
         "code": "NPC_Kryuger",
@@ -90,7 +90,7 @@
         "skin_code": "",
         "voice_code": ""
     },
-    "-5": {
+    {
         "id": -5,
         "name": "npc-9999995",
         "code": "NPC_Persica",
@@ -103,7 +103,7 @@
         "skin_code": "",
         "voice_code": ""
     },
-    "-4": {
+    {
         "id": -4,
         "name": "npc-9999996",
         "code": "NPC_Helianthus",
@@ -116,7 +116,7 @@
         "skin_code": "",
         "voice_code": ""
     },
-    "-3": {
+    {
         "id": -3,
         "name": "npc-9999997",
         "code": "NPC_TGS0201",
@@ -129,7 +129,7 @@
         "skin_code": "",
         "voice_code": ""
     },
-    "-2": {
+    {
         "id": -2,
         "name": "npc-9999998",
         "code": "T77",
@@ -142,7 +142,7 @@
         "skin_code": "",
         "voice_code": "T77"
     },
-    "-1": {
+    {
         "id": -1,
         "name": "npc-9999999",
         "code": "NPC_Kalina",
@@ -155,4 +155,4 @@
         "skin_code": "",
         "voice_code": ""
     }
-}
+]

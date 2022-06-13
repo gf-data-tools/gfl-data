@@ -1,5 +1,5 @@
-{
-    "101": {
+[
+    {
         "id": 101,
         "fetter_id": 1,
         "type": "collect",
@@ -8,7 +8,7 @@
         "name": "fetter_bounty-10000101",
         "description": "fetter_bounty-20000101"
     },
-    "102": {
+    {
         "id": 102,
         "fetter_id": 1,
         "type": "collect",
@@ -17,7 +17,7 @@
         "name": "fetter_bounty-10000102",
         "description": "fetter_bounty-20000102"
     },
-    "103": {
+    {
         "id": 103,
         "fetter_id": 1,
         "type": "collect",
@@ -26,7 +26,7 @@
         "name": "fetter_bounty-10000103",
         "description": "fetter_bounty-20000103"
     },
-    "104": {
+    {
         "id": 104,
         "fetter_id": 1,
         "type": "collect",
@@ -35,7 +35,7 @@
         "name": "fetter_bounty-10000104",
         "description": "fetter_bounty-20000104"
     },
-    "105": {
+    {
         "id": 105,
         "fetter_id": 1,
         "type": "collect",
@@ -44,7 +44,7 @@
         "name": "fetter_bounty-10000105",
         "description": "fetter_bounty-20000105"
     },
-    "106": {
+    {
         "id": 106,
         "fetter_id": 1,
         "type": "upgrade_lv",
@@ -53,7 +53,7 @@
         "name": "fetter_bounty-10000106",
         "description": "fetter_bounty-20000106"
     },
-    "107": {
+    {
         "id": 107,
         "fetter_id": 1,
         "type": "upgrade_lv",
@@ -62,7 +62,7 @@
         "name": "fetter_bounty-10000107",
         "description": "fetter_bounty-20000107"
     },
-    "108": {
+    {
         "id": 108,
         "fetter_id": 1,
         "type": "upgrade_lv",
@@ -71,7 +71,7 @@
         "name": "fetter_bounty-10000108",
         "description": "fetter_bounty-20000108"
     },
-    "109": {
+    {
         "id": 109,
         "fetter_id": 1,
         "type": "upgrade_lv",
@@ -80,7 +80,7 @@
         "name": "fetter_bounty-10000109",
         "description": "fetter_bounty-20000109"
     },
-    "110": {
+    {
         "id": 110,
         "fetter_id": 1,
         "type": "upgrade_lv",
@@ -89,7 +89,7 @@
         "name": "fetter_bounty-10000110",
         "description": "fetter_bounty-20000110"
     },
-    "111": {
+    {
         "id": 111,
         "fetter_id": 1,
         "type": "upgrade_lv",
@@ -98,7 +98,7 @@
         "name": "fetter_bounty-10000111",
         "description": "fetter_bounty-20000111"
     },
-    "112": {
+    {
         "id": 112,
         "fetter_id": 1,
         "type": "upgrade_lv",
@@ -107,7 +107,7 @@
         "name": "fetter_bounty-10000112",
         "description": "fetter_bounty-20000112"
     },
-    "113": {
+    {
         "id": 113,
         "fetter_id": 1,
         "type": "upgrade_lv",
@@ -116,7 +116,7 @@
         "name": "fetter_bounty-10000113",
         "description": "fetter_bounty-20000113"
     },
-    "114": {
+    {
         "id": 114,
         "fetter_id": 1,
         "type": "upgrade_lv",
@@ -125,7 +125,7 @@
         "name": "fetter_bounty-10000114",
         "description": "fetter_bounty-20000114"
     },
-    "115": {
+    {
         "id": 115,
         "fetter_id": 1,
         "type": "upgrade_lv",
@@ -134,7 +134,7 @@
         "name": "fetter_bounty-10000115",
         "description": "fetter_bounty-20000115"
     },
-    "116": {
+    {
         "id": 116,
         "fetter_id": 1,
         "type": "upgrade_lv",
@@ -143,7 +143,7 @@
         "name": "fetter_bounty-10000116",
         "description": "fetter_bounty-20000116"
     },
-    "117": {
+    {
         "id": 117,
         "fetter_id": 1,
         "type": "upgrade_lv",
@@ -152,7 +152,7 @@
         "name": "fetter_bounty-10000117",
         "description": "fetter_bounty-20000117"
     },
-    "118": {
+    {
         "id": 118,
         "fetter_id": 1,
         "type": "upgrade_lv",
@@ -161,7 +161,7 @@
         "name": "fetter_bounty-10000118",
         "description": "fetter_bounty-20000118"
     },
-    "119": {
+    {
         "id": 119,
         "fetter_id": 1,
         "type": "upgrade_lv",
@@ -170,7 +170,7 @@
         "name": "fetter_bounty-10000119",
         "description": "fetter_bounty-20000119"
     },
-    "120": {
+    {
         "id": 120,
         "fetter_id": 1,
         "type": "upgrade_lv",
@@ -179,7 +179,7 @@
         "name": "fetter_bounty-10000120",
         "description": "fetter_bounty-20000120"
     },
-    "121": {
+    {
         "id": 121,
         "fetter_id": 1,
         "type": "upgrade_lv",
@@ -188,7 +188,7 @@
         "name": "fetter_bounty-10000121",
         "description": "fetter_bounty-20000121"
     },
-    "122": {
+    {
         "id": 122,
         "fetter_id": 1,
         "type": "upgrade_lv",
@@ -197,7 +197,7 @@
         "name": "fetter_bounty-10000122",
         "description": "fetter_bounty-20000122"
     },
-    "123": {
+    {
         "id": 123,
         "fetter_id": 1,
         "type": "upgrade_lv",
@@ -206,7 +206,7 @@
         "name": "fetter_bounty-10000123",
         "description": "fetter_bounty-20000123"
     },
-    "124": {
+    {
         "id": 124,
         "fetter_id": 1,
         "type": "upgrade_lv",
@@ -215,7 +215,7 @@
         "name": "fetter_bounty-10000124",
         "description": "fetter_bounty-20000124"
     },
-    "125": {
+    {
         "id": 125,
         "fetter_id": 1,
         "type": "upgrade_lv",
@@ -224,7 +224,7 @@
         "name": "fetter_bounty-10000125",
         "description": "fetter_bounty-20000125"
     },
-    "126": {
+    {
         "id": 126,
         "fetter_id": 1,
         "type": "upgrade_lv",
@@ -233,7 +233,7 @@
         "name": "fetter_bounty-10000126",
         "description": "fetter_bounty-20000126"
     },
-    "127": {
+    {
         "id": 127,
         "fetter_id": 1,
         "type": "upgrade_lv",
@@ -242,7 +242,7 @@
         "name": "fetter_bounty-10000127",
         "description": "fetter_bounty-20000127"
     },
-    "128": {
+    {
         "id": 128,
         "fetter_id": 1,
         "type": "upgrade_lv",
@@ -251,7 +251,7 @@
         "name": "fetter_bounty-10000128",
         "description": "fetter_bounty-20000128"
     },
-    "129": {
+    {
         "id": 129,
         "fetter_id": 1,
         "type": "upgrade_lv",
@@ -260,7 +260,7 @@
         "name": "fetter_bounty-10000129",
         "description": "fetter_bounty-20000129"
     },
-    "130": {
+    {
         "id": 130,
         "fetter_id": 1,
         "type": "upgrade_lv",
@@ -269,7 +269,7 @@
         "name": "fetter_bounty-10000130",
         "description": "fetter_bounty-20000130"
     },
-    "131": {
+    {
         "id": 131,
         "fetter_id": 1,
         "type": "upgrade_love",
@@ -278,7 +278,7 @@
         "name": "fetter_bounty-10000131",
         "description": "fetter_bounty-20000131"
     },
-    "132": {
+    {
         "id": 132,
         "fetter_id": 1,
         "type": "upgrade_love",
@@ -287,7 +287,7 @@
         "name": "fetter_bounty-10000132",
         "description": "fetter_bounty-20000132"
     },
-    "133": {
+    {
         "id": 133,
         "fetter_id": 1,
         "type": "upgrade_love",
@@ -296,7 +296,7 @@
         "name": "fetter_bounty-10000133",
         "description": "fetter_bounty-20000133"
     },
-    "134": {
+    {
         "id": 134,
         "fetter_id": 1,
         "type": "upgrade_love",
@@ -305,7 +305,7 @@
         "name": "fetter_bounty-10000134",
         "description": "fetter_bounty-20000134"
     },
-    "135": {
+    {
         "id": 135,
         "fetter_id": 1,
         "type": "upgrade_love",
@@ -314,7 +314,7 @@
         "name": "fetter_bounty-10000135",
         "description": "fetter_bounty-20000135"
     },
-    "136": {
+    {
         "id": 136,
         "fetter_id": 1,
         "type": "upgrade_love",
@@ -323,7 +323,7 @@
         "name": "fetter_bounty-10000136",
         "description": "fetter_bounty-20000136"
     },
-    "137": {
+    {
         "id": 137,
         "fetter_id": 1,
         "type": "upgrade_love",
@@ -332,7 +332,7 @@
         "name": "fetter_bounty-10000137",
         "description": "fetter_bounty-20000137"
     },
-    "138": {
+    {
         "id": 138,
         "fetter_id": 1,
         "type": "upgrade_love",
@@ -341,7 +341,7 @@
         "name": "fetter_bounty-10000138",
         "description": "fetter_bounty-20000138"
     },
-    "139": {
+    {
         "id": 139,
         "fetter_id": 1,
         "type": "upgrade_love",
@@ -350,7 +350,7 @@
         "name": "fetter_bounty-10000139",
         "description": "fetter_bounty-20000139"
     },
-    "140": {
+    {
         "id": 140,
         "fetter_id": 1,
         "type": "upgrade_love",
@@ -359,7 +359,7 @@
         "name": "fetter_bounty-10000140",
         "description": "fetter_bounty-20000140"
     },
-    "141": {
+    {
         "id": 141,
         "fetter_id": 1,
         "type": "marry",
@@ -368,7 +368,7 @@
         "name": "fetter_bounty-10000141",
         "description": "fetter_bounty-20000141"
     },
-    "142": {
+    {
         "id": 142,
         "fetter_id": 1,
         "type": "marry",
@@ -377,7 +377,7 @@
         "name": "fetter_bounty-10000142",
         "description": "fetter_bounty-20000142"
     },
-    "143": {
+    {
         "id": 143,
         "fetter_id": 1,
         "type": "marry",
@@ -386,7 +386,7 @@
         "name": "fetter_bounty-10000143",
         "description": "fetter_bounty-20000143"
     },
-    "144": {
+    {
         "id": 144,
         "fetter_id": 1,
         "type": "marry",
@@ -395,7 +395,7 @@
         "name": "fetter_bounty-10000144",
         "description": "fetter_bounty-20000144"
     },
-    "145": {
+    {
         "id": 145,
         "fetter_id": 1,
         "type": "marry",
@@ -404,7 +404,7 @@
         "name": "fetter_bounty-10000145",
         "description": "fetter_bounty-20000145"
     },
-    "146": {
+    {
         "id": 146,
         "fetter_id": 1,
         "type": "collect_skin",
@@ -413,7 +413,7 @@
         "name": "fetter_bounty-10000146",
         "description": "fetter_bounty-20000146"
     },
-    "147": {
+    {
         "id": 147,
         "fetter_id": 1,
         "type": "collect_skin",
@@ -422,7 +422,7 @@
         "name": "fetter_bounty-10000147",
         "description": "fetter_bounty-20000147"
     },
-    "148": {
+    {
         "id": 148,
         "fetter_id": 1,
         "type": "collect_skin",
@@ -431,7 +431,7 @@
         "name": "fetter_bounty-10000148",
         "description": "fetter_bounty-20000148"
     },
-    "149": {
+    {
         "id": 149,
         "fetter_id": 1,
         "type": "win",
@@ -440,7 +440,7 @@
         "name": "fetter_bounty-10000149",
         "description": "fetter_bounty-20000149"
     },
-    "150": {
+    {
         "id": 150,
         "fetter_id": 1,
         "type": "win",
@@ -449,7 +449,7 @@
         "name": "fetter_bounty-10000150",
         "description": "fetter_bounty-20000150"
     },
-    "151": {
+    {
         "id": 151,
         "fetter_id": 1,
         "type": "win",
@@ -458,7 +458,7 @@
         "name": "fetter_bounty-10000151",
         "description": "fetter_bounty-20000151"
     },
-    "152": {
+    {
         "id": 152,
         "fetter_id": 1,
         "type": "win",
@@ -467,7 +467,7 @@
         "name": "fetter_bounty-10000152",
         "description": "fetter_bounty-20000152"
     },
-    "153": {
+    {
         "id": 153,
         "fetter_id": 1,
         "type": "win",
@@ -476,7 +476,7 @@
         "name": "fetter_bounty-10000153",
         "description": "fetter_bounty-20000153"
     },
-    "154": {
+    {
         "id": 154,
         "fetter_id": 1,
         "type": "win",
@@ -485,7 +485,7 @@
         "name": "fetter_bounty-10000154",
         "description": "fetter_bounty-20000154"
     },
-    "155": {
+    {
         "id": 155,
         "fetter_id": 1,
         "type": "win",
@@ -494,7 +494,7 @@
         "name": "fetter_bounty-10000155",
         "description": "fetter_bounty-20000155"
     },
-    "156": {
+    {
         "id": 156,
         "fetter_id": 1,
         "type": "win",
@@ -503,7 +503,7 @@
         "name": "fetter_bounty-10000156",
         "description": "fetter_bounty-20000156"
     },
-    "157": {
+    {
         "id": 157,
         "fetter_id": 1,
         "type": "win",
@@ -512,7 +512,7 @@
         "name": "fetter_bounty-10000157",
         "description": "fetter_bounty-20000157"
     },
-    "158": {
+    {
         "id": 158,
         "fetter_id": 1,
         "type": "win",
@@ -521,7 +521,7 @@
         "name": "fetter_bounty-10000158",
         "description": "fetter_bounty-20000158"
     },
-    "159": {
+    {
         "id": 159,
         "fetter_id": 1,
         "type": "win",
@@ -530,7 +530,7 @@
         "name": "fetter_bounty-10000159",
         "description": "fetter_bounty-20000159"
     },
-    "160": {
+    {
         "id": 160,
         "fetter_id": 1,
         "type": "win",
@@ -539,7 +539,7 @@
         "name": "fetter_bounty-10000160",
         "description": "fetter_bounty-20000160"
     },
-    "161": {
+    {
         "id": 161,
         "fetter_id": 1,
         "type": "win",
@@ -548,7 +548,7 @@
         "name": "fetter_bounty-10000161",
         "description": "fetter_bounty-20000161"
     },
-    "162": {
+    {
         "id": 162,
         "fetter_id": 1,
         "type": "win",
@@ -557,7 +557,7 @@
         "name": "fetter_bounty-10000162",
         "description": "fetter_bounty-20000162"
     },
-    "163": {
+    {
         "id": 163,
         "fetter_id": 1,
         "type": "win",
@@ -566,7 +566,7 @@
         "name": "fetter_bounty-10000163",
         "description": "fetter_bounty-20000163"
     },
-    "164": {
+    {
         "id": 164,
         "fetter_id": 1,
         "type": "win",
@@ -575,7 +575,7 @@
         "name": "fetter_bounty-10000164",
         "description": "fetter_bounty-20000164"
     },
-    "165": {
+    {
         "id": 165,
         "fetter_id": 1,
         "type": "win",
@@ -584,7 +584,7 @@
         "name": "fetter_bounty-10000165",
         "description": "fetter_bounty-20000165"
     },
-    "166": {
+    {
         "id": 166,
         "fetter_id": 1,
         "type": "win",
@@ -593,7 +593,7 @@
         "name": "fetter_bounty-10000166",
         "description": "fetter_bounty-20000166"
     },
-    "167": {
+    {
         "id": 167,
         "fetter_id": 1,
         "type": "win",
@@ -602,7 +602,7 @@
         "name": "fetter_bounty-10000167",
         "description": "fetter_bounty-20000167"
     },
-    "168": {
+    {
         "id": 168,
         "fetter_id": 1,
         "type": "win",
@@ -611,7 +611,7 @@
         "name": "fetter_bounty-10000168",
         "description": "fetter_bounty-20000168"
     },
-    "169": {
+    {
         "id": 169,
         "fetter_id": 1,
         "type": "win",
@@ -620,7 +620,7 @@
         "name": "fetter_bounty-10000169",
         "description": "fetter_bounty-20000169"
     },
-    "170": {
+    {
         "id": 170,
         "fetter_id": 1,
         "type": "win",
@@ -629,7 +629,7 @@
         "name": "fetter_bounty-10000170",
         "description": "fetter_bounty-20000170"
     },
-    "171": {
+    {
         "id": 171,
         "fetter_id": 1,
         "type": "win",
@@ -638,7 +638,7 @@
         "name": "fetter_bounty-10000171",
         "description": "fetter_bounty-20000171"
     },
-    "172": {
+    {
         "id": 172,
         "fetter_id": 1,
         "type": "win",
@@ -647,7 +647,7 @@
         "name": "fetter_bounty-10000172",
         "description": "fetter_bounty-20000172"
     },
-    "173": {
+    {
         "id": 173,
         "fetter_id": 1,
         "type": "win",
@@ -656,7 +656,7 @@
         "name": "fetter_bounty-10000173",
         "description": "fetter_bounty-20000173"
     },
-    "174": {
+    {
         "id": 174,
         "fetter_id": 1,
         "type": "win",
@@ -665,7 +665,7 @@
         "name": "fetter_bounty-10000174",
         "description": "fetter_bounty-20000174"
     },
-    "175": {
+    {
         "id": 175,
         "fetter_id": 1,
         "type": "win",
@@ -674,7 +674,7 @@
         "name": "fetter_bounty-10000175",
         "description": "fetter_bounty-20000175"
     },
-    "176": {
+    {
         "id": 176,
         "fetter_id": 1,
         "type": "win",
@@ -683,7 +683,7 @@
         "name": "fetter_bounty-10000176",
         "description": "fetter_bounty-20000176"
     },
-    "177": {
+    {
         "id": 177,
         "fetter_id": 1,
         "type": "win",
@@ -692,7 +692,7 @@
         "name": "fetter_bounty-10000177",
         "description": "fetter_bounty-20000177"
     },
-    "178": {
+    {
         "id": 178,
         "fetter_id": 1,
         "type": "win",
@@ -701,7 +701,7 @@
         "name": "fetter_bounty-10000178",
         "description": "fetter_bounty-20000178"
     },
-    "201": {
+    {
         "id": 201,
         "fetter_id": 2,
         "type": "collect",
@@ -710,7 +710,7 @@
         "name": "fetter_bounty-10000201",
         "description": "fetter_bounty-20000201"
     },
-    "202": {
+    {
         "id": 202,
         "fetter_id": 2,
         "type": "collect",
@@ -719,7 +719,7 @@
         "name": "fetter_bounty-10000202",
         "description": "fetter_bounty-20000202"
     },
-    "203": {
+    {
         "id": 203,
         "fetter_id": 2,
         "type": "collect",
@@ -728,7 +728,7 @@
         "name": "fetter_bounty-10000203",
         "description": "fetter_bounty-20000203"
     },
-    "204": {
+    {
         "id": 204,
         "fetter_id": 2,
         "type": "collect",
@@ -737,7 +737,7 @@
         "name": "fetter_bounty-10000204",
         "description": "fetter_bounty-20000204"
     },
-    "205": {
+    {
         "id": 205,
         "fetter_id": 2,
         "type": "collect",
@@ -746,7 +746,7 @@
         "name": "fetter_bounty-10000205",
         "description": "fetter_bounty-20000205"
     },
-    "206": {
+    {
         "id": 206,
         "fetter_id": 2,
         "type": "upgrade_lv",
@@ -755,7 +755,7 @@
         "name": "fetter_bounty-10000206",
         "description": "fetter_bounty-20000206"
     },
-    "207": {
+    {
         "id": 207,
         "fetter_id": 2,
         "type": "upgrade_lv",
@@ -764,7 +764,7 @@
         "name": "fetter_bounty-10000207",
         "description": "fetter_bounty-20000207"
     },
-    "208": {
+    {
         "id": 208,
         "fetter_id": 2,
         "type": "upgrade_lv",
@@ -773,7 +773,7 @@
         "name": "fetter_bounty-10000208",
         "description": "fetter_bounty-20000208"
     },
-    "209": {
+    {
         "id": 209,
         "fetter_id": 2,
         "type": "upgrade_lv",
@@ -782,7 +782,7 @@
         "name": "fetter_bounty-10000209",
         "description": "fetter_bounty-20000209"
     },
-    "210": {
+    {
         "id": 210,
         "fetter_id": 2,
         "type": "upgrade_lv",
@@ -791,7 +791,7 @@
         "name": "fetter_bounty-10000210",
         "description": "fetter_bounty-20000210"
     },
-    "211": {
+    {
         "id": 211,
         "fetter_id": 2,
         "type": "upgrade_lv",
@@ -800,7 +800,7 @@
         "name": "fetter_bounty-10000211",
         "description": "fetter_bounty-20000211"
     },
-    "212": {
+    {
         "id": 212,
         "fetter_id": 2,
         "type": "upgrade_lv",
@@ -809,7 +809,7 @@
         "name": "fetter_bounty-10000212",
         "description": "fetter_bounty-20000212"
     },
-    "213": {
+    {
         "id": 213,
         "fetter_id": 2,
         "type": "upgrade_lv",
@@ -818,7 +818,7 @@
         "name": "fetter_bounty-10000213",
         "description": "fetter_bounty-20000213"
     },
-    "214": {
+    {
         "id": 214,
         "fetter_id": 2,
         "type": "upgrade_lv",
@@ -827,7 +827,7 @@
         "name": "fetter_bounty-10000214",
         "description": "fetter_bounty-20000214"
     },
-    "215": {
+    {
         "id": 215,
         "fetter_id": 2,
         "type": "upgrade_lv",
@@ -836,7 +836,7 @@
         "name": "fetter_bounty-10000215",
         "description": "fetter_bounty-20000215"
     },
-    "216": {
+    {
         "id": 216,
         "fetter_id": 2,
         "type": "upgrade_lv",
@@ -845,7 +845,7 @@
         "name": "fetter_bounty-10000216",
         "description": "fetter_bounty-20000216"
     },
-    "217": {
+    {
         "id": 217,
         "fetter_id": 2,
         "type": "upgrade_lv",
@@ -854,7 +854,7 @@
         "name": "fetter_bounty-10000217",
         "description": "fetter_bounty-20000217"
     },
-    "218": {
+    {
         "id": 218,
         "fetter_id": 2,
         "type": "upgrade_lv",
@@ -863,7 +863,7 @@
         "name": "fetter_bounty-10000218",
         "description": "fetter_bounty-20000218"
     },
-    "219": {
+    {
         "id": 219,
         "fetter_id": 2,
         "type": "upgrade_lv",
@@ -872,7 +872,7 @@
         "name": "fetter_bounty-10000219",
         "description": "fetter_bounty-20000219"
     },
-    "220": {
+    {
         "id": 220,
         "fetter_id": 2,
         "type": "upgrade_lv",
@@ -881,7 +881,7 @@
         "name": "fetter_bounty-10000220",
         "description": "fetter_bounty-20000220"
     },
-    "221": {
+    {
         "id": 221,
         "fetter_id": 2,
         "type": "upgrade_lv",
@@ -890,7 +890,7 @@
         "name": "fetter_bounty-10000221",
         "description": "fetter_bounty-20000221"
     },
-    "222": {
+    {
         "id": 222,
         "fetter_id": 2,
         "type": "upgrade_lv",
@@ -899,7 +899,7 @@
         "name": "fetter_bounty-10000222",
         "description": "fetter_bounty-20000222"
     },
-    "223": {
+    {
         "id": 223,
         "fetter_id": 2,
         "type": "upgrade_lv",
@@ -908,7 +908,7 @@
         "name": "fetter_bounty-10000223",
         "description": "fetter_bounty-20000223"
     },
-    "224": {
+    {
         "id": 224,
         "fetter_id": 2,
         "type": "upgrade_lv",
@@ -917,7 +917,7 @@
         "name": "fetter_bounty-10000224",
         "description": "fetter_bounty-20000224"
     },
-    "225": {
+    {
         "id": 225,
         "fetter_id": 2,
         "type": "upgrade_lv",
@@ -926,7 +926,7 @@
         "name": "fetter_bounty-10000225",
         "description": "fetter_bounty-20000225"
     },
-    "226": {
+    {
         "id": 226,
         "fetter_id": 2,
         "type": "upgrade_lv",
@@ -935,7 +935,7 @@
         "name": "fetter_bounty-10000226",
         "description": "fetter_bounty-20000226"
     },
-    "227": {
+    {
         "id": 227,
         "fetter_id": 2,
         "type": "upgrade_lv",
@@ -944,7 +944,7 @@
         "name": "fetter_bounty-10000227",
         "description": "fetter_bounty-20000227"
     },
-    "228": {
+    {
         "id": 228,
         "fetter_id": 2,
         "type": "upgrade_lv",
@@ -953,7 +953,7 @@
         "name": "fetter_bounty-10000228",
         "description": "fetter_bounty-20000228"
     },
-    "229": {
+    {
         "id": 229,
         "fetter_id": 2,
         "type": "upgrade_lv",
@@ -962,7 +962,7 @@
         "name": "fetter_bounty-10000229",
         "description": "fetter_bounty-20000229"
     },
-    "230": {
+    {
         "id": 230,
         "fetter_id": 2,
         "type": "upgrade_lv",
@@ -971,7 +971,7 @@
         "name": "fetter_bounty-10000230",
         "description": "fetter_bounty-20000230"
     },
-    "231": {
+    {
         "id": 231,
         "fetter_id": 2,
         "type": "upgrade_love",
@@ -980,7 +980,7 @@
         "name": "fetter_bounty-10000231",
         "description": "fetter_bounty-20000231"
     },
-    "232": {
+    {
         "id": 232,
         "fetter_id": 2,
         "type": "upgrade_love",
@@ -989,7 +989,7 @@
         "name": "fetter_bounty-10000232",
         "description": "fetter_bounty-20000232"
     },
-    "233": {
+    {
         "id": 233,
         "fetter_id": 2,
         "type": "upgrade_love",
@@ -998,7 +998,7 @@
         "name": "fetter_bounty-10000233",
         "description": "fetter_bounty-20000233"
     },
-    "234": {
+    {
         "id": 234,
         "fetter_id": 2,
         "type": "upgrade_love",
@@ -1007,7 +1007,7 @@
         "name": "fetter_bounty-10000234",
         "description": "fetter_bounty-20000234"
     },
-    "235": {
+    {
         "id": 235,
         "fetter_id": 2,
         "type": "upgrade_love",
@@ -1016,7 +1016,7 @@
         "name": "fetter_bounty-10000235",
         "description": "fetter_bounty-20000235"
     },
-    "236": {
+    {
         "id": 236,
         "fetter_id": 2,
         "type": "upgrade_love",
@@ -1025,7 +1025,7 @@
         "name": "fetter_bounty-10000236",
         "description": "fetter_bounty-20000236"
     },
-    "237": {
+    {
         "id": 237,
         "fetter_id": 2,
         "type": "upgrade_love",
@@ -1034,7 +1034,7 @@
         "name": "fetter_bounty-10000237",
         "description": "fetter_bounty-20000237"
     },
-    "238": {
+    {
         "id": 238,
         "fetter_id": 2,
         "type": "upgrade_love",
@@ -1043,7 +1043,7 @@
         "name": "fetter_bounty-10000238",
         "description": "fetter_bounty-20000238"
     },
-    "239": {
+    {
         "id": 239,
         "fetter_id": 2,
         "type": "upgrade_love",
@@ -1052,7 +1052,7 @@
         "name": "fetter_bounty-10000239",
         "description": "fetter_bounty-20000239"
     },
-    "240": {
+    {
         "id": 240,
         "fetter_id": 2,
         "type": "upgrade_love",
@@ -1061,7 +1061,7 @@
         "name": "fetter_bounty-10000240",
         "description": "fetter_bounty-20000240"
     },
-    "241": {
+    {
         "id": 241,
         "fetter_id": 2,
         "type": "marry",
@@ -1070,7 +1070,7 @@
         "name": "fetter_bounty-10000241",
         "description": "fetter_bounty-20000241"
     },
-    "242": {
+    {
         "id": 242,
         "fetter_id": 2,
         "type": "marry",
@@ -1079,7 +1079,7 @@
         "name": "fetter_bounty-10000242",
         "description": "fetter_bounty-20000242"
     },
-    "243": {
+    {
         "id": 243,
         "fetter_id": 2,
         "type": "marry",
@@ -1088,7 +1088,7 @@
         "name": "fetter_bounty-10000243",
         "description": "fetter_bounty-20000243"
     },
-    "244": {
+    {
         "id": 244,
         "fetter_id": 2,
         "type": "marry",
@@ -1097,7 +1097,7 @@
         "name": "fetter_bounty-10000244",
         "description": "fetter_bounty-20000244"
     },
-    "245": {
+    {
         "id": 245,
         "fetter_id": 2,
         "type": "marry",
@@ -1106,7 +1106,7 @@
         "name": "fetter_bounty-10000245",
         "description": "fetter_bounty-20000245"
     },
-    "246": {
+    {
         "id": 246,
         "fetter_id": 2,
         "type": "collect_skin",
@@ -1115,7 +1115,7 @@
         "name": "fetter_bounty-10000246",
         "description": "fetter_bounty-20000246"
     },
-    "247": {
+    {
         "id": 247,
         "fetter_id": 2,
         "type": "collect_skin",
@@ -1124,7 +1124,7 @@
         "name": "fetter_bounty-10000247",
         "description": "fetter_bounty-20000247"
     },
-    "248": {
+    {
         "id": 248,
         "fetter_id": 2,
         "type": "collect_skin",
@@ -1133,7 +1133,7 @@
         "name": "fetter_bounty-10000248",
         "description": "fetter_bounty-20000248"
     },
-    "249": {
+    {
         "id": 249,
         "fetter_id": 2,
         "type": "collect_skin",
@@ -1142,7 +1142,7 @@
         "name": "fetter_bounty-10000249",
         "description": "fetter_bounty-20000249"
     },
-    "250": {
+    {
         "id": 250,
         "fetter_id": 2,
         "type": "collect_skin",
@@ -1151,7 +1151,7 @@
         "name": "fetter_bounty-10000250",
         "description": "fetter_bounty-20000250"
     },
-    "251": {
+    {
         "id": 251,
         "fetter_id": 2,
         "type": "collect_skin",
@@ -1160,7 +1160,7 @@
         "name": "fetter_bounty-10000251",
         "description": "fetter_bounty-20000251"
     },
-    "252": {
+    {
         "id": 252,
         "fetter_id": 2,
         "type": "collect_skin",
@@ -1169,7 +1169,7 @@
         "name": "fetter_bounty-10000252",
         "description": "fetter_bounty-20000252"
     },
-    "253": {
+    {
         "id": 253,
         "fetter_id": 2,
         "type": "collect_skin",
@@ -1178,7 +1178,7 @@
         "name": "fetter_bounty-10000253",
         "description": "fetter_bounty-20000253"
     },
-    "254": {
+    {
         "id": 254,
         "fetter_id": 2,
         "type": "collect_skin",
@@ -1187,7 +1187,7 @@
         "name": "fetter_bounty-10000254",
         "description": "fetter_bounty-20000254"
     },
-    "255": {
+    {
         "id": 255,
         "fetter_id": 2,
         "type": "collect_skin",
@@ -1196,7 +1196,7 @@
         "name": "fetter_bounty-10000255",
         "description": "fetter_bounty-20000255"
     },
-    "256": {
+    {
         "id": 256,
         "fetter_id": 2,
         "type": "collect_skin",
@@ -1205,7 +1205,7 @@
         "name": "fetter_bounty-10000256",
         "description": "fetter_bounty-20000256"
     },
-    "257": {
+    {
         "id": 257,
         "fetter_id": 2,
         "type": "collect_skin",
@@ -1214,7 +1214,7 @@
         "name": "fetter_bounty-10000257",
         "description": "fetter_bounty-20000257"
     },
-    "258": {
+    {
         "id": 258,
         "fetter_id": 2,
         "type": "collect_skin",
@@ -1223,7 +1223,7 @@
         "name": "fetter_bounty-10000258",
         "description": "fetter_bounty-20000258"
     },
-    "259": {
+    {
         "id": 259,
         "fetter_id": 2,
         "type": "win",
@@ -1232,7 +1232,7 @@
         "name": "fetter_bounty-10000259",
         "description": "fetter_bounty-20000259"
     },
-    "260": {
+    {
         "id": 260,
         "fetter_id": 2,
         "type": "win",
@@ -1241,7 +1241,7 @@
         "name": "fetter_bounty-10000260",
         "description": "fetter_bounty-20000260"
     },
-    "261": {
+    {
         "id": 261,
         "fetter_id": 2,
         "type": "win",
@@ -1250,7 +1250,7 @@
         "name": "fetter_bounty-10000261",
         "description": "fetter_bounty-20000261"
     },
-    "262": {
+    {
         "id": 262,
         "fetter_id": 2,
         "type": "win",
@@ -1259,7 +1259,7 @@
         "name": "fetter_bounty-10000262",
         "description": "fetter_bounty-20000262"
     },
-    "263": {
+    {
         "id": 263,
         "fetter_id": 2,
         "type": "win",
@@ -1268,7 +1268,7 @@
         "name": "fetter_bounty-10000263",
         "description": "fetter_bounty-20000263"
     },
-    "264": {
+    {
         "id": 264,
         "fetter_id": 2,
         "type": "win",
@@ -1277,7 +1277,7 @@
         "name": "fetter_bounty-10000264",
         "description": "fetter_bounty-20000264"
     },
-    "265": {
+    {
         "id": 265,
         "fetter_id": 2,
         "type": "win",
@@ -1286,7 +1286,7 @@
         "name": "fetter_bounty-10000265",
         "description": "fetter_bounty-20000265"
     },
-    "266": {
+    {
         "id": 266,
         "fetter_id": 2,
         "type": "win",
@@ -1295,7 +1295,7 @@
         "name": "fetter_bounty-10000266",
         "description": "fetter_bounty-20000266"
     },
-    "267": {
+    {
         "id": 267,
         "fetter_id": 2,
         "type": "win",
@@ -1304,7 +1304,7 @@
         "name": "fetter_bounty-10000267",
         "description": "fetter_bounty-20000267"
     },
-    "268": {
+    {
         "id": 268,
         "fetter_id": 2,
         "type": "win",
@@ -1313,7 +1313,7 @@
         "name": "fetter_bounty-10000268",
         "description": "fetter_bounty-20000268"
     },
-    "269": {
+    {
         "id": 269,
         "fetter_id": 2,
         "type": "win",
@@ -1322,7 +1322,7 @@
         "name": "fetter_bounty-10000269",
         "description": "fetter_bounty-20000269"
     },
-    "270": {
+    {
         "id": 270,
         "fetter_id": 2,
         "type": "win",
@@ -1331,7 +1331,7 @@
         "name": "fetter_bounty-10000270",
         "description": "fetter_bounty-20000270"
     },
-    "271": {
+    {
         "id": 271,
         "fetter_id": 2,
         "type": "win",
@@ -1340,7 +1340,7 @@
         "name": "fetter_bounty-10000271",
         "description": "fetter_bounty-20000271"
     },
-    "272": {
+    {
         "id": 272,
         "fetter_id": 2,
         "type": "win",
@@ -1349,7 +1349,7 @@
         "name": "fetter_bounty-10000272",
         "description": "fetter_bounty-20000272"
     },
-    "273": {
+    {
         "id": 273,
         "fetter_id": 2,
         "type": "win",
@@ -1358,7 +1358,7 @@
         "name": "fetter_bounty-10000273",
         "description": "fetter_bounty-20000273"
     },
-    "274": {
+    {
         "id": 274,
         "fetter_id": 2,
         "type": "win",
@@ -1367,7 +1367,7 @@
         "name": "fetter_bounty-10000274",
         "description": "fetter_bounty-20000274"
     },
-    "275": {
+    {
         "id": 275,
         "fetter_id": 2,
         "type": "win",
@@ -1376,7 +1376,7 @@
         "name": "fetter_bounty-10000275",
         "description": "fetter_bounty-20000275"
     },
-    "276": {
+    {
         "id": 276,
         "fetter_id": 2,
         "type": "win",
@@ -1385,7 +1385,7 @@
         "name": "fetter_bounty-10000276",
         "description": "fetter_bounty-20000276"
     },
-    "277": {
+    {
         "id": 277,
         "fetter_id": 2,
         "type": "win",
@@ -1394,7 +1394,7 @@
         "name": "fetter_bounty-10000277",
         "description": "fetter_bounty-20000277"
     },
-    "278": {
+    {
         "id": 278,
         "fetter_id": 2,
         "type": "win",
@@ -1403,7 +1403,7 @@
         "name": "fetter_bounty-10000278",
         "description": "fetter_bounty-20000278"
     },
-    "279": {
+    {
         "id": 279,
         "fetter_id": 2,
         "type": "win",
@@ -1412,7 +1412,7 @@
         "name": "fetter_bounty-10000279",
         "description": "fetter_bounty-20000279"
     },
-    "280": {
+    {
         "id": 280,
         "fetter_id": 2,
         "type": "win",
@@ -1421,7 +1421,7 @@
         "name": "fetter_bounty-10000280",
         "description": "fetter_bounty-20000280"
     },
-    "281": {
+    {
         "id": 281,
         "fetter_id": 2,
         "type": "win",
@@ -1430,7 +1430,7 @@
         "name": "fetter_bounty-10000281",
         "description": "fetter_bounty-20000281"
     },
-    "282": {
+    {
         "id": 282,
         "fetter_id": 2,
         "type": "win",
@@ -1439,7 +1439,7 @@
         "name": "fetter_bounty-10000282",
         "description": "fetter_bounty-20000282"
     },
-    "283": {
+    {
         "id": 283,
         "fetter_id": 2,
         "type": "win",
@@ -1448,7 +1448,7 @@
         "name": "fetter_bounty-10000283",
         "description": "fetter_bounty-20000283"
     },
-    "284": {
+    {
         "id": 284,
         "fetter_id": 2,
         "type": "win",
@@ -1457,7 +1457,7 @@
         "name": "fetter_bounty-10000284",
         "description": "fetter_bounty-20000284"
     },
-    "285": {
+    {
         "id": 285,
         "fetter_id": 2,
         "type": "win",
@@ -1466,7 +1466,7 @@
         "name": "fetter_bounty-10000285",
         "description": "fetter_bounty-20000285"
     },
-    "286": {
+    {
         "id": 286,
         "fetter_id": 2,
         "type": "win",
@@ -1475,7 +1475,7 @@
         "name": "fetter_bounty-10000286",
         "description": "fetter_bounty-20000286"
     },
-    "287": {
+    {
         "id": 287,
         "fetter_id": 2,
         "type": "win",
@@ -1484,7 +1484,7 @@
         "name": "fetter_bounty-10000287",
         "description": "fetter_bounty-20000287"
     },
-    "288": {
+    {
         "id": 288,
         "fetter_id": 2,
         "type": "win",
@@ -1493,7 +1493,7 @@
         "name": "fetter_bounty-10000288",
         "description": "fetter_bounty-20000288"
     },
-    "301": {
+    {
         "id": 301,
         "fetter_id": 3,
         "type": "collect",
@@ -1502,7 +1502,7 @@
         "name": "fetter_bounty-10000301",
         "description": "fetter_bounty-20000301"
     },
-    "302": {
+    {
         "id": 302,
         "fetter_id": 3,
         "type": "collect",
@@ -1511,7 +1511,7 @@
         "name": "fetter_bounty-10000302",
         "description": "fetter_bounty-20000302"
     },
-    "303": {
+    {
         "id": 303,
         "fetter_id": 3,
         "type": "collect",
@@ -1520,7 +1520,7 @@
         "name": "fetter_bounty-10000303",
         "description": "fetter_bounty-20000303"
     },
-    "304": {
+    {
         "id": 304,
         "fetter_id": 3,
         "type": "collect",
@@ -1529,7 +1529,7 @@
         "name": "fetter_bounty-10000304",
         "description": "fetter_bounty-20000304"
     },
-    "305": {
+    {
         "id": 305,
         "fetter_id": 3,
         "type": "collect",
@@ -1538,7 +1538,7 @@
         "name": "fetter_bounty-10000305",
         "description": "fetter_bounty-20000305"
     },
-    "306": {
+    {
         "id": 306,
         "fetter_id": 3,
         "type": "upgrade_lv",
@@ -1547,7 +1547,7 @@
         "name": "fetter_bounty-10000306",
         "description": "fetter_bounty-20000306"
     },
-    "307": {
+    {
         "id": 307,
         "fetter_id": 3,
         "type": "upgrade_lv",
@@ -1556,7 +1556,7 @@
         "name": "fetter_bounty-10000307",
         "description": "fetter_bounty-20000307"
     },
-    "308": {
+    {
         "id": 308,
         "fetter_id": 3,
         "type": "upgrade_lv",
@@ -1565,7 +1565,7 @@
         "name": "fetter_bounty-10000308",
         "description": "fetter_bounty-20000308"
     },
-    "309": {
+    {
         "id": 309,
         "fetter_id": 3,
         "type": "upgrade_lv",
@@ -1574,7 +1574,7 @@
         "name": "fetter_bounty-10000309",
         "description": "fetter_bounty-20000309"
     },
-    "310": {
+    {
         "id": 310,
         "fetter_id": 3,
         "type": "upgrade_lv",
@@ -1583,7 +1583,7 @@
         "name": "fetter_bounty-10000310",
         "description": "fetter_bounty-20000310"
     },
-    "311": {
+    {
         "id": 311,
         "fetter_id": 3,
         "type": "upgrade_lv",
@@ -1592,7 +1592,7 @@
         "name": "fetter_bounty-10000311",
         "description": "fetter_bounty-20000311"
     },
-    "312": {
+    {
         "id": 312,
         "fetter_id": 3,
         "type": "upgrade_lv",
@@ -1601,7 +1601,7 @@
         "name": "fetter_bounty-10000312",
         "description": "fetter_bounty-20000312"
     },
-    "313": {
+    {
         "id": 313,
         "fetter_id": 3,
         "type": "upgrade_lv",
@@ -1610,7 +1610,7 @@
         "name": "fetter_bounty-10000313",
         "description": "fetter_bounty-20000313"
     },
-    "314": {
+    {
         "id": 314,
         "fetter_id": 3,
         "type": "upgrade_lv",
@@ -1619,7 +1619,7 @@
         "name": "fetter_bounty-10000314",
         "description": "fetter_bounty-20000314"
     },
-    "315": {
+    {
         "id": 315,
         "fetter_id": 3,
         "type": "upgrade_lv",
@@ -1628,7 +1628,7 @@
         "name": "fetter_bounty-10000315",
         "description": "fetter_bounty-20000315"
     },
-    "316": {
+    {
         "id": 316,
         "fetter_id": 3,
         "type": "upgrade_lv",
@@ -1637,7 +1637,7 @@
         "name": "fetter_bounty-10000316",
         "description": "fetter_bounty-20000316"
     },
-    "317": {
+    {
         "id": 317,
         "fetter_id": 3,
         "type": "upgrade_lv",
@@ -1646,7 +1646,7 @@
         "name": "fetter_bounty-10000317",
         "description": "fetter_bounty-20000317"
     },
-    "318": {
+    {
         "id": 318,
         "fetter_id": 3,
         "type": "upgrade_lv",
@@ -1655,7 +1655,7 @@
         "name": "fetter_bounty-10000318",
         "description": "fetter_bounty-20000318"
     },
-    "319": {
+    {
         "id": 319,
         "fetter_id": 3,
         "type": "upgrade_lv",
@@ -1664,7 +1664,7 @@
         "name": "fetter_bounty-10000319",
         "description": "fetter_bounty-20000319"
     },
-    "320": {
+    {
         "id": 320,
         "fetter_id": 3,
         "type": "upgrade_lv",
@@ -1673,7 +1673,7 @@
         "name": "fetter_bounty-10000320",
         "description": "fetter_bounty-20000320"
     },
-    "321": {
+    {
         "id": 321,
         "fetter_id": 3,
         "type": "upgrade_lv",
@@ -1682,7 +1682,7 @@
         "name": "fetter_bounty-10000321",
         "description": "fetter_bounty-20000321"
     },
-    "322": {
+    {
         "id": 322,
         "fetter_id": 3,
         "type": "upgrade_lv",
@@ -1691,7 +1691,7 @@
         "name": "fetter_bounty-10000322",
         "description": "fetter_bounty-20000322"
     },
-    "323": {
+    {
         "id": 323,
         "fetter_id": 3,
         "type": "upgrade_lv",
@@ -1700,7 +1700,7 @@
         "name": "fetter_bounty-10000323",
         "description": "fetter_bounty-20000323"
     },
-    "324": {
+    {
         "id": 324,
         "fetter_id": 3,
         "type": "upgrade_lv",
@@ -1709,7 +1709,7 @@
         "name": "fetter_bounty-10000324",
         "description": "fetter_bounty-20000324"
     },
-    "325": {
+    {
         "id": 325,
         "fetter_id": 3,
         "type": "upgrade_lv",
@@ -1718,7 +1718,7 @@
         "name": "fetter_bounty-10000325",
         "description": "fetter_bounty-20000325"
     },
-    "326": {
+    {
         "id": 326,
         "fetter_id": 3,
         "type": "upgrade_lv",
@@ -1727,7 +1727,7 @@
         "name": "fetter_bounty-10000326",
         "description": "fetter_bounty-20000326"
     },
-    "327": {
+    {
         "id": 327,
         "fetter_id": 3,
         "type": "upgrade_lv",
@@ -1736,7 +1736,7 @@
         "name": "fetter_bounty-10000327",
         "description": "fetter_bounty-20000327"
     },
-    "328": {
+    {
         "id": 328,
         "fetter_id": 3,
         "type": "upgrade_lv",
@@ -1745,7 +1745,7 @@
         "name": "fetter_bounty-10000328",
         "description": "fetter_bounty-20000328"
     },
-    "329": {
+    {
         "id": 329,
         "fetter_id": 3,
         "type": "upgrade_lv",
@@ -1754,7 +1754,7 @@
         "name": "fetter_bounty-10000329",
         "description": "fetter_bounty-20000329"
     },
-    "330": {
+    {
         "id": 330,
         "fetter_id": 3,
         "type": "upgrade_lv",
@@ -1763,7 +1763,7 @@
         "name": "fetter_bounty-10000330",
         "description": "fetter_bounty-20000330"
     },
-    "331": {
+    {
         "id": 331,
         "fetter_id": 3,
         "type": "upgrade_love",
@@ -1772,7 +1772,7 @@
         "name": "fetter_bounty-10000331",
         "description": "fetter_bounty-20000331"
     },
-    "332": {
+    {
         "id": 332,
         "fetter_id": 3,
         "type": "upgrade_love",
@@ -1781,7 +1781,7 @@
         "name": "fetter_bounty-10000332",
         "description": "fetter_bounty-20000332"
     },
-    "333": {
+    {
         "id": 333,
         "fetter_id": 3,
         "type": "upgrade_love",
@@ -1790,7 +1790,7 @@
         "name": "fetter_bounty-10000333",
         "description": "fetter_bounty-20000333"
     },
-    "334": {
+    {
         "id": 334,
         "fetter_id": 3,
         "type": "upgrade_love",
@@ -1799,7 +1799,7 @@
         "name": "fetter_bounty-10000334",
         "description": "fetter_bounty-20000334"
     },
-    "335": {
+    {
         "id": 335,
         "fetter_id": 3,
         "type": "upgrade_love",
@@ -1808,7 +1808,7 @@
         "name": "fetter_bounty-10000335",
         "description": "fetter_bounty-20000335"
     },
-    "336": {
+    {
         "id": 336,
         "fetter_id": 3,
         "type": "upgrade_love",
@@ -1817,7 +1817,7 @@
         "name": "fetter_bounty-10000336",
         "description": "fetter_bounty-20000336"
     },
-    "337": {
+    {
         "id": 337,
         "fetter_id": 3,
         "type": "upgrade_love",
@@ -1826,7 +1826,7 @@
         "name": "fetter_bounty-10000337",
         "description": "fetter_bounty-20000337"
     },
-    "338": {
+    {
         "id": 338,
         "fetter_id": 3,
         "type": "upgrade_love",
@@ -1835,7 +1835,7 @@
         "name": "fetter_bounty-10000338",
         "description": "fetter_bounty-20000338"
     },
-    "339": {
+    {
         "id": 339,
         "fetter_id": 3,
         "type": "upgrade_love",
@@ -1844,7 +1844,7 @@
         "name": "fetter_bounty-10000339",
         "description": "fetter_bounty-20000339"
     },
-    "340": {
+    {
         "id": 340,
         "fetter_id": 3,
         "type": "upgrade_love",
@@ -1853,7 +1853,7 @@
         "name": "fetter_bounty-10000340",
         "description": "fetter_bounty-20000340"
     },
-    "341": {
+    {
         "id": 341,
         "fetter_id": 3,
         "type": "marry",
@@ -1862,7 +1862,7 @@
         "name": "fetter_bounty-10000341",
         "description": "fetter_bounty-20000341"
     },
-    "342": {
+    {
         "id": 342,
         "fetter_id": 3,
         "type": "marry",
@@ -1871,7 +1871,7 @@
         "name": "fetter_bounty-10000342",
         "description": "fetter_bounty-20000342"
     },
-    "343": {
+    {
         "id": 343,
         "fetter_id": 3,
         "type": "marry",
@@ -1880,7 +1880,7 @@
         "name": "fetter_bounty-10000343",
         "description": "fetter_bounty-20000343"
     },
-    "344": {
+    {
         "id": 344,
         "fetter_id": 3,
         "type": "marry",
@@ -1889,7 +1889,7 @@
         "name": "fetter_bounty-10000344",
         "description": "fetter_bounty-20000344"
     },
-    "345": {
+    {
         "id": 345,
         "fetter_id": 3,
         "type": "marry",
@@ -1898,7 +1898,7 @@
         "name": "fetter_bounty-10000345",
         "description": "fetter_bounty-20000345"
     },
-    "346": {
+    {
         "id": 346,
         "fetter_id": 3,
         "type": "collect_skin",
@@ -1907,7 +1907,7 @@
         "name": "fetter_bounty-10000346",
         "description": "fetter_bounty-20000346"
     },
-    "347": {
+    {
         "id": 347,
         "fetter_id": 3,
         "type": "collect_skin",
@@ -1916,7 +1916,7 @@
         "name": "fetter_bounty-10000347",
         "description": "fetter_bounty-20000347"
     },
-    "348": {
+    {
         "id": 348,
         "fetter_id": 3,
         "type": "collect_skin",
@@ -1925,7 +1925,7 @@
         "name": "fetter_bounty-10000348",
         "description": "fetter_bounty-20000348"
     },
-    "349": {
+    {
         "id": 349,
         "fetter_id": 3,
         "type": "collect_skin",
@@ -1934,7 +1934,7 @@
         "name": "fetter_bounty-10000349",
         "description": "fetter_bounty-20000349"
     },
-    "350": {
+    {
         "id": 350,
         "fetter_id": 3,
         "type": "collect_skin",
@@ -1943,7 +1943,7 @@
         "name": "fetter_bounty-10000350",
         "description": "fetter_bounty-20000350"
     },
-    "351": {
+    {
         "id": 351,
         "fetter_id": 3,
         "type": "collect_skin",
@@ -1952,7 +1952,7 @@
         "name": "fetter_bounty-10000351",
         "description": "fetter_bounty-20000351"
     },
-    "352": {
+    {
         "id": 352,
         "fetter_id": 3,
         "type": "collect_skin",
@@ -1961,7 +1961,7 @@
         "name": "fetter_bounty-10000352",
         "description": "fetter_bounty-20000352"
     },
-    "353": {
+    {
         "id": 353,
         "fetter_id": 3,
         "type": "collect_skin",
@@ -1970,7 +1970,7 @@
         "name": "fetter_bounty-10000353",
         "description": "fetter_bounty-20000353"
     },
-    "354": {
+    {
         "id": 354,
         "fetter_id": 3,
         "type": "win",
@@ -1979,7 +1979,7 @@
         "name": "fetter_bounty-10000354",
         "description": "fetter_bounty-20000354"
     },
-    "355": {
+    {
         "id": 355,
         "fetter_id": 3,
         "type": "win",
@@ -1988,7 +1988,7 @@
         "name": "fetter_bounty-10000355",
         "description": "fetter_bounty-20000355"
     },
-    "356": {
+    {
         "id": 356,
         "fetter_id": 3,
         "type": "win",
@@ -1997,7 +1997,7 @@
         "name": "fetter_bounty-10000356",
         "description": "fetter_bounty-20000356"
     },
-    "357": {
+    {
         "id": 357,
         "fetter_id": 3,
         "type": "win",
@@ -2006,7 +2006,7 @@
         "name": "fetter_bounty-10000357",
         "description": "fetter_bounty-20000357"
     },
-    "358": {
+    {
         "id": 358,
         "fetter_id": 3,
         "type": "win",
@@ -2015,7 +2015,7 @@
         "name": "fetter_bounty-10000358",
         "description": "fetter_bounty-20000358"
     },
-    "359": {
+    {
         "id": 359,
         "fetter_id": 3,
         "type": "win",
@@ -2024,7 +2024,7 @@
         "name": "fetter_bounty-10000359",
         "description": "fetter_bounty-20000359"
     },
-    "360": {
+    {
         "id": 360,
         "fetter_id": 3,
         "type": "win",
@@ -2033,7 +2033,7 @@
         "name": "fetter_bounty-10000360",
         "description": "fetter_bounty-20000360"
     },
-    "361": {
+    {
         "id": 361,
         "fetter_id": 3,
         "type": "win",
@@ -2042,7 +2042,7 @@
         "name": "fetter_bounty-10000361",
         "description": "fetter_bounty-20000361"
     },
-    "362": {
+    {
         "id": 362,
         "fetter_id": 3,
         "type": "win",
@@ -2051,7 +2051,7 @@
         "name": "fetter_bounty-10000362",
         "description": "fetter_bounty-20000362"
     },
-    "363": {
+    {
         "id": 363,
         "fetter_id": 3,
         "type": "win",
@@ -2060,7 +2060,7 @@
         "name": "fetter_bounty-10000363",
         "description": "fetter_bounty-20000363"
     },
-    "364": {
+    {
         "id": 364,
         "fetter_id": 3,
         "type": "win",
@@ -2069,7 +2069,7 @@
         "name": "fetter_bounty-10000364",
         "description": "fetter_bounty-20000364"
     },
-    "365": {
+    {
         "id": 365,
         "fetter_id": 3,
         "type": "win",
@@ -2078,7 +2078,7 @@
         "name": "fetter_bounty-10000365",
         "description": "fetter_bounty-20000365"
     },
-    "366": {
+    {
         "id": 366,
         "fetter_id": 3,
         "type": "win",
@@ -2087,7 +2087,7 @@
         "name": "fetter_bounty-10000366",
         "description": "fetter_bounty-20000366"
     },
-    "367": {
+    {
         "id": 367,
         "fetter_id": 3,
         "type": "win",
@@ -2096,7 +2096,7 @@
         "name": "fetter_bounty-10000367",
         "description": "fetter_bounty-20000367"
     },
-    "368": {
+    {
         "id": 368,
         "fetter_id": 3,
         "type": "win",
@@ -2105,7 +2105,7 @@
         "name": "fetter_bounty-10000368",
         "description": "fetter_bounty-20000368"
     },
-    "369": {
+    {
         "id": 369,
         "fetter_id": 3,
         "type": "win",
@@ -2114,7 +2114,7 @@
         "name": "fetter_bounty-10000369",
         "description": "fetter_bounty-20000369"
     },
-    "370": {
+    {
         "id": 370,
         "fetter_id": 3,
         "type": "win",
@@ -2123,7 +2123,7 @@
         "name": "fetter_bounty-10000370",
         "description": "fetter_bounty-20000370"
     },
-    "371": {
+    {
         "id": 371,
         "fetter_id": 3,
         "type": "win",
@@ -2132,7 +2132,7 @@
         "name": "fetter_bounty-10000371",
         "description": "fetter_bounty-20000371"
     },
-    "372": {
+    {
         "id": 372,
         "fetter_id": 3,
         "type": "win",
@@ -2141,7 +2141,7 @@
         "name": "fetter_bounty-10000372",
         "description": "fetter_bounty-20000372"
     },
-    "373": {
+    {
         "id": 373,
         "fetter_id": 3,
         "type": "win",
@@ -2150,7 +2150,7 @@
         "name": "fetter_bounty-10000373",
         "description": "fetter_bounty-20000373"
     },
-    "374": {
+    {
         "id": 374,
         "fetter_id": 3,
         "type": "win",
@@ -2159,7 +2159,7 @@
         "name": "fetter_bounty-10000374",
         "description": "fetter_bounty-20000374"
     },
-    "375": {
+    {
         "id": 375,
         "fetter_id": 3,
         "type": "win",
@@ -2168,7 +2168,7 @@
         "name": "fetter_bounty-10000375",
         "description": "fetter_bounty-20000375"
     },
-    "376": {
+    {
         "id": 376,
         "fetter_id": 3,
         "type": "win",
@@ -2177,7 +2177,7 @@
         "name": "fetter_bounty-10000376",
         "description": "fetter_bounty-20000376"
     },
-    "377": {
+    {
         "id": 377,
         "fetter_id": 3,
         "type": "win",
@@ -2186,7 +2186,7 @@
         "name": "fetter_bounty-10000377",
         "description": "fetter_bounty-20000377"
     },
-    "378": {
+    {
         "id": 378,
         "fetter_id": 3,
         "type": "win",
@@ -2195,7 +2195,7 @@
         "name": "fetter_bounty-10000378",
         "description": "fetter_bounty-20000378"
     },
-    "379": {
+    {
         "id": 379,
         "fetter_id": 3,
         "type": "win",
@@ -2204,7 +2204,7 @@
         "name": "fetter_bounty-10000379",
         "description": "fetter_bounty-20000379"
     },
-    "380": {
+    {
         "id": 380,
         "fetter_id": 3,
         "type": "win",
@@ -2213,7 +2213,7 @@
         "name": "fetter_bounty-10000380",
         "description": "fetter_bounty-20000380"
     },
-    "381": {
+    {
         "id": 381,
         "fetter_id": 3,
         "type": "win",
@@ -2222,7 +2222,7 @@
         "name": "fetter_bounty-10000381",
         "description": "fetter_bounty-20000381"
     },
-    "382": {
+    {
         "id": 382,
         "fetter_id": 3,
         "type": "win",
@@ -2231,7 +2231,7 @@
         "name": "fetter_bounty-10000382",
         "description": "fetter_bounty-20000382"
     },
-    "383": {
+    {
         "id": 383,
         "fetter_id": 3,
         "type": "win",
@@ -2240,7 +2240,7 @@
         "name": "fetter_bounty-10000383",
         "description": "fetter_bounty-20000383"
     },
-    "401": {
+    {
         "id": 401,
         "fetter_id": 4,
         "type": "collect",
@@ -2249,7 +2249,7 @@
         "name": "fetter_bounty-10000401",
         "description": "fetter_bounty-20000401"
     },
-    "402": {
+    {
         "id": 402,
         "fetter_id": 4,
         "type": "collect",
@@ -2258,7 +2258,7 @@
         "name": "fetter_bounty-10000402",
         "description": "fetter_bounty-20000402"
     },
-    "403": {
+    {
         "id": 403,
         "fetter_id": 4,
         "type": "collect",
@@ -2267,7 +2267,7 @@
         "name": "fetter_bounty-10000403",
         "description": "fetter_bounty-20000403"
     },
-    "404": {
+    {
         "id": 404,
         "fetter_id": 4,
         "type": "collect",
@@ -2276,7 +2276,7 @@
         "name": "fetter_bounty-10000404",
         "description": "fetter_bounty-20000404"
     },
-    "405": {
+    {
         "id": 405,
         "fetter_id": 4,
         "type": "upgrade_lv",
@@ -2285,7 +2285,7 @@
         "name": "fetter_bounty-10000405",
         "description": "fetter_bounty-20000405"
     },
-    "406": {
+    {
         "id": 406,
         "fetter_id": 4,
         "type": "upgrade_lv",
@@ -2294,7 +2294,7 @@
         "name": "fetter_bounty-10000406",
         "description": "fetter_bounty-20000406"
     },
-    "407": {
+    {
         "id": 407,
         "fetter_id": 4,
         "type": "upgrade_lv",
@@ -2303,7 +2303,7 @@
         "name": "fetter_bounty-10000407",
         "description": "fetter_bounty-20000407"
     },
-    "408": {
+    {
         "id": 408,
         "fetter_id": 4,
         "type": "upgrade_lv",
@@ -2312,7 +2312,7 @@
         "name": "fetter_bounty-10000408",
         "description": "fetter_bounty-20000408"
     },
-    "409": {
+    {
         "id": 409,
         "fetter_id": 4,
         "type": "upgrade_lv",
@@ -2321,7 +2321,7 @@
         "name": "fetter_bounty-10000409",
         "description": "fetter_bounty-20000409"
     },
-    "410": {
+    {
         "id": 410,
         "fetter_id": 4,
         "type": "upgrade_lv",
@@ -2330,7 +2330,7 @@
         "name": "fetter_bounty-10000410",
         "description": "fetter_bounty-20000410"
     },
-    "411": {
+    {
         "id": 411,
         "fetter_id": 4,
         "type": "upgrade_lv",
@@ -2339,7 +2339,7 @@
         "name": "fetter_bounty-10000411",
         "description": "fetter_bounty-20000411"
     },
-    "412": {
+    {
         "id": 412,
         "fetter_id": 4,
         "type": "upgrade_lv",
@@ -2348,7 +2348,7 @@
         "name": "fetter_bounty-10000412",
         "description": "fetter_bounty-20000412"
     },
-    "413": {
+    {
         "id": 413,
         "fetter_id": 4,
         "type": "upgrade_lv",
@@ -2357,7 +2357,7 @@
         "name": "fetter_bounty-10000413",
         "description": "fetter_bounty-20000413"
     },
-    "414": {
+    {
         "id": 414,
         "fetter_id": 4,
         "type": "upgrade_lv",
@@ -2366,7 +2366,7 @@
         "name": "fetter_bounty-10000414",
         "description": "fetter_bounty-20000414"
     },
-    "415": {
+    {
         "id": 415,
         "fetter_id": 4,
         "type": "upgrade_lv",
@@ -2375,7 +2375,7 @@
         "name": "fetter_bounty-10000415",
         "description": "fetter_bounty-20000415"
     },
-    "416": {
+    {
         "id": 416,
         "fetter_id": 4,
         "type": "upgrade_lv",
@@ -2384,7 +2384,7 @@
         "name": "fetter_bounty-10000416",
         "description": "fetter_bounty-20000416"
     },
-    "417": {
+    {
         "id": 417,
         "fetter_id": 4,
         "type": "upgrade_lv",
@@ -2393,7 +2393,7 @@
         "name": "fetter_bounty-10000417",
         "description": "fetter_bounty-20000417"
     },
-    "418": {
+    {
         "id": 418,
         "fetter_id": 4,
         "type": "upgrade_lv",
@@ -2402,7 +2402,7 @@
         "name": "fetter_bounty-10000418",
         "description": "fetter_bounty-20000418"
     },
-    "419": {
+    {
         "id": 419,
         "fetter_id": 4,
         "type": "upgrade_lv",
@@ -2411,7 +2411,7 @@
         "name": "fetter_bounty-10000419",
         "description": "fetter_bounty-20000419"
     },
-    "420": {
+    {
         "id": 420,
         "fetter_id": 4,
         "type": "upgrade_lv",
@@ -2420,7 +2420,7 @@
         "name": "fetter_bounty-10000420",
         "description": "fetter_bounty-20000420"
     },
-    "421": {
+    {
         "id": 421,
         "fetter_id": 4,
         "type": "upgrade_lv",
@@ -2429,7 +2429,7 @@
         "name": "fetter_bounty-10000421",
         "description": "fetter_bounty-20000421"
     },
-    "422": {
+    {
         "id": 422,
         "fetter_id": 4,
         "type": "upgrade_lv",
@@ -2438,7 +2438,7 @@
         "name": "fetter_bounty-10000422",
         "description": "fetter_bounty-20000422"
     },
-    "423": {
+    {
         "id": 423,
         "fetter_id": 4,
         "type": "upgrade_lv",
@@ -2447,7 +2447,7 @@
         "name": "fetter_bounty-10000423",
         "description": "fetter_bounty-20000423"
     },
-    "424": {
+    {
         "id": 424,
         "fetter_id": 4,
         "type": "upgrade_lv",
@@ -2456,7 +2456,7 @@
         "name": "fetter_bounty-10000424",
         "description": "fetter_bounty-20000424"
     },
-    "425": {
+    {
         "id": 425,
         "fetter_id": 4,
         "type": "upgrade_love",
@@ -2465,7 +2465,7 @@
         "name": "fetter_bounty-10000425",
         "description": "fetter_bounty-20000425"
     },
-    "426": {
+    {
         "id": 426,
         "fetter_id": 4,
         "type": "upgrade_love",
@@ -2474,7 +2474,7 @@
         "name": "fetter_bounty-10000426",
         "description": "fetter_bounty-20000426"
     },
-    "427": {
+    {
         "id": 427,
         "fetter_id": 4,
         "type": "upgrade_love",
@@ -2483,7 +2483,7 @@
         "name": "fetter_bounty-10000427",
         "description": "fetter_bounty-20000427"
     },
-    "428": {
+    {
         "id": 428,
         "fetter_id": 4,
         "type": "upgrade_love",
@@ -2492,7 +2492,7 @@
         "name": "fetter_bounty-10000428",
         "description": "fetter_bounty-20000428"
     },
-    "429": {
+    {
         "id": 429,
         "fetter_id": 4,
         "type": "upgrade_love",
@@ -2501,7 +2501,7 @@
         "name": "fetter_bounty-10000429",
         "description": "fetter_bounty-20000429"
     },
-    "430": {
+    {
         "id": 430,
         "fetter_id": 4,
         "type": "upgrade_love",
@@ -2510,7 +2510,7 @@
         "name": "fetter_bounty-10000430",
         "description": "fetter_bounty-20000430"
     },
-    "431": {
+    {
         "id": 431,
         "fetter_id": 4,
         "type": "upgrade_love",
@@ -2519,7 +2519,7 @@
         "name": "fetter_bounty-10000431",
         "description": "fetter_bounty-20000431"
     },
-    "432": {
+    {
         "id": 432,
         "fetter_id": 4,
         "type": "upgrade_love",
@@ -2528,7 +2528,7 @@
         "name": "fetter_bounty-10000432",
         "description": "fetter_bounty-20000432"
     },
-    "433": {
+    {
         "id": 433,
         "fetter_id": 4,
         "type": "marry",
@@ -2537,7 +2537,7 @@
         "name": "fetter_bounty-10000433",
         "description": "fetter_bounty-20000433"
     },
-    "434": {
+    {
         "id": 434,
         "fetter_id": 4,
         "type": "marry",
@@ -2546,7 +2546,7 @@
         "name": "fetter_bounty-10000434",
         "description": "fetter_bounty-20000434"
     },
-    "435": {
+    {
         "id": 435,
         "fetter_id": 4,
         "type": "marry",
@@ -2555,7 +2555,7 @@
         "name": "fetter_bounty-10000435",
         "description": "fetter_bounty-20000435"
     },
-    "436": {
+    {
         "id": 436,
         "fetter_id": 4,
         "type": "marry",
@@ -2564,7 +2564,7 @@
         "name": "fetter_bounty-10000436",
         "description": "fetter_bounty-20000436"
     },
-    "437": {
+    {
         "id": 437,
         "fetter_id": 4,
         "type": "win",
@@ -2573,7 +2573,7 @@
         "name": "fetter_bounty-10000437",
         "description": "fetter_bounty-20000437"
     },
-    "438": {
+    {
         "id": 438,
         "fetter_id": 4,
         "type": "win",
@@ -2582,7 +2582,7 @@
         "name": "fetter_bounty-10000438",
         "description": "fetter_bounty-20000438"
     },
-    "439": {
+    {
         "id": 439,
         "fetter_id": 4,
         "type": "win",
@@ -2591,7 +2591,7 @@
         "name": "fetter_bounty-10000439",
         "description": "fetter_bounty-20000439"
     },
-    "440": {
+    {
         "id": 440,
         "fetter_id": 4,
         "type": "win",
@@ -2600,7 +2600,7 @@
         "name": "fetter_bounty-10000440",
         "description": "fetter_bounty-20000440"
     },
-    "441": {
+    {
         "id": 441,
         "fetter_id": 4,
         "type": "win",
@@ -2609,7 +2609,7 @@
         "name": "fetter_bounty-10000441",
         "description": "fetter_bounty-20000441"
     },
-    "442": {
+    {
         "id": 442,
         "fetter_id": 4,
         "type": "win",
@@ -2618,7 +2618,7 @@
         "name": "fetter_bounty-10000442",
         "description": "fetter_bounty-20000442"
     },
-    "443": {
+    {
         "id": 443,
         "fetter_id": 4,
         "type": "win",
@@ -2627,7 +2627,7 @@
         "name": "fetter_bounty-10000443",
         "description": "fetter_bounty-20000443"
     },
-    "444": {
+    {
         "id": 444,
         "fetter_id": 4,
         "type": "win",
@@ -2636,7 +2636,7 @@
         "name": "fetter_bounty-10000444",
         "description": "fetter_bounty-20000444"
     },
-    "445": {
+    {
         "id": 445,
         "fetter_id": 4,
         "type": "win",
@@ -2645,7 +2645,7 @@
         "name": "fetter_bounty-10000445",
         "description": "fetter_bounty-20000445"
     },
-    "446": {
+    {
         "id": 446,
         "fetter_id": 4,
         "type": "win",
@@ -2654,7 +2654,7 @@
         "name": "fetter_bounty-10000446",
         "description": "fetter_bounty-20000446"
     },
-    "447": {
+    {
         "id": 447,
         "fetter_id": 4,
         "type": "win",
@@ -2663,7 +2663,7 @@
         "name": "fetter_bounty-10000447",
         "description": "fetter_bounty-20000447"
     },
-    "448": {
+    {
         "id": 448,
         "fetter_id": 4,
         "type": "win",
@@ -2672,7 +2672,7 @@
         "name": "fetter_bounty-10000448",
         "description": "fetter_bounty-20000448"
     },
-    "449": {
+    {
         "id": 449,
         "fetter_id": 4,
         "type": "win",
@@ -2681,7 +2681,7 @@
         "name": "fetter_bounty-10000449",
         "description": "fetter_bounty-20000449"
     },
-    "450": {
+    {
         "id": 450,
         "fetter_id": 4,
         "type": "win",
@@ -2690,7 +2690,7 @@
         "name": "fetter_bounty-10000450",
         "description": "fetter_bounty-20000450"
     },
-    "451": {
+    {
         "id": 451,
         "fetter_id": 4,
         "type": "win",
@@ -2699,7 +2699,7 @@
         "name": "fetter_bounty-10000451",
         "description": "fetter_bounty-20000451"
     },
-    "452": {
+    {
         "id": 452,
         "fetter_id": 4,
         "type": "win",
@@ -2708,7 +2708,7 @@
         "name": "fetter_bounty-10000452",
         "description": "fetter_bounty-20000452"
     },
-    "453": {
+    {
         "id": 453,
         "fetter_id": 4,
         "type": "win",
@@ -2717,7 +2717,7 @@
         "name": "fetter_bounty-10000453",
         "description": "fetter_bounty-20000453"
     },
-    "454": {
+    {
         "id": 454,
         "fetter_id": 4,
         "type": "win",
@@ -2726,7 +2726,7 @@
         "name": "fetter_bounty-10000454",
         "description": "fetter_bounty-20000454"
     },
-    "455": {
+    {
         "id": 455,
         "fetter_id": 4,
         "type": "win",
@@ -2735,7 +2735,7 @@
         "name": "fetter_bounty-10000455",
         "description": "fetter_bounty-20000455"
     },
-    "456": {
+    {
         "id": 456,
         "fetter_id": 4,
         "type": "win",
@@ -2744,7 +2744,7 @@
         "name": "fetter_bounty-10000456",
         "description": "fetter_bounty-20000456"
     },
-    "457": {
+    {
         "id": 457,
         "fetter_id": 4,
         "type": "win",
@@ -2753,7 +2753,7 @@
         "name": "fetter_bounty-10000457",
         "description": "fetter_bounty-20000457"
     },
-    "458": {
+    {
         "id": 458,
         "fetter_id": 4,
         "type": "win",
@@ -2762,7 +2762,7 @@
         "name": "fetter_bounty-10000458",
         "description": "fetter_bounty-20000458"
     },
-    "459": {
+    {
         "id": 459,
         "fetter_id": 4,
         "type": "win",
@@ -2771,7 +2771,7 @@
         "name": "fetter_bounty-10000459",
         "description": "fetter_bounty-20000459"
     },
-    "460": {
+    {
         "id": 460,
         "fetter_id": 4,
         "type": "win",
@@ -2780,7 +2780,7 @@
         "name": "fetter_bounty-10000460",
         "description": "fetter_bounty-20000460"
     },
-    "461": {
+    {
         "id": 461,
         "fetter_id": 4,
         "type": "win",
@@ -2789,7 +2789,7 @@
         "name": "fetter_bounty-10000461",
         "description": "fetter_bounty-20000461"
     },
-    "462": {
+    {
         "id": 462,
         "fetter_id": 4,
         "type": "win",
@@ -2798,7 +2798,7 @@
         "name": "fetter_bounty-10000462",
         "description": "fetter_bounty-20000462"
     },
-    "463": {
+    {
         "id": 463,
         "fetter_id": 4,
         "type": "win",
@@ -2807,7 +2807,7 @@
         "name": "fetter_bounty-10000463",
         "description": "fetter_bounty-20000463"
     },
-    "464": {
+    {
         "id": 464,
         "fetter_id": 4,
         "type": "win",
@@ -2816,7 +2816,7 @@
         "name": "fetter_bounty-10000464",
         "description": "fetter_bounty-20000464"
     },
-    "465": {
+    {
         "id": 465,
         "fetter_id": 4,
         "type": "win",
@@ -2825,7 +2825,7 @@
         "name": "fetter_bounty-10000465",
         "description": "fetter_bounty-20000465"
     },
-    "466": {
+    {
         "id": 466,
         "fetter_id": 4,
         "type": "win",
@@ -2834,7 +2834,7 @@
         "name": "fetter_bounty-10000466",
         "description": "fetter_bounty-20000466"
     },
-    "467": {
+    {
         "id": 467,
         "fetter_id": 4,
         "type": "win",
@@ -2843,7 +2843,7 @@
         "name": "fetter_bounty-10000467",
         "description": "fetter_bounty-20000467"
     },
-    "468": {
+    {
         "id": 468,
         "fetter_id": 4,
         "type": "win",
@@ -2852,7 +2852,7 @@
         "name": "fetter_bounty-10000468",
         "description": "fetter_bounty-20000468"
     },
-    "469": {
+    {
         "id": 469,
         "fetter_id": 4,
         "type": "win",
@@ -2861,7 +2861,7 @@
         "name": "fetter_bounty-10000469",
         "description": "fetter_bounty-20000469"
     },
-    "470": {
+    {
         "id": 470,
         "fetter_id": 4,
         "type": "win",
@@ -2870,7 +2870,7 @@
         "name": "fetter_bounty-10000470",
         "description": "fetter_bounty-20000470"
     },
-    "471": {
+    {
         "id": 471,
         "fetter_id": 4,
         "type": "win",
@@ -2879,7 +2879,7 @@
         "name": "fetter_bounty-10000471",
         "description": "fetter_bounty-20000471"
     },
-    "472": {
+    {
         "id": 472,
         "fetter_id": 4,
         "type": "collect_skin",
@@ -2888,7 +2888,7 @@
         "name": "fetter_bounty-10000472",
         "description": "fetter_bounty-20000472"
     },
-    "473": {
+    {
         "id": 473,
         "fetter_id": 4,
         "type": "collect_skin",
@@ -2897,7 +2897,7 @@
         "name": "fetter_bounty-10000473",
         "description": "fetter_bounty-20000473"
     },
-    "474": {
+    {
         "id": 474,
         "fetter_id": 4,
         "type": "collect_skin",
@@ -2906,7 +2906,7 @@
         "name": "fetter_bounty-10000474",
         "description": "fetter_bounty-20000474"
     },
-    "475": {
+    {
         "id": 475,
         "fetter_id": 4,
         "type": "collect_skin",
@@ -2915,7 +2915,7 @@
         "name": "fetter_bounty-10000475",
         "description": "fetter_bounty-20000475"
     },
-    "476": {
+    {
         "id": 476,
         "fetter_id": 4,
         "type": "collect_skin",
@@ -2924,7 +2924,7 @@
         "name": "fetter_bounty-10000476",
         "description": "fetter_bounty-20000476"
     },
-    "477": {
+    {
         "id": 477,
         "fetter_id": 4,
         "type": "collect_skin",
@@ -2933,7 +2933,7 @@
         "name": "fetter_bounty-10000477",
         "description": "fetter_bounty-20000477"
     },
-    "478": {
+    {
         "id": 478,
         "fetter_id": 4,
         "type": "collect_skin",
@@ -2942,7 +2942,7 @@
         "name": "fetter_bounty-10000478",
         "description": "fetter_bounty-20000478"
     },
-    "479": {
+    {
         "id": 479,
         "fetter_id": 4,
         "type": "collect_skin",
@@ -2951,7 +2951,7 @@
         "name": "fetter_bounty-10000479",
         "description": "fetter_bounty-20000479"
     },
-    "480": {
+    {
         "id": 480,
         "fetter_id": 4,
         "type": "collect_skin",
@@ -2960,7 +2960,7 @@
         "name": "fetter_bounty-10000480",
         "description": "fetter_bounty-20000480"
     },
-    "481": {
+    {
         "id": 481,
         "fetter_id": 4,
         "type": "collect_skin",
@@ -2969,7 +2969,7 @@
         "name": "fetter_bounty-10000481",
         "description": "fetter_bounty-20000481"
     },
-    "482": {
+    {
         "id": 482,
         "fetter_id": 4,
         "type": "collect_skin",
@@ -2978,7 +2978,7 @@
         "name": "fetter_bounty-10000482",
         "description": "fetter_bounty-20000482"
     },
-    "483": {
+    {
         "id": 483,
         "fetter_id": 4,
         "type": "collect_skin",
@@ -2987,7 +2987,7 @@
         "name": "fetter_bounty-10000483",
         "description": "fetter_bounty-20000483"
     },
-    "484": {
+    {
         "id": 484,
         "fetter_id": 4,
         "type": "collect_skin",
@@ -2996,7 +2996,7 @@
         "name": "fetter_bounty-10000484",
         "description": "fetter_bounty-20000484"
     },
-    "485": {
+    {
         "id": 485,
         "fetter_id": 4,
         "type": "collect_skin",
@@ -3005,4 +3005,4 @@
         "name": "fetter_bounty-10000485",
         "description": "fetter_bounty-20000485"
     }
-}
+]
