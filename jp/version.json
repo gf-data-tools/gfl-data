@@ -1,12 +1,12 @@
 {
-    "now": "1656051557",
+    "now": "1656062142",
     "tomorrow_zero": "1656082800",
     "month_zero": 1654009200,
     "next_month_zero": 1656601200,
     "timezone": "Asia/Tokyo",
-    "data_version": "b087ef0e3a05b42d7cde1a6ebbb41238",
+    "data_version": "24486ba486e7e5f604dc80671a41d6ed",
     "client_version": "20900",
-    "ab_version": "2022062319",
+    "ab_version": "2022062415",
     "is_kick": "0",
     "weekday": 5,
     "authentication_url": "http://realauth.ucenter.ppgame.com/authoriz.html?appid={0}&openid={1}&accounttype=1&language=zh"
