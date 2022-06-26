@@ -1,6 +1,6 @@
 {
-    "now": "1656151182",
-    "tomorrow_zero": "1656172800",
+    "now": "1656206033",
+    "tomorrow_zero": "1656259200",
     "month_zero": 1654012800,
     "next_month_zero": 1656604800,
     "timezone": "Asia/Shanghai",
@@ -8,6 +8,6 @@
     "client_version": "20900",
     "ab_version": "190110",
     "is_kick": "0",
-    "weekday": 6,
+    "weekday": 0,
     "authentication_url": "http://realauth.ucenter.ppgame.com/authoriz.html?appid={0}&openid={1}&accounttype=1&language=zh"
 }
