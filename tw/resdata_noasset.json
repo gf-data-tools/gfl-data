@@ -15,13 +15,13 @@
     "resHttpsUrl": "",
     "appUrl": "https://play.google.com/store/apps/details?id=tw.txwy.and.snqx",
     "compressDataSize": 0,
-    "originalDataSize": 2498158936,
+    "originalDataSize": 2501477308,
     "compressDataSizeHE": 0,
-    "originalDataSizeHE": 1860708664,
+    "originalDataSizeHE": 1864027036,
     "compressAddDataSize": 0,
-    "originalAddDataSize": 2770912847,
+    "originalAddDataSize": 2770277115,
     "compressAddDataSizeHE": 0,
-    "originalAddDataSizeHE": 2051603023,
+    "originalAddDataSizeHE": 2050967291,
     "compressJPVoiceDataSize": 0,
     "originalJPVoiceDataSize": 723707104,
     "compressCNVoiceDataSize": 0,
@@ -31,7 +31,7 @@
     "addDataFilesCount": 0,
     "addDataFilesCountHE": 0,
     "voiceFilesCount": 0,
-    "daBaoTime": "20220707_19_339E3F493E393E1D2A50F8B3A069B427C8",
+    "daBaoTime": "20220714_19_3162A95FB2C74ABF967C76845A917BA102",
     "unityVision": 2017,
     "hexie": 0,
     "AllDataFileName": "AllData",
@@ -5369,6 +5369,15 @@
             "sizeCompress": 1137634
         },
         {
+            "assetBundleName": "character_mk3a1_hd",
+            "resname": "015880aee8486e42893d999625ce8c6e941098charactermk3a1hd",
+            "hashString": "015880aee8486e42893d999625ce8c6e",
+            "fileHash": "",
+            "crc": 0,
+            "sizeOriginal": 941098,
+            "sizeCompress": 941098
+        },
+        {
             "assetBundleName": "character_mk46_hd",
             "resname": "96185d3d6a6a68425f26cc553c8f4d6f1085140charactermk46hd",
             "hashString": "96185d3d6a6a68425f26cc553c8f4d6f",
@@ -7367,6 +7376,15 @@
             "sizeCompress": 700489
         },
         {
+            "assetBundleName": "character_spas15_hd",
+            "resname": "6765fb37890a524088fb6c70a22d8611632555characterspas15hd",
+            "hashString": "6765fb37890a524088fb6c70a22d8611",
+            "fileHash": "",
+            "crc": 0,
+            "sizeOriginal": 632555,
+            "sizeCompress": 632555
+        },
+        {
             "assetBundleName": "character_spectrem4_hd",
             "resname": "0c38b5e069002e8eab17715378bf2c77841275characterspectrem4hd",
             "hashString": "0c38b5e069002e8eab17715378bf2c77",
@@ -8447,6 +8465,15 @@
             "sizeCompress": 473956
         },
         {
+            "assetBundleName": "character_uts15_hd",
+            "resname": "867a9c1b411ac30e3efd361ccfa25561641398characteruts15hd",
+            "hashString": "867a9c1b411ac30e3efd361ccfa25561",
+            "fileHash": "",
+            "crc": 0,
+            "sizeOriginal": 641398,
+            "sizeCompress": 641398
+        },
+        {
             "assetBundleName": "character_vector_hd",
             "resname": "d381ce5c3617d43e464b447de66be9c3889224charactervectorhd",
             "hashString": "d381ce5c3617d43e464b447de66be9c3",
@@ -9098,21 +9125,21 @@
         },
         {
             "assetBundleName": "resource_avglanguage",
-            "resname": "f19f30c890d65363849ff65a4344f00c343503resourceavglanguage",
-            "hashString": "f19f30c890d65363849ff65a4344f00c",
+            "resname": "d9cc6f84d87d277265e74632062ded1d344542resourceavglanguage",
+            "hashString": "d9cc6f84d87d277265e74632062ded1d",
             "fileHash": "",
             "crc": 0,
-            "sizeOriginal": 343503,
-            "sizeCompress": 343503
+            "sizeOriginal": 344542,
+            "sizeCompress": 344542
         },
         {
             "assetBundleName": "asset_particlesmaterials",
-            "resname": "375b202059bdd951776a1c30a71c0da219756843assetparticlesmaterials",
-            "hashString": "375b202059bdd951776a1c30a71c0da2",
+            "resname": "1ab8d468adcb2a7d7de9c6002bd31c2519991518assetparticlesmaterials",
+            "hashString": "1ab8d468adcb2a7d7de9c6002bd31c25",
             "fileHash": "",
             "crc": 0,
-            "sizeOriginal": 19756843,
-            "sizeCompress": 19756843
+            "sizeOriginal": 19991518,
+            "sizeCompress": 19991518
         },
         {
             "assetBundleName": "atlasclips_avg",
@@ -11879,12 +11906,12 @@
         },
         {
             "assetBundleName": "resource_avgpicprefabs_m",
-            "resname": "6ab74d1b0073f05c781a1f85a61b776b8479264resourceavgpicprefabsm",
-            "hashString": "6ab74d1b0073f05c781a1f85a61b776b",
+            "resname": "ab8b751e8f4e73468b669315e357f4e38473934resourceavgpicprefabsm",
+            "hashString": "ab8b751e8f4e73468b669315e357f4e3",
             "fileHash": "",
             "crc": 0,
-            "sizeOriginal": 8479264,
-            "sizeCompress": 8479264
+            "sizeOriginal": 8473934,
+            "sizeCompress": 8473934
         },
         {
             "assetBundleName": "character_m1_nom",
@@ -13454,8 +13481,8 @@
         },
         {
             "assetBundleName": "resource_avgpicprefabs_p",
-            "resname": "dddc89251655a80d18a86125deac4dba3130094resourceavgpicprefabsp",
-            "hashString": "dddc89251655a80d18a86125deac4dba",
+            "resname": "8e5b745ce7ce0f5e4d16bf12880adc513130094resourceavgpicprefabsp",
+            "hashString": "8e5b745ce7ce0f5e4d16bf12880adc51",
             "fileHash": "",
             "crc": 0,
             "sizeOriginal": 3130094,
@@ -13949,12 +13976,12 @@
         },
         {
             "assetBundleName": "resource_avgpicprefabs_r",
-            "resname": "bebb255bed6480ac2ca793854b62ca4d1211455resourceavgpicprefabsr",
-            "hashString": "bebb255bed6480ac2ca793854b62ca4d",
+            "resname": "c2c05f962e0c01cf0ec60d283728548c1211445resourceavgpicprefabsr",
+            "hashString": "c2c05f962e0c01cf0ec60d283728548c",
             "fileHash": "",
             "crc": 0,
-            "sizeOriginal": 1211455,
-            "sizeCompress": 1211455
+            "sizeOriginal": 1211445,
+            "sizeCompress": 1211445
         },
         {
             "assetBundleName": "character_r93",
@@ -15308,21 +15335,21 @@
         },
         {
             "assetBundleName": "asset_particlese",
-            "resname": "cfec49fc73053411ee96abbe5baa058e34924955assetparticlese",
-            "hashString": "cfec49fc73053411ee96abbe5baa058e",
+            "resname": "baf20a5518ad58fb171d73cf4e1af42335183719assetparticlese",
+            "hashString": "baf20a5518ad58fb171d73cf4e1af423",
             "fileHash": "",
             "crc": 0,
-            "sizeOriginal": 34924955,
-            "sizeCompress": 34924955
+            "sizeOriginal": 35183719,
+            "sizeCompress": 35183719
         },
         {
             "assetBundleName": "asset_animation",
-            "resname": "8fd8e57fdb0c01c6d1aceeb75d1d04f6172000assetanimation",
-            "hashString": "8fd8e57fdb0c01c6d1aceeb75d1d04f6",
+            "resname": "b58e926cc9c9b9336984e34e6fa64822172291assetanimation",
+            "hashString": "b58e926cc9c9b9336984e34e6fa64822",
             "fileHash": "",
             "crc": 0,
-            "sizeOriginal": 172000,
-            "sizeCompress": 172000
+            "sizeOriginal": 172291,
+            "sizeCompress": 172291
         },
         {
             "assetBundleName": "asset_materials",
@@ -15380,12 +15407,12 @@
         },
         {
             "assetBundleName": "resource_prefab",
-            "resname": "007263c3ad2033586ee1572d43a2a4dc231171resourceprefab",
-            "hashString": "007263c3ad2033586ee1572d43a2a4dc",
+            "resname": "0453c0c97894b97988bd428dc217264f231839resourceprefab",
+            "hashString": "0453c0c97894b97988bd428dc217264f",
             "fileHash": "",
             "crc": 0,
-            "sizeOriginal": 231171,
-            "sizeCompress": 231171
+            "sizeOriginal": 231839,
+            "sizeCompress": 231839
         },
         {
             "assetBundleName": "sprites_21summerminigame117",
@@ -15812,12 +15839,12 @@
         },
         {
             "assetBundleName": "resource_effect",
-            "resname": "299b27c83acd900c56fc920f7ddf9f8a43367506resourceeffect",
-            "hashString": "299b27c83acd900c56fc920f7ddf9f8a",
+            "resname": "6e1a3e0fe23a24e00e277724bc4f793c43356966resourceeffect",
+            "hashString": "6e1a3e0fe23a24e00e277724bc4f793c",
             "fileHash": "",
             "crc": 0,
-            "sizeOriginal": 43367506,
-            "sizeCompress": 43367506
+            "sizeOriginal": 43356966,
+            "sizeCompress": 38455592
         },
         {
             "assetBundleName": "asset_particlesmeshs",
@@ -16172,12 +16199,12 @@
         },
         {
             "assetBundleName": "asset_assetother",
-            "resname": "07f7925199a49dcf7812859d91992788198855assetassetother",
-            "hashString": "07f7925199a49dcf7812859d91992788",
+            "resname": "f0c7414c8f2fabf46364756b92978850199044assetassetother",
+            "hashString": "f0c7414c8f2fabf46364756b92978850",
             "fileHash": "",
             "crc": 0,
-            "sizeOriginal": 198855,
-            "sizeCompress": 198855
+            "sizeOriginal": 199044,
+            "sizeCompress": 162997
         },
         {
             "assetBundleName": "asset_particleselefeldt3 boss skill",
@@ -16568,12 +16595,12 @@
         },
         {
             "assetBundleName": "resource_icon_item",
-            "resname": "299ca749f47b78a2e3682831ce7e07d819345487resourceiconitem",
-            "hashString": "299ca749f47b78a2e3682831ce7e07d8",
+            "resname": "35c1aa049265e0e902f209c5a120a44819347869resourceiconitem",
+            "hashString": "35c1aa049265e0e902f209c5a120a448",
             "fileHash": "",
             "crc": 0,
-            "sizeOriginal": 19345487,
-            "sizeCompress": 19345487
+            "sizeOriginal": 19347869,
+            "sizeCompress": 19347869
         },
         {
             "assetBundleName": "sprites_activemap_activity5",
@@ -16820,12 +16847,12 @@
         },
         {
             "assetBundleName": "resource_pic_5",
-            "resname": "6249a8642be89934319a1778eaa8ba424251377resourcepic5",
-            "hashString": "6249a8642be89934319a1778eaa8ba42",
+            "resname": "b25443d73c0cb67d6a84194356215f984355412resourcepic5",
+            "hashString": "b25443d73c0cb67d6a84194356215f98",
             "fileHash": "",
             "crc": 0,
-            "sizeOriginal": 4251377,
-            "sizeCompress": 4251377
+            "sizeOriginal": 4355412,
+            "sizeCompress": 4355412
         },
         {
             "assetBundleName": "resource_pic_8",
@@ -16856,12 +16883,12 @@
         },
         {
             "assetBundleName": "resource_pic_6",
-            "resname": "a2ffdaffe879304742b5bc727f49aae03694573resourcepic6",
-            "hashString": "a2ffdaffe879304742b5bc727f49aae0",
+            "resname": "3040350323291b2b9210f4e94eb715b63731566resourcepic6",
+            "hashString": "3040350323291b2b9210f4e94eb715b6",
             "fileHash": "",
             "crc": 0,
-            "sizeOriginal": 3694573,
-            "sizeCompress": 3694573
+            "sizeOriginal": 3731566,
+            "sizeCompress": 3731566
         },
         {
             "assetBundleName": "resource_pic_4",
@@ -17791,6 +17818,15 @@
             "sizeCompress": 52750
         },
         {
+            "assetBundleName": "character_mk3a1",
+            "resname": "8ba56fd481fcc5cd6559a06a48d593bd657969charactermk3a1",
+            "hashString": "8ba56fd481fcc5cd6559a06a48d593bd",
+            "fileHash": "",
+            "crc": 0,
+            "sizeOriginal": 657969,
+            "sizeCompress": 657969
+        },
+        {
             "assetBundleName": "character_mobster",
             "resname": "8326d3f1f94abfe97c2d909f75ba80e8153931charactermobster",
             "hashString": "8326d3f1f94abfe97c2d909f75ba80e8",
@@ -18322,6 +18358,15 @@
             "sizeCompress": 193553
         },
         {
+            "assetBundleName": "character_spas15",
+            "resname": "5be66f8fbd795dbb4d20137d64403e26477748characterspas15",
+            "hashString": "5be66f8fbd795dbb4d20137d64403e26",
+            "fileHash": "",
+            "crc": 0,
+            "sizeOriginal": 477748,
+            "sizeCompress": 477748
+        },
+        {
             "assetBundleName": "character_strelet",
             "resname": "79504c6b7373c7d204aeb74155c82811202118characterstrelet",
             "hashString": "79504c6b7373c7d204aeb74155c82811",
@@ -18455,6 +18500,15 @@
             "crc": 0,
             "sizeOriginal": 43193,
             "sizeCompress": 43193
+        },
+        {
+            "assetBundleName": "character_uts15",
+            "resname": "d5d4c8c557d9559a4964f8e650795507510340characteruts15",
+            "hashString": "d5d4c8c557d9559a4964f8e650795507",
+            "fileHash": "",
+            "crc": 0,
+            "sizeOriginal": 510340,
+            "sizeCompress": 510340
         },
         {
             "assetBundleName": "character_vespid",
@@ -18692,12 +18746,12 @@
         },
         {
             "assetBundleName": "sprites_ui",
-            "resname": "c57ee56b9549ae7426bc0ef19a6240758577106spritesui",
-            "hashString": "c57ee56b9549ae7426bc0ef19a624075",
+            "resname": "299f21d5d953c94cea58c98f5427cae98588381spritesui",
+            "hashString": "299f21d5d953c94cea58c98f5427cae9",
             "fileHash": "",
             "crc": 0,
-            "sizeOriginal": 8577106,
-            "sizeCompress": 8577106
+            "sizeOriginal": 8588381,
+            "sizeCompress": 8588381
         },
         {
             "assetBundleName": "resource_icon_minigame",
@@ -18827,12 +18881,12 @@
         },
         {
             "assetBundleName": "resource_spine",
-            "resname": "e2ee43f35ef48005ab92f5f7b6f5ff30707728resourcespine",
-            "hashString": "e2ee43f35ef48005ab92f5f7b6f5ff30",
+            "resname": "b8df133615b7b1f2a9b70ad7502fbbe0710243resourcespine",
+            "hashString": "b8df133615b7b1f2a9b70ad7502fbbe0",
             "fileHash": "",
             "crc": 0,
-            "sizeOriginal": 707728,
-            "sizeCompress": 707728
+            "sizeOriginal": 710243,
+            "sizeCompress": 652278
         },
         {
             "assetBundleName": "character_06typesmg_spine",
@@ -22822,6 +22876,15 @@
             "sizeCompress": 141565
         },
         {
+            "assetBundleName": "character_machine_mk3a1_spine",
+            "resname": "ddcfc875b7bc59685ad92c7c7ea6728472213charactermachinemk3a1spine",
+            "hashString": "ddcfc875b7bc59685ad92c7c7ea67284",
+            "fileHash": "",
+            "crc": 0,
+            "sizeOriginal": 72213,
+            "sizeCompress": 72213
+        },
+        {
             "assetBundleName": "character_mag7_spine",
             "resname": "489828d0a102674c1f7573bab68ee524331281charactermag7spine",
             "hashString": "489828d0a102674c1f7573bab68ee524",
@@ -23072,6 +23135,15 @@
             "crc": 0,
             "sizeOriginal": 234261,
             "sizeCompress": 206106
+        },
+        {
+            "assetBundleName": "character_mk3a1_spine",
+            "resname": "358ff1b1b32fc39efea4eeada57c94de204645charactermk3a1spine",
+            "hashString": "358ff1b1b32fc39efea4eeada57c94de",
+            "fileHash": "",
+            "crc": 0,
+            "sizeOriginal": 204645,
+            "sizeCompress": 204645
         },
         {
             "assetBundleName": "character_mk46_spine",
@@ -24748,6 +24820,15 @@
             "sizeCompress": 159818
         },
         {
+            "assetBundleName": "character_spas15_spine",
+            "resname": "68aa69003682d29ea084e1fefd70fa53275750characterspas15spine",
+            "hashString": "68aa69003682d29ea084e1fefd70fa53",
+            "fileHash": "",
+            "crc": 0,
+            "sizeOriginal": 275750,
+            "sizeCompress": 275750
+        },
+        {
             "assetBundleName": "character_spectrem4_spine",
             "resname": "a7e39ed4a6050280f756970362e2ad40207662characterspectrem4spine",
             "hashString": "a7e39ed4a6050280f756970362e2ad40",
@@ -25223,6 +25304,15 @@
             "crc": 0,
             "sizeOriginal": 264462,
             "sizeCompress": 222528
+        },
+        {
+            "assetBundleName": "character_uts15_spine",
+            "resname": "d756e02199a24b3088bd911c7ac0a5ae397712characteruts15spine",
+            "hashString": "d756e02199a24b3088bd911c7ac0a5ae",
+            "fileHash": "",
+            "crc": 0,
+            "sizeOriginal": 397712,
+            "sizeCompress": 397712
         },
         {
             "assetBundleName": "character_vector_spine",
@@ -28160,8 +28250,8 @@
         },
         {
             "assetBundleName": "asset_textavg",
-            "resname": "d4626d6ec7edb785b68a6a6e0e6a38845406374assettextavg",
-            "hashString": "d4626d6ec7edb785b68a6a6e0e6a3884",
+            "resname": "ec63eb64b329cb0180b6e77b505f41f35406374assettextavg",
+            "hashString": "ec63eb64b329cb0180b6e77b505f41f3",
             "fileHash": "",
             "crc": 0,
             "sizeOriginal": 5406374,
@@ -28169,21 +28259,21 @@
         },
         {
             "assetBundleName": "asset_textes",
-            "resname": "316a9d9406fc67d2b424d36acbf2d34c1812902assettextes",
-            "hashString": "316a9d9406fc67d2b424d36acbf2d34c",
+            "resname": "b70615b540c0e5fe7374584a9b9742ab1819413assettextes",
+            "hashString": "b70615b540c0e5fe7374584a9b9742ab",
             "fileHash": "",
             "crc": 0,
-            "sizeOriginal": 1812902,
-            "sizeCompress": 1812902
+            "sizeOriginal": 1819413,
+            "sizeCompress": 1819413
         },
         {
             "assetBundleName": "asset_texttable",
-            "resname": "47c4c64715df64f704fbedf5b0d0a7681884113assettexttable",
-            "hashString": "47c4c64715df64f704fbedf5b0d0a768",
+            "resname": "12b5feb5d8bc766c7e7d91007d343d631887731assettexttable",
+            "hashString": "12b5feb5d8bc766c7e7d91007d343d63",
             "fileHash": "",
             "crc": 0,
-            "sizeOriginal": 1884113,
-            "sizeCompress": 1357475
+            "sizeOriginal": 1887731,
+            "sizeCompress": 1887731
         },
         {
             "assetBundleName": "resource_atlasclips2060",
@@ -33839,12 +33929,12 @@
         },
         {
             "assetBundleName": "resource_wishgunbg",
-            "resname": "03e27a808947c6d6c0d9414e21be0a422709255resourcewishgunbg",
-            "hashString": "03e27a808947c6d6c0d9414e21be0a42",
+            "resname": "f1c9d288a5a70424f5585a9fcff009782784175resourcewishgunbg",
+            "hashString": "f1c9d288a5a70424f5585a9fcff00978",
             "fileHash": "",
             "crc": 0,
-            "sizeOriginal": 2709255,
-            "sizeCompress": 2709255
+            "sizeOriginal": 2784175,
+            "sizeCompress": 2609625
         },
         {
             "assetBundleName": "resource_icon_griffinmanual",
@@ -35892,13 +35982,13 @@
             "sizeCompress": 641841
         },
         {
-            "assetBundleName": "character_psg1_3808_he",
-            "resname": "8bed2d60429592a15bc720c94bd299f3401049characterpsg13808he",
-            "hashString": "8bed2d60429592a15bc720c94bd299f3",
+            "assetBundleName": "character_mg3_1304_he",
+            "resname": "17e0eefe6ecb11e8fc5663412f9dfb48473874charactermg31304he",
+            "hashString": "17e0eefe6ecb11e8fc5663412f9dfb48",
             "fileHash": "",
             "crc": 0,
-            "sizeOriginal": 401049,
-            "sizeCompress": 377684
+            "sizeOriginal": 473874,
+            "sizeCompress": 473874
         },
         {
             "assetBundleName": "character_mg5_309",
@@ -36376,6 +36466,15 @@
             "crc": 0,
             "sizeOriginal": 402040,
             "sizeCompress": 378369
+        },
+        {
+            "assetBundleName": "character_psg1_3808_he",
+            "resname": "8bed2d60429592a15bc720c94bd299f3401049characterpsg13808he",
+            "hashString": "8bed2d60429592a15bc720c94bd299f3",
+            "fileHash": "",
+            "crc": 0,
+            "sizeOriginal": 401049,
+            "sizeCompress": 377684
         },
         {
             "assetBundleName": "character_px4storm_2801",
@@ -38728,12 +38827,12 @@
         },
         {
             "assetBundleName": "resource_pic_8_add",
-            "resname": "a3257bd89d8c150bd3334a0b14609e006628907resourcepic8add",
-            "hashString": "a3257bd89d8c150bd3334a0b14609e00",
+            "resname": "116a60767bf2615639e6135a584639e26320878resourcepic8add",
+            "hashString": "116a60767bf2615639e6135a584639e2",
             "fileHash": "",
             "crc": 0,
-            "sizeOriginal": 6628907,
-            "sizeCompress": 6628907
+            "sizeOriginal": 6320878,
+            "sizeCompress": 6320878
         },
         {
             "assetBundleName": "character_357_4708_he",
@@ -38746,12 +38845,12 @@
         },
         {
             "assetBundleName": "resource_pic_10_add",
-            "resname": "2f8e6583409882e8c4a43b6a487aa9f65888940resourcepic10add",
-            "hashString": "2f8e6583409882e8c4a43b6a487aa9f6",
+            "resname": "5802640355daaf8dd407be869e5ba5515730448resourcepic10add",
+            "hashString": "5802640355daaf8dd407be869e5ba551",
             "fileHash": "",
             "crc": 0,
-            "sizeOriginal": 5888940,
-            "sizeCompress": 5888940
+            "sizeOriginal": 5730448,
+            "sizeCompress": 5730448
         },
         {
             "assetBundleName": "character_4type_4103",
@@ -38791,12 +38890,12 @@
         },
         {
             "assetBundleName": "resource_pic_12_add",
-            "resname": "4de7859e1f277bea4c10cc0424b0bf1e1945345resourcepic12add",
-            "hashString": "4de7859e1f277bea4c10cc0424b0bf1e",
+            "resname": "014f02d54914cc1c40e950b213d0d3f51944969resourcepic12add",
+            "hashString": "014f02d54914cc1c40e950b213d0d3f5",
             "fileHash": "",
             "crc": 0,
-            "sizeOriginal": 1945345,
-            "sizeCompress": 1945345
+            "sizeOriginal": 1944969,
+            "sizeCompress": 1944969
         },
         {
             "assetBundleName": "character_56typer_5508",
@@ -38827,12 +38926,12 @@
         },
         {
             "assetBundleName": "resource_pic_11_add",
-            "resname": "a096dfb280d1bfdaaf2e1d7d4dfce8993798994resourcepic11add",
-            "hashString": "a096dfb280d1bfdaaf2e1d7d4dfce899",
+            "resname": "d8991428a08f3c0ec3f008869d6fe3233738794resourcepic11add",
+            "hashString": "d8991428a08f3c0ec3f008869d6fe323",
             "fileHash": "",
             "crc": 0,
-            "sizeOriginal": 3798994,
-            "sizeCompress": 3798994
+            "sizeOriginal": 3738794,
+            "sizeCompress": 3738794
         },
         {
             "assetBundleName": "character_64type_104",
@@ -38845,12 +38944,12 @@
         },
         {
             "assetBundleName": "resource_pic_9_add",
-            "resname": "d675bbfc9a1492f895c1f24f9ae466d77662595resourcepic9add",
-            "hashString": "d675bbfc9a1492f895c1f24f9ae466d7",
+            "resname": "0e4aac30c16cd56a38a9a4e5e081de7d7553960resourcepic9add",
+            "hashString": "0e4aac30c16cd56a38a9a4e5e081de7d",
             "fileHash": "",
             "crc": 0,
-            "sizeOriginal": 7662595,
-            "sizeCompress": 7662595
+            "sizeOriginal": 7553960,
+            "sizeCompress": 7553960
         },
         {
             "assetBundleName": "character_64type_5608",
@@ -39537,15 +39636,6 @@
             "sizeCompress": 531017
         },
         {
-            "assetBundleName": "character_dp12_6102_nom",
-            "resname": "495b72e1e7f16b9bb4e18ef0a1abb1c0432956characterdp126102nom",
-            "hashString": "495b72e1e7f16b9bb4e18ef0a1abb1c0",
-            "fileHash": "",
-            "crc": 0,
-            "sizeOriginal": 432956,
-            "sizeCompress": 404356
-        },
-        {
             "assetBundleName": "character_dp12_6102_he",
             "resname": "de114022ffed22b01fc5cb1e5d2424cf432664characterdp126102he",
             "hashString": "de114022ffed22b01fc5cb1e5d2424cf",
@@ -39553,6 +39643,15 @@
             "crc": 0,
             "sizeOriginal": 432664,
             "sizeCompress": 404557
+        },
+        {
+            "assetBundleName": "character_dp12_6102_nom",
+            "resname": "495b72e1e7f16b9bb4e18ef0a1abb1c0432956characterdp126102nom",
+            "hashString": "495b72e1e7f16b9bb4e18ef0a1abb1c0",
+            "fileHash": "",
+            "crc": 0,
+            "sizeOriginal": 432956,
+            "sizeCompress": 404356
         },
         {
             "assetBundleName": "character_em2_5706",
@@ -40113,15 +40212,6 @@
             "sizeCompress": 467243
         },
         {
-            "assetBundleName": "character_kac_4706_nom",
-            "resname": "58656505cf8602c71710066aa1aa7807713083characterkac4706nom",
-            "hashString": "58656505cf8602c71710066aa1aa7807",
-            "fileHash": "",
-            "crc": 0,
-            "sizeOriginal": 713083,
-            "sizeCompress": 676102
-        },
-        {
             "assetBundleName": "character_kac_4706_he",
             "resname": "62c7c03dd1e00208b19f45be7cda5d76711623characterkac4706he",
             "hashString": "62c7c03dd1e00208b19f45be7cda5d76",
@@ -40129,6 +40219,15 @@
             "crc": 0,
             "sizeOriginal": 711623,
             "sizeCompress": 674885
+        },
+        {
+            "assetBundleName": "character_kac_4706_nom",
+            "resname": "58656505cf8602c71710066aa1aa7807713083characterkac4706nom",
+            "hashString": "58656505cf8602c71710066aa1aa7807",
+            "fileHash": "",
+            "crc": 0,
+            "sizeOriginal": 713083,
+            "sizeCompress": 676102
         },
         {
             "assetBundleName": "character_kac_6404_nom",
@@ -40588,15 +40687,6 @@
             "crc": 0,
             "sizeOriginal": 664748,
             "sizeCompress": 627503
-        },
-        {
-            "assetBundleName": "character_mg3_1304_he",
-            "resname": "17e0eefe6ecb11e8fc5663412f9dfb48473874charactermg31304he",
-            "hashString": "17e0eefe6ecb11e8fc5663412f9dfb48",
-            "fileHash": "",
-            "crc": 0,
-            "sizeOriginal": 473874,
-            "sizeCompress": 473874
         },
         {
             "assetBundleName": "character_mg3_4105",
